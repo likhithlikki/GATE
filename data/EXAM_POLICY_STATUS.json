@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "snapshot_type": "informational_public_status_only",
+  "project": "GATE Prep Studio",
+  "updated_on": "2026-10-28",
+  "spec_status": "draft_unapproved",
+  "owner_approval_reference": null,
+  "warning": "This public status file is informational. It cannot authorize scoring, exam attempts, or answer review. Runtime gates in app.js and the private server policy gates remain authoritative and default off.",
+  "gates": {
+    "marking_rules_confirmed": false,
+    "exam_policy_approved": false,
+    "scoring_backend_ready": false,
+    "exam_engine_available": false,
+    "attempt_policy_enforced": false,
+    "answer_review_approved": false
+  },
+  "profiles": {
+    "2026": {
+      "source_status": "source_verified_reference_only",
+      "operational_status": "blocked",
+      "scoring_enabled": false,
+      "online_attempts_enabled": false,
+      "known_sources": [
+        "https://gate2026.iitg.ac.in/question-paper-pattern.html",
+        "https://gate2026.iitg.ac.in/QPs-answer-keys.html"
+      ],
+      "open_decisions": ["D-06", "D-07", "D-11", "D-12", "D-13", "D-17", "D-18", "D-20", "D-23", "AK-01", "AK-02", "AK-03", "AK-04", "AK-05", "AK-06", "AK-07", "AK-08", "AK-09", "AK-10", "AK-11", "AK-12", "AK-13", "AK-14", "AK-15", "AK-16", "AK-17", "AK-18"],
+      "notes": [
+        "Unanswered=0 remains an implementation interpretation, not an official statement in the sources reviewed.",
+        "NAT range-boundary inclusivity and numeric syntax/rounding are unresolved.",
+        "No answer keys, accepted NAT ranges, explanations, or per-question correctness data are present in this public status file."
+      ]
+    },
+    "all_other_years": {
+      "source_status": "unverified",
+      "operational_status": "blocked",
+      "scoring_enabled": false,
+      "online_attempts_enabled": false
+    }
+  }
+}
