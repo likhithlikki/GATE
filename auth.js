@@ -20,7 +20,7 @@
   'use strict';
 
   /* OWNER ACTION: replace with the private auth web app URL (Apps Script > Deploy > Manage deployments, ends in /exec). */
-  var AUTH_ENDPOINT_URL = 'REPLACE_WITH_PRIVATE_AUTH_WEB_APP_URL';
+  var AUTH_ENDPOINT_URL = 'https://script.google.com/macros/s/AKfycbyeo-R6JBjmR3g7JqIKrVvvfIMg5SDs09AhDuhA5COOnUhcGCpbyp_vjOAlOSN6ULA/exec';
   var ENDPOINT_RE = /^https:\/\/script\.google\.com\/macros\/s\/[A-Za-z0-9_\-]{10,200}\/exec$/;
   var TIMEOUT_MS = 25000;
   var STORE_KEY = 'gps.session.v1';
