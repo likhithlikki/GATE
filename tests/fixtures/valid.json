@@ -1,0 +1,252 @@
+{
+ "schema_version": 1,
+ "placeholder": true,
+ "questions": [
+  {
+   "id": "q01",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION q01",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "q02",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MSQ",
+   "marks": 2,
+   "text": "SYNTHETIC TEST QUESTION q02",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "q03",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-2",
+   "type": "NAT",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION q03",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   }
+  },
+  {
+   "id": "q04",
+   "branch": "SYN-BRANCH-1",
+   "year": 2021,
+   "subject": "Subj-X",
+   "topic": "Topic-2",
+   "type": "MCQ",
+   "marks": 2,
+   "text": "SYNTHETIC TEST QUESTION q04",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "q05",
+   "branch": "SYN-BRANCH-1",
+   "year": 2021,
+   "subject": "Subj-Y",
+   "topic": "Topic-3",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION q05",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "q06",
+   "branch": "SYN-BRANCH-1",
+   "year": 2021,
+   "subject": "Subj-Y",
+   "topic": "Topic-3",
+   "type": "NAT",
+   "marks": 2,
+   "text": "SYNTHETIC TEST QUESTION q06",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   }
+  },
+  {
+   "id": "q07",
+   "branch": "SYN-BRANCH-2",
+   "year": 2020,
+   "subject": "Subj-Y",
+   "topic": "Topic-3",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION q07",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "q08",
+   "branch": "SYN-BRANCH-2",
+   "year": 2019,
+   "subject": "Subj-Z",
+   "topic": "Topic-4",
+   "type": "MSQ",
+   "marks": 2,
+   "text": "SYNTHETIC TEST QUESTION q08",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "q09",
+   "branch": "SYN-BRANCH-2",
+   "year": 2019,
+   "subject": "Subj-Z",
+   "topic": "Topic-4",
+   "type": "NAT",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION q09",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   }
+  },
+  {
+   "id": "q10",
+   "branch": "SYN-BRANCH-2",
+   "year": 2019,
+   "subject": "Subj-Z",
+   "topic": "Topic-5",
+   "type": "MCQ",
+   "marks": 2,
+   "text": "SYNTHETIC TEST QUESTION q10",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "q11",
+   "branch": "SYN-BRANCH-2",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION q11",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "q12",
+   "branch": "SYN-BRANCH-2",
+   "year": 2021,
+   "subject": "Subj-Z",
+   "topic": "Topic-5",
+   "type": "MSQ",
+   "marks": 2,
+   "text": "SYNTHETIC TEST QUESTION q12",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  }
+ ]
+}

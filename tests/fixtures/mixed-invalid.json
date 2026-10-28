@@ -1,0 +1,210 @@
+{
+ "schema_version": 1,
+ "questions": [
+  {
+   "id": "m01",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION m01",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "m02",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "NAT",
+   "marks": 2,
+   "text": "SYNTHETIC TEST QUESTION m02",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   }
+  },
+  {
+   "id": "m01",
+   "branch": "SYN-BRANCH-1",
+   "year": 2021,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION m01",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "m04",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "XYZ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION m04",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   }
+  },
+  {
+   "id": "m05",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 1.5,
+   "text": "SYNTHETIC TEST QUESTION m05",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "m06",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION m06",
+   "source": {},
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "m07",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION m07",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "only one"
+    }
+   ]
+  },
+  "not an object",
+  {
+   "id": "m09",
+   "branch": "SYN-BRANCH-1",
+   "year": "2020",
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION m09",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "m10",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 0,
+   "text": "SYNTHETIC TEST QUESTION m10",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  },
+  {
+   "id": "m11",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MSQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION m11",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "a"
+    },
+    {
+     "id": "A",
+     "text": "b"
+    }
+   ]
+  }
+ ]
+}

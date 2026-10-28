@@ -1,0 +1,14 @@
+# Private source question dataset and generated reports: never publish these.
+# Note: .gitignore does not untrack files already tracked by Git.
+data/questions-staging-v1.json
+data/PUBLICATION_GATE.json
+data/.build-release-output.json
+output/website-all-questions-staging.json
+reports/private/
+private-release/
+
+# Local/build artefacts
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

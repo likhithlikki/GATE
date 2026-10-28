@@ -1,0 +1,12 @@
+{
+  "name": "gate-prep-studio-tests",
+  "private": true,
+  "description": "Tests for the static front end. Fixtures in ./fixtures are synthetic and are never loaded by the site. test:browser needs Playwright with Chromium (not installed by npm install).",
+  "scripts": {
+    "test": "node unit.test.js && node exam.unit.test.js && node manifest.loader.test.js && node auth.lifecycle.test.js && node dom.test.js && python3 linkcheck.py ..",
+    "test:browser": "node exam.browser.test.js"
+  },
+  "devDependencies": {
+    "jsdom": "^26.0.0"
+  }
+}

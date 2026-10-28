@@ -1,0 +1,53 @@
+{
+ "schema_version": 1,
+ "questions": [
+  {
+   "id": "k01",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION k01",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ],
+   "answer_key": "A",
+   "explanation": "SYNTHETIC SECRET EXPLANATION"
+  },
+  {
+   "id": "k02",
+   "branch": "SYN-BRANCH-1",
+   "year": 2020,
+   "subject": "Subj-X",
+   "topic": "Topic-1",
+   "type": "MCQ",
+   "marks": 1,
+   "text": "SYNTHETIC TEST QUESTION k02",
+   "source": {
+    "name": "SYNTHETIC TEST FIXTURE"
+   },
+   "options": [
+    {
+     "id": "A",
+     "text": "synthetic a"
+    },
+    {
+     "id": "B",
+     "text": "synthetic b"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GATE Prep Studio: practice tests and mock exams</title>
+  <meta name="description" content="Prepare for GATE with year-wise papers, subject and topic practice, custom tests and full-length mock exams in a timed exam window.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f4e9c'/%3E%3Cpath d='M9 17l5 5 9-12' fill='none' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html" aria-label="GATE Prep Studio home">
+        <span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio
+      </a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle">
+      <label for="nav-toggle" class="nav-toggle-label">Menu</label>
+      <nav class="site-nav" aria-label="Main">
+        <ul class="nav-links">
+          <li><a href="practice.html">Practice</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+          <li><a href="dashboard.html">Dashboard</a></li>
+          <li><a href="help.html">Help</a></li>
+        </ul>
+        <div class="nav-actions">
+          <a class="btn btn-quiet" href="login.html">Log in</a>
+          <a class="btn btn-primary" href="register.html">Register</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <h1>Practise GATE the way you will sit it.</h1>
+          <p class="lead">Past papers, subject and topic practice, custom tests and full-length mocks, all in a timed exam window modelled on the real computer-based test.</p>
+          <div class="cta-row">
+            <a class="btn btn-primary btn-lg" href="register.html">Create a free account</a>
+            <a class="btn btn-outline btn-lg" href="practice.html">Browse practice</a>
+          </div>
+          <p class="fine">Already registered? <a href="login.html">Log in</a></p>
+        </div>
+
+        <aside class="palette-demo" aria-label="Example of the question palette">
+          <div class="palette-head">
+            <span>Question palette</span>
+            <span class="palette-time" aria-hidden="true">Time left</span>
+          </div>
+          <div class="palette-grid" aria-hidden="true">
+            <span class="q a">1</span><span class="q a">2</span><span class="q a">3</span><span class="q r">4</span><span class="q a">5</span>
+            <span class="q a">6</span><span class="q u">7</span><span class="q a">8</span><span class="q a">9</span><span class="q r">10</span>
+            <span class="q a">11</span><span class="q a">12</span><span class="q u">13</span><span class="q u">14</span><span class="q a">15</span>
+            <span class="q n">16</span><span class="q n">17</span><span class="q n">18</span><span class="q n">19</span><span class="q n">20</span>
+            <span class="q n">21</span><span class="q n">22</span><span class="q n">23</span><span class="q n">24</span><span class="q n">25</span>
+          </div>
+          <ul class="legend">
+            <li><span class="q a" aria-hidden="true"></span>Answered</li>
+            <li><span class="q u" aria-hidden="true"></span>Not answered</li>
+            <li><span class="q r" aria-hidden="true"></span>Marked for review</li>
+            <li><span class="q n" aria-hidden="true"></span>Not visited</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section" id="practice">
+      <div class="wrap">
+        <h2>Choose how to practise</h2>
+        <p class="section-intro">Every mode covers MCQ, MSQ and NAT questions, and every test is built from the questions available for your selection.</p>
+        <ul class="mode-list">
+          <li>
+            <div><h3>Year-wise papers</h3><p>Attempt a past GATE paper for a branch and year.</p></div>
+            <a class="btn btn-outline" href="practice.html?mode=year">Open year-wise</a>
+          </li>
+          <li>
+            <div><h3>Subject-wise tests</h3><p>Test one subject across the years.</p></div>
+            <a class="btn btn-outline" href="practice.html?mode=subject">Open subject-wise</a>
+          </li>
+          <li>
+            <div><h3>Topic-wise practice</h3><p>Drill a single topic until it is solid.</p></div>
+            <a class="btn btn-outline" href="practice.html?mode=topic">Open topic-wise</a>
+          </li>
+          <li>
+            <div><h3>Custom tests</h3><p>Filter by branch, year, subject, topic and question type, then pick how many questions you want.</p></div>
+            <a class="btn btn-outline" href="practice.html?mode=custom">Build a custom test</a>
+          </li>
+          <li>
+            <div><h3>Full-length mock exams</h3><p>A complete paper under exam conditions.</p></div>
+            <a class="btn btn-primary" href="practice.html?mode=full">Start a mock exam</a>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section section-tint" id="how-it-works">
+      <div class="wrap split">
+        <div>
+          <h2>See the full test before you start</h2>
+          <p class="section-intro">You never set the timer yourself. It follows from the marks in your test.</p>
+          <p class="formula">Duration = total marks ÷ 65 × 180 minutes</p>
+          <p>A 65-mark test gets 180 minutes. Other totals are scaled and rounded to the nearest second.</p>
+        </div>
+        <ol class="steps">
+          <li><strong>Pick your questions.</strong> Choose a mode and apply filters.</li>
+          <li><strong>Review the summary.</strong> It shows the matching question count, selected questions, total marks, question types, marking rules and duration.</li>
+          <li><strong>Take the test.</strong> The countdown starts when you confirm.</li>
+          <li><strong>Check your results.</strong> Your attempt is saved to your history.</li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section" id="exam-window">
+      <div class="wrap">
+        <h2>An exam window that behaves like the real one</h2>
+        <dl class="feature-grid">
+          <div><dt>Countdown timer</dt><dd>Always visible, tied to the deadline for your attempt.</dd></div>
+          <div><dt>Question palette</dt><dd>Jump to any question and see its status at a glance.</dd></div>
+          <div><dt>Navigation</dt><dd>Move between questions, clear a response or mark it for review.</dd></div>
+          <div><dt>Scientific calculator</dt><dd>Available inside the exam window.</dd></div>
+          <div><dt>Autosave and recovery</dt><dd>Resume an interrupted attempt where you left off.</dd></div>
+          <div><dt>Submission and results</dt><dd>Submit when you are done and review your results.</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <section class="section section-tint" id="account">
+      <div class="wrap split">
+        <div>
+          <h2>Your progress stays with you</h2>
+          <p class="section-intro">Register to keep a profile, exam history, answers, results, bookmarks and progress in one place.</p>
+          <div class="cta-row">
+            <a class="btn btn-primary" href="register.html">Register</a>
+            <a class="btn btn-outline" href="login.html">Log in</a>
+          </div>
+        </div>
+        <ul class="link-list">
+          <li><a href="dashboard.html">Dashboard and progress</a></li>
+          <li><a href="history.html">Exam history</a></li>
+          <li><a href="bookmarks.html">Bookmarked questions</a></li>
+          <li><a href="profile.html">Profile settings</a></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <p class="brand footer-brand"><span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio</p>
+        <p class="fine">Practice platform for GATE aspirants. Not affiliated with the organising institutes of GATE.</p>
+      </div>
+      <nav aria-label="Practice">
+        <h3>Practice</h3>
+        <ul>
+          <li><a href="practice.html?mode=year">Year-wise papers</a></li>
+          <li><a href="practice.html?mode=subject">Subject-wise tests</a></li>
+          <li><a href="practice.html?mode=topic">Topic-wise practice</a></li>
+          <li><a href="practice.html?mode=custom">Custom tests</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+        </ul>
+      </nav>
+      <nav aria-label="Support and legal">
+        <h3>Support</h3>
+        <ul>
+          <li><a href="help.html">Help</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="security.html">Security</a></li>
+          <li><a href="privacy.html">Privacy</a></li>
+          <li><a href="terms.html">Terms</a></li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+  <script src="app.js" defer></script>
+</body>
+</html>
