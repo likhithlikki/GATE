@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Security | GATE Prep Studio</title>
+  <meta name="description" content="How GATE Prep Studio is planned to handle scoring, answer keys and accounts, and its known limits.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f4e9c'/%3E%3Cpath d='M9 17l5 5 9-12' fill='none' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html" aria-label="GATE Prep Studio home">
+        <span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio
+      </a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle">
+      <label for="nav-toggle" class="nav-toggle-label">Menu</label>
+      <nav class="site-nav" aria-label="Main">
+        <ul class="nav-links">
+          <li><a href="practice.html">Practice</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+          <li><a href="dashboard.html">Dashboard</a></li>
+          <li><a href="help.html">Help</a></li>
+        </ul>
+        <div class="nav-actions">
+          <a class="btn btn-quiet" href="login.html">Log in</a>
+          <a class="btn btn-primary" href="register.html">Register</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section">
+      <div class="wrap">
+        <h1>Security</h1>
+        <p class="formula" role="note">This page describes the intended design. None of it is built or tested yet, and nothing here is a promise that it is.</p>
+        <p class="lead">How GATE Prep Studio is planned to protect your account and keep scoring fair.</p>
+        <nav aria-label="On this page">
+          <ul class="link-list">
+            <li><a href="#scoring">Scoring and answer keys</a></li>
+            <li><a href="#accounts">Accounts and sessions</a></li>
+            <li><a href="#limits">Known limits</a></li>
+            <li><a href="#report">Report a security problem</a></li>
+          </ul>
+        </nav>
+      </div>
+    </section>
+    <section class="section section-tint" id="scoring">
+      <div class="wrap">
+        <h2>Scoring and answer keys</h2>
+        <p><strong>Planned.</strong> Tests are meant to be scored on the server, never in your browser. The server picks the questions, sets the deadline and works out the score from the answers it has saved. A score or time sent by your browser is not trusted.</p>
+        <p>Answer keys are meant to be kept apart from the question data and not sent to your browser while a test is running. Correct answers and explanations are shown only after you submit, and only for that attempt.</p>
+        <p>The duration of a test follows the fixed rule on the <a href="help.html#duration">help page</a>. Marking rules are still to be confirmed.</p>
+      </div>
+    </section>
+    <section class="section" id="accounts">
+      <div class="wrap">
+        <h2>Accounts and sessions</h2>
+        <p><strong>Planned.</strong> The server is meant to check who you are on every request and show you only your own data. Passwords are not meant to be stored in readable form, and one-time codes are meant to expire, work once and allow only a few wrong tries. The exact method for protecting passwords is not final.</p>
+        <p>There is no administrator area on the website. Administration is intended to be done directly in the underlying spreadsheets by a small number of people.</p>
+        <p>See the <a href="privacy.html#access">Privacy Policy</a> for more.</p>
+      </div>
+    </section>
+    <section class="section section-tint" id="limits">
+      <div class="wrap">
+        <h2>Known limits</h2>
+        <p>The planned design uses Google Apps Script and Google Sheets, which have limits a purpose-built service would not. In the draft design these are expected to apply:</p>
+        <p><strong>Capacity.</strong> Only a limited number of people can use the site at the same moment.</p>
+        <p><strong>Abuse controls.</strong> Repeated attempts cannot be blocked by network address, so abuse controls are weaker than on a dedicated service.</p>
+        <p><strong>Logs.</strong> Activity logs could be changed by anyone with edit access to the spreadsheets.</p>
+        <p><strong>Availability.</strong> Downtime or data loss is possible. See the <a href="terms.html#availability">Terms of Use</a>.</p>
+        <p class="fine">These are expected limits from the draft design, not measured results.</p>
+      </div>
+    </section>
+    <section class="section" id="report">
+      <div class="wrap">
+        <h2>Report a security problem</h2>
+        <p>If you find a weakness, please report it instead of using it. Do not access other people&rsquo;s data, and do not try to read answer keys outside a normal test.</p>
+        <p>[Security contact to be added before publication.] Until then, use the <a href="contact.html">contact page</a>.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <p class="brand footer-brand"><span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio</p>
+        <p class="fine">Practice platform for GATE aspirants. Not affiliated with the organising institutes of GATE.</p>
+      </div>
+      <nav aria-label="Practice">
+        <h3>Practice</h3>
+        <ul>
+          <li><a href="practice.html?mode=year">Year-wise papers</a></li>
+          <li><a href="practice.html?mode=subject">Subject-wise tests</a></li>
+          <li><a href="practice.html?mode=topic">Topic-wise practice</a></li>
+          <li><a href="practice.html?mode=custom">Custom tests</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+        </ul>
+      </nav>
+      <nav aria-label="Support and legal">
+        <h3>Support</h3>
+        <ul>
+          <li><a href="help.html">Help</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="security.html" aria-current="page">Security</a></li>
+          <li><a href="privacy.html">Privacy</a></li>
+          <li><a href="terms.html">Terms</a></li>
+          <li><a href="status.html">System status</a></li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+  <script src="app.js" defer></script>
+</body>
+</html>

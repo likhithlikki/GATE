@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Practice | GATE Prep Studio</title>
+  <meta name="description" content="Choose a practice mode, filter the question bank and see the test setup summary, including marks and duration, before a test starts.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f4e9c'/%3E%3Cpath d='M9 17l5 5 9-12' fill='none' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html" aria-label="GATE Prep Studio home">
+        <span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio
+      </a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle">
+      <label for="nav-toggle" class="nav-toggle-label">Menu</label>
+      <nav class="site-nav" aria-label="Main">
+        <ul class="nav-links">
+          <li><a href="practice.html" aria-current="page">Practice</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+          <li><a href="dashboard.html">Dashboard</a></li>
+          <li><a href="help.html">Help</a></li>
+        </ul>
+        <div class="nav-actions">
+          <a class="btn btn-quiet" href="login.html">Log in</a>
+          <a class="btn btn-primary" href="register.html">Register</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <form class="form" id="practice-form" action="practice.html" method="get" novalidate>
+    <section class="section">
+      <div class="wrap">
+        <h1>Practice</h1>
+        <p class="formula" id="bank-note" role="status">Loading the question bank&hellip;</p>
+        <details id="bank-detail" hidden></details>
+        <noscript><p class="formula" role="note">Practice needs JavaScript to load the question bank and build the test summary.</p></noscript>
+        <p class="lead">Choose a mode, narrow the questions, and see exactly what a test would contain before anything starts.</p>
+        <p class="fine">The summary below belongs to the <strong>local preview</strong>: starting a local test is not available, and it shows what is still missing. You can import a question bank from your computer and open a <a href="exam.html">local preview of the exam window</a>. Signed-in students can use the separate <a href="#online-card">authenticated online examination</a> further down.</p>
+
+        <div class="form-card" id="paper-card" hidden>
+          <h2>Official papers</h2>
+          <p class="fine">The papers, years and official sets listed here come from the published list (<code>data/manifest.json</code>). Only the file for the paper and year you choose is downloaded, and it is checked against that list (count, digest, public-safe fields) before it is used. If any file fails, nothing is loaded. This is separate from importing a file from your computer, which is below.</p>
+          <p class="field">
+            <label for="pp-paper">Paper</label>
+            <select id="pp-paper"></select>
+          </p>
+          <p class="field">
+            <label for="pp-year">Year</label>
+            <select id="pp-year" disabled></select>
+          </p>
+          <p class="field" id="pp-variant-field" hidden>
+            <label for="pp-variant">Official set</label>
+            <select id="pp-variant"></select>
+            <span class="hint" id="pp-variant-hint"></span>
+          </p>
+          <p class="exam-actions"><button type="button" class="btn btn-primary" id="pp-load" disabled>Load selected paper</button></p>
+          <p class="status" id="pp-status" role="status" aria-live="polite"></p>
+          <p class="exam-actions"><button type="button" class="btn btn-primary" id="pp-open-preview" hidden disabled>Open local preview with selected questions</button></p>
+        </div>
+
+        <div class="form-card" id="import-card">
+          <h2>Question bank (local preview)</h2>
+          <div id="catalogue-box">
+            <h3>Published question catalogue</h3>
+            <p class="fine">Loads the public catalogue published by this site&rsquo;s owner (questions only: no answer keys, explanations or scoring). Your browser contacts the catalogue service to fetch it, so the service can see an ordinary web request such as your IP address. Nothing you type or answer is sent. It goes through the same checks as a file import, and it does not start a test.</p>
+            <p class="exam-actions"><button type="button" class="btn btn-primary" id="catalogue-load">Load published question catalogue</button></p>
+            <p class="status" id="catalogue-status" role="status" aria-live="polite"></p>
+            <div id="catalogue-fresh" hidden>
+              <h4>Catalogue freshness</h4>
+              <dl class="feature-grid summary-grid">
+                <div><dt>Version loaded</dt><dd id="cf-loaded">&mdash;</dd></div>
+                <div><dt>Currently published version</dt><dd id="cf-current">&mdash;</dd></div>
+              </dl>
+              <p class="status" id="catalogue-fresh-status" role="status" aria-live="polite"></p>
+              <p class="exam-actions">
+                <button type="button" class="btn btn-outline" id="catalogue-check">Check for updates</button>
+                <button type="button" class="btn btn-primary" id="catalogue-reload" hidden>Reload latest catalogue</button>
+              </p>
+              <p class="fine">Freshness is a best-effort check against the service&rsquo;s version number. The preview opens only when it matches. Reloading clears your question selection; no exam starts.</p>
+            </div>
+          </div>
+          <h3>Or import a file from your computer</h3>
+          <p class="fine">Choose a JSON file from your computer. It is read inside this browser only: it is not uploaded or sent anywhere. Use public-safe files only. A file that contains answer keys, explanations or scoring fields is rejected entirely. Only the fields this site understands are loaded. This is a local preview, not an exam engine: nothing is saved remotely, timed by a server or scored.</p>
+          <p class="field">
+            <label for="import-file">Question-bank file (.json)</label>
+            <input type="file" id="import-file" accept=".json,application/json" aria-describedby="import-hint">
+            <span class="hint" id="import-hint">Schema version 1 with MCQ, MSQ and NAT questions. Up to 5 MB and 2,000 records.</span>
+          </p>
+          <p class="status" id="import-status" role="status" aria-live="polite"></p>
+          <div id="import-result" hidden>
+            <h3>Import report</h3>
+            <dl class="feature-grid summary-grid">
+              <div><dt>Usable questions</dt><dd id="imp-usable">&mdash;</dd></div>
+              <div><dt>Records not used</dt><dd id="imp-rejected">&mdash;</dd></div>
+              <div class="wide"><dt>Question types</dt><dd id="imp-types">&mdash;</dd></div>
+              <div class="wide"><dt>Branches available</dt><dd id="imp-branches">&mdash;</dd></div>
+              <div class="wide"><dt>Years available</dt><dd id="imp-years">&mdash;</dd></div>
+              <div class="wide"><dt>Subjects available</dt><dd id="imp-subjects">&mdash;</dd></div>
+              <div class="wide"><dt>Topics available</dt><dd id="imp-topics">&mdash;</dd></div>
+              <div class="wide"><dt>Sources named in the file</dt><dd id="imp-sources">&mdash;</dd></div>
+            </dl>
+            <details id="import-issues" hidden></details>
+          </div>
+          <p class="fine" id="import-preview-note">Select a question-bank file above to enable the exam-window preview.</p>
+          <p class="exam-actions">
+            <button type="button" class="btn btn-primary" id="import-open-preview" disabled>Open local exam preview with the matching questions</button>
+            <button type="button" class="btn btn-outline" id="import-clear" hidden>Remove loaded question bank</button>
+          </p>
+          <p class="fine">The loaded public-safe questions are kept in this tab&rsquo;s temporary session storage so the exam page can show the exact selected questions. Clear the bank or close the tab to remove them. Your answers are never stored.</p>
+        </div>
+
+        <nav aria-label="On this page">
+          <ul class="link-list">
+            <li><a href="#import-card">Import a question bank</a></li>
+            <li><a href="#modes">Practice mode</a></li>
+            <li><a href="#setup">Filters and test summary</a></li>
+            <li><a href="#online-card">Authenticated online examination</a></li>
+            <li><a href="#types">Question types</a></li>
+          </ul>
+        </nav>
+      </div>
+    </section>
+
+    <section class="section section-tint" id="modes">
+      <div class="wrap">
+        <h2>Practice mode</h2>
+        <fieldset class="mode-fieldset">
+          <legend>Choose how to practise</legend>
+          <div class="mode-options">
+            <div class="mode-option">
+              <input type="radio" name="practice-mode" id="mode-year" value="year">
+              <label for="mode-year"><strong>Year-wise papers</strong><span>Attempt a past GATE paper by choosing a branch and a year.</span></label>
+            </div>
+            <div class="mode-option">
+              <input type="radio" name="practice-mode" id="mode-subject" value="subject">
+              <label for="mode-subject"><strong>Subject-wise tests</strong><span>Test one subject across the years, optionally narrowed by branch.</span></label>
+            </div>
+            <div class="mode-option">
+              <input type="radio" name="practice-mode" id="mode-topic" value="topic">
+              <label for="mode-topic"><strong>Topic-wise practice</strong><span>Practise a single topic within a subject.</span></label>
+            </div>
+            <div class="mode-option">
+              <input type="radio" name="practice-mode" id="mode-custom" value="custom">
+              <label for="mode-custom"><strong>Custom tests</strong><span>Filter by branch, year, subject, topic and question type.</span></label>
+            </div>
+            <div class="mode-option">
+              <input type="radio" name="practice-mode" id="mode-full" value="full">
+              <label for="mode-full"><strong>Full-length mock exams</strong><span>A complete paper under exam conditions. Awaiting configuration.</span></label>
+            </div>
+          </div>
+        </fieldset>
+        <p class="fine" id="mode-desc"></p>
+        <p class="formula" id="mock-note" role="note" hidden>Full-length mock exams are awaiting configuration. How a mock exam is composed has not been defined, so no questions are selected for this mode.</p>
+      </div>
+    </section>
+
+    <section class="section" id="setup">
+      <div class="wrap split">
+        <div class="form-card" id="filters">
+          <h2>Filters</h2>
+          <p class="fine">Options come from the questions that are actually loaded. The number in brackets is how many questions have that value.</p>
+            <p class="field" data-filter="branch">
+              <label for="pf-branch">Branch <span class="req" id="pf-branch-req"></span></label>
+              <select id="pf-branch" name="branch" disabled></select>
+            </p>
+            <p class="field" data-filter="year">
+              <label for="pf-year">Year <span class="req" id="pf-year-req"></span></label>
+              <select id="pf-year" name="year" disabled></select>
+            </p>
+            <p class="field" data-filter="subject">
+              <label for="pf-subject">Subject <span class="req" id="pf-subject-req"></span></label>
+              <select id="pf-subject" name="subject" disabled></select>
+            </p>
+            <p class="field" data-filter="topic">
+              <label for="pf-topic">Topic <span class="req" id="pf-topic-req"></span></label>
+              <select id="pf-topic" name="topic" disabled></select>
+            </p>
+            <p class="field" data-filter="type">
+              <label for="pf-type">Question type <span class="req" id="pf-type-req"></span></label>
+              <select id="pf-type" name="type" disabled></select>
+            </p>
+          <p class="field" id="pf-count-field">
+            <label for="pf-count">Number of questions</label>
+            <input type="number" id="pf-count" name="count" min="1" step="1" inputmode="numeric" disabled
+                   aria-describedby="pf-count-hint pf-count-error">
+            <span class="hint" id="pf-count-hint">Available once the filters match at least one question.</span>
+            <span class="field-error" id="pf-count-error" role="alert"></span>
+          </p>
+          <fieldset class="method-fieldset" id="pf-method-field">
+            <legend>Selection method (local preview only)</legend>
+            <p class="exam-opt"><input type="radio" name="pf-method" id="pf-method-file" value="file" checked><label for="pf-method-file"><strong>File order</strong>: take the first N matching questions.</label></p>
+            <p class="exam-opt"><input type="radio" name="pf-method" id="pf-method-random" value="random"><label for="pf-method-random"><strong>Random sample</strong>: pick N matching questions at random, without repeats. Kept in file order afterwards.</label></p>
+            <span class="hint" id="pf-method-hint">Available once the filters match at least one question.</span>
+            <p class="fine">These two choices only decide what the local preview shows. Random sampling here is an everyday convenience, not secure randomness, and neither choice is an approved GATE mock-composition policy. The permanent rule is still undecided (D-12). If you ask for all matching questions, all are used whichever method is chosen.</p>
+            <p><button type="button" class="btn btn-quiet" id="pf-redraw" hidden>Draw a new random sample</button></p>
+          </fieldset>
+          <p class="formula" id="empty-state" role="note" hidden>No questions match this combination. Set a filter back to &ldquo;Any&rdquo;, or choose Clear filters, to broaden the search.</p>
+          <p class="status" id="match-status" role="status" aria-live="polite"></p>
+          <p><button type="button" class="btn btn-outline" id="pf-reset">Clear filters</button></p>
+        </div>
+
+        <div class="form-card" id="summary">
+          <h2>Test summary</h2>
+          <p class="fine">Duration is calculated from the total marks: total marks &divide; 65 &times; 180 minutes, rounded to the nearest second. You do not set the time. See the <a href="help.html#duration">help page</a>.</p>
+          <dl class="feature-grid summary-grid">
+            <div><dt>Mode</dt><dd id="sum-mode">&mdash;</dd></div>
+            <div><dt>Matching questions</dt><dd id="sum-matching">&mdash;</dd></div>
+            <div class="wide"><dt>Active filters</dt><dd id="sum-filters">&mdash;</dd></div>
+            <div><dt>Requested questions</dt><dd id="sum-requested">&mdash;</dd></div>
+            <div class="wide"><dt>Selected for the preview</dt><dd id="sum-selected">&mdash;</dd></div>
+            <div class="wide"><dt>Selection method</dt><dd id="sum-method">&mdash;</dd></div>
+            <div class="wide"><dt>Total marks (selected questions)</dt><dd id="sum-marks">&mdash;</dd></div>
+            <div class="wide"><dt>Question types</dt><dd id="sum-types">&mdash;</dd></div>
+            <div class="wide"><dt>Duration</dt><dd id="sum-duration">&mdash;</dd></div>
+            <div class="wide"><dt>Marking rules</dt><dd id="sum-rules">&mdash;</dd></div>
+            <div><dt>Selection</dt><dd id="sum-selection">&mdash;</dd></div>
+            <div><dt>Ready to start</dt><dd id="sum-ready">No</dd></div>
+          </dl>
+          <h3 class="blockers-head">What is missing before a test can start</h3>
+          <ul class="blockers" id="blockers"></ul>
+          <p class="status" id="summary-status" role="status" aria-live="polite"></p>
+          <p>
+            <button type="button" class="btn btn-primary btn-lg btn-block" id="start-test" aria-disabled="true">Start test</button>
+          </p>
+          <p class="fine">Want to save results and progress later? <a href="register.html">Register</a> or <a href="login.html">log in</a>. Scoring and answer-key handling are described on the <a href="security.html#scoring">security page</a>.</p>
+        </div>
+      </div>
+    </section>
+    </form>
+
+    <section class="section section-tint" id="online-card">
+      <div class="wrap">
+        <h2>Authenticated online examination</h2>
+        <p class="formula" role="note">This is different from the local preview above. An online test needs a signed-in account. The server chooses the questions, fixes the marks, marking profile and deadline, saves your answers and keeps the clock. Nothing starts until you press &ldquo;Start online test&rdquo;; loading the papers never starts one.</p>
+        <p class="status" id="ox-status" role="status" aria-live="polite">Checking whether the online service is connected&hellip;</p>
+        <p class="exam-actions"><button type="button" class="btn btn-primary" id="ox-load" disabled>Load papers from the private catalogue</button></p>
+        <noscript><p class="formula" role="note">Online examinations need JavaScript.</p></noscript>
+
+        <div id="ox-setup" class="form-card" hidden>
+          <h3>Choose a paper and mode</h3>
+          <p class="field">
+            <label for="ox-paper">Paper</label>
+            <select id="ox-paper"></select>
+          </p>
+          <fieldset class="mode-fieldset">
+            <legend>Online mode</legend>
+            <p class="exam-opt"><input type="radio" name="ox-mode" id="ox-mode-paper" value="paper" checked><label for="ox-mode-paper"><strong>Whole paper</strong>: every question of the chosen paper.</label></p>
+            <p class="exam-opt"><input type="radio" name="ox-mode" id="ox-mode-practice" value="practice"><label for="ox-mode-practice"><strong>Filtered practice</strong>: all questions of the chosen paper that match the filters below.</label></p>
+            <p class="exam-opt"><input type="radio" name="ox-mode" id="ox-mode-mock" value="mock" disabled><label for="ox-mode-mock"><strong>Full-length mock</strong>: not available. How a mock is composed has not been decided (D-12).</label></p>
+          </fieldset>
+          <div id="ox-filters" hidden>
+            <p class="field"><label for="ox-subject">Subject</label><select id="ox-subject"></select></p>
+            <p class="field"><label for="ox-topic">Topic</label><select id="ox-topic"></select></p>
+            <p class="field"><label for="ox-type">Question type</label><select id="ox-type"></select></p>
+            <p class="fine">Smaller subsets (a chosen number of questions) are not offered: how a subset is drawn is undecided (D-12), so a filtered test always uses every matching question.</p>
+          </div>
+          <p class="fine" id="ox-avail"></p>
+          <p class="formula" id="ox-block" role="note" hidden></p>
+          <p class="status" id="ox-start-status" role="status" aria-live="polite"></p>
+          <p class="exam-actions"><button type="button" class="btn btn-primary btn-lg" id="ox-start" disabled>Start online test</button></p>
+        </div>
+
+        <div id="ox-started" class="form-card" hidden>
+          <h3 id="ox-started-title" tabindex="-1">Online attempt created</h3>
+          <p class="fine">These values were fixed by the server, not by this page.</p>
+          <dl class="feature-grid summary-grid">
+            <div><dt>Questions pinned</dt><dd id="ox-r-count">&mdash;</dd></div>
+            <div><dt>Total marks</dt><dd id="ox-r-marks">&mdash;</dd></div>
+            <div><dt>Marking profile</dt><dd id="ox-r-profile">&mdash;</dd></div>
+            <div><dt>Duration</dt><dd id="ox-r-duration">&mdash;</dd></div>
+            <div class="wide"><dt>Deadline (server time)</dt><dd id="ox-r-deadline">&mdash;</dd></div>
+          </dl>
+          <p class="fine">The clock is already running on the server. Opening the exam window now resumes this attempt; leaving or refreshing never extends the deadline.</p>
+          <p class="exam-actions"><a class="btn btn-primary btn-lg" id="ox-r-open" href="exam.html">Open the exam window</a></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="types">
+      <div class="wrap">
+        <h2>Question types</h2>
+        <p><strong>MCQ</strong> (multiple choice question) has one correct option. <strong>MSQ</strong> (multiple select question) can have more than one correct option. <strong>NAT</strong> (numerical answer type) asks you to enter a number. Marking rules for each type will be shown before a test starts. [Marking rules to be confirmed.]</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <p class="brand footer-brand"><span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio</p>
+        <p class="fine">Practice platform for GATE aspirants. Not affiliated with the organising institutes of GATE.</p>
+      </div>
+      <nav aria-label="Practice">
+        <h3>Practice</h3>
+        <ul>
+          <li><a href="practice.html?mode=year">Year-wise papers</a></li>
+          <li><a href="practice.html?mode=subject">Subject-wise tests</a></li>
+          <li><a href="practice.html?mode=topic">Topic-wise practice</a></li>
+          <li><a href="practice.html?mode=custom">Custom tests</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+        </ul>
+      </nav>
+      <nav aria-label="Support and legal">
+        <h3>Support</h3>
+        <ul>
+          <li><a href="help.html">Help</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="security.html">Security</a></li>
+          <li><a href="privacy.html">Privacy</a></li>
+          <li><a href="terms.html">Terms</a></li>
+          <li><a href="status.html">System status</a></li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+  <script src="api.js" defer></script>
+  <script src="app.js" defer></script>
+  <script src="auth.js" defer></script>
+  <script src="exam-api.js" defer></script>
+  <script src="online-exam.js" defer></script>
+</body>
+</html>

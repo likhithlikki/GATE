@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Log in | GATE Prep Studio</title>
+  <meta name="description" content="Log in to GATE Prep Studio to continue your practice tests, mock exams and progress.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f4e9c'/%3E%3Cpath d='M9 17l5 5 9-12' fill='none' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html" aria-label="GATE Prep Studio home">
+        <span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio
+      </a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle">
+      <label for="nav-toggle" class="nav-toggle-label">Menu</label>
+      <nav class="site-nav" aria-label="Main">
+        <ul class="nav-links">
+          <li><a href="practice.html">Practice</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+          <li><a href="dashboard.html">Dashboard</a></li>
+          <li><a href="help.html">Help</a></li>
+        </ul>
+        <div class="nav-actions">
+          <a class="btn btn-quiet" href="login.html" aria-current="page">Log in</a>
+          <a class="btn btn-primary" href="register.html">Register</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section">
+      <div class="wrap split">
+        <div>
+          <h1>Log in</h1>
+          <p class="lead">Continue your practice, check your exam history and resume an interrupted attempt.</p>
+          <ul class="link-list">
+            <li><a href="register.html">New here? Create an account</a></li>
+            <li><a href="forgot-password.html">Forgot your password?</a></li>
+            <li><a href="help.html">Get help signing in</a></li>
+          </ul>
+        </div>
+
+        <div class="form-card">
+          <p class="formula" role="note" id="auth-note">Sign-in is not connected yet. This form does not send your details anywhere.</p>
+
+          <p>
+            <button type="button" class="btn btn-outline btn-lg btn-block" id="google-signin" aria-disabled="true">Continue with Google</button>
+          </p>
+          <p class="fine">or log in with your username or email</p>
+
+          <form class="form" id="login-form" action="login.html" method="post" novalidate aria-labelledby="login-heading">
+            <h2 id="login-heading" class="fine">Log in with a password</h2>
+
+            <p class="field">
+              <label for="login-identifier">Username or email</label>
+              <input type="text" id="login-identifier" name="identifier" size="30" maxlength="254"
+                     autocomplete="username" autocapitalize="none" spellcheck="false" required
+                     aria-describedby="login-identifier-error">
+              <span class="field-error" id="login-identifier-error" role="alert"></span>
+            </p>
+
+            <p class="field">
+              <label for="login-password">Password</label>
+              <input type="password" id="login-password" name="password" size="30" maxlength="128"
+                     autocomplete="current-password" required
+                     aria-describedby="login-password-error">
+              <button type="button" class="btn btn-quiet btn-sm" id="login-password-toggle"
+                      data-toggle-password="login-password" aria-controls="login-password" aria-pressed="false">Show password</button>
+              <span class="field-error" id="login-password-error" role="alert"></span>
+            </p>
+
+            <p class="check">
+              <input type="checkbox" id="login-remember" name="remember" value="1">
+              <label for="login-remember">Keep me logged in on this device</label>
+            </p>
+
+            <p class="status" id="login-status" role="status" aria-live="polite"></p>
+
+            <p>
+              <button type="button" class="btn btn-primary btn-lg btn-block" id="login-submit" aria-disabled="true">Log in</button>
+            </p>
+            <p class="fine"><a href="forgot-password.html">Forgot your password?</a></p>
+          </form>
+
+          <p class="fine">No account yet? <a href="register.html">Register</a></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <p class="brand footer-brand"><span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio</p>
+        <p class="fine">Practice platform for GATE aspirants. Not affiliated with the organising institutes of GATE.</p>
+      </div>
+      <nav aria-label="Practice">
+        <h3>Practice</h3>
+        <ul>
+          <li><a href="practice.html?mode=year">Year-wise papers</a></li>
+          <li><a href="practice.html?mode=subject">Subject-wise tests</a></li>
+          <li><a href="practice.html?mode=topic">Topic-wise practice</a></li>
+          <li><a href="practice.html?mode=custom">Custom tests</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+        </ul>
+      </nav>
+      <nav aria-label="Support and legal">
+        <h3>Support</h3>
+        <ul>
+          <li><a href="help.html">Help</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="security.html">Security</a></li>
+          <li><a href="privacy.html">Privacy</a></li>
+          <li><a href="terms.html">Terms</a></li>
+          <li><a href="status.html">System status</a></li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+  <script src="app.js" defer></script>
+  <script src="auth.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Bookmarks | GATE Prep Studio</title>
+  <meta name="description" content="A preview of the planned bookmarks page. Log in is required and account features are not connected yet.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f4e9c'/%3E%3Cpath d='M9 17l5 5 9-12' fill='none' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-auth-protected="true" data-auth-state="checking">
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html" aria-label="GATE Prep Studio home">
+        <span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio
+      </a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle">
+      <label for="nav-toggle" class="nav-toggle-label">Menu</label>
+      <nav class="site-nav" aria-label="Main">
+        <ul class="nav-links">
+          <li><a href="practice.html">Practice</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+          <li><a href="dashboard.html">Dashboard</a></li>
+          <li><a href="help.html">Help</a></li>
+        </ul>
+        <div class="nav-actions">
+          <a class="btn btn-quiet" href="login.html">Log in</a>
+          <a class="btn btn-primary" href="register.html">Register</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <section id="auth-gate-screen" class="wrap auth-gate-screen" role="status" aria-live="polite">
+    <p class="formula">Checking your account session. Protected content stays hidden until the private service confirms your session.</p>
+    <a class="btn btn-quiet" href="login.html">Go to login</a>
+  </section>
+
+  <main id="main">
+    <section class="section">
+      <div class="wrap">
+        <h1>Bookmarked questions</h1>
+        <p class="formula" role="note" id="acct-note">You are not logged in. This page needs an account, and account features are not connected yet. Everything below is an empty preview with no real data.</p>
+        <p class="lead">Once accounts are connected, this page is planned to collect the questions you save during practice.</p>
+        <div class="cta-row" id="acct-cta">
+          <a class="btn btn-primary btn-lg" href="login.html">Log in</a>
+          <a class="btn btn-outline btn-lg" href="register.html">Register</a>
+        </div>
+      </div>
+    </section>
+    <section class="section section-tint" id="saved">
+      <div class="wrap">
+        <div id="live-saved" hidden></div>
+        <div data-placeholder>
+        <h2>Saved questions</h2>
+        <p><strong>Planned, not available yet.</strong> You will be able to bookmark a question during practice and find it here later. Nothing is saved today.</p>
+        <p>Start with the <a href="practice.html">practice page</a>, or go back to the <a href="dashboard.html">dashboard</a>.</p>
+        </div>
+      </div>
+    </section>
+    <section class="section" id="notes">
+      <div class="wrap">
+        <h2>How bookmarks are meant to work</h2>
+        <p>A bookmark is meant to store only which question you saved. Correct answers are shown only after you submit a test, so they are not part of a bookmark shown during a test.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <p class="brand footer-brand"><span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio</p>
+        <p class="fine">Practice platform for GATE aspirants. Not affiliated with the organising institutes of GATE.</p>
+      </div>
+      <nav aria-label="Practice">
+        <h3>Practice</h3>
+        <ul>
+          <li><a href="practice.html?mode=year">Year-wise papers</a></li>
+          <li><a href="practice.html?mode=subject">Subject-wise tests</a></li>
+          <li><a href="practice.html?mode=topic">Topic-wise practice</a></li>
+          <li><a href="practice.html?mode=custom">Custom tests</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+        </ul>
+      </nav>
+      <nav aria-label="Support and legal">
+        <h3>Support</h3>
+        <ul>
+          <li><a href="help.html">Help</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="security.html">Security</a></li>
+          <li><a href="privacy.html">Privacy</a></li>
+          <li><a href="terms.html">Terms</a></li>
+          <li><a href="status.html">System status</a></li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+  <script src="app.js" defer></script>
+  <script src="auth.js" defer></script>
+  <script src="exam-api.js" defer></script>
+  <script src="student.js" defer></script>
+</body>
+</html>
