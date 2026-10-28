@@ -1,0 +1,1004 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1418103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "low input impedance and high output impedance."
+        },
+        {
+          "id": "B",
+          "text": "high input impedance and high output impedance."
+        },
+        {
+          "id": "C",
+          "text": "high input impedance and low output impedance."
+        },
+        {
+          "id": "D",
+          "text": "low input impedance and low output impedance."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A good transimpedance amplifier has",
+      "topic": "Feedback Amplifiers",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{d^{3}y}{dt^{3}} + a_{1} \\frac{d^{2}y}{dt^{2}} + a_{2}\\frac{dy}{dt} + a_{3}y =[/latex] [latex]b_{3}u+b_{2}\\frac{du}{dt}+b_{1}\\frac{d^{2}u}{dt^{2}}[/latex] (with initial rest conditions)"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y(t)=\\int_{0}^{t}e^{a(t-r)}\\beta u(\\tau)d \\tau[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y= au +b[/latex], [latex]b \\neq 0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y=au[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let the input be u and the output be y of a system, and the other parameters are real\nconstants. Identify which among the following systems is not a linear system:",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both the criteria provide information relative to the stable gain range of the system."
+        },
+        {
+          "id": "B",
+          "text": "The general shape of the Nyquist plot is readily obtained from the Bode magnitude plot\nfor all minimum-phase systems."
+        },
+        {
+          "id": "C",
+          "text": "The Routh criterion is not applicable in the condition of transport lag, which can be\nreadily handled by the Nyquist criterion."
+        },
+        {
+          "id": "D",
+          "text": "The closed-loop frequency response for a unity feedback system cannot be obtained\nfrom the Nyquist plot."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The Nyquist stability criterion and the Routh criterion both are powerful analysis tools for\ndetermining the stability of feedback controllers. Identify which of the following statements\nis FALSE:",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider p(s) = [latex]s^{3}+a_{2}s^{2}+a_{1}s+a_{0}[/latex] with all real coefficients. It is known that its derivative  [latex]{p}'(s)[/latex] has no real roots. The number of real roots of  [latex]{p}(s)[/latex] is",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The hole and electron diffusion current components are in the same direction."
+        },
+        {
+          "id": "B",
+          "text": "The hole and electron drift current components are in the same direction."
+        },
+        {
+          "id": "C",
+          "text": "On an average, holes and electrons drift in opposite direction."
+        },
+        {
+          "id": "D",
+          "text": "On an average, electrons drift and diffuse in the same direction."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a p-n junction diode at equilibrium, which one of the following statements is\nNOT TRUE?",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]F=(A+B+C)\\cdot (A+\\tilde{B}+C)\\cdot (\\bar{A}+B+C)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]F=(\\bar{A}+\\bar{B}+\\bar{C})\\cdot (\\bar{A}+B+\\bar{C})\\cdot (A+\\bar{B}+\\bar{C})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]F=(A + B + \\bar{C}) \\cdot (A + \\bar{B} + \\bar{C} ) \\cdot (\\bar{A} + B + \\bar{C}) \\cdot [/latex] [latex](\\bar{A}+\\bar{B}+C) \\cdot (\\bar{A}+\\bar{B}+\\bar{C})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]F=(\\bar{A} +  \\bar{B} + C) \\cdot  (\\bar{A} + B +  C) \\cdot [/latex] [latex](A + B + \\bar{C}) \\cdot (A+B+C)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A function F(A,B,C) defined by three Boolean variables A, B and C when expressed as sum\r\nof products is given by [latex]F=\\bar{A}\\cdot \\bar{B} \\cdot \\bar{C} + \\bar{A}\\cdot B \\cdot \\bar{C} + A\\cdot \\bar{B} \\cdot \\bar{C}[/latex] where,[latex]\\bar{A},\\bar{B} \\;and \\; \\bar{C} [/latex] are complements of the respective variable. The product of sums (POS) form of the function F is",
+      "topic": "Digital Circuits",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "S1 implies S2"
+        },
+        {
+          "id": "B",
+          "text": "S1 implies S3"
+        },
+        {
+          "id": "C",
+          "text": "S2 implies S1"
+        },
+        {
+          "id": "D",
+          "text": "S3 implies S2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let M be a real 4[latex]\\times[/latex]4 matrix. Consider the following statements: S1: M has 4 linearly independent eigenvectors. S2: M has 4 distinct eigenvalues. S3: M is non-singular (invertible). Which one among the following is TRUE?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a=b/4"
+        },
+        {
+          "id": "B",
+          "text": "a=b/2"
+        },
+        {
+          "id": "C",
+          "text": "a=2b"
+        },
+        {
+          "id": "D",
+          "text": "a=4b"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]f(x,y)=\\frac{ax^{2}+by^{2}}{xy}[/latex] ,where a and b are constants. If [latex]\\frac{\\partial f}{\\partial x} = \\frac{\\partial f}{\\partial y}[/latex]  at x=1 and y=2 , then the relation between  a and b is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It has two more poles at 0.5[latex]\\angle 0^{\\circ}[/latex]  and 4[latex]\\angle 0^{\\circ}[/latex]  ."
+        },
+        {
+          "id": "B",
+          "text": "It is stable only when the impulse response is two-sided."
+        },
+        {
+          "id": "C",
+          "text": "It has constant phase response over all frequencies."
+        },
+        {
+          "id": "D",
+          "text": "It has constant phase response over the entire z-plane."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A discrete-time all-pass system has two of its poles at 0.25[latex]\\angle 0^{\\circ}[/latex]  and 2[latex]\\angle 30^{\\circ}[/latex]. Which one of the following statements about the system is TRUE?",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "256"
+        },
+        {
+          "id": "B",
+          "text": "64"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let x(t) be a periodic function with period T = 10. The Fourier series coefficients for this\r\nseries are denoted by [latex] a_{k} [/latex], that is [latex]x(t)=\\sum_{k=-\\infty }^{\\infty }a_{k}e^{jk\\frac{2\\pi }{T}t}[/latex] The same function x(t) can also be considered function with period [latex]{T=40}'[/latex]. Let [latex]b_{k}[/latex] be the fourier series cofficients when period is taken as [latex]{T}'[/latex]. If  [latex]\\sum_{k=-\\infty}^{\\infty}|a_{k}|=16[/latex] ,then [latex]\\sum_{k=-\\infty}^{\\infty}|a_{k}| [/latex] is equal to",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418115",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following amplitude modulated signal: [latex]s(t)=cos(2000\\pi t)+4cos(2400\\pi t)+cos(2800\\pi t).[/latex] The ratio (accurate to three decimal places) of the power of the message signal to the power of the carrier signal is __________.",
+      "topic": "Communication Systems",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418116",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a binary channel code in which each codeword has a fixed length of 5 bits. The\nHamming distance between any pair of distinct codewords in this code is at least 2. The\nmaximum number of codewords such a code can contain is _________.",
+      "topic": "Information Theory and Coding",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418118",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A p-n step junction diode with a contact potential of 0.65V has a depletion width of 1[latex]\\mu[/latex]m\r\nat equilibrium. The forward voltage (in volts, correct to two decimal places) at which this\r\nwidth reduces to 0.6 [latex]\\mu[/latex]m is _______.",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418119",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A traffic signal cycles from GREEN to YELLOW, YELLOW to RED and RED to GREEN.\nIn each cycle, GREEN is turned on for 70 seconds, YELLOW is turned on for\n5 seconds and the RED is turned on for 75 seconds. This traffic light has to be implemented\nusing a finite state machine (FSM). The only input to this FSM is a clock of 5 second period.\nThe minimum number of flip-flops required to implement this FSM is _______.",
+      "topic": "Finite State Machine and Miscellaneous",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "There are two photolithography systems: one with light source of wavelength [latex]\\lambda _{1}[/latex] = 156 nm\r\n(System 1) and another with light source of wavelength [latex]\\lambda _{2}[/latex] = 325 nm (System 2). Both\r\nphotolithography systems are otherwise identical. If the minimum feature sizes that can be\r\nrealized using System1 and System2 are [latex] L_{min1} \\; and \\; L_{min2} [/latex] respectively, the ratio [latex] L_{min1}/L_{min2} [/latex](correct to two decimal places) is__________.",
+      "topic": "IC Fabrication",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A lossy transmission line has resistance per unit length R = 0.05 [latex]\\Omega [/latex] /m. The line is\r\ndistortionless and has characteristic impedance of 50 [latex]\\Omega [/latex]. The attenuation constant (in Np/m, correct to three decimal places) of the line is _______.",
+      "topic": "Transmission Lines",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider matrix [latex]A=\\begin{bmatrix} k & 2k\\\\ k^{2}-k & k^{2} \\end{bmatrix}[/latex]  and vector [latex]x=\\begin{bmatrix} x_{1}\\\\ x_{2} \\end{bmatrix}[/latex]. The number of distinct real values of k for which the equation  Ax=0 has infinitely many solutions is _______.",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex] X_{1} , X_{2} , X_{3} \\; and \\;  X_{4} [/latex] be independent normal random variables with zero mean and unit variance. The probability that [latex] X_{4} [/latex]  is the smallest among the four is _______.",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Taylor series expansion of [latex]f(x)=\\int_{0}^{x} e^{-({\\frac{t^{2}}{2}})}dt[/latex] at around x=0 has the form [latex]f(x)=a_{0}+a_{1}x+a_{2}x^{2}+...   [/latex]. The coefficient [latex]a_{2}[/latex] (correct to two decimal places) is equal to _______.",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.25"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex] c(t)=A_{c} cos(2\\pi f_{c}t) \\; and  \\; m(t)=cos(2\\pi f_{m}t) [/latex]. It is given that [latex] f_{c}>>5f_{m} [/latex]. The signal [latex] c(t) +m(t) [/latex]  is applied to the input of a non-linear device, whose output [latex] v_{o}(t) [/latex] is related to the input [latex] v_{i}(t)+bv_{i}(t) [/latex],where a and b  are positive constants. The output of the non-linear device is passed through an ideal band-pass filter with center frequency [latex] f_{c} [/latex] and bandwidth [latex] 3f_{m}[/latex] ,to produce an amplitude modulated (AM) wave. If it is desired to have the sideband power of the AM wave to be half of the carrier power, then [latex]a/b[/latex] is",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.11"
+        },
+        {
+          "id": "B",
+          "text": "0.22"
+        },
+        {
+          "id": "C",
+          "text": "0.33"
+        },
+        {
+          "id": "D",
+          "text": "0.44"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a white Gaussian noise process N(t) with two-sided power spectral density [latex] S_{N}(f)=0.5 W/Hz [/latex] as input to a filter with impulse response [latex]0.5e^{\\frac{-t^{2}}{2}}[/latex] (where t is in seconds) resulting in output Y(t). The power in Y(t) in watts is",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{3s+5}{s^{2}+4s+6}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{3s-1.875}{s^{2}+4s+6}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{4s+1.5}{s^{2}+4s+6}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{4s+1.5}{s^{2}+4s+6}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The state equation and the output equation of a control system are given below: [latex]\\dot{x}=\\begin{bmatrix} -4 & -1.5\\\\ 4 & 0 \\end{bmatrix}x+\\begin{bmatrix} 2\\\\ 0\\end{bmatrix}u,[/latex] [latex]y=\\begin{bmatrix} 1.5 & 0.625 \\end{bmatrix}x.[/latex] The transfer function representation of the system is",
+      "topic": "State Space Analysis",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]V_{R} \\gt V_{G} \\gt V_{B}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] V_{R} \\lt V_{G} \\lt V_{B}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] V_{R} = V_{G} =V_{B} [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] V_{R} \\gt V_{G} \\lt V_{B}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Red (R), Green (G) and Blue (B) Light Emitting Diodes (LEDs) were fabricated using p-n\r\njunctions of three different inorganic semiconductors having different band-gaps. The builtin\r\nvoltages of red, green and blue diodes are [latex] V_{R}, V_{G} \\; and \\; V_{B} [/latex], respectively. Assume donor and acceptor doping to be the same [latex] (N_{A} \\; and \\; N_{D} [/latex], respectively) in the p and n sides of all the three diodes. Which one of the following relationships about the built-in voltages is TRUE?",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.12"
+        },
+        {
+          "id": "B",
+          "text": "0.23"
+        },
+        {
+          "id": "C",
+          "text": "0.46"
+        },
+        {
+          "id": "D",
+          "text": "2.3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The distance (in meters) a wave has to propagate in a medium having a skin depth of 0.1 m\nso that the amplitude of the wave attenuates by 20 dB, is",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]ln(1+\\frac{y^{2}}{x^{2}})=x-1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}ln(1+\\frac{y^{2}}{x^{2}})=x-1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]ln(1+\\frac{y}{x})=x-1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{2}ln(1+\\frac{y}{x})=x-1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A curve passes through the point (x =1, y = 0) and satisfies the differential equation [latex]\\frac{dy}{dx}=\\frac{x^{2}+y^{2}}{2y} + \\frac{y}{x}[/latex]. The equation that describes the curve is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418140",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A random variable X takes values -0.5 and 0.5 with probabilities 1/4 and 3/4, respectively.\r\nThe noisy observation of X is Y = X + Z, where Z has uniform probability density over\r\nthe interval (-1, 1). X and Z are independent. If the MAP rule based detector outputs [latex]\\hat{X}[/latex]  as [latex]\\hat{X}=\\left\\{\\begin{matrix} -0.5 \\; \\; \\; Y \\lt \\alpha \\\\ 0.5 \\; \\; \\; Y \\geq \\alpha \\end{matrix}\\right.[/latex] then the value of [latex]\\alpha [/latex] (accurate to two decimal places) is _______.",
+      "topic": "Digital Communication Systems",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418141",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a unity feedback control system with the forward path transfer function [latex]G(s)=\\frac{K}{s(s+2)}[/latex] The peak resonant magnitude [latex]M_{r}[/latex], of the closed-loop frequency response is 2. The corresponding value of the gain K (correct to two decimal places) is _________.",
+      "topic": "Frequency Response Analysis",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418144",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A solar cell of area  1.0 [latex]cm^{2}[/latex] , operating at 1.0 sun intensity, has a short circuit current of\n20 mA, and an open circuit voltage of 0.65 V. Assuming room temperature operation and\nthermal equivalent voltage of 26mV, the open circuit voltage (in volts, correct to two\ndecimal places) at 0.2 sun intensity is _______.",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A junction is made between [latex] p^{-} Si [/latex] with doping density [latex] N_{A1} = 10^{15} cm^{-3}[/latex] and pSi with doping density[latex] N_{A2} = 10^{17} cm^{-3} [/latex]. Given: Boltzmann constant [latex]k = 1.38 \\times  10^{-23} JK^{-1} [/latex], electronic charge [latex] q = 1.6 \\times  10^{-19} C [/latex]. Assume 100% acceptor ionization. At room temperature (T = 300K), the magnitude of the built-in potential (in volts, correct to\r\ntwo decimal places) across this junction will be _________________.",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418148",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The cutoff frequency of [latex] TE_{01} [/latex] mode of an air filled rectangular waveguide having inner\r\ndimensions [latex]a cm \\times b cm ( a \\gt b)[/latex] is twice that of the dominant [latex] TE_{10}[/latex] mode. When the\r\nwaveguide is operated at a frequency which is 25% higher than the cutoff frequency of the\r\ndominant mode, the guide wavelength is found to be 4 cm. The value of b (in cm, correct to\r\ntwo decimal places) is _______.",
+      "topic": "Waveguides",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The position of a particle y(t) is described by the differential equation: [latex]\\frac{d^{2}y}{dt^{2}}=-\\frac{dy}{dt}-\\frac{5y}{4}[/latex] The initial conditions are y(0) = 1 and [latex]\\left.\\begin{matrix} \\frac{dy}{dt} \\end{matrix}\\right|_{t=0}=0[/latex]\r\n. The position (accurate to two decimal places) of the particle at [latex]t = \\pi[/latex] is _______.",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "1418152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]r=x^{2}+y-z[/latex] and [latex]z^{3}-xy+yz+y^{3}=1[/latex]. Assume that x and y are independent\r\nvariables. At [latex](x, y, z) = (2, -1,1)[/latex], the value (correct to two decimal places) of [latex]\\frac{\\partial r}{\\partial x}[/latex] is _________ .",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "11810614",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider p(s) = [latex]s^{3}+a_{2}s^{2}+a_{1}s+a_{0}[/latex] with all real coefficients. It is known that its derivative  [latex]{p}'(s)[/latex] has no real roots. The number of real roots of  [latex]{p}(s)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "11811114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "S1 implies S2"
+        },
+        {
+          "id": "B",
+          "text": "S1 implies S3"
+        },
+        {
+          "id": "C",
+          "text": "S2 implies S1"
+        },
+        {
+          "id": "D",
+          "text": "S3 implies S2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let M be a real 4[latex]\\times[/latex]4 matrix. Consider the following statements: S1: M has 4 linearly independent eigenvectors. S2: M has 4 distinct eigenvalues. S3: M is non-singular (invertible). Which one among the following is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "11811214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a=b/4"
+        },
+        {
+          "id": "B",
+          "text": "a=b/2"
+        },
+        {
+          "id": "C",
+          "text": "a=2b"
+        },
+        {
+          "id": "D",
+          "text": "a=4b"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]f(x,y)=\\frac{ax^{2}+by^{2}}{xy}[/latex] ,where a and b are constants. If [latex]\\frac{\\partial f}{\\partial x} = \\frac{\\partial f}{\\partial y}[/latex]  at x=1 and y=2 , then the relation between  a and b is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "11812214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider matrix [latex]A=\\begin{bmatrix} k & 2k\\\\ k^{2}-k & k^{2} \\end{bmatrix}[/latex]  and vector [latex]x=\\begin{bmatrix} x_{1}\\\\ x_{2} \\end{bmatrix}[/latex]. The number of distinct real values of k for which the equation  Ax=0 has infinitely many solutions is _______.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "11812314",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "0.25"
+        },
+        {
+          "id": "C",
+          "text": "0.45"
+        },
+        {
+          "id": "D",
+          "text": "0.75"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex] X_{1} , X_{2} , X_{3} \\; and \\;  X_{4} [/latex] be independent normal random variables with zero mean and unit variance. The probability that [latex] X_{4} [/latex]  is the smallest among the four is _______.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "11812414",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "0.05"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Taylor series expansion of [latex]f(x)=\\int_{0}^{x} e^{-({\\frac{t^{2}}{2}})}dt[/latex] at around x=0 has the form [latex]f(x)=a_{0}+a_{1}x+a_{2}x^{2}+...   [/latex]. The coefficient [latex]a_{2}[/latex] (correct to two decimal places) is equal to _______.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "11813414",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]ln(1+\\frac{y^{2}}{x^{2}})=x-1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}ln(1+\\frac{y^{2}}{x^{2}})=x-1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]ln(1+\\frac{y}{x})=x-1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{2}ln(1+\\frac{y}{x})=x-1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A curve passes through the point (x =1, y = 0) and satisfies the differential equation [latex]\\frac{dy}{dx}=\\frac{x^{2}+y^{2}}{2y} + \\frac{y}{x}[/latex]. The equation that describes the curve is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "11815014",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-0.21"
+        },
+        {
+          "id": "B",
+          "text": "-0.5"
+        },
+        {
+          "id": "C",
+          "text": "-0.01"
+        },
+        {
+          "id": "D",
+          "text": "-0.9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The position of a particle y(t) is described by the differential equation: [latex]\\frac{d^{2}y}{dt^{2}}=-\\frac{dy}{dt}-\\frac{5y}{4}[/latex] The initial conditions are y(0) = 1 and [latex]\\left.\\begin{matrix} \\frac{dy}{dt} \\end{matrix}\\right|_{t=0}=0[/latex]\r. The position (accurate to two decimal places) of the particle at [latex]t = \\pi[/latex] is _______.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "EC",
+      "id": "11815214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4.5"
+        },
+        {
+          "id": "B",
+          "text": "5.4"
+        },
+        {
+          "id": "C",
+          "text": "2.4"
+        },
+        {
+          "id": "D",
+          "text": "3.5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]r=x^{2}+y-z[/latex] and [latex]z^{3}-xy+yz+y^{3}=1[/latex]. Assume that x and y are independent\r\nvariables. At [latex](x, y, z) = (2, -1,1)[/latex], the value (correct to two decimal places) of [latex]\\frac{\\partial r}{\\partial x}[/latex] is _________ .",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    }
+  ],
+  "schema_version": 1
+}

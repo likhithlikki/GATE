@@ -1,0 +1,935 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1411101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Re([latex]\\vec{P}[/latex]) remains constant at any radial distance from the source"
+        },
+        {
+          "id": "B",
+          "text": "Re([latex]\\vec{P}[/latex]) increases with increasing radial distance from the source"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\oint \\oint_{S}Re(\\vec{P}).\\hat{n} dS[/latex] remains constant at any radial distance from the source"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\oint \\oint_{S}Re(\\vec{P}).\\hat{n} dS[/latex] decreases with increasing radial distance form the source"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following statements regarding the complex Poynting vector [latex]\\vec{P}[/latex] for the power radiated by a point source in an infinite homogeneous and lossless medium. Re([latex]\\vec{P}[/latex]) denotes the real part of [latex]\\vec{P}[/latex], S denotes a spherical surface whose centre is at the point source, and [latex]\\hat{n}[/latex]\r\n denotes the unit surface normal on S. Which of the following statements is TRUE?",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0.8 \\times 10^{8} m/s[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1.2 \\times 10^{8} m/s[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1.6 \\times 10^{8} m/s[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3 \\times 10^{8} m/s[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A transmission line of characteristic impedance 50 W is terminated by a 50 [latex]\\Omega[/latex] load. When excited by a sinusoidal voltage source at 10 GHz, the phase\ndifference between two points spaced 2 mm apart on the line is found to [latex]\\frac{\\pi }{4}[/latex] radians. The phase velocity of the wave along the line is",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An analog signal is band-limited to 4 kHz, sampled at the Nyquist rate and\nthe samples are quantized into 4 levels. The quantized levels are assumed to be\nindependent and equally probable. If we transmit two quantized samples per\nsecond, the information rate is ________ bits / second.",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "stable and causal"
+        },
+        {
+          "id": "B",
+          "text": "causal but not stable"
+        },
+        {
+          "id": "C",
+          "text": "stable but not causal"
+        },
+        {
+          "id": "D",
+          "text": "unstable and non-causal"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A system is defined by its impulse response [latex]h(n) =2^{n} u(n - 2)[/latex]. The system is",
+      "topic": "LTI Systems Continuous and Discrete",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\alpha e^{-at}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\alpha^{-1} e^{-at}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](1-\\alpha ^{-1})e^{at}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](1-\\alpha)e^{-at}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If the unit step response of a network is [latex](1-e^{-at})[/latex], then its unit impulse response is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "only the electric field"
+        },
+        {
+          "id": "B",
+          "text": "only the carrier concentration gradient"
+        },
+        {
+          "id": "C",
+          "text": "both the electric field and the carrier concentration"
+        },
+        {
+          "id": "D",
+          "text": "both the electric field and the carrier concentration gradient"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Drift current in the semiconductors depends upon",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "reverse bias region below the breakdown voltage"
+        },
+        {
+          "id": "B",
+          "text": "reverse breakdown region"
+        },
+        {
+          "id": "C",
+          "text": "forward bias region"
+        },
+        {
+          "id": "D",
+          "text": "forward bias constant current mode"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A Zener diode, when used in voltage stabilization circuits, is biased in",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3 V"
+        },
+        {
+          "id": "B",
+          "text": "5 V"
+        },
+        {
+          "id": "C",
+          "text": "10 V"
+        },
+        {
+          "id": "D",
+          "text": "15 V"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a closed surface S surrounding volume V. If [latex]\\vec{r}[/latex] is the position vector of a point inside S, with [latex]\\hat{n}[/latex] the unit normal on S, the value of the integral [latex]\\oint \\oint 5\\hat{r}\\vec{n} dS[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The [latex]TM_{10}[/latex] mode of the wave does not exist"
+        },
+        {
+          "id": "B",
+          "text": "The [latex]TE_{10}[/latex] mode of the wave does not exist"
+        },
+        {
+          "id": "C",
+          "text": "The [latex]TM_{10}[/latex] and [latex]TE_{10}[/latex] the modes both exist and have the same cut-off frequencies"
+        },
+        {
+          "id": "D",
+          "text": "The [latex]TM_{10}[/latex] and [latex]TM_{01}[/latex] modes both exist and have the same cut-off frequencies"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The modes in a rectangular waveguide are denoted by [latex]\\frac{TE_{mn}}{TM_{mn}}[/latex]  where\nm and n are the eigen numbers along the larger and smaller dimensions of the\nwaveguide respectively. Which one of the following statements is TRUE?",
+      "topic": "Waveguides",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x=ce^{-ky}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x=ke^{cy}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x=ce^{kx}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x=ce^{-kx}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The solution of the differential equation [latex]\\frac{dy}{dx}=ky,y(0)=c[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "dc term"
+        },
+        {
+          "id": "B",
+          "text": "cosine terms"
+        },
+        {
+          "id": "C",
+          "text": "sine terms"
+        },
+        {
+          "id": "D",
+          "text": "odd harmonic terms"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The trigonometric Fourier series of an even function does not have the",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "increases by 60 mV"
+        },
+        {
+          "id": "B",
+          "text": "decreases by 60 mV"
+        },
+        {
+          "id": "C",
+          "text": "increases by 25 mV"
+        },
+        {
+          "id": "D",
+          "text": "decreases by 25 mV"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A silicon PN junction is forward biased with a constant current at room\ntemperature. When the temperature is increased by [latex]10^{\\circ}[/latex]\nC, the forward bias\nvoltage across the PN junction",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/10[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]4/5[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the integral [latex]\\oint_{c}\\frac{-3z+4}{(z^{4}+4z+5)}[/latex] dz where c is the circle |z| = 1 is given by",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "250 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "(19.23 + j46.15) [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "(19.23 - j 46.15) [latex]\\Omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A transmission line of characteristic impedance 50[latex]\\Omega[/latex] is terminated in a load\r\nimpedance [latex]Z_{L}[/latex]. The VSWR of the line is measured as 5 and the first of the\r\nvoltage maxima in the line is observed at a distance of [latex]\\frac{\\lambda }{4}[/latex] from the load. The value of [latex]Z_{L}[/latex] is",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]D_{A}=Q_{B}, D_{B}=Q_{A}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]D_{A}=\\bar{Q_{A}}, D_{B}=\\bar{Q_{B}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]D_{A}=(Q_{A}\\bar{Q_{B}}+\\bar{Q_{A}}Q_{B}), D_{B}=Q_{A}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]D_{A}=(Q_{A}Q_{B}+\\bar{Q_{A}} \\bar{Q_{B}}), D_{B}=\\bar{Q_{B}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Two D flip-flops are connected as a synchronous counter that goes through the\r\nfollowing [latex]Q_{B}Q_{A}[/latex] sequence 00 [latex]\\rightarrow[/latex]\r\n11 [latex]\\rightarrow[/latex]\r\n 01 [latex]\\rightarrow[/latex]\r\n 10 [latex]\\rightarrow[/latex]\r\n 00 [latex]\\rightarrow[/latex] .... The combination to the inputs [latex]D_A \\; and \\; D_B[/latex] are",
+      "topic": "Sequential Circuits",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[1-exp(-2t)]u(t) + u(t+6)"
+        },
+        {
+          "id": "B",
+          "text": "[1-exp(-2t)]u(t) + u(t-6)"
+        },
+        {
+          "id": "C",
+          "text": "0.5[1-exp(- 2t)]u(t) + u(t+6)"
+        },
+        {
+          "id": "D",
+          "text": "0.5[1-exp(-2t)]u(t) + u(t-6)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An input x(t)=exp(-2t)u(t)+[latex]\\delta[/latex](t-6) is applied to an LTI system with\r\nimpulse response h(t)=u(t). The output is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.98 mA"
+        },
+        {
+          "id": "B",
+          "text": "0.99 mA"
+        },
+        {
+          "id": "C",
+          "text": "1.0 mA"
+        },
+        {
+          "id": "D",
+          "text": "1.01 mA"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a BJT the common base current gain [latex]\\alpha[/latex] = 0.98 and the collector base\r\njunction reverse bias saturation current [latex]I_{CO} = 0.6 \\mu A[/latex]. This BJT is connected in the common emitter mode and operated in the active region with a base drive\r\ncurrent [latex]I_{B}= 20 \\mu A[/latex]. The collector current [latex]I_{C}[/latex] for this mode of operation is",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0 , 2"
+        },
+        {
+          "id": "B",
+          "text": "2 , 0"
+        },
+        {
+          "id": "C",
+          "text": "0 , 2/7"
+        },
+        {
+          "id": "D",
+          "text": "2/7 , 0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If [latex]F(s)=L[f(t)]=\\frac{2(s+1)}{s^{2}+4s+7}[/latex] then the initial and final values of [latex]f(t)[/latex] are respectively",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.306"
+        },
+        {
+          "id": "B",
+          "text": "0.739"
+        },
+        {
+          "id": "C",
+          "text": "1.694"
+        },
+        {
+          "id": "D",
+          "text": "2.306"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A numerical solution of the equation [latex]f(x)=x + \\sqrt{x}-3= 0[/latex] can be obtained using\r\nNewton- Raphson method. If the starting value is [latex]x = 2[/latex] for the iteration, the\r\nvalue of [latex]x[/latex] that is to be used in the next step is",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\varepsilon _{r}=3,E_{p}=120 \\pi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\varepsilon _{r}=3,E_{p}=360 \\pi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\varepsilon _{r}=9,E_{p}=360 \\pi[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\varepsilon _{r}=9,E_{p}=120 \\pi[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The electric and magnetic fields for a TEM wave of frequency 14 GHz in a\r\nhomogeneous medium of relative permittivity er and relative permeability [latex]\\mu _{r}[/latex]=1 are given by [latex]\\vec{E}=E_{p}e^{j(\\omega t-280\\pi t)}\\hat{u}_{z} V/m [/latex] [latex] \\vec{H}=3e^{j(\\omega t-280\\pi y)}\\hat{u}_{x} V/m[/latex] Assuming the speed of light in free space to be [latex]3 \\times 10^{8}[/latex] m/s, the intrinsic impedance of free space to be 120[latex]\\pi[/latex], the relative permittivity [latex]\\varepsilon_{r}[/latex] of the medium and the electric field amplitude [latex]E_{p}[/latex] are",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5 ms  [latex] \\lt [/latex]  RC  [latex] \\lt [/latex]  1 ms"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1 \\mu s  \\lt [/latex]  [latex] \\lt [/latex]  RC  [latex] \\lt [/latex]  0.5 ms"
+        },
+        {
+          "id": "C",
+          "text": "RC  [latex] \\lt  \\lt \\mu s  [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "RC [latex]\\gt \\gt[/latex] 0.5 ms"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A message signal [latex] m(t) = \\cos 2000 \\pi t + 4 \\cos 4000 \\pi t [/latex] modulates the carrier\r\n[latex]c(t) = \\cos 2 \\pi f_{c} t[/latex] where [latex]f_{c}[/latex]=1MHz to produce an AM signal. For demodulating the generated AM signal using an envelope detector, the time constant RC of the detector circuit should satisfy",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0, 1-j3"
+        },
+        {
+          "id": "B",
+          "text": "0, 1+j3"
+        },
+        {
+          "id": "C",
+          "text": "1+j3, 5"
+        },
+        {
+          "id": "D",
+          "text": "1-j3, 5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The first six points of the 8-point DFT of a real valued sequence are 5, 1-j3, 0, 3-j4, 0 and 3+j4. The last two points of the DFT are respectively",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\lambda =6 , \\mu = 20[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\lambda =6 , \\mu \\neq 20[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\lambda \\neq 6 , \\mu = 20[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\lambda \\neq 6 , \\mu = 20[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The system of equations x + y + z = 6 x + 4y + 6y = 20 x + 4y + [latex]\\lambda[/latex]z =[latex]\\mu[/latex] has NO solution for values of [latex]\\lambda[/latex] and [latex]\\mu[/latex]\n given by",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "1411147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2/36[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2/6[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]5/12[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A fair dice is tossed two times. The probability that the second toss results in a\nvalue that is higher than the first toss is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "11111214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3 V"
+        },
+        {
+          "id": "B",
+          "text": "5 V"
+        },
+        {
+          "id": "C",
+          "text": "10 V"
+        },
+        {
+          "id": "D",
+          "text": "15 V"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a closed surface S surrounding volume V. If [latex]\\vec{r}[/latex] is the position vector of a point inside S, with [latex]\\hat{n}[/latex] the unit normal on S, the value of the integral [latex]\\oint \\oint 5\\hat{r}\\vec{n} dS[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "11111414",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x=ce^{-ky}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x=ke^{cy}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x=ce^{kx}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x=ce^{-kx}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The solution of the differential equation [latex]\\frac{dy}{dx}=ky,y(0)=c[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "11112514",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/10[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]4/5[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the integral [latex]\\oint_{c}\\frac{-3z+4}{(z^{4}+4z+5)}[/latex] dz where c is the circle |z| = 1 is given by",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "11113614",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.306"
+        },
+        {
+          "id": "B",
+          "text": "0.739"
+        },
+        {
+          "id": "C",
+          "text": "1.694"
+        },
+        {
+          "id": "D",
+          "text": "2.306"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A numerical solution of the equation [latex]f(x)=x + \\sqrt{x}-3= 0[/latex] can be obtained using\r\nNewton- Raphson method. If the starting value is [latex]x = 2[/latex] for the iteration, the\r\nvalue of [latex]x[/latex] that is to be used in the next step is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "11114614",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\lambda =6 , \\mu = 20[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\lambda =6 , \\mu \\neq 20[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\lambda \\neq 6 , \\mu = 20[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\lambda \\neq 6 , \\mu = 20[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The system of equations x + y + z = 6 x + 4y + 6y = 20 x + 4y + [latex]\\lambda[/latex]z =[latex]\\mu[/latex] has NO solution for values of [latex]\\lambda[/latex] and [latex]\\mu[/latex]\n given by",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "EC",
+      "id": "11114714",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2/36[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2/6[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]5/12[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A fair dice is tossed two times. The probability that the second toss results in a\nvalue that is higher than the first toss is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    }
+  ],
+  "schema_version": 1
+}

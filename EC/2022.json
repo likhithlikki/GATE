@@ -1,0 +1,1050 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1422102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a unique solution for x"
+        },
+        {
+          "id": "B",
+          "text": "infinitely many solutions for x"
+        },
+        {
+          "id": "C",
+          "text": "no solutions for x"
+        },
+        {
+          "id": "D",
+          "text": "exactly two solutions for x"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a system of linear equations [latex]Ax=b[/latex], where [latex]A=\\begin{bmatrix}\n1 & -\\sqrt{2} & 3\\\\ \n -1& \\sqrt{2}& -3\n\\end{bmatrix},b=\\begin{bmatrix}\n1\\\\ \n3\n\\end{bmatrix}[/latex] This system of equations admits ______.",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{\\pi}{2j}\\omega e^{-|\\omega|}  [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\pi}{2}\\omega e^{-|\\omega|}  [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\pi}{2j} e^{-|\\omega|}  [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\pi}{2} e^{-|\\omega|}  [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The Fourier transform [latex]X(j\\omega )[/latex] of the signal [latex]x(t)=\\frac{t}{(1+t^2)^2}[/latex] is   _________.",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0.37 \\times 10^{14} cm^{-3}  [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]0.63 \\times 10^{13} cm^{-3}  [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]3.7 \\times 10^{14} cm^{-3}  [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0^{3} cm^{-3}  [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a long rectangular bar of direct bandgap p-type semiconductor. The\nequilibrium hole density is [latex]10^{17}cm^{-3}[/latex] and the intrinsic carrier concentration is [latex]10^{10}cm^{-3}[/latex]. Electron and hole diffusion lengths are [latex]2\\mu m[/latex]and [latex]1\\mu m[/latex], respectively.\nThe left side of the bar ([latex]x=0[/latex]) is uniformly illuminated with a laser having photon\nenergy greater than the bandgap of the semiconductor. Excess electron-hole pairs\nare generated ONLY at [latex]x=0[/latex] because of the laser. The steady state electron density\nat [latex]x=0[/latex] is [latex]10^{14}cm^{-3}[/latex]\n due to laser illumination. Under these conditions and ignoring\nelectric field, the closest approximation (among the given options) of the steady state\nelectron density at [latex]x=2 \\mu m[/latex], is _____",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "226 meV"
+        },
+        {
+          "id": "B",
+          "text": "174 meV"
+        },
+        {
+          "id": "C",
+          "text": "218 meV"
+        },
+        {
+          "id": "D",
+          "text": "182 meV"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a non-degenerate bulk semiconductor with electron density [latex]n=10^{16}cm^{-3}[/latex], the\nvalue of [latex]E_C-E_{Fn}=200meV[/latex], where [latex]E_C[/latex] and [latex]E_{Fn}[/latex] denote the bottom of the\nconduction band energy and electron Fermi level energy, respectively. Assume\nthermal voltage as 26 meV and the intrinsic carrier concentration is [latex]10^{10}cm^{-3}[/latex]. For [latex]n=0.5 \\times 10^{16}cm^{-3}[/latex], the closest approximation of the value of ([latex]E_C-E_{Fn}[/latex]), among\nthe given options, is ______.",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2 \\sin (t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2 \\sin (t+\\pi)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2 \\sin (t+\\pi /2)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a circuit, there is a series connection of an ideal resistor and an ideal capacitor.\nThe conduction current (in Amperes) through the resistor is [latex]2\\sin (t+\\pi/2) [/latex].\nThe displacement current (in Amperes) through the capacitor is _________.",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\xi =\\frac{1}{\\sqrt{2a}},\\eta =\\frac{1}{\\sqrt{2b}} [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\xi =\\frac{1}{\\sqrt{a}},\\eta =0 [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\xi =0,\\eta =0 [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\xi =\\frac{1}{\\sqrt{a}},\\eta =\\frac{1}{\\sqrt{b}} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following partial differential equation (PDE) [latex]a\\frac{\\partial^2 f(x,y)}{\\partial x^2} +b\\frac{\\partial^2 f(x,y)}{\\partial y^2}=f(x,y)[/latex] ,\nwhere [latex]a[/latex]and [latex]b[/latex] are distinct positive real numbers. Select the combination(s) of values\nof the real parameters [latex]\\xi [/latex] and [latex]\\eta  [/latex] such that [latex]f(x,y)=e^{(\\xi x+\\eta y)}  [/latex] is a solution of the\ngiven PDE.",
+      "topic": "Engineering Mathematics",
+      "type": "MSQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x+z+xy"
+        },
+        {
+          "id": "B",
+          "text": "(x+y)(x+z)"
+        },
+        {
+          "id": "C",
+          "text": "x+xy+yz"
+        },
+        {
+          "id": "D",
+          "text": "x+xz+xy"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Select the Boolean function(s) equivalent to [latex]x+yz[/latex], where [latex]x,y[/latex], and [latex]z[/latex] are Boolean\nvariables, and + denotes logical OR operation.",
+      "topic": "Digital Circuits",
+      "type": "MSQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Noise Margin High [latex](NM_H)[/latex] is always equal to the Noise Margin Low [latex](NM_L)[/latex] irrespective of the sizing of transistors."
+        },
+        {
+          "id": "B",
+          "text": "Dynamic power consumption during switching is zero."
+        },
+        {
+          "id": "C",
+          "text": "For a logical high input under steady state, the nMOSFET is in the linear regime of\noperation."
+        },
+        {
+          "id": "D",
+          "text": "Mobility of electrons never influences the switching speed of the NOT gate."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Select the correct statement(s) regarding CMOS implementation of NOT gates.",
+      "topic": "Logic Families",
+      "type": "MSQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]H(X)\\leq \\log _2 K bits[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]H(X)\\leq H(2X)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]H(X)\\leq H(X^2)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]H(X)\\leq H(2^X)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]H(X)[/latex] denote the entropy of a discrete random variable [latex]X[/latex] taking [latex]K[/latex] possible\ndistinct real values. Which of the following statements is/are necessarily true?",
+      "topic": "Digital Communication Systems",
+      "type": "MSQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f(x,t)=e^{-(x-100t)^2}+e^{-(x+100t)^2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f(x,t)=e^{-(x-100t)}+0.5e^{-(x+1000t)}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f(x,t)=e^{-(x-100t)}+\\sin (x+100t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f(x,t)=e^{j100 \\pi(-100x+t)}+e^{j100 \\pi(100x+t)}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following wave equation, [latex] \\frac{\\partial^2 f(x,t)}{\\partial t^2}=10000\\frac{\\partial^2 f(x,t)}{\\partial x^2} [/latex] Which of the given options is/are solution(s) to the given wave equation?",
+      "topic": "Uniform Plane Waves",
+      "type": "MSQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex] x_1(t)=e^{-t}u(t) [/latex] and [latex] x_2(t)=u(t)-u(t-2) [/latex], where [latex] u(\\cdot) [/latex] denotes the unit step\nfunction.\nIf [latex] y(t) [/latex] denotes the convolution of [latex] x_1(t)[/latex] and [latex] x_2(t)[/latex], then [latex] \\lim_{t\\rightarrow \\infty }y(t)=[/latex] _________\n(rounded off to one decimal place).",
+      "topic": "LTI Systems Continuous and Discrete",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A symbol stream contains alternate QPSK and 16-QAM symbols. If symbols from\nthis stream are transmitted at the rate of 1 mega-symbols per second, the raw\n(uncoded) data rate is _______ mega-bits per second (rounded off to one decimal\nplace).",
+      "topic": "Digital Communication Systems",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]e[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1+e}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The function [latex] f(x)=8 \\log _e x-x^2+3[/latex] attains its minimum over the interval\n[latex] [1,e][/latex]  at [latex] x=[/latex] _________. (Here [latex]  \\log _e x[/latex] is the natural logarithm of [latex] x=[/latex].)",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0,\\alpha ,\\beta [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]0,\\alpha+\\beta ,\\alpha-\\beta[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0,\\frac{\\alpha +\\beta}{2},\\sqrt{\\alpha \\beta } [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0,0,\\sqrt{\\alpha ^2+ \\beta ^2} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex] \\alpha ,\\beta [/latex] be two non-zero real numbers and [latex]v_1,v_2[/latex] be two non-zero real vectors of\nsize 3 x 1. Suppose that [latex]v_1[/latex] and [latex]v_2[/latex] satisfy [latex]v_1^Tv_2=0,v_1^Tv_1=1[/latex], and [latex]v_2^Tv_2=1[/latex]. Let [latex]A[/latex] be the 3x3 matrix given by: [latex] A=\\alpha v_1v_1^T+ \\beta v_2v_2^T[/latex] The eigenvalues of [latex]A[/latex] are __________.",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "40 mA"
+        },
+        {
+          "id": "B",
+          "text": "20 mA"
+        },
+        {
+          "id": "C",
+          "text": "15 mA"
+        },
+        {
+          "id": "D",
+          "text": "5 mA"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider an ideal long channel nMOSFET (enhancement-mode) with gate length [latex] 10\\mu m[/latex] and width [latex] 100\\mu m[/latex]. The product of electron mobility ([latex] \\mu _n[/latex]) and oxide\ncapacitance per unit area ([latex] C_{OX}[/latex]) is [latex]\\mu _n C_{OX}=1mA/V^2[/latex]. The threshold voltage of the\ntransistor is 1 V. For a gate-to-source voltage [latex]V_{GS}=[2-\\sin (2t)]V [/latex] and drain-tosource voltage [latex]V_{DS}=1V [/latex] (substrate connected to the source), the maximum value\nof the drain-to-source current is ________.",
+      "topic": "FET and MOSFET Analysis",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-4\\leq K\\leq \\frac{9}{4}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-3\\leq K\\leq \\frac{9}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-6\\leq K\\leq \\frac{5}{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-5\\leq K\\leq 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider an even polynomial [latex]p(s)  [/latex] given by [latex]p(s)=s^4+5s^2+4+K [/latex], where [latex]K[/latex] is an unknown real parameter. The complete range of[latex]K[/latex] for which [latex]p(s)  [/latex] has\nall its roots on the imaginary axis is ________.",
+      "topic": "Stability Analysis",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]c=1,d=-1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]c=2,d=1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]c=0.5,d=-10[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]c=1,d=-2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following series: [latex]\\sum_{n=1}^{\\infty }\\frac{n^d}{c^n} [/latex] For which of the following combinations of [latex]c,d[/latex] values does this series converge?",
+      "topic": "Engineering Mathematics",
+      "type": "MSQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Electrons and holes are of equal density in an intrinsic semiconductor at equilibrium."
+        },
+        {
+          "id": "B",
+          "text": "Collector region is generally more heavily doped than Base region in a BJT."
+        },
+        {
+          "id": "C",
+          "text": "Total current is spatially constant in a two terminal electronic device in dark under\nsteady state condition."
+        },
+        {
+          "id": "D",
+          "text": "Mobility of electrons always increases with temperature in Silicon beyond 300 K."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Select the CORRECT statement(s) regarding semiconductor devices.",
+      "topic": "Electronic Devices",
+      "type": "MSQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422139",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "NAND logic can be implemented"
+        },
+        {
+          "id": "B",
+          "text": "OR logic cannot be implemented"
+        },
+        {
+          "id": "C",
+          "text": "NOR logic can be implemented"
+        },
+        {
+          "id": "D",
+          "text": "AND logic cannot be implemented"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a Boolean gate (D) where the output [latex]Y[/latex] is related to the inputs [latex]A[/latex] and [latex]B[/latex] as,\n[latex]Y=A+\\bar{B} [/latex], where + denotes logical OR operation. The Boolean inputs '0' and '1'\nare also available separately. Using instances of only D gates and inputs '0' and '1',\n__________ (select the correct option(s)).",
+      "topic": "Logic Gates",
+      "type": "MSQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422140",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y_1(t)[/latex] and [latex]y_2(t)[/latex] have the same percentage peak overshoot."
+        },
+        {
+          "id": "B",
+          "text": "[latex]y_1(t)[/latex] and [latex]y_2(t)[/latex] have the same steady-state value."
+        },
+        {
+          "id": "C",
+          "text": "[latex]y_1(t)[/latex] and [latex]y_2(t)[/latex] have the same damped frequency of oscillation."
+        },
+        {
+          "id": "D",
+          "text": "[latex]y_1(t)[/latex] and [latex]y_2(t)[/latex] have the same 2% settling time."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Two linear time-invariant systems with transfer functions [latex]G_1(s)=\\frac{10}{s^2+s+1}, G_2(s)=\\frac{10}{s^2+s\\sqrt{10}+10} [/latex] have unit step responses [latex]y_1(t) [/latex] and [latex]y_2(t) [/latex], respectively. Which of the following\nstatements is/are true?",
+      "topic": "Time Response Analysis",
+      "type": "MSQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]6 \\times 10^{15}Hz[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]0.5 \\times 10^{12}Hz[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]8 \\times 10^{14}Hz[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1 \\times 10^{13}Hz[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A waveguide consists of two infinite parallel plates (perfect conductors) at a\nseparation of [latex] 10^{-4}[/latex] cm, with air as the dielectric. Assume the speed of light in air to\nbe [latex]3 \\times  10^{8}[/latex] m/s. The frequency/frequencies of TM waves which can propagate in\nthis waveguide is/are _______.",
+      "topic": "Waveguides",
+      "type": "MSQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a vector [latex] \\bar{x}=\\left [x[0],x[1],...,x[7]  \\right ][/latex], the 8-point discrete Fourier transform (DFT)\nis denoted by [latex] \\bar{X}=DFT(\\bar{x})=\\left [X[0],X[1],...,X[7]  \\right ][/latex], where [latex] X[k]=\\sum_{n=0}^{7}x[n]exp\\left ( -j\\frac{2 \\pi}{8}nk \\right )[/latex] Here, [latex] j=\\sqrt{-1}[/latex]. If [latex] \\bar{x}==[1,0,0,0,2,0,0,0][/latex] and [latex] \\bar{y}=DFT(DFT(\\bar{x}))[/latex], then the value\nof [latex]y[0][/latex] is _________ (rounded off to one decimal place).",
+      "topic": "Signals and Systems",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider communication over a memoryless binary symmetric channel using a\n(7, 4) Hamming code. Each transmitted bit is received correctly with probability [latex] (1-\\epsilon ) [/latex], and flipped with probability [latex] \\epsilon  [/latex]. For each codeword transmission, the receiver\nperforms minimum Hamming distance decoding, and correctly decodes the message\nbits if and only if the channel introduces at most one bit error. For [latex] \\epsilon =0.1 [/latex], the probability that a transmitted codeword is decoded correctly is\n_________ (rounded off to two decimal places).",
+      "topic": "Information Theory and Coding",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a channel over which either symbol [latex] x_A [/latex] or symbol [latex] x_B [/latex] is transmitted. Let the\noutput of the channel Y be the input to a maximum likelihood (ML) detector at the\nreceiver. The conditional probability density functions for Y given [latex] x_A [/latex]and [latex] x_B [/latex] are: [latex] f_{Y|x_A}(y)=e^{-(y+1)}u(y+1), [/latex] [latex] f_{Y|x_B}(y)=e^{(y-1)}(1-u(y-1)), [/latex] where [latex] u(\\cdot ) [/latex] is the standard unit step function. The probability of symbol error for this\nsystem is _________ (rounded off to two decimal places).",
+      "topic": "Digital Communication Systems",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In an electrostatic field, the electric displacement density vector, [latex] \\vec{D}  [/latex], is given by [latex] \\vec{D}(x,y,z)=(x^3\\vec{i}+y^3\\vec{j}+xy^2\\vec{k})C/m^2  [/latex] ,\nwhere [latex] \\vec{i},\\vec{j},\\vec{k}  [/latex] are the unit vectors along x-axis, y-axis, and z-axis, respectively.\nConsider a cubical region R centered at the origin with each side of length 1 m, and\nvertices at ([latex]\\pm 0.5 m, \\pm 0.5 m, \\pm 0.5 m  [/latex]). The electric charge enclosed within R is\n_________ C (rounded off to two decimal places).",
+      "topic": "Electromagnetics",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "neither / or"
+        },
+        {
+          "id": "B",
+          "text": "either / nor"
+        },
+        {
+          "id": "C",
+          "text": "neither / nor"
+        },
+        {
+          "id": "D",
+          "text": "also / but"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Mr. X speaks _________ Japanese _________ Chinese.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "500"
+        },
+        {
+          "id": "B",
+          "text": "1000"
+        },
+        {
+          "id": "C",
+          "text": "1500"
+        },
+        {
+          "id": "D",
+          "text": "2000"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A sum of money is to be distributed among P, Q, R, and S in the\nproportion 5 : 2 : 4 : 3, respectively. If R gets Rs. 1000 more than S, what is the share of Q (in Rs.)?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.097222222"
+        },
+        {
+          "id": "B",
+          "text": "02:40"
+        },
+        {
+          "id": "C",
+          "text": "04:20"
+        },
+        {
+          "id": "D",
+          "text": "0.261111111"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A trapezium has vertices marked as P, Q, R and S (in that order anticlockwise).\nThe side PQ is parallel to side SR. Further, it is given that, PQ = 11 cm, QR = 4 cm, RS = 6 cm and SP = 3 cm. What is the shortest distance between PQ and SR (in cm)?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Using chemicals to kill mosquitoes is better than using genetically modified\nmosquitoes because genetic engineering is dangerous"
+        },
+        {
+          "id": "B",
+          "text": "Using genetically modified mosquitoes is better than using chemicals to kill\nmosquitoes because they do not have any side effects"
+        },
+        {
+          "id": "C",
+          "text": "Both using genetically modified mosquitoes and chemicals have undesired\nconsequences and can be dangerous"
+        },
+        {
+          "id": "D",
+          "text": "Using chemicals to kill mosquitoes may have undesired consequences but it is\nnot clear if using genetically modified mosquitoes has any negative\nconsequence"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Mosquitoes pose a threat to human health. Controlling mosquitoes using\nchemicals may have undesired consequences. In Florida, authorities have used\ngenetically modified mosquitoes to control the overall mosquito population. It\nremains to be seen if this novel approach has unforeseen consequences. Which one of the following is the correct logical inference based on the\ninformation in the above passage?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422162",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] x\\leq -4 [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] -4 \\lt x\\leq 4 [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] 4 \\lt x\\lt 5 [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] x\\geq 5 [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following inequalities. [latex](i) 2x-1\\gt7[/latex] [latex](ii) 2x-9 \\lt 1[/latex] Which one of the following expressions below satisfies the above two\ninequalities?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "[latex] 4\\sqrt{2} [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "[latex] 8\\sqrt{2} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Four points P(0, 1), Q(0,-3), R(-2,-1), and S(2, -1) represent the vertices\nof a quadrilateral. What is the area enclosed by the quadrilateral?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "1422164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "R"
+        },
+        {
+          "id": "B",
+          "text": "P"
+        },
+        {
+          "id": "C",
+          "text": "Q"
+        },
+        {
+          "id": "D",
+          "text": "T"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a class of five students P, Q, R, S and T, only one student is known to have\ncopied in the exam. The disciplinary committee has investigated the situation\nand recorded the statements from the students as given below. Statement of P: R has copied in the exam. Statement of Q: S has copied in the exam. Statement of R: P did not copy in the exam. Statement of S: Only one of us is telling the truth. Statement of T: R is telling the truth. The investigating team had authentic information that S never lies. Based on the information given above, the person who has copied in the exam is",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "12210214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a unique solution for x"
+        },
+        {
+          "id": "B",
+          "text": "infinitely many solutions for x"
+        },
+        {
+          "id": "C",
+          "text": "no solutions for x"
+        },
+        {
+          "id": "D",
+          "text": "exactly two solutions for x"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a system of linear equations [latex]Ax=b[/latex], where [latex]A=\\begin{bmatrix}\n1 & -\\sqrt{2} & 3\\\\ \n -1& \\sqrt{2}& -3\n\\end{bmatrix},b=\\begin{bmatrix}\n1\\\\ \n3\n\\end{bmatrix}[/latex] This system of equations admits ______.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "12211514",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\xi =\\frac{1}{\\sqrt{2a}},\\eta =\\frac{1}{\\sqrt{2b}} [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\xi =\\frac{1}{\\sqrt{a}},\\eta =0 [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\xi =0,\\eta =0 [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\xi =\\frac{1}{\\sqrt{a}},\\eta =\\frac{1}{\\sqrt{b}} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following partial differential equation (PDE) [latex]a\\frac{\\partial^2 f(x,y)}{\\partial x^2} +b\\frac{\\partial^2 f(x,y)}{\\partial y^2}=f(x,y)[/latex] ,\nwhere [latex]a[/latex]and [latex]b[/latex] are distinct positive real numbers. Select the combination(s) of values\nof the real parameters [latex]\\xi [/latex] and [latex]\\eta  [/latex] such that [latex]f(x,y)=e^{(\\xi x+\\eta y)}  [/latex] is a solution of the\ngiven PDE.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "12212614",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]e[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1+e}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The function [latex] f(x)=8 \\log _e x-x^2+3[/latex] attains its minimum over the interval\n[latex] [1,e][/latex]  at [latex] x=[/latex] _________. (Here [latex]  \\log _e x[/latex] is the natural logarithm of [latex] x=[/latex].)",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "12212714",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0,\\alpha ,\\beta [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]0,\\alpha+\\beta ,\\alpha-\\beta[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0,\\frac{\\alpha +\\beta}{2},\\sqrt{\\alpha \\beta } [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0,0,\\sqrt{\\alpha ^2+ \\beta ^2} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex] \\alpha ,\\beta [/latex] be two non-zero real numbers and [latex]v_1,v_2[/latex] be two non-zero real vectors of\nsize 3 x 1. Suppose that [latex]v_1[/latex] and [latex]v_2[/latex] satisfy [latex]v_1^Tv_2=0,v_1^Tv_1=1[/latex], and [latex]v_2^Tv_2=1[/latex]. Let [latex]A[/latex] be the 3x3 matrix given by: [latex] A=\\alpha v_1v_1^T+ \\beta v_2v_2^T[/latex] The eigenvalues of [latex]A[/latex] are __________.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EC",
+      "id": "12213514",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]c=1,d=-1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]c=2,d=1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]c=0.5,d=-10[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]c=1,d=-2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following series: [latex]\\sum_{n=1}^{\\infty }\\frac{n^d}{c^n} [/latex] For which of the following combinations of [latex]c,d[/latex] values does this series converge?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    }
+  ],
+  "schema_version": 1
+}

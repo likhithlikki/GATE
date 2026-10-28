@@ -1,0 +1,1086 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1424101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{d^{2} y}{d t^{2}}+4 \\frac{d y}{d t}+4 y=f(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{d^{2} y}{d t^{2}}+4 y=f(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{d^{2} y}{d t^{2}}+3 \\frac{d y}{d t}+2 y=f(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{d^{2} y}{d t^{2}}+5 \\frac{d y}{d t}+6 y=f(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The general form of the complementary function of a differential equation is given by [latex]y(t)=(A t+B) e^{-2 t}[/latex], where [latex]A[/latex] and [latex]B[/latex] are real constants determined by the initial condition. The corresponding differential equation is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]12 \\mathrm{~dB} /[/latex] octave"
+        },
+        {
+          "id": "B",
+          "text": "[latex]6 \\mathrm{~dB} /[/latex] octave"
+        },
+        {
+          "id": "C",
+          "text": "[latex]20 \\mathrm{~dB} /[/latex] octave"
+        },
+        {
+          "id": "D",
+          "text": "[latex]10 \\mathrm{~dB} /[/latex] octave"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In the context of Bode magnitude plots, [latex]40 \\mathrm{~dB} /[/latex] decade is the same as _______",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sum_{m=-\\infty}^{\\infty} x\\left(f+\\frac{m}{T}\\right)=T[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sum_{m=-\\infty}^{\\infty} x\\left(f+\\frac{m}{T}\\right)=\\frac{1}{T}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sum_{m=-\\infty}^{\\infty} X(f+m T)=T[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sum_{m=-\\infty}^{\\infty} X(f+m T)=\\frac{1}{T}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A digital communication system transmits through a noiseless bandlimited channel [latex][-W W][/latex]. The received signal [latex]z(t)[/latex] at the output of the receiving filter is given by [latex]z(t)=\\sum_{n} b[n] x(t-n T)[/latex] where [latex]b[n][/latex] are the symbols and [latex]x(t)[/latex] is the overall system response to a single symbol. The received signal is sampled at [latex]t=m T[/latex]. The Fourier transform of [latex]x(t)[/latex] is [latex]X(f)[/latex]. The Nyquist condition that [latex]X(f)[/latex] must satisfy for zero intersymbol interference at the receiver is ______",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both [latex]\\vec{F}_{1}[/latex] and [latex]\\vec{F}_{2}[/latex] are electrostatic fields."
+        },
+        {
+          "id": "B",
+          "text": "Only [latex]\\vec{F}_{1}[/latex] is an electrostatic field."
+        },
+        {
+          "id": "C",
+          "text": "Only [latex]\\vec{F}_{2}[/latex] is an electrostatic field."
+        },
+        {
+          "id": "D",
+          "text": "Neither [latex]\\vec{F}_{1}[/latex] nor [latex]\\vec{F}_{2}[/latex] is an electrostatic field."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]\\hat{i}[/latex] and [latex]\\hat{j}[/latex] be the unit vectors along [latex]x[/latex] and [latex]y[/latex] axes, respectively and let [latex]A[/latex] be a positive constant. Which one of the following statements is true for the vector fields [latex]\\vec{F}_{1}=A(\\hat{i} y+\\hat{j} x)[/latex] and [latex]\\vec{F}_{2}=A(\\hat{i} y-\\hat{j} x) ?[/latex]",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]B D, \\bar{B} \\bar{D}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]B D, A B[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]A B, \\bar{B} \\bar{D}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]B D, \\bar{B} \\bar{D}, A B[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For the Boolean function [latex]\nF(A, B, C, D)=\\Sigma m(0,2,5,7,8,10,12,13,14,15)\n[/latex] the essential prime implicants are",
+      "topic": "Digital Circuits",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{N_{0}}{4 R C}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{N_{o}}{2 R C}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{N_{o}}{R C}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{2 N_{0}}{R C}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A White Gaussian noise [latex]w(t)[/latex] with zero mean and power spectral density [latex]\\frac{N_{0}}{2}[/latex], when applied to a first-order [latex]R C[/latex] low pass filter produces an output [latex]n(t)[/latex]. At a particular time [latex]t=t_{k}[/latex], the variance of the random variable [latex]n\\left(t_{k}\\right)[/latex] is _____",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2 y(0.5 t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4 y(0.5 t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0.25 y(2 t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0.25 y(0.25 t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A causal and stable LTI system with impulse response [latex]h(t)[/latex] produces an output [latex]y(t)[/latex] for an input signal [latex]x(t)[/latex]. A signal [latex]x(0.5 t)[/latex] is applied to another causal and stable LTI system with impulse response [latex]h(0.5 t)[/latex]. The resulting output is ______",
+      "topic": "LTI Systems Continuous and Discrete",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The system is stable."
+        },
+        {
+          "id": "B",
+          "text": "The system is a minimum phase system."
+        },
+        {
+          "id": "C",
+          "text": "The initial value of the impulse response is 2."
+        },
+        {
+          "id": "D",
+          "text": "The final value of the impulse response is 0."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a causal discrete-time LTI system with transfer function [latex]\nH(z)=\\frac{2 z^{2}+3}{\\left(z+\\frac{1}{3}\\right)\\left(z-\\frac{1}{3}\\right)}\n[/latex] which of the following statements is/are true?",
+      "topic": "LTI Systems Continuous and Discrete",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\int_{V} \\frac{\\partial \\rho}{\\partial t} d v=-\\oint_{S} \\rho u \\cdot \\hat{n} d s[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\int_{V} \\frac{\\partial \\rho}{\\partial t} d v=\\oint_{S} \\rho u \\cdot \\hat{n} d s[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\int_{V} \\frac{\\partial \\rho}{\\partial t} d v=-\\int_{V} \\nabla \\cdot(\\rho u) d v[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int_{V} \\frac{\\partial \\rho}{\\partial t} d v=\\int_{V} \\nabla \\cdot(\\rho u) d v[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]\\rho(x, y, z, t)[/latex] and [latex]u(x, y, z, t)[/latex] represent density and velocity, respectively, at a point [latex](x, y, z)[/latex] and time [latex]t[/latex]. Assume [latex]\\frac{\\partial \\rho}{\\partial t}[/latex] is continuous. Let [latex]V[/latex] be an arbitrary volume in space enclosed by the closed surface [latex]S[/latex] and [latex]\\hat{n}[/latex] be the outward unit normal of [latex]S[/latex]. Which of the following equations is/are equivalent [latex]\\frac{\\partial \\rho}{\\partial t}+\\nabla \\cdot(\\rho u)=0[/latex] ?",
+      "topic": "Engineering Mathematics",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424117",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A machine has a 32-bit architecture with 1-word long instructions. It has 24 registers and supports an instruction set of size 40. Each instruction has five distinct fields, namely opcode, two source register identifiers, one destination register identifier, and an immediate value. Assuming that the immediate operand is an unsigned integer, its maximum value is ______.",
+      "topic": "Instructions of 8085 Microprocessor",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424118",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An amplitude modulator has output (in Volts) [latex]\ns(t)=A \\cos (400 \\pi t)+B \\cos (360 \\pi t)+B \\cos (440 \\pi t)\n[/latex] The carrier power normalized to [latex]1 \\Omega[/latex] resistance is 50 Watts. The ratio of the total sideband power to the total power is [latex]1 / 9[/latex]. The value of [latex]B[/latex] (in Volts. rounded off to two decimal places) is ______",
+      "topic": "Communication Systems",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424119",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a number system of base [latex]r[/latex], the equation [latex]x^{2}-12 x+37=0[/latex] has [latex]x=8[/latex] as one of its solutions. The value of [latex]r[/latex] is ______",
+      "topic": "Number Systems",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]R[/latex] and [latex]R^{3}[/latex] denote the set of real numbers and the three dimensional vector space over it, respectively. The value of [latex]\\alpha[/latex] for which the set of vectors [latex]\n\\left\\{\\left[\\begin{array}{lll}\n2 & -3 & \\alpha\n\\end{array}\\right],\\left[\\begin{array}{lll}\n3 & -1 & 3\n\\end{array}\\right],\\left[\\begin{array}{lll}\n1 & -5 & 7\n\\end{array}\\right]\\right\\}\n[/latex] does not form a basis of [latex]R^{3}[/latex] is ______",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Suppose [latex]X[/latex] and [latex]Y[/latex] are independent and identically distributed random variables that are distributed uniformly in the interval [latex][0,1][/latex]. The probability that [latex]X \\geq Y[/latex] is ______",
+      "topic": "Information Theory and Coding",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A source transmits symbols from an alphabet of size 16. The value of maximum achievable entropy (in bits) is ______",
+      "topic": "Information Theory and Coding",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](2-\\sqrt{3}) \\pi R^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{(\\sqrt{2}-1) \\pi R^{2}}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2 \\pi R^{2}}{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{(2+\\sqrt{3}) \\pi R^{2}}{8 \\sqrt{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the Earth to be a perfect sphere of radius [latex]R[/latex]. Then the surface area of the region, enclosed by the [latex]60^{\\circ} \\mathrm{N}[/latex] latitude circle, that contains the north pole in its interior is _______",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-\\frac{3}{4}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-\\frac{3}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-6[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A uniform plane wave with electric field [latex]\\vec{E}(x)=A_{y} \\hat{a}_{y} e^{-j \\frac{2 \\pi x}{3}} \\mathrm{~V} / \\mathrm{m}[/latex] is travelling in the air (relative permittivity, [latex]\\epsilon_{r}=1[/latex] and relative permeability, [latex]\\mu_{r}=1[/latex] ) in the [latex]+x[/latex] direction [latex]\\left(A_{y}\\right.[/latex] is a positive constant, [latex]\\hat{a}_{y}[/latex] is the unit vector along the [latex]y[/latex] axis). It is incident normally on an ideal electric conductor (conductivity, [latex]\\sigma=\\infty[/latex] ) at [latex]x=0[/latex]. The position of the first null of the total magnetic field in the air (measured from [latex]x=0[/latex], in metres) is ________",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\overline{D_{3}} \\; \\overline{D_{2}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\overline{D_{3}} D_{2}+\\overline{D_{3}} \\; \\overline{D_{1}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]D_{3} \\overline{D_{2}}+\\overline{D_{3}} D_{1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\overline{D_{3}} \\; \\overline{D_{1}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A 4-bit priority encoder has inputs [latex]D_{3}, D_{2}, D_{1}[/latex] and [latex]D_{0}[/latex] in descending order of priority. The two-bit output [latex]A B[/latex] is generated as 00,01, 10, and 11 corresponding to inputs [latex]D_{3}[/latex], [latex]D_{2}, D_{1}[/latex] and [latex]D_{0}[/latex], respectively. The Boolean expression of the output bit [latex]B[/latex] is _____",
+      "topic": "Digital Circuits",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\pi^{2} j[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]j \\pi\\left(\\frac{1}{2}-\\pi\\right)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]j \\pi\\left(\\frac{1}{2}+\\pi\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-\\pi^{2} j[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]z[/latex] be a complex variable. If [latex]f(z)=\\frac{\\sin (\\pi z)}{z^{2}(z-2)}[/latex] and [latex]C[/latex] is the circle in the complex plane with [latex]|z|=3[/latex] then [latex]\\oint_{c} f(z) d z[/latex] is ______",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2}{3} Q(2)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{4}{3} Q(1)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2}{3} Q(1)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{4}{3} Q(2)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A source transmits a symbol [latex]s[/latex], taken from [latex](-4,0,4)[/latex] with equal probability, over an additive white Gaussian noise channel. The received noisy symbol [latex]r[/latex] is given by [latex]r=s+w[/latex], where the noise [latex]w[/latex] is zero mean with variance 4 and is independent of [latex]s[/latex]. Using [latex]Q(x)=\\frac{1}{\\sqrt{2 \\pi}} \\int_{x}^{\\infty} e^{\\frac{-t^{2}}{2}} d t[/latex], the optimum symbol error probability is ______",
+      "topic": "Information Theory and Coding",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424136",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A full scale sinusoidal signal is applied to a 10-bit ADC. The fundamental signal component in the ADC output has a normalized power of [latex]1 \\mathrm{~W}[/latex], and the total noise and distortion normalized power is [latex]10 \\mu \\mathrm{W}[/latex]. The effective number of bits (rounded off to the nearest integer) of the ADC is  ____",
+      "topic": "Digital Circuits",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\{11110101011100\\}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\{11110101011101\\}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\{11110101011110\\}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\{1110101010100\\}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The information bit sequence (11101010 1) is to be transmitted by encoding with Cyclic Redundancy Check 4 (CRC-4) code, for which the generator polynomial is [latex]C(x)=x^{4}+x+1[/latex]. The encoded sequence of bits is ______",
+      "topic": "Information Theory and Coding",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]15 \\sin (38 \\pi t+\\pi / 3)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]15 \\sin (38 \\pi t-\\pi / 3)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]15 \\cos (38 \\pi t-\\pi / 6)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]15 \\cos (38 \\pi t+\\pi / 6)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A continuous time signal [latex]x(t)=2 \\cos (8 \\pi t+\\pi / 3)[/latex] is sampled at a rate of [latex]15 \\mathrm{~Hz}[/latex]. The sampled signal [latex]x_{s}(t)[/latex] when passed through an LTI system with impulse response [latex]\nh(t)=\\left(\\frac{\\sin 2 \\pi t}{\\pi t}\\right) \\cos (38 \\pi t-\\pi / 2)\n[/latex] produces an output [latex]x_{0}(t)[/latex]. The expression for [latex]x_{0}(t)[/latex] is _____",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Under high-level injection condition in forward active mode, [latex]\\beta[/latex] will decrease with increase in the magnitude of collector current."
+        },
+        {
+          "id": "B",
+          "text": "Under low-level injection condition in forward active mode, where the current at the emitter-base junction is dominated by recombination-generation process, [latex]\\beta[/latex] will decrease with increase in the magnitude of collector current."
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\beta[/latex] will be lower when the BJT is in saturation region compared to when it is in active region."
+        },
+        {
+          "id": "D",
+          "text": "A higher value of [latex]\\beta[/latex] will lead To a lower value of the collector-to-emitter breakdown voltage."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which of the following statements is/are true for a BJT with respect to its DC current gain [latex]\\beta[/latex] ?",
+      "topic": "Electronic Devices",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424143",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{d x}{d t}=\\left[\\begin{array}{cc}0 & 1 \\\\ -2 & -3\\end{array}\\right] x+\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right] r, y=\\left[\\begin{array}{ll}1 & 2\\end{array}\\right] x[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{d x}{d t}=\\left[\\begin{array}{cc}0 & 1 \\\\ -2 & -3\\end{array}\\right] x+\\left[\\begin{array}{l}1 \\\\ 0\\end{array}\\right] r, y=\\left[\\begin{array}{ll}0 & 2\\end{array}\\right] x[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{d x}{d t}=\\left[\\begin{array}{cc}-1 & 0 \\\\ 0 & -2\\end{array}\\right] x+\\left[\\begin{array}{c}-1 \\\\ 3\\end{array}\\right] r, y=\\left[\\begin{array}{ll}1 & 1\\end{array}\\right] x[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{d x}{d t}=\\left[\\begin{array}{cc}-1 & 0 \\\\ 0 & -2\\end{array}\\right] x+\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right] r, y=\\left[\\begin{array}{ll}1 & 2\\end{array}\\right] x[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a system [latex]S[/latex] represented in state space as [latex]\n\\frac{d x}{d t}=\\left[\\begin{array}{ll}\n0 & -2 \\\\\n1 & -3\n\\end{array}\\right] x+\\left[\\begin{array}{l}\n1 \\\\\n0\n\\end{array}\\right] r, y=\\left[\\begin{array}{ll}\n2 & -5\n\\end{array}\\right] x\n[/latex] Which of the state space representations given below has/have the same transfer function as that of [latex]S[/latex] ?",
+      "topic": "State Space Analysis",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424144",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "There exists a differentiable scalar function [latex]f(x, y, z)[/latex] such that [latex]F_{1}=\\frac{\\partial f}{\\partial x}, F_{2}=\\frac{\\partial f}{\\partial y}, F_{3}=\\frac{\\partial f}{\\partial z}[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "For every closed path [latex]\\Gamma[/latex], we have [latex]\\oint_{\\Gamma}\\left(F_{1} d x+F_{2} d y+F_{3} d z\\right)=0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\partial F_{1}}{\\partial x}+\\frac{\\partial F_{2}}{\\partial y}+\\frac{\\partial F_{3}}{\\partial z}=0[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\partial F_{3}}{\\partial y}=\\frac{\\partial F_{2}}{\\partial z}, \\frac{\\partial F_{1}}{\\partial z}=\\frac{\\partial F_{3}}{\\partial x}, \\frac{\\partial F_{2}}{\\partial x}=\\frac{\\partial F_{1}}{\\partial y}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]F_{1}, F_{2}[/latex], and [latex]F_{3}[/latex] be functions of [latex](x, y, z)[/latex]. Suppose that for every given pair of points [latex]A[/latex] and [latex]B[/latex] in space, the line integral [latex]\\int_{C}\\left(F_{1} d x+F_{2} d y+F_{3} d z\\right)[/latex] evaluates to the same value along any path [latex]C[/latex] that starts at [latex]A[/latex] and ends at [latex]B[/latex]. Then which of the following is/are true?",
+      "topic": "Engineering Mathematics",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424145",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left[\\begin{array}{c}1 \\\\ -\\sqrt{2 / k}\\end{array}\\right][/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left[\\begin{array}{c}1 \\\\ \\sqrt{2 / k}\\end{array}\\right][/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left[\\begin{array}{c}\\sqrt{2 k} \\\\ 1\\end{array}\\right][/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left[\\begin{array}{c}\\sqrt{2 k} \\\\ -1\\end{array}\\right][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the matrix [latex]\\left[\\begin{array}{ll}1 & k \\\\ 2 & 1\\end{array}\\right][/latex], where [latex]k[/latex] is a positive real number. Which of the following vectors is/are eigenvector(s) of this matrix?",
+      "topic": "Linear Algebra",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424146",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0.15 \\pi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]0.225 \\pi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0.3 \\pi[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0.45 \\pi[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The radian frequency value(s) for which the discrete time sinusoidal signal [latex]x[n]=A[/latex] [latex]\\cos (\\Omega n+\\pi / 3)[/latex] has a period of 40 is/are  _____",
+      "topic": "Signals and Systems",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424147",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]X(t)=A \\cos \\left(2 \\pi f_{0} t+\\theta\\right)[/latex] be a random process, where amplitude [latex]A[/latex] and phase [latex]\\theta[/latex] are independent of each other, and are uniformly distributed in the intervals [latex][-2,2][/latex] and [latex][0,2 \\pi][/latex], respectively. [latex]X(t)[/latex] is fed to an 8-bit uniform mid-rise type quantizer. Given that the autocorrelation of [latex]X(t)[/latex] is [latex]R_{x}(\\tau)=\\frac{2}{3} \\cos \\left(2 \\pi f_{0} \\tau\\right)[/latex], the signal to quantization noise ratio (in [latex]\\mathrm{dB}[/latex], rounded off to two decimal places) at the output of the quantizer is ______",
+      "topic": "Random Signals and Noise",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424148",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A lossless transmission line with characteristic impedance [latex]Z_{0}=50 \\Omega[/latex] is terminated with an unknown load. The magnitude of the reflection co-efficient is [latex]|\\Gamma|=0.6[/latex]. As one moves towards the generator from the load, the maximum value of the input impedance magnitude looking towards the load (in [latex]\\Omega[/latex] ) is ______",
+      "topic": "Transmission Lines",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The relationship between any [latex]\\mathrm{N}[/latex]-length sequence [latex]x[n][/latex] and its corresponding [latex]\\mathrm{N}[/latex]-point discrete Fourier transform [latex]X[k][/latex] is defined as [latex]X[k]=F\\{x[n]\\}[/latex]. Another sequence [latex]y[n][/latex] is formed as below [latex]y[n]=F\\{F\\{F\\{F\\{x[n]\\}\\}\\}\\}[/latex] For the sequence [latex]x[n]=\\{1,2,1,3\\}[/latex], the value of [latex]Y[0][/latex] is _______",
+      "topic": "Signals and Systems",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a MOS capacitor made with p-type silicon. It has an oxide thickness of [latex]100 \\mathrm{~nm}[/latex], a fixed positive oxide charge of [latex]10^{-8} \\mathrm{C} / \\mathrm{cm}^{2}[/latex] at the oxide-silicon interface, and a metal work function of [latex]4.6 \\mathrm{eV}[/latex]. Assume that the relative permittivity of the oxide is 4 and the absolute permittivity of free space is [latex]8.85 \\times 10^{-14} \\mathrm{~F} / \\mathrm{cm}[/latex]. If the flatband voltage is [latex]0 \\mathrm{~V}[/latex], the work function of the [latex]\\mathrm{p}[/latex]-type silicon (in [latex]\\mathrm{eV}[/latex], rounded off to two decimal places) is ______",
+      "topic": "Electronic Devices",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A non-degenerate n-type semiconductor has 5\\% neutral dopant atoms. Its Fermi level is located at [latex]0.25 \\mathrm{eV}[/latex] below the conduction band [latex]\\left(E_{C}\\right)[/latex] and the donor energy level [latex]\\left(E_{D}\\right)[/latex] has a degeneracy of 2. Assuming the thermal voltage to be [latex]20 \\mathrm{mV}[/latex]. The difference between [latex]E_{C}[/latex] and [latex]E_{D}[/latex] (in [latex]\\mathrm{eV}[/latex], rounded off to two decimal places) is ______",
+      "topic": "Electronic Devices",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An NMOS transistor operating in the linear region has [latex]I_{D S}[/latex] of [latex]5 \\mu \\mathrm{A}[/latex] at [latex]V_{D S}[/latex] of [latex]0.1 \\mathrm{~V}[/latex]. Keeping [latex]V_{G S}[/latex] constant, the [latex]V_{D S}[/latex] is increased to [latex]1.5 \\mathrm{~V}[/latex]. Given that [latex]\\mu_{n} C_{o x} \\frac{W}{L}=50 \\mu \\mathrm{A} / \\mathrm{V}^{2}[/latex], the transconductance at the new operating point (in [latex]\\mu \\mathrm{A} / \\mathrm{V}[/latex], rounded off to two decimal places) is ________",
+      "topic": "Electronic Devices",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The photocurrent of a PN junction diode solar cell is [latex]1 \\mathrm{~mA}[/latex]. The voltage corresponding to its maximum power point is [latex]0.3 \\mathrm{~V}[/latex]. If the thermal voltage is [latex]30 \\mathrm{mV}[/latex], the reverse saturation current of the diode (in [latex]\\mathrm{nA}[/latex], rounded off to two decimal places) is ________",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "jaded"
+        },
+        {
+          "id": "B",
+          "text": "baffled"
+        },
+        {
+          "id": "C",
+          "text": "dead"
+        },
+        {
+          "id": "D",
+          "text": "worsted"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If '[latex]\\rightarrow[/latex]' denotes increasing order of intensity, then the meaning of the words [charm [latex]\\rightarrow[/latex] enamor [latex]\\rightarrow[/latex] bewitch] is analogous to [bored [latex]\\rightarrow[/latex] ________[latex]\\rightarrow[/latex] weary]. Which one of the given options is appropriate to fill the blank?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P[/latex] and [latex]T[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]P[/latex] and [latex]S[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]T[/latex] and [latex]Q[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]T[/latex] and [latex]R[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "P, Q, R, S, and T have launched a new startup. Two of them are siblings. The office of the startup has just three rooms. All of them agree that the siblings should not share the same room. If [latex]S[/latex] and [latex]Q[/latex] are single children, and the room allocations shown below are acceptable to all, [latex]\n\\begin{array}{|l|l|l|}\n\\hline \\mathrm{PR} & \\mathrm{TS} & \\mathrm{Q} \\\\\n\\hline \\mathrm{PQ} & \\mathrm{PQ} & \\mathrm{RT} \\\\\n\\hline\n\\end{array}\n[/latex] then, which one of the given options is the siblings?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "28 years"
+        },
+        {
+          "id": "B",
+          "text": "30 years"
+        },
+        {
+          "id": "C",
+          "text": "35 years"
+        },
+        {
+          "id": "D",
+          "text": "32 years"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Five years ago, the ratio of Aman's age to his father’s age was 1:4, and five years from now, the ratio will be 2:5. What was his father’s age when Aman was born?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "24"
+        },
+        {
+          "id": "D",
+          "text": "36"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a real number [latex]x > 1[/latex], [latex]\n\\frac{1}{\\log _{2} x}+\\frac{1}{\\log _{3} x}+\\frac{1}{\\log _{4} x}=1\n[/latex] The value of [latex]x[/latex] is",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "13"
+        },
+        {
+          "id": "B",
+          "text": "17"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "11"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The greatest prime factor of [latex]\\left(3^{199}-3^{196}\\right)[/latex] is",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "SPRQ"
+        },
+        {
+          "id": "B",
+          "text": "SRPQ"
+        },
+        {
+          "id": "C",
+          "text": "RSPQ"
+        },
+        {
+          "id": "D",
+          "text": "RPQS"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Sequence the following sentences (P, Q, R, S) in a coherent passage: P: Shifu's student exclaimed, \"Why do you run since the bull is an illusion?\" Q: Shifu said, \"Surely my running away from the bull is also an illusion.\" R: Shifu once proclaimed that all life is illusion. S: One day, when a bull gave him chase, Shifu began running for his life.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EC",
+      "id": "1424165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]14: 11[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]11: 14[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]18: 11[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]11: 18[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Two identical sheets A and B. of dimensions [latex]24 \\mathrm{~cm} \\times 16 \\mathrm{~cm}[/latex], can be folded into half using two distinct operations. FO1 or FO2. In FO1. the axis of folding remains parallel to the initial long edge, and in FO2, the axis of folding remains parallel to the initial short edge. If sheet [latex]A[/latex] is folded twice using [latex]F O 1[/latex], and sheet [latex]B[/latex] is folded twice using [latex]F O 2[/latex], the ratio of the perimeters of the final shapes of [latex]A[/latex] and [latex]B[/latex] is",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2024
+    }
+  ],
+  "schema_version": 1
+}

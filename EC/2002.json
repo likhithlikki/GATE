@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1402104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x(t) = 2cos t + 3 cos 3t"
+        },
+        {
+          "id": "B",
+          "text": "x(t) = 2cos [latex]\\pi[/latex]t + 7 cos t"
+        },
+        {
+          "id": "C",
+          "text": "x(t) = cos t + 0.5"
+        },
+        {
+          "id": "D",
+          "text": "x(t) = 2cos 1.5[latex]\\pi[/latex]t + sin 3.5 [latex]\\pi[/latex]t"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which of the following cannot be the Fourier series expansion of a periodic\nsignal?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Ri decreases and Ro decreases"
+        },
+        {
+          "id": "B",
+          "text": "Ri decreases and Ro increases"
+        },
+        {
+          "id": "C",
+          "text": "Ri increases and Ro decreases"
+        },
+        {
+          "id": "D",
+          "text": "Ri increases and Ro increases"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a negative feedback amplifier using voltage-series (i.e. voltage-sampling\nseries mixing) feedback. (Ri and Ro denote the input and output resistance\nrespectively)",
+      "topic": "Feedback Amplifiers",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "50KHz"
+        },
+        {
+          "id": "B",
+          "text": "100KHz"
+        },
+        {
+          "id": "C",
+          "text": "1000/17KHz"
+        },
+        {
+          "id": "D",
+          "text": "1000/7.07KHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A 741-type op-amp has a gain-bandwidth product of 1 MHz. A non-inverting\namplifier using this op-amp and having a voltage gain of 20 dB will exhibit a 3-dB\nbandwidth of",
+      "topic": "Operational Amplifiers",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "-7"
+        },
+        {
+          "id": "D",
+          "text": "-8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "4-bit 2's complement representation of a decimal number is 1000. The number is",
+      "topic": "Number Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The number of comparators required in a 3-bit comparator type ADC is",
+      "topic": "Digital Circuits",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2}{6}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{6}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a system with the transfer function [latex]G(s)=\\frac{s+6}{ks^{2}+s+6}[/latex]. Its damping ratio will be 0.5 when the value of k is",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]S=-j\\sqrt{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]S=-1.5[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]S=-3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]S=-\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which of the following points is NOT on the root locus of a system with the open\nloop transfer function [latex]G(s)H(s)=\\frac{k}{s(s+1)(s+3)}[/latex]",
+      "topic": "Root Locus",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]63.4^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]90^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The phase margin of a system with the open-loop transfer function [latex]G(s)H(s)=\\frac{(1-s)}{(s+1)(s+2)}[/latex] is",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{0.5}{(s-2)}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{(s-2)}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{0.5}{(s+2)}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{(s+2)}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The transfer function Y(s)U(s) of a system described by the state equations\r\nx(t) = -2x(t) + 2u(t) and y(t) = 0.5x(t) is",
+      "topic": "State Space Analysis",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{f}u(f)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{-f}u(f)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]e^{f}u(-f)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{-f}u(-f)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The Fourier transform [latex]F\\{e^{-1}u(t)\\}[/latex] is equal to [latex]\\frac{1}{1+j2\\pi f}[/latex]. therefore, [latex] F\\{\\frac{1}{1+j2\\pi t}\\}[/latex] is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]T_{P}[/latex]= [latex]T_{g}[/latex]=constant"
+        },
+        {
+          "id": "B",
+          "text": "[latex]T_{P}\\propto  f[/latex] and [latex]T_{g}\\propto  f[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]T_{P}[/latex]  = constant and [latex]T_{g}\\propto  f[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]T_{P}\\propto  f[/latex]  and [latex]T_{g}[/latex]  =constant"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A linear phase channel with phase delay [latex]T_{P}[/latex] and group delay [latex]T_{g}[/latex] must have",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "990KHz"
+        },
+        {
+          "id": "B",
+          "text": "1010KHz"
+        },
+        {
+          "id": "C",
+          "text": "1020KHz"
+        },
+        {
+          "id": "D",
+          "text": "1030KHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A 1 MHz sinusoidal carrier is amplitude modulated by a symmetrical square wave\nof period 100[latex]\\mu[/latex]sec. Which of the following frequencies will NOT be present in the\nmodulated signal?",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]5 \\times 10^{-6} \\cos (8 \\pi \\times 10^3)t[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]5 \\times 10^{-5} \\cos (8 \\pi \\times 10^3)t[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]5 \\times 10^{-1} \\cos (8 \\pi \\times 10^3)t[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]10 \\cos (8 \\pi \\times 10^3)t[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a sample signal [latex] y(t)=5 \\times 10^{-6} x(t) \\sum_{n=-\\infty}^{\\infty} \\delta (t-nT_s)[/latex] where [latex]x(t)=10 \\cos (8 \\pi \\times 10^3)t[/latex] and [latex]T_s=100 \\mu sec[/latex]. When y(t) is passed through an ideal low-pass filter with a cutoff frequency of 5 KHz, the output of the filter is",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "16 KHz and 20 KHz"
+        },
+        {
+          "id": "B",
+          "text": "20 KHz and 32 KHz"
+        },
+        {
+          "id": "C",
+          "text": "20 KHz and 40 KHz"
+        },
+        {
+          "id": "D",
+          "text": "32 KHz and 40 KHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a bit-rate of 8 Kbps, the best possible values of the transmitted frequencies\nin a coherent binary FSK system are",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "horizontally polarized"
+        },
+        {
+          "id": "B",
+          "text": "vertically polarized"
+        },
+        {
+          "id": "C",
+          "text": "at [latex]45^{\\circ}[/latex] with respect to horizontal polarization"
+        },
+        {
+          "id": "D",
+          "text": "at [latex]45^{\\circ}[/latex] with respect to vertical polarization"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The line-of-sight communication requires the transmit and receive antenna to\nface each other. If the transmit antenna is vertically polarized, for best reception\nthe receive antenna should be",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0 and 1"
+        },
+        {
+          "id": "B",
+          "text": "-1 and +1"
+        },
+        {
+          "id": "C",
+          "text": "0 and [latex]\\infty[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1 and [latex]\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The VSWR can have any value between",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a decrease in the value of reactance"
+        },
+        {
+          "id": "B",
+          "text": "an increase in the value of reactance"
+        },
+        {
+          "id": "C",
+          "text": "no change in the reactance value"
+        },
+        {
+          "id": "D",
+          "text": "no change in the impedance value"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In an impedance Smith chart, a clockwise movement along a constant resistance\ncircle gives rise to",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "less than c"
+        },
+        {
+          "id": "B",
+          "text": "equal to c"
+        },
+        {
+          "id": "C",
+          "text": "greater than c"
+        },
+        {
+          "id": "D",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The phase velocity for the TE10-mode in an air-filled rectangular waveguide is (c\nis the velocity of plane waves in free space)",
+      "topic": "Waveguides",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "795mV"
+        },
+        {
+          "id": "B",
+          "text": "395mV"
+        },
+        {
+          "id": "C",
+          "text": "79.5mV"
+        },
+        {
+          "id": "D",
+          "text": "39.5mV"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An amplifier using an opamp with a slew-rate SR = 1V/[latex]\\mu[/latex] sec has a gain of 40 dB.\nIf this amplifier has to faithfully amplify sinusoidal signals from dc to 20 KHz\nwithout introducing any slew-rate induced distortion, then the input signal level\nmust not exceed.",
+      "topic": "Operational Amplifiers",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100sec"
+        },
+        {
+          "id": "B",
+          "text": "4sec"
+        },
+        {
+          "id": "C",
+          "text": "1sec"
+        },
+        {
+          "id": "D",
+          "text": "0.01sec"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The transfer function of a system is [latex]G(s)=\\frac{100}{(s+1)(s+100)}[/latex]. For a unit step input to the system the approximate settling time for 2% criterion is",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "stable"
+        },
+        {
+          "id": "B",
+          "text": "marginally stable"
+        },
+        {
+          "id": "C",
+          "text": "unstable"
+        },
+        {
+          "id": "D",
+          "text": "oscillatory"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The characteristic polynomial of a system is [latex]q (s) = 2s^{5}+s^{4}+4s^{3}+2s^{2}+2s+1[/latex]. The system is",
+      "topic": "Stability Analysis",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "- 6 dB"
+        },
+        {
+          "id": "B",
+          "text": "0dB"
+        },
+        {
+          "id": "C",
+          "text": "3.5dB"
+        },
+        {
+          "id": "D",
+          "text": "6dB"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The system with the open loop transfer function [latex]G(s)H(s)=\\frac{1}{s(s^{2}+s+1)}[/latex] has a gain margin of",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10.5 KHz, 140[latex]\\pi[/latex] rad"
+        },
+        {
+          "id": "B",
+          "text": "6 KHz, 80[latex]\\pi[/latex] rad"
+        },
+        {
+          "id": "C",
+          "text": "10.5 KHz, 100[latex]\\pi[/latex] rad"
+        },
+        {
+          "id": "D",
+          "text": "7.5 KHz, 100[latex]\\pi[/latex] rad"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An angle modulated signal is given by [latex]s(t)=cos2\\pi (2\\times 10^{6}t+30 sin 150t+40 cos 150t)[/latex] The maximum frequency and phase deviations of s(t) are",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "12 KHz only"
+        },
+        {
+          "id": "B",
+          "text": "8 KHz only"
+        },
+        {
+          "id": "C",
+          "text": "12 KHz and 9 KHz"
+        },
+        {
+          "id": "D",
+          "text": "12 KHz and 8 KHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A signal [latex]x(t) = 100 cos(24\\pi \\times 10^{3})t[/latex] is ideally sampled with a sampling period of 50\r\n[latex]\\mu[/latex]sec and then passed through an ideal low-pass filter with cutoff frequency of 15\r\nKHz. Which of the following frequencies is/are present at the filter output?",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.95"
+        },
+        {
+          "id": "B",
+          "text": "0.9"
+        },
+        {
+          "id": "C",
+          "text": "0.1"
+        },
+        {
+          "id": "D",
+          "text": "0.05"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If the variance [latex]\\sigma _{x}^{2}[/latex] of d(n)=x(n)-x(n-1) is one-tenth the variance\n[latex]\\sigma _{x}^{2}[/latex] of a stationary zero mean discrete time signal x(n), then the normalized autocorrelation function [latex]\\frac{R_{xx}(k)}{\\sigma _{x}^{2}}[/latex] at k=1 is",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "linearly polarized"
+        },
+        {
+          "id": "B",
+          "text": "circularly polarized"
+        },
+        {
+          "id": "C",
+          "text": "elliptically polarized"
+        },
+        {
+          "id": "D",
+          "text": "unpolarized"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A plane wave is characterized by [latex]\\vec{E}=(0.5\\hat{x}+\\hat{y}e^{\\frac{j\\pi }{2}})e^{jwt-jkz}[/latex]. This wave is",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1.3 \\times 10^{-5}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1.3 \\times 10^{-3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1.7 \\times 10^{-4}[/latex]/78"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1.7 \\times 10^{-4}/(78\\epsilon_{0})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Distilled water at 25[latex]^{\\circ}[/latex] C is characterized by [latex]\\sigma[/latex] = 1.7 \\times [latex]10^{-4}[/latex] mho/m and [latex]\\epsilon =78\\epsilon_{0}[/latex] at a frequency of 3 GHz. Its loss tangent [latex]tan\\delta[/latex]\r\n is (  [latex]\\epsilon=10^{-9} /(36\\pi) [/latex] F/m)",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402149",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0 \\; C/m^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2 \\; C/m^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1.8 \\times 10^{-11} \\; C/m^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1.14 \\times 10^{-9} \\; C/m^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The electric field on the surface of a perfect conductor is 2 V/m. The conductor is\r\nimmersed in water with [latex]\\epsilon =80\\epsilon_{0}[/latex]. The surface charge density on the conductor is ([latex]\\epsilon =10^{-9}/(36\\pi)F/m[/latex] )",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EC",
+      "id": "1402150",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "942m"
+        },
+        {
+          "id": "B",
+          "text": "2070m"
+        },
+        {
+          "id": "C",
+          "text": "4978m"
+        },
+        {
+          "id": "D",
+          "text": "5320m"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A person with a receiver is 5 Km away from the transmitter. What is the distance\nthat this person must move further to detect a 3-dB decrease in signal strength?",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2002
+    }
+  ],
+  "schema_version": 1
+}

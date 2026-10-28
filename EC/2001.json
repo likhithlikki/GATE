@@ -1,0 +1,807 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1401102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{Z}{\\sqrt{3}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "3Z"
+        },
+        {
+          "id": "C",
+          "text": "[latex]3\\sqrt{3}Z[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If each branch of a Delta circuit has impedance [latex]\\sqrt{3}Z[/latex], then each branch of the\nequivalent Wye circuit has impedance.",
+      "topic": "Network Theory",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]g_{m}r_{0}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{g_{m}}{r_{o}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]g_{m}r_{\\pi }[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{g_{m}}{r_{\\pi }}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The current gain of a BJT is",
+      "topic": "BJT Analysis",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "current controlled capacitor"
+        },
+        {
+          "id": "B",
+          "text": "voltage controlled capacitor"
+        },
+        {
+          "id": "C",
+          "text": "current controlled inductor"
+        },
+        {
+          "id": "D",
+          "text": "voltage controlled inductor"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "MOSFET can be used as a",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "gate voltage"
+        },
+        {
+          "id": "B",
+          "text": "drain voltage"
+        },
+        {
+          "id": "C",
+          "text": "source voltage"
+        },
+        {
+          "id": "D",
+          "text": "body voltage"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The effective channel length of a MOSFET in saturation decreases with increase in",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]R_{i}=\\infty , A=\\infty , R_{0}=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]R_{i}=0, A=\\infty , R_{0}=0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]R_{i}=\\infty , A=\\infty , R_{0}=\\infty[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]R_{i}=0 , A=\\infty , R_{0}=\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The ideal OP-AMP has the following characteristics.",
+      "topic": "Operational Amplifiers",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "101110"
+        },
+        {
+          "id": "B",
+          "text": "101111"
+        },
+        {
+          "id": "C",
+          "text": "111110"
+        },
+        {
+          "id": "D",
+          "text": "110001"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The 2's complement representation of -17 is",
+      "topic": "Number Systems",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only statement 1 is correct"
+        },
+        {
+          "id": "B",
+          "text": "Only statement 2 is correct"
+        },
+        {
+          "id": "C",
+          "text": "Both the statements 1 and 2 are correct"
+        },
+        {
+          "id": "D",
+          "text": "Both the statements 1 and 2 are incorrect"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following two statements: Statement 1: A stable multi-vibrator can be used for generating square wave. Statement 2: B stable multi-vibrator can be used for storing binary information.",
+      "topic": "Multivibrators and 555 Timer",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "over damped"
+        },
+        {
+          "id": "B",
+          "text": "critically damped"
+        },
+        {
+          "id": "C",
+          "text": "underdamped"
+        },
+        {
+          "id": "D",
+          "text": "undamped"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If the characteristic equation of a closed-loop system is [latex]s^{2}+2s+2=0[/latex], then the system is",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "-1"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\pi }{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]\\delta(t)[/latex] denote the delta function. The value of the integral [latex]\\int_{-\\infty }^{\\infty}\\delta (t)\\cos \\left ( \\frac{3t}{2} \\right )dt[/latex] is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "an RC filter"
+        },
+        {
+          "id": "B",
+          "text": "an envelope detector"
+        },
+        {
+          "id": "C",
+          "text": "a PLL"
+        },
+        {
+          "id": "D",
+          "text": "an ideal low-pass filter with appropriate bandwidth"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A band limited signal is sampled at the Nyquist rate. The signal can be recovered\nby passing the samples through",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{3\\sqrt{2\\pi }}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{4}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The PDF of a Gaussian random variable X is given by [latex]P_{X}(X)=\\frac{1}{3\\sqrt{2\\pi}}e^{\\frac{-(x-4)^{2}}{18}}[/latex].\r\nThe probability of the event {X=4} is",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "E"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{E}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "2E"
+        },
+        {
+          "id": "D",
+          "text": "4E"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If a signal f(t) has energy E, the energy of the signal f(2t) is equal to",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]RL=\\frac{1}{GC}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "RL=GC"
+        },
+        {
+          "id": "C",
+          "text": "LG=RC"
+        },
+        {
+          "id": "D",
+          "text": "RG=LC"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A transmission line is distortion-less if",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x-direction"
+        },
+        {
+          "id": "B",
+          "text": "z-direction"
+        },
+        {
+          "id": "C",
+          "text": "y-direction"
+        },
+        {
+          "id": "D",
+          "text": "xy plane at an angle of [latex]45^{\\circ}[/latex]\n between the x and z directions"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If a plane electromagnetic wave satisfies the equation [latex]\\frac{\\partial^2 E_{X}}{\\partial x^2}=C^{2}\\frac{\\partial^2X }{\\partial t^2}[/latex] the wave propagates in the",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "greater than the velocity of light in free space."
+        },
+        {
+          "id": "B",
+          "text": "less than the velocity of light in free space."
+        },
+        {
+          "id": "C",
+          "text": "equal to the velocity of light in free space."
+        },
+        {
+          "id": "D",
+          "text": "equal to the group velocity."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The phase velocity of waves propagating in a hollow metal waveguide is",
+      "topic": "Waveguides",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "no attenuation"
+        },
+        {
+          "id": "B",
+          "text": "no cut-off"
+        },
+        {
+          "id": "C",
+          "text": "no magnetic field component"
+        },
+        {
+          "id": "D",
+          "text": "the highest cut-off wavelength"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The dominant mode in a rectangular waveguide is [latex]TE_{10}[/latex], because this mode has",
+      "topic": "Waveguides",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f_{T}=1.64\\times 10^{8}HZ[/latex] and [latex] f_{\\beta }=1.47\\times 10^{10}HZ[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f_{T}=1.47\\times 10^{10}HZ[/latex] and [latex]f_{\\beta }=1.64\\times 10^{8}HZ[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f_{T}=1.33\\times 10^{12}HZ[/latex] and [latex]f_{\\beta }=1.47\\times 10^{10}HZ[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f_{T}=1.47\\times 10^{10}HZ[/latex] and [latex]f_{\\beta }=1.33\\times 10^{12}HZ[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An npn BJT has [latex]g_{m}=38m\\, A/V[/latex], [latex]C_{\\mu }=10^{-14}\\,F[/latex],[latex]C_{\\pi }=4\\times 10^{-13}\\,F[/latex]\r\n and DC current gain [latex]\\beta _{0}=90[/latex]. For this transistor  [latex]f_{T}[/latex]and [latex]f_{\\beta }[/latex] are",
+      "topic": "Frequency Response of Amplifier",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{4}{13}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{4}{9}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "13"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The open-loop DC gain of a unity negative feedback system with closed-loop\ntransfer function [latex]\\frac{s+4}{s^{2}+7s+13}[/latex] is",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "16 Mbps"
+        },
+        {
+          "id": "B",
+          "text": "100 Mbps"
+        },
+        {
+          "id": "C",
+          "text": "600 Mbps"
+        },
+        {
+          "id": "D",
+          "text": "6.4 Gbps"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A video transmission system transmits 625 picture frames per second. Each\nframe consists of a 400 x 400 pixel grid with 64 intensity levels per pixel. The\ndata rate of the system is",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{350} sec[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\pi}{350} sec[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{700} sec[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\pi}{175} sec[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The Nyquist sampling interval, for the signal [latex]sinc (700t) + sinc (500t)[/latex]\r\n is",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1-(1-p)^n[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "p+(n-1)(1-p)"
+        },
+        {
+          "id": "C",
+          "text": "[latex]np(1-p)^{n-1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](1-p)^n+np(1-p)^{n-1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "During transmission over a communication channel, bit errors occur\nindependently with probability p. If a block of n bits is transmitted, the probability\nof at most one bit error is equal to",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a^2 S_g(\\omega ) \\; and \\; a^2 P_g[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]a^2 S_g(\\omega ) \\; and \\; a P_g[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]a S_g(\\omega ) \\; and \\; a^2 P_g[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]a S_g(\\omega ) \\; and \\; a P_g[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The PSD and the power of a signal g(t) are, respectively, [latex]S_g(\\omega ) \\; and \\; P_g[/latex]. The PSD\nand the power of the signal g(t) are, respectively",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "45 MHz"
+        },
+        {
+          "id": "B",
+          "text": "90 MHz"
+        },
+        {
+          "id": "C",
+          "text": "450 MHz"
+        },
+        {
+          "id": "D",
+          "text": "900 MHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A material has conductivity of [latex]10^{-2}[/latex]\n mho/m and a relative permittivity of 4. The\nfrequency at which the conduction current in the medium is equal to the\ndisplacement current is",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10%"
+        },
+        {
+          "id": "B",
+          "text": "25%"
+        },
+        {
+          "id": "C",
+          "text": "50%"
+        },
+        {
+          "id": "D",
+          "text": "75%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A uniform plane electromagnetic wave incident normally on a plane surface of a\ndielectric material is reflected with a VSWR of 3. What is the percentage of\nincident power that is reflected?",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401149",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]25\\Omega[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]36.5 \\Omega[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]50\\Omega[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]73 \\Omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A medium wave radio transmitter operating at a wavelength of 492 m has a\ntower antenna of height 124m. What is the radiation resistance of the antenna?",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EC",
+      "id": "1401150",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]- \\pi[/latex] radians"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-\\frac{\\pi }{2} [/latex] radians"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-\\frac{\\pi }{4} [/latex] radians"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-\\frac{\\pi }{8} [/latex] radians"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a uniform linear array, four isotropic radiating elements are spaced [latex]\\frac{\\lambda }{4}[/latex] apart.\nThe progressive phase shift between the elements required for forming the main\nbeam at [latex]60^{\\circ}[/latex] off the end-fire is:",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2001
+    }
+  ],
+  "schema_version": 1
+}

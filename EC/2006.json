@@ -1,0 +1,2113 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1406101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The rank of the matrix [latex]\\begin{bmatrix} 1& 1& 1\\\\ 1& -1&0 \\\\ 1& 1& 1 \\end{bmatrix}[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P \\times \\bigtriangledown  \\times  P-\\bigtriangledown ^{2}P[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\bigtriangledown^{2} P+\\bigtriangledown (\\bigtriangledown  \\cdot P)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\bigtriangledown^{2} P+\\bigtriangledown \\times  P[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\bigtriangledown (\\bigtriangledown \\cdot  P)-\\bigtriangledown ^{2}P[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "[latex]\\bigtriangledown  \\times  \\bigtriangledown \\times  P[/latex], where P is a vector, is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\oint P\\cdot dl[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\oint \\bigtriangledown  \\times \\bigtriangledown \\times   P\\cdot dl[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\oint \\bigtriangledown  \\times  P\\cdot dl[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int \\int \\int \\bigtriangledown \\cdot Pdv[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "[latex]\\int \\int (\\bigtriangledown \\times P)\\cdot ds[/latex], where P is a vector, is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0.5\\alpha[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\alpha[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A probability density function is of the form [latex]p(x)=Ke^{-\\alpha |x|},x\\in (-\\infty ,\\infty )[/latex] The value of K is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{-2t}u(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{2t}u(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]e^{-t}u(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{t}u(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A solution for the differential equation [latex]\\dot{x}(t)+2x(t)=\\delta (t)[/latex] with initial condition [latex]x(0^-)=0[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]A(\\omega )=C\\omega ^{2},\\phi (\\omega )=k\\omega ^{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]A(\\omega )=C\\omega ^{2},\\phi (\\omega )=k\\omega [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]A(\\omega )=C\\omega ,\\phi (\\omega )=k\\omega ^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]A(\\omega )=C,\\phi (\\omega )=k\\omega ^{-1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A low-pass filter having a frequency response [latex]H(j\\omega )=A(\\omega )e^{j\\phi(\\omega ) }[/latex] does not produce any phase distortions if",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]V_{D} \\lt 0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]0 \\leq V_{D} \\lt V_{p}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]V_{p} \\leq V_{D} \\lt V_{v}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]V_{D}\\geq V_{v}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The values of voltage ([latex]V_{D}[/latex]) across a tunnel-diode corresponding to peak and valley currents are [latex]V_{p}[/latex] and [latex]V_{v}[/latex] respectively. The range of tunnel-diode voltage [latex]V_{D}[/latex] for which the slope of its [latex]I-V_{D}[/latex] characteristics is negative would be",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Directly proportional to doping concentration"
+        },
+        {
+          "id": "B",
+          "text": "Inversely proportional to the doping concentration"
+        },
+        {
+          "id": "C",
+          "text": "Directly proportional to the intrinsic concentration"
+        },
+        {
+          "id": "D",
+          "text": "Inversely proportional to the intrinsic concentration"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The concentration of minority carriers in an extrinsic semiconductor under\nequilibrium is",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Diffusion current"
+        },
+        {
+          "id": "B",
+          "text": "Drift current"
+        },
+        {
+          "id": "C",
+          "text": "Recombination current"
+        },
+        {
+          "id": "D",
+          "text": "Induced current"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Under low level injection assumption, the injected minority carrier current for\nan extrinsic semiconductor is essentially the",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Electron - hole recombination at the base"
+        },
+        {
+          "id": "B",
+          "text": "The reverse biasing of the base - collector junction"
+        },
+        {
+          "id": "C",
+          "text": "The forward biasing of emitter-base junction"
+        },
+        {
+          "id": "D",
+          "text": "The early removal of stored base charge during saturation-to-cut off switching"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The phenomenon known as \"Early Effect\" in a bipolar transistor refers to a\nreduction of the effective base-width caused by",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Z_{i}=0,Z_{0}=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Z_{i}=0,Z_{0}=\\infty[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]Z_{i}=\\infty ,Z_{0}=0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]Z_{i}=\\infty ,Z_{0}=\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The input impedance ([latex]Z_{i}[/latex]) and the output impedance ([latex]Z_{0}[/latex]) of an ideal transconductance (voltage controlled current source) amplifier are",
+      "topic": "Feedback Amplifiers",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]V_{GS}= -6 [/latex] Volts"
+        },
+        {
+          "id": "B",
+          "text": "[latex]V_{GS}= -3 [/latex] Volts"
+        },
+        {
+          "id": "C",
+          "text": "[latex]V_{GS}=0 [/latex] Volts"
+        },
+        {
+          "id": "D",
+          "text": "[latex]V_{GS}=3 [/latex] Volts"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An n-channel depletion MOSFET has following two points on its  [latex]I_{D}-V_{GS}[/latex] curve: (i) [latex]V_{GS}[/latex]=0 at [latex]I_{D}[/latex]=12 mA and (ii) [latex]V_{GS}[/latex]=-6 Volts at [latex]I_{D}[/latex]=0 mA Which of the following Q point will given the highest trans conductance gain for small signals?",
+      "topic": "FET and MOSFET Analysis",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{5}e^{-\\frac{j3\\omega }{5}}X(\\frac{j\\omega }{5})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{5}e^{\\frac{j3\\omega }{5}}X(\\frac{j\\omega }{5})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{5}e^{-j3\\omega }X(\\frac{j\\omega }{5})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{5}e^{j3\\omega }X(\\frac{j\\omega }{5})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let x[latex](t)\\leftrightarrow X(j\\omega )[/latex] be Fourier Transform pair. The Fourier Transform of the signal x(5t - 3) in terms of X(j[latex]\\omega[/latex]) is given as",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\delta (t)=\\left\\{\\begin{matrix} 1 &t=0 \\\\ 0&otherwise \\end{matrix}\\right.[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\delta (t)=\\left\\{\\begin{matrix} \\infty &t=0 \\\\ 0&otherwise \\end{matrix}\\right.[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\delta (t)=\\left\\{\\begin{matrix} 1 &t=0 \\\\ 0&otherwise \\end{matrix}\\right.[/latex] and [latex]\\int_{-\\infty }^{\\infty }\\delta (t)dt=1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\delta (t)=\\left\\{\\begin{matrix} \\infty &t=0 \\\\ 0&otherwise \\end{matrix}\\right. [/latex] and [latex] \\int_{-\\infty }^{\\infty }\\delta (t)dt=1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The Dirac delta function [latex]\\delta (t)[/latex] is defined as",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{3} \\lt |z| \\lt 3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2}{3} \\lt |z| \\lt 3[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{3}{2} \\lt |z| \\lt 3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{3} \\lt |z| \\lt \\frac{2}{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If the region of convergence of [latex]x_{1}[n]+x_{2}[n] [/latex] is [latex] \\frac{1}{3} \\lt |z| \\lt \\frac{2}{3}[/latex] then the region of\nconvergence of [latex]x_{1}[n]- x_{2}[n] [/latex]  includes",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "20"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The open-loop function of a unity-gain feedback control system is given by [latex]G(s)=\\frac{K}{(s+1)(s+2)}[/latex] The gain margin of the system in dB is given by",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Linearly polarized in the z -direction"
+        },
+        {
+          "id": "B",
+          "text": "Elliptically polarized"
+        },
+        {
+          "id": "C",
+          "text": "Left-hand circularly polarized"
+        },
+        {
+          "id": "D",
+          "text": "Right-hand circularly polarized"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The electric field of an electromagnetic wave propagation in the positive\ndirection is given by [latex]E=\\hat{a}_{x}sin(\\omega t-\\beta z)+\\hat{a}_{y}sin(\\omega t-\\beta z+\\pi /2)[/latex]. The wave is",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10 Watts"
+        },
+        {
+          "id": "B",
+          "text": "1 Watts"
+        },
+        {
+          "id": "C",
+          "text": "0.1 Watts"
+        },
+        {
+          "id": "D",
+          "text": "0.01 Watts"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A transmission line is feeding 1 watt of power to a horn antenna having a gain\nof 10 dB. The antenna is matched to the transmission line. The total power\nradiated by the horn antenna into the free space is",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "set of radial straight lines"
+        },
+        {
+          "id": "B",
+          "text": "set of concentric circles"
+        },
+        {
+          "id": "C",
+          "text": "set of confocal hyperbolas"
+        },
+        {
+          "id": "D",
+          "text": "set of confocal ellipses"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For the function of a complex variable W=lnZ (where, W=u+jv and\r\nZ=x+jy), the u=constant lines get mapped in Z-plane as",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{j\\pi }{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{-\\pi }{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{-j\\pi }{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\pi }{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the contour integral [latex]\\oint_{|z-j|=2}=\\frac{1}{z^{2}+4}dz[/latex] is positive sense is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2}{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{4}{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{8}{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The integral [latex]\\int_{0}^{\\pi }sin^{3}\\theta d\\theta[/latex] is given by",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For the matrix [latex]\\begin{bmatrix} 4 & 2\\\\ 2&4 \\end{bmatrix}[/latex] the eigenvalue corresponding to the eigenvector [latex]\\begin{bmatrix} 101\\\\ 101 \\end{bmatrix}[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y=\\sum_{m}A_{m}sin\\frac{m\\pi x}{a}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y=\\sum_{m}A_{m}cos\\frac{m\\pi x}{a}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y=\\sum_{m}A_{m}x^{\\frac{m\\pi }{a}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y=\\sum_{m}A_{m}e^{\\frac{m\\pi x }{a}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For the differential equation [latex]\\frac{\\mathrm{d}^{2}y }{\\mathrm{d} x^{2}}+k^{2}y=0[/latex] the boundary conditions are (i) y = 0 for x = 0 and (ii) y = 0 for x = a The form of non-zero solutions of y (where m varies over all integers) are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-1\\leq f(\\infty )\\leq 1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the function f(t) having Laplace transform [latex]F(s)=\\frac{\\omega _{0}}{s^{2}+\\omega ^{2}_{0}}\\; \\; \\; \\; Re[s] \\gt 0[/latex] The final value of f(t) would be",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "monotonically increases"
+        },
+        {
+          "id": "B",
+          "text": "monotonically decreases"
+        },
+        {
+          "id": "C",
+          "text": "increases to a maximum value and then decreases"
+        },
+        {
+          "id": "D",
+          "text": "decreases to a minimum value and then increases"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "As x increased from [latex]-\\infty \\; to \\; \\infty[/latex], the function [latex]f(x)=\\frac{e^{x}}{1+e^{x}}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{A+BR_{L}}{C+DR_{L}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{AR_{L}+C}{BR_{L}+D}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{DR_{L}+A}{BR_{L}+C}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{B+AR_{L}}{D+CR_{L}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A two-port network is represented by ABCD parameters given by [latex]\\begin{bmatrix} V_{1}\\\\ I_{1} \\end{bmatrix}=\\begin{bmatrix} A & B\\\\ C&D \\end{bmatrix}\\begin{bmatrix} V_{2}\\\\ -I_{2} \\end{bmatrix}[/latex] If port-2 is terminated by [latex]R_{L}[/latex], the input impedance seen at port-1 is given by",
+      "topic": "Two Port Networks",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "RL network only"
+        },
+        {
+          "id": "B",
+          "text": "RC network only"
+        },
+        {
+          "id": "C",
+          "text": "LC network only"
+        },
+        {
+          "id": "D",
+          "text": "RC as well as RL networks"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The first and the last critical frequencies (singularities) of a driving point\nimpedance function of a passive network having two kinds of elements, are a\npole and a zero respectively. The above property will be satisfied by",
+      "topic": "Network Functions",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "v x B"
+        },
+        {
+          "id": "B",
+          "text": "B x v"
+        },
+        {
+          "id": "C",
+          "text": "along v"
+        },
+        {
+          "id": "D",
+          "text": "opposite to v"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The majority carriers in an n-type semiconductor have an average drift velocity\nv in a direction perpendicular to a uniform magnetic field B. The electric field\nE induced due to Hall effect acts in the direction",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.00005"
+        },
+        {
+          "id": "B",
+          "text": "2000"
+        },
+        {
+          "id": "C",
+          "text": "10000"
+        },
+        {
+          "id": "D",
+          "text": "20000"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A heavily doped n-type semiconductor has the following data: Hole-electron ratio :0.4 Doping concentration : [latex] 4.2 \\times 10^{8}[/latex] atoms/[latex]m^{3}[/latex] Intrinsic concentration :[latex] 1.5 \\times 10^{4}[/latex] atoms/[latex]m^{3}[/latex] The ratio of conductance of the n-type semiconductor to that of the intrinsic\r\nsemiconductor of same material and ate same temperature is given by",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "423"
+        },
+        {
+          "id": "B",
+          "text": "1324"
+        },
+        {
+          "id": "C",
+          "text": "2201"
+        },
+        {
+          "id": "D",
+          "text": "4321"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A new Binary Coded Pentary (BCP) number system is proposed in which every\ndigit of a base-5 number is represented by its corresponding 3-bit binary code.\nFor example, the base-5 number 24 will be represented by its BCP code 010100.\nIn this numbering system, the BCP code 10001001101 corresponds of the\nfollowing number is base-5 system",
+      "topic": "Number Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3CF0 H"
+        },
+        {
+          "id": "B",
+          "text": "3CF8 H"
+        },
+        {
+          "id": "C",
+          "text": "EFFD H"
+        },
+        {
+          "id": "D",
+          "text": "EFFF H"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Following is the segment of a 8085 assembly language program LXI SP, EFFF H CALL 3000 H : : : 3000 H :   LXI H, 3CF4 PUSH PSW SPHL POP PSW RET On completion of RET execution, the contents of SP is",
+      "topic": "Microprocessor 8085 Programming",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406150",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\delta (t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "m(t)"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "[latex]m(t) \\delta (t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A signal m(t) with bandwidth 500 Hz is first multiplied by a signal g(t) where [latex]g(t)=\\int_{R=-\\infty }^{\\infty }(-1)^{k}\\delta (t-0.5 \\times 10^{-4}k)[/latex] The resulting signal is then passed through an ideal lowpass filter with bandwidth 1 kHz. The output of the lowpass filter would be",
+      "topic": "Sampling",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406151",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2 \\times 10^{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4 \\times 10^{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]6 \\times 10^{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]8 \\times 10^{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The minimum sampling frequency (in samples/sec) required to reconstruct the\r\nfollowing signal from its samples without distortion. [latex]x(t)=5(\\frac{sin 2\\pi 1000t}{\\pi t})^{3}+7(\\frac{sin2\\pi 1000t}{\\pi t})^{2}[/latex] would be",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406153",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "linear, stable and invertible"
+        },
+        {
+          "id": "B",
+          "text": "non-linear, stable and non-invertible"
+        },
+        {
+          "id": "C",
+          "text": "linear, stable and non-invertible"
+        },
+        {
+          "id": "D",
+          "text": "linear, unstable and invertible"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A system with input x[n] and output y[n] is given as y[n]= [latex](sin\\frac{5}{6}\\pi n)[/latex] x[n] . The system is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406154",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{1+2s}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2}{2+s}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2+s}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{2s}{1+2s}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The unit step response of a system starting from rest is given by [latex]c(t)=1-e^{-2t} \\; for \\;  t\\geq 0[/latex] The transfer function of the system is",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "infinite"
+        },
+        {
+          "id": "B",
+          "text": "greater than zero"
+        },
+        {
+          "id": "C",
+          "text": "less than zero"
+        },
+        {
+          "id": "D",
+          "text": "zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The Nyquist plot of [latex]G(j\\omega )[/latex] [latex]H(j\\omega )[/latex] for a closed loop control system, passes through\n(- 1, j0) point in the GH plane. The gain margin of the system in dB is equal to",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The unit impulse response of a system is [latex]h(t) =  e^{-t},t\\geq 0[/latex]. For this system the steady-state value of the output for unit step input is equal to",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{\\pi }{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\pi }{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\pi }{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\pi }{6}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The transfer function of a phase lead compensator is given by [latex]G_{c}(s)=\\frac{1+3Ts}{1+Ts}[/latex] where [latex]T \\gt 0 [/latex] The maximum phase shift provide by such a compensator is",
+      "topic": "Control Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} cost & sint\\\\ -sint & cost \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} -cost & sint\\\\ -sint & -cost \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} -cost & -sint\\\\ -sint & cost \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} cost & -sint\\\\ cost & sint \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A linear system is described by the following state equation [latex]\\dot{X}(t)=AX(t)+BU(t),A=\\begin{bmatrix} 0 & 1\\\\ -1&0 \\end{bmatrix}[/latex] The state transition matrix of the system is",
+      "topic": "State Space Analysis",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2^{-10}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2^{-8}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2^{-6}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2^{-4}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The minimum step-size required for a Delta-Modulator operating at 32k\nsamples/sec to track the signal (here u(t) is the unit-step function) x(t) = 125(u(t) - u(t - 1)) + (250-125t)(u(t - 1) - u(t - 2)) so that slope-overload is avoided, would be",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406161",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "correlated"
+        },
+        {
+          "id": "B",
+          "text": "statistically independent"
+        },
+        {
+          "id": "C",
+          "text": "uncorrelated"
+        },
+        {
+          "id": "D",
+          "text": "orthogonal"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A zero-mean white Gaussian noise is passes through an ideal lowpass filter of\nbandwidth 10 kHz. The output is then uniformly sampled with sampling period\n[latex]t_{s}[/latex] = 0.03 msec. The samples so obtained would be",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406162",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "6000 bits/sec"
+        },
+        {
+          "id": "B",
+          "text": "4500 bits/sec"
+        },
+        {
+          "id": "C",
+          "text": "3000 bits/sec"
+        },
+        {
+          "id": "D",
+          "text": "1500 bits/sec"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A source generates three symbols with probabilities 0.25, 0.25, 0.50 at a rate\nof 3000 symbols per second. Assuming independent generation of symbols, the\nmost efficient source encoder would have average bit rate is",
+      "topic": "Information Theory and Coding",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406163",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]RC \\lt \\frac{1}{W}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]RC \\gt \\frac{1}{W}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]RC \\lt \\frac{1}{\\omega_{c} }[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]RC \\gt \\frac{1}{\\omega_{c} }[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The diagonal clipping in Amplitude Demodulation (using envelop detector) can be avoided it RC time-constant of the envelope detector satisfies the following condition, (here W is message bandwidth and [latex]\\omega_{c}[/latex] is carrier frequency both in rad/sec)",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406165",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]4\\times 10^{4} Hz[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2 \\times 10^{6} Hz[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2 \\times 10^{9} Hz[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2 \\times 10^{10} Hz[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A message signal with bandwidth 10 kHz is Lower-Side Band SSB modulated\nwith carrier frequency [latex]f_{c1}=10^{6}[/latex] Hz. The resulting signal is then passed through a Narrow-Band Frequency Modulator with carrier frequency [latex]f_{c2}=10^{9}[/latex] Hz. The bandwidth of the output would be",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406166",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2\\pi m^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\pi^{2} m^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\pi }{2} m^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\pi m^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A medium of relative permittivity [latex]\\varepsilon _{r2}=2[/latex] forms an interface with free-space. A point source of electromagnetic energy is located in the medium at a depth of 1 meter from the interface. Due to the total internal reflection, the transmitted beam has a circular cross-section over the interface. The area of the beam crosssection at the interface is given by",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406168",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{8}{9}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{5}{6}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "When a planes wave traveling in free-space is incident normally on a medium\nhaving [latex]\\varepsilon_{r}=4.0[/latex], the fraction of power transmitted into the medium is given by",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406169",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{5}{3}cm[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "5 cm"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{5}{2}cm[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "10 cm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A rectangular wave guide having [latex]TE_{10}[/latex] mode as dominant mode is having a cut off frequency 18-GHz for the mode [latex]TE_{30}[/latex]. The inner broad-wall dimension of the rectangular wave guide is",
+      "topic": "Waveguides",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406170",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2\\pi ^{2}}{5}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\pi ^{2}}{5}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{4\\pi ^{2}}{5}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]20 \\pi ^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A mast antenna consisting of a 50 meter long vertical conductor operates over a\nperfectly conducting ground plane. It is base-fed at a frequency of 600 kHz. The\nradiation resistance of the antenna is Ohms is",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406174",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "s(1-t)"
+        },
+        {
+          "id": "B",
+          "text": "-s(1-t)"
+        },
+        {
+          "id": "C",
+          "text": "-s(t)"
+        },
+        {
+          "id": "D",
+          "text": "s(t)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let g(t)=p(t)*p(t) where * denotes convolution and p(t)=u(t)-u(t-1) with\r\nu(t) being the unit step function. The impulse response of filter matched to the signal s(t)=g(t)-[latex]\\delta[/latex](t-2)*g(t) is given as:",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406175",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "t, 0.5"
+        },
+        {
+          "id": "B",
+          "text": "t, 1.0"
+        },
+        {
+          "id": "C",
+          "text": "t, 2.0"
+        },
+        {
+          "id": "D",
+          "text": "[latex]t^{2},0.5[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let g(t)=p(t)*p(t) where * denotes convolution and p(t)=u(t)-u(t-1) with\r\nu(t) being the unit step function. An Amplitude Modulated signal is given as [latex] X_{AM} (t) = 100(p(t) + 0.5 g(t)) cos\\omega _{c}t[/latex] in the interval 0 [latex]\\leq[/latex] t [latex]\\leq[/latex] 1. One set of possible values of modulating signal and modulation index would be",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406178",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "first order lowpass R-L filter"
+        },
+        {
+          "id": "B",
+          "text": "first order highpass R-C filter"
+        },
+        {
+          "id": "C",
+          "text": "tuned L-C filter"
+        },
+        {
+          "id": "D",
+          "text": "series R-L-C filter"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The following question refer to wide sense stationary stochastic processes It is desired to generate a stochastic process (as voltage process) with power\r\nspectral density S([latex]\\omega [/latex]) = 16/(16 + [latex]\\omega ^{2}[/latex]) by driving a Linear-Time-Invariant system by zero mean white noise (As voltage process) with power spectral density being constant equal to 1. The system which can perform the desired task could be",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406179",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "first order R-L lowpass filter would have R=4 [latex]\\Omega[/latex] L = 1 H"
+        },
+        {
+          "id": "B",
+          "text": "first order R-C highpass filter would have R = 4[latex]\\Omega[/latex] C = 0.25F"
+        },
+        {
+          "id": "C",
+          "text": "tuned L-C filter would have L = 4H C = 4F"
+        },
+        {
+          "id": "D",
+          "text": "series R-L-C lowpass filter would have R = 1[latex]\\Omega[/latex], L = 4H , C = 4F"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The following question refer to wide sense stationary stochastic processes The parameters of the system obtained in first order highpass R-c filter would be",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406180",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "12.5"
+        },
+        {
+          "id": "C",
+          "text": "6.25"
+        },
+        {
+          "id": "D",
+          "text": "3.125"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following Amplitude Modulated (AM) signal, where [latex]f_{m} \\lt B[/latex] : [latex]X_{AM}(t)=10(1+0.5sin 2 \\pi f_{m}t)cos2 \\pi f_{c}t[/latex] The average side-band power for the AM signal given above is",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406182",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.4"
+        },
+        {
+          "id": "B",
+          "text": "1.4"
+        },
+        {
+          "id": "C",
+          "text": "0.84"
+        },
+        {
+          "id": "D",
+          "text": "0.74"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a unity-gain feedback control system whose open-loop transfer function is: [latex]G(s)=\\frac{as+1}{s^{2}}[/latex] The value of \"a\" so that the system has a phase-margin equal to [latex]\\frac{\\pi }{4}[/latex] is approximately equal to",
+      "topic": "Stability Analysis",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406183",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3.4"
+        },
+        {
+          "id": "B",
+          "text": "2.4"
+        },
+        {
+          "id": "C",
+          "text": "1.84"
+        },
+        {
+          "id": "D",
+          "text": "1.74"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a unity-gain feedback control system whose open-loop transfer function is: [latex]G(s)=\\frac{as+1}{s^{2}}[/latex] With the value of \"a\" set for a phase - margin of [latex]\\frac{\\pi }{4}[/latex], the value of unit-impulse response of the open-loop system at t=1 second is equal to",
+      "topic": "Stability Analysis",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406184",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "25 Ohms"
+        },
+        {
+          "id": "B",
+          "text": "50 Ohms"
+        },
+        {
+          "id": "C",
+          "text": "75 Ohms"
+        },
+        {
+          "id": "D",
+          "text": "100 Ohms"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A 30-Volts battery with zero source resistance is connected to a coaxial line of\r\ncharacteristic impedance of 50 Ohms at t=0 second terminated in an unknown resistive load. The line length is that it takes 400 [latex]\\mu[/latex]s for an electromagnetic wave to travel from source end to load end and vice-versa. At  t=400 [latex]\\mu[/latex]s,  the voltage at the load end is\r\nfound to be 40 Volts. The load resistance is",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "1406185",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.2 Amps"
+        },
+        {
+          "id": "B",
+          "text": "0.3 Amps"
+        },
+        {
+          "id": "C",
+          "text": "0.6 Amps"
+        },
+        {
+          "id": "D",
+          "text": "0.4 Amps"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A 30-Volts battery with zero source resistance is connected to a coaxial line of\r\ncharacteristic impedance of 50 Ohms at t=0 second terminated in an unknown resistive load. The line length is that it takes 400 [latex]\\mu[/latex]s for an electromagnetic wave to travel from source end to load end and vice-versa. At  t=400 [latex]\\mu[/latex]s,  the voltage at the load end is\r\nfound to be 40 Volts. The steady-state current through the load resistance is",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10610114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The rank of the matrix [latex]\\begin{bmatrix} 1& 1& 1\\\\ 1& -1&0 \\\\ 1& 1& 1 \\end{bmatrix}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10610214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P \\times \\bigtriangledown  \\times  P-\\bigtriangledown ^{2}P[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\bigtriangledown^{2} P+\\bigtriangledown (\\bigtriangledown  \\cdot P)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\bigtriangledown^{2} P+\\bigtriangledown \\times  P[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\bigtriangledown (\\bigtriangledown \\cdot  P)-\\bigtriangledown ^{2}P[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "[latex]\\bigtriangledown  \\times  \\bigtriangledown \\times  P[/latex], where P is a vector, is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10610314",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\oint P\\cdot dl[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\oint \\bigtriangledown  \\times \\bigtriangledown \\times   P\\cdot dl[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\oint \\bigtriangledown  \\times  P\\cdot dl[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int \\int \\int \\bigtriangledown \\cdot Pdv[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "[latex]\\int \\int (\\bigtriangledown \\times P)\\cdot ds[/latex], where P is a vector, is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10610414",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0.5\\alpha[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\alpha[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A probability density function is of the form [latex]p(x)=Ke^{-\\alpha |x|},x\\in (-\\infty ,\\infty )[/latex] The value of K is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10610514",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{-2t}u(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{2t}u(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]e^{-t}u(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{t}u(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A solution for the differential equation [latex]\\dot{x}(t)+2x(t)=\\delta (t)[/latex] with initial condition [latex]x(0^-)=0[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10612214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "set of radial straight lines"
+        },
+        {
+          "id": "B",
+          "text": "set of concentric circles"
+        },
+        {
+          "id": "C",
+          "text": "set of confocal hyperbolas"
+        },
+        {
+          "id": "D",
+          "text": "set of confocal ellipses"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For the function of a complex variable W=lnZ (where, W=u+jv and\r\nZ=x+jy), the u=constant lines get mapped in Z-plane as",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10612314",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{j\\pi }{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{-\\pi }{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{-j\\pi }{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\pi }{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the contour integral [latex]\\oint_{|z-j|=2}=\\frac{1}{z^{2}+4}dz[/latex] is positive sense is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10612414",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2}{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{4}{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{8}{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The integral [latex]\\int_{0}^{\\pi }sin^{3}\\theta d\\theta[/latex] is given by",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10612614",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For the matrix [latex]\\begin{bmatrix} 4 & 2\\\\ 2&4 \\end{bmatrix}[/latex] the eigenvalue corresponding to the eigenvector [latex]\\begin{bmatrix} 101\\\\ 101 \\end{bmatrix}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10612714",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y=\\sum_{m}A_{m}sin\\frac{m\\pi x}{a}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y=\\sum_{m}A_{m}cos\\frac{m\\pi x}{a}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y=\\sum_{m}A_{m}x^{\\frac{m\\pi }{a}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y=\\sum_{m}A_{m}e^{\\frac{m\\pi x }{a}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For the differential equation [latex]\\frac{\\mathrm{d}^{2}y }{\\mathrm{d} x^{2}}+k^{2}y=0[/latex] the boundary conditions are (i) y = 0 for x = 0 and (ii) y = 0 for x = a The form of non-zero solutions of y (where m varies over all integers) are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EC",
+      "id": "10612914",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "monotonically increases"
+        },
+        {
+          "id": "B",
+          "text": "monotonically decreases"
+        },
+        {
+          "id": "C",
+          "text": "increases to a maximum value and then decreases"
+        },
+        {
+          "id": "D",
+          "text": "decreases to a minimum value and then increases"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "As x increased from [latex]-\\infty \\; to \\; \\infty[/latex], the function [latex]f(x)=\\frac{e^{x}}{1+e^{x}}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    }
+  ],
+  "schema_version": 1
+}

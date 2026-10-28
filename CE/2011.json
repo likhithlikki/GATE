@@ -1,0 +1,1772 @@
+{
+  "questions": [
+    {
+      "branch": "CE",
+      "id": "1211101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both [S] and [D] are symmetric"
+        },
+        {
+          "id": "B",
+          "text": "Both [S] and [D] are skew-symmetric"
+        },
+        {
+          "id": "C",
+          "text": "[S] is skew-symmetric and [D] is symmetric"
+        },
+        {
+          "id": "D",
+          "text": "[S] is symmetric and [D] is skew-symmetric"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "[A] is a square matrix which is neither symmetric nor skew-symmetric and [latex][A]^{T}[/latex] is its transpose. The sum and difference of these matrices are defined as [latex][S] = [A]+[A]^{T}[/latex] and [latex][D] = [A]-[A]^{T}[/latex], respectively. Which of the following statements is TRUE?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x_{i+1}=\\frac{1}{2}(x_{i}+\\frac{N}{x_{i}})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x_{i+1}=\\frac{1}{2}(x_{i}^{2}+\\frac{N}{x_{i}^{2}})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x_{i+1}=\\frac{1}{2}(x_{i}+\\frac{N^{2}}{x_{i}})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x_{i+1}=\\frac{1}{2}(x_{i}-\\frac{N}{x_{i}})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The square root of a number N is to be obtained by applying the Newton\nRaphson iterations to the equation [latex]x^2-N=0[/latex]. If i denotes the iteration index,\nthe correct iterative scheme will be",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/7[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]9/49[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]12/49[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3/7[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "There are two containers, with one containing 4 Red and 3 Green balls and the\nother containing 3 Blue and 4 Green balls. One ball is drawn at random from\neach container. The probability that one of the balls is Red and the other is Blue\nwill be",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "M15"
+        },
+        {
+          "id": "B",
+          "text": "M20"
+        },
+        {
+          "id": "C",
+          "text": "M30"
+        },
+        {
+          "id": "D",
+          "text": "M40"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A 16 mm thick plate measuring 650 mm x 420 mm is used as a base plate for an\nISHB 300 column subjected to a factored axial compressive load of 2000 kN. As\nper IS 456-2000, the minimum grade of concrete that should be used below the\nbase plate for safely carrying the load is",
+      "topic": "RCC Structures",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Corrosion causes circumferential tensile stresses in concrete and the cracks\nwill be parallel to the corroded reinforcing bar."
+        },
+        {
+          "id": "B",
+          "text": "Corrosion causes radial tensile stresses in concrete and the cracks will be\nparallel to the corroded reinforcng bar."
+        },
+        {
+          "id": "C",
+          "text": "Corrosion causes circumferential tensile stresses in concrete and the cracks\nwill be perpendicular to the direction of the corroded reinforcing bar."
+        },
+        {
+          "id": "D",
+          "text": "Corrosion causes radial tensile stresses in concrete and the cracks will be\nperpendicular to the direction of the corroded reinforcing bar."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Consider a reinforcing bar embedded in concrete. In a marine environment this bar\nundergoes uniform corrosion, which leads to the deposition of corrosion products\non its surface and an increase in the apparent volume of the bar. This subjects the\nsurrounding concrete to expansive pressure. As a result, corrosion induced cracks\nappear at the surface of concrete. Which of the following statements is TRUE?",
+      "topic": "Shear, Torsion, Bond, Anchorage and Development Length",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "soft ferrite-pearlite throughout"
+        },
+        {
+          "id": "B",
+          "text": "hard martensite throughout"
+        },
+        {
+          "id": "C",
+          "text": "a soft ferrite-pearlite core with a hard martensitic rim"
+        },
+        {
+          "id": "D",
+          "text": "a hard martensitic core with a soft pearlite-bainitic rim"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The cross-section of a thermo-mechanically treated (TMT) reinforcing bar has",
+      "topic": "Working Stress and Limit State Method",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.54"
+        },
+        {
+          "id": "B",
+          "text": "0.98"
+        },
+        {
+          "id": "C",
+          "text": "1.02"
+        },
+        {
+          "id": "D",
+          "text": "1.87"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "For a saturated sand deposit, the void ratio and the specific gravity of solids\nare 0.70 and 2.67, respectively. The critical (upward) hydraulic gradient for the\ndeposit would be",
+      "topic": "Seepage Analysis",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "decreasing footing depth"
+        },
+        {
+          "id": "B",
+          "text": "decreasing inter-granular packing of the sand"
+        },
+        {
+          "id": "C",
+          "text": "increasing footing width"
+        },
+        {
+          "id": "D",
+          "text": "decreasing soil grain compressibility"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Likelihood of general shear failure for an isolated footing in sand decreases with",
+      "topic": "Shallow Foundation and Bearing Capacity",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\phi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]45^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]45^{\\circ}-\\phi /2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]45^{\\circ}+\\phi /2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "For a sample of dry, cohesionless soil with friction angle, [latex]\\phi[/latex], the failure plane will be inclined to the major principal plane by an angle equal to",
+      "topic": "Shear Strength of Soil",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.005mm/s"
+        },
+        {
+          "id": "B",
+          "text": "0.05mm/s"
+        },
+        {
+          "id": "C",
+          "text": "5mm/s"
+        },
+        {
+          "id": "D",
+          "text": "50mm/s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A soil is composed of solid spherical grains of identical specific gravity and diameter\nbetween 0.075mm and 0.0075mm. If the terminal velocity of the largest particle\nfalling through water without flocculation is 0.5mm/s, that for the smallest\nparticle would be",
+      "topic": "Shear Strength of Soil",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "decrease the volume of runoff"
+        },
+        {
+          "id": "B",
+          "text": "increase the time to peak discharge"
+        },
+        {
+          "id": "C",
+          "text": "decrease the time base"
+        },
+        {
+          "id": "D",
+          "text": "decrease the peak discharge"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A watershed got transformed from rural to urban over a period of time. The effect\nof urbanization on storm runoff hydrograph from the watershed is to",
+      "topic": "Infiltration, Runoff and Hydrographs",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "channel geometry only"
+        },
+        {
+          "id": "B",
+          "text": "channel geometry and bed slope"
+        },
+        {
+          "id": "C",
+          "text": "channel geometry, bed slope and roughness"
+        },
+        {
+          "id": "D",
+          "text": "channel geometry, bed slope, roughness and Reynolds number"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "For a given discharge, the critical flow depth in an open channel depends on",
+      "topic": "Open Channel Flow",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "O does not coincide with the centre of mass of the displaced fluid"
+        },
+        {
+          "id": "B",
+          "text": "G coincides with the centre of mass of the displaced fluid"
+        },
+        {
+          "id": "C",
+          "text": "O lies below G"
+        },
+        {
+          "id": "D",
+          "text": "O lies above G"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "For a body completely submerged in a fluid, the centre of gravity (G) and centre\nof Buoyancy (O) are known. The body is considered to be in stable equilibrium if",
+      "topic": "Fluid Mechanics and Hydraulics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "rise at a section upstream of the hump"
+        },
+        {
+          "id": "B",
+          "text": "drop at a section upstream of the hump"
+        },
+        {
+          "id": "C",
+          "text": "drop at the hump"
+        },
+        {
+          "id": "D",
+          "text": "rise at the hump"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The flow in a horizontal, frictionless rectangular open channel is supercritical. A\nsmooth hump is built on the channel floor. As the height of hump is increased,\nchoked condition is attained. With further increase in the height of the hump, the\nwater surface will",
+      "topic": "Open Channel Flow",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "PS [latex]\\rightarrow[/latex] RSF [latex]\\rightarrow[/latex] F [latex]\\rightarrow[/latex] RM [latex]\\rightarrow[/latex] SS [latex]\\rightarrow[/latex] C"
+        },
+        {
+          "id": "B",
+          "text": "PS [latex]\\rightarrow[/latex] F [latex]\\rightarrow[/latex] RM [latex]\\rightarrow[/latex] RFM [latex]\\rightarrow[/latex] SS [latex]\\rightarrow[/latex] C"
+        },
+        {
+          "id": "C",
+          "text": "PS [latex]\\rightarrow[/latex] F [latex]\\rightarrow[/latex] SS [latex]\\rightarrow[/latex] RSF [latex]\\rightarrow[/latex] RM [latex]\\rightarrow[/latex] C"
+        },
+        {
+          "id": "D",
+          "text": "PS [latex]\\rightarrow[/latex] RM [latex]\\rightarrow[/latex] F [latex]\\rightarrow[/latex] SS [latex]\\rightarrow[/latex] RFM [latex]\\rightarrow[/latex] C"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Consider the following unit processes commonly used in water treatment;\nrapid mixing (RM), flocculation (F), primary sedimentation (PS), secondary\nsedimentation (SS), chlorination (C) and rapid sand filtration (RSF). The order\nof these unit processes (first to last) in a conventional water treatment plant is",
+      "topic": "Water Treatment",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "%R = 99.90; logR = 4"
+        },
+        {
+          "id": "B",
+          "text": "%R = 99.90; logR = 2"
+        },
+        {
+          "id": "C",
+          "text": "%R = 99.99; logR = 4"
+        },
+        {
+          "id": "D",
+          "text": "%R = 99.99; logR = 2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Anaerobically treated effluent has MPN of total coliform as [latex]10^{6}[/latex]/100 mL. After chlorination, the MPN value declines to [latex]10^{2}[/latex]/100 mL. The percent removal (%R) and log removal (logR) of total coliform MPN is",
+      "topic": "Quality Characteristics of Water",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]O_{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "NO"
+        },
+        {
+          "id": "C",
+          "text": "[latex]SO_{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "Soot"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Consider four common air pollutants found in urban environments, NO, [latex]SO_{2}[/latex], Soot and [latex]O_{3}[/latex]. Among these with one is the secondary air pollutant?",
+      "topic": "Environmental Engineering",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\lambda e^{\\lambda t_{1}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\lambda e^{-\\lambda t_{1}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]e^{\\lambda t_{1}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{-\\lambda t_{1}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The probability that k number of vehicles arrive (i.e. cross a predefined line) in\ntime t is given as [latex](\\lambda t)^k e^{-\\lambda t}/K!, \\; where \\; \\lambda[/latex] is the average vehicle arrival rate. What is the probability that the time headway is greater than or equal to time [latex]t_{1}[/latex]?",
+      "topic": "Traffic Engineering",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]R^{3}/(vJ)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]J^{3}/(Rv)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]v^{2}R/(J)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]v^{3}/(RJ)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A vehicle negotiates a transition curve with uniform speed v. If the radius of the\r\nhorizontal curve and the allowable jerk are R and J, respectively, the minimum\r\nlength of the transition curve is",
+      "topic": "Geometric Design of Highway and Planning",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "remains constant"
+        },
+        {
+          "id": "B",
+          "text": "decreases first and then increase"
+        },
+        {
+          "id": "C",
+          "text": "increases monotonically"
+        },
+        {
+          "id": "D",
+          "text": "increases first and then decreases"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "In Marshall testing of bituminous mixes, as the bitumen content increases the\nflow value",
+      "topic": "Highway Materials",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "always subtractive"
+        },
+        {
+          "id": "B",
+          "text": "always zero"
+        },
+        {
+          "id": "C",
+          "text": "always additive"
+        },
+        {
+          "id": "D",
+          "text": "dependent on latitude"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Curvature correction to a staff reading in a differential leveling survey is",
+      "topic": "Levelling and Contouring",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3y^{2}-3x^{2}+K[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]6x - 6y + K[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]6y - 6x + K[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]6xy + K[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "For an analytic function, [latex]f(x + iy) = u(x,y)+ iv(x,y), \\; u[/latex] is given by [latex]u = 3x^{2}-3y^{2}[/latex]. The expression for [latex]v[/latex], considering [latex]K[/latex] to be a constant is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2/ \\pi [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\pi /2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "What should be the value of [latex]\\lambda[/latex] such that the function defined below is continuous at [latex]x = \\pi /2[/latex]? [latex]f(x)=\\left\\{\\begin{matrix} \\frac{\\lambda \\cos x}{\\frac{\\pi }{2}-x} &if x \\neq \\frac{\\pi }{2} \\\\ 1& if x= \\frac{\\pi }{2} \\end{matrix}\\right.[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "a/2"
+        },
+        {
+          "id": "C",
+          "text": "a"
+        },
+        {
+          "id": "D",
+          "text": "2a"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "What is the value of the definite integral, [latex]\\int_{0}^{a}\\frac{\\sqrt{x}}{\\sqrt{x}+\\sqrt{a-x}}dx[/latex] ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a^{2}b^{2}-(\\vec{a} \\cdot \\vec{b})^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]ab-\\vec{a} \\cdot \\vec{b}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]a^{2}b^{2}+(\\vec{a} \\cdot \\vec{b})^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]ab+\\vec{a} \\cdot \\vec{b}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "If [latex]\\vec{a}\\; and\\; \\vec{b}[/latex] are two arbitrary vectors with magnitudes a and b, respectively,  [latex]|\\vec{a} \\times \\vec{b}|^{2}[/latex] will be equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y=\\frac{2}{3x^{2}}+\\frac{x}{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y=\\frac{x}{2}+\\frac{1}{2x}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y=\\frac{2}{3}+\\frac{x}{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y=\\frac{2}{3x}+\\frac{x^{2}}{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The solution of the differential equation [latex]\\frac{dy}{dx}+\\frac{y}{x}=x[/latex], with the condition that y = 1 at x = 1, is",
+      "topic": "Ordinary Differential Equation ",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Shere reinforcement should be designed for 175 kN for beam P and the\nsection for beam Q should be revised."
+        },
+        {
+          "id": "B",
+          "text": "Nominal shear reinforcement is required for beam P and the shear\nreinforcement should be designed for 120 kN for beam Q."
+        },
+        {
+          "id": "C",
+          "text": "Shear reinforcement should be designed for 175 kN for beam P and the\nshear reinforcement should be designed for 525 kN for beam Q."
+        },
+        {
+          "id": "D",
+          "text": "The sections for both beams P and Q need to be revised."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Consider two RCC beams, P and Q, each having the section 400 mm x 750 mm\n(effective depth, d = 750 mm) made with concrete having a [latex]\\tau _{cmax}=2.1N/mm^{2}[/latex]. For the reinforcement provided and the grade of concrete used, it may be assumed that the [latex]\\tau _{c}=0.75N/mm^{2}[/latex]. The design shear in beam P is 400 kN and in beam Q is 750 kN. Considering the provisions of IS 456-2000, which of the following statements is TRUE?",
+      "topic": "Shear, Torsion, Bond, Anchorage and Development Length",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "37.5 cm"
+        },
+        {
+          "id": "B",
+          "text": "40.0 cm"
+        },
+        {
+          "id": "C",
+          "text": "45.0 cm"
+        },
+        {
+          "id": "D",
+          "text": "50.0 cm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A single pipe of length 1500 m and diameter 60 cm connects two reservoirs having\na difference of 20 m in their water levels. The pipe is to be replaced by two pipes\nof the same length and equal diameter d to convey 25% more discharge under the\nsame head loss. If the friction factor is assumed to be the same for all the pipes,\nthe value of d is approximately equal to which of the following options?",
+      "topic": "Fluid Mechanics and Hydraulics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.54m"
+        },
+        {
+          "id": "B",
+          "text": "4.90m"
+        },
+        {
+          "id": "C",
+          "text": "5.77m"
+        },
+        {
+          "id": "D",
+          "text": "6.23m"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A spillway discharges flood flow at a rate of 9 [latex]m^3[/latex]/s per metre width. If the depth\nof flow on the horizontal apron at the toe of the spillway is 46 cm, the tail water\ndepth needed to form a hydraulic jump is approximately given by which of the\nfollowing options?",
+      "topic": "Open Channel Flow",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "67.5 ha-m"
+        },
+        {
+          "id": "B",
+          "text": "112.5 ha-m"
+        },
+        {
+          "id": "C",
+          "text": "180.0 ha-m"
+        },
+        {
+          "id": "D",
+          "text": "450.0 ha-m"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "In an aquifer extending over 150 hectare, the water table was 20m below ground\nlevel. Over a period of time the water table dropped to 23m below the ground\nlevel. If the porosity of aquifer is 0.40 and the specific retention is 0.15, what is\nthe change in ground water storage of the aquifer?",
+      "topic": "Source of Water Supply, Distribution System and Well Hydraulics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "59.2[latex]\\mu g/m^{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "118.6[latex]\\mu g/m^{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "237.5[latex]\\mu g/m^{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "574.4[latex]\\mu g/m^{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Total suspended particulate matter (TSP) concentration in ambient air is to be\nmeasured using a high volume sampler. The filter used for this purpose had an\ninitial dry weight of 9.787 g. The filter was mounted in the sampler and the initial\nair flow rate through the filter was set at 1.5[latex]m^3[/latex]/min. Sampling continued for\n24 hours. The airflow after 24 hours was measured to be 1.4 [latex]m^3[/latex]/min. The dry\nweight of the filter paper after 24 hour sampling was 10.283 g. Assuming a linear\ndecline in the air flow rate during sampling, what is the 24 hour average TSP\nconcentration in the ambient air?",
+      "topic": "Environmental Engineering",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1.408 \\times 10^{-5} moles/L[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2.817 \\times  10^{-5} moles/L[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]5.634 \\times  10^{-5} moles/L[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1.127 \\times  10^{-4} moles/L[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Chlorine gas (8 mg/L as [latex]CI_2[/latex]) was added to a drinking water sample. If the free\nchlorine residual and pH was measured to be 2mg/L (as [latex]CI_2[/latex]) and 7.5, respectively,\nwhat is the concentration of residual [latex]OCI^{-} [/latex] ions in the water? Assume that the\nchlorine gas added to the water is completely converted to HOCl and [latex]OCI^{-}[/latex]. \nAtomic Weight of Cl: 35.5 Given: [latex]OC1^{-}+H^{+}\\leftrightharpoons^k HOCI, \\; \\; \\; K=10^{7.5}[/latex]",
+      "topic": "Water Treatment",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{4}k_{j} \\times u_{f}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{3}k_{j} \\times  u_{f}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{3}{5}k_{j} \\times  u_{f}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{2}{3}k_{j} \\times  u_{f}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "If the jam density is given as [latex]k_j[/latex] and the free flow speed is given as [latex]u_f[/latex], the\r\nmaximum flow for a linear traffic speed-density model is given by which of the\r\nfollowing options?",
+      "topic": "Traffic Engineering",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{v^{2}}{g(G+f_{r})}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{v^{2}}{2g(G+f_{r})}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{vg}{(G+f_{r})}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{vf_r}{(G+g)}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "If v is the initial speed of a vehicle, g is the gravitational acceleration, G is the\nupward longitudinal slope of the road and [latex]f_r[/latex] is the coefficient of rolling friction\nduring braking, the braking distance (measured horizontally) for the vehicle to stop is",
+      "topic": "Geometric Design of Highway and Planning",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "77kPa"
+        },
+        {
+          "id": "B",
+          "text": "273kPa"
+        },
+        {
+          "id": "C",
+          "text": "268kPa"
+        },
+        {
+          "id": "D",
+          "text": "281kPa"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A sand layer found at sea floor under 20 m water depth is characterized with relative\r\ndensity=40%, maximum void ratio=1.0 , minimum void ratio=0.5, and specific\r\ngravity of soil solids=2.67. Assume the specific gravity of sea water to be 1.03 and the\r\nunit weight of fresh water to be 9.81 kN/[latex]m^3[/latex]. What would be the effective stress (rounded off to the nearest integer value of\r\nkPa) at 30 m depth into the sand layer?",
+      "topic": "Geotechnical Engineering",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211149",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "19kPa"
+        },
+        {
+          "id": "B",
+          "text": "0kPa"
+        },
+        {
+          "id": "C",
+          "text": "21kPa"
+        },
+        {
+          "id": "D",
+          "text": "22kPa"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A sand layer found at sea floor under 20 m water depth is characterized with relative\r\ndensity=40%, maximum void ratio=1.0 , minimum void ratio=0.5, and specific\r\ngravity of soil solids=2.67. Assume the specific gravity of sea water to be 1.03 and the\r\nunit weight of fresh water to be 9.81 kN/[latex]m^3[/latex]. What would be the change in the effective stress (rounded off to the nearest\r\ninteger value of kPa) at 30 m depth into the sand layer if the sea water level\r\npermanently rises by 2m?",
+      "topic": "Geotechnical Engineering",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211150",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1[latex]km^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "2[latex]km^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "7.92[latex]km^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "8.64[latex]km^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The ordinates of a 2-h unit hydrograph at 1 hour intervals starting from time t = 0, are\n0, 3, 8, 6, 3, 2 and 0 [latex]m^3[/latex]/s. Use trapezoidal rule for numerical integration, if required. What is the catchment area represented by the unit hydrograph?",
+      "topic": "Infiltration, Runoff and Hydrographs",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211151",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "41[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "43.4[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "53[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "56.2[latex]m^{3}/s[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The ordinates of a 2-h unit hydrograph at 1 hour intervals starting from time t = 0, are\n0, 3, 8, 6, 3, 2 and 0 [latex]m^3[/latex]/s. Use trapezoidal rule for numerical integration, if required. A storm of 6.6 cm occurs uniformly over the catchment in 3 hours. If [latex]\\phi[/latex] -index is equal to 2mm/h and base flow is 5[latex]m^{3}/s[/latex], what is the peak flow due to the storm?",
+      "topic": "Infiltration, Runoff and Hydrographs",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211154",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "990[latex]kg/m^{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "1000[latex]kg/m^{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "1011[latex]kg/m^{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1022[latex]kg/m^{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The sludge from the aeration tank of the activated sludge process (ASP) has solids\ncontent (by weight) of 2%. This sludge is put in a sludge thickener, where sludge volume\nis reduced to half. Assume that the amount of solids in the supernatant from the\nthickener is negligible, the specific gravity of sludge solids is 2.2 and the density of water\nis 1000 [latex]kg/m^{3}[/latex]. What is the density of the sludge removed from the aeration tank?",
+      "topic": "Treatment of Waste Water",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3.96%"
+        },
+        {
+          "id": "B",
+          "text": "4%"
+        },
+        {
+          "id": "C",
+          "text": "4.04%"
+        },
+        {
+          "id": "D",
+          "text": "4.10%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The sludge from the aeration tank of the activated sludge process (ASP) has solids\ncontent (by weight) of 2%. This sludge is put in a sludge thickener, where sludge volume\nis reduced to half. Assume that the amount of solids in the supernatant from the\nthickener is negligible, the specific gravity of sludge solids is 2.2 and the density of water\nis 1000 [latex]kg/m^{3}[/latex]. What is the solids content (by weight) of the thickened sludge?",
+      "topic": "Treatment of Waste Water",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P^2=Q^3R^2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Q^2=PR[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]Q^2=R^3P[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]R=P^2Q^2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "If [latex]\\log (P)=(1/2) \\log (Q)=(1/3) \\log (R)[/latex], then which of the following options is\nTRUE?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Incomprehensible"
+        },
+        {
+          "id": "B",
+          "text": "Indelible"
+        },
+        {
+          "id": "C",
+          "text": "Inextricable"
+        },
+        {
+          "id": "D",
+          "text": "Infallible"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Which of the following options is the closest in the meaning to the word below: Inexplicable",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "merge"
+        },
+        {
+          "id": "B",
+          "text": "split"
+        },
+        {
+          "id": "C",
+          "text": "collect"
+        },
+        {
+          "id": "D",
+          "text": "separate"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Choose the word from the options given below that is most nearly opposite in meaning to the given word: Amalgamate",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "hyperbolic"
+        },
+        {
+          "id": "B",
+          "text": "restrained"
+        },
+        {
+          "id": "C",
+          "text": "argumentative"
+        },
+        {
+          "id": "D",
+          "text": "indifferent"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Choose the most appropriate word from the options given below to complete the\nfollowing sentence. If you are trying to make a strong impression on your audience, you cannot do\nso by being understated, tentative or _________.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "to visit"
+        },
+        {
+          "id": "B",
+          "text": "having to visi"
+        },
+        {
+          "id": "C",
+          "text": "visiting"
+        },
+        {
+          "id": "D",
+          "text": "for a visit"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Choose the most appropriate word(s) from the options given below to complete\nthe following sentence. I contemplated ________ Singapore for my vacation but decided against it.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211162",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "how to write a letter of condolence"
+        },
+        {
+          "id": "B",
+          "text": "what emotional stages are passed through in the healing process"
+        },
+        {
+          "id": "C",
+          "text": "what the leading causes of death are"
+        },
+        {
+          "id": "D",
+          "text": "how to give support to a grieving friend"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Few school curricula include a unit on how to deal with bereavement and grief,\nand yet all students at some point in their lives suffer from losses through death\nand parting. Based on the above passage which topic would not be included in a unit on\nbereavement?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211163",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "7.58 litres"
+        },
+        {
+          "id": "B",
+          "text": "7.84 litres"
+        },
+        {
+          "id": "C",
+          "text": "7 litres"
+        },
+        {
+          "id": "D",
+          "text": "7.29 litres"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A container originally contains 10 litres of pure spirit. From this container 1 litre\nof spirit is replaced with 1 litre of water. Subsequently, 1 litre of the mixture is\nagain replaced with 1 litre of water and this process is repeated one more time.\nHow much spirit is now left in the container?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211164",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A transporter receives the same number of orders each day. Currently, he has\nsome pending orders (backlog) to be shipped. If he uses 7 trucks, then at the end\nof the 4th day he can clear all the orders. Alternatively, if he uses only 3 trucks,\nthen all the orders are cleared at the end of the 10th day. What is the minimum\nnumber of trucks required so that there will be no pending order at the end of\nthe 5th day?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "1211165",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The variable cost [latex](V)[/latex] of manufacturing a product varies according to the equation\n[latex]V= 4q[/latex] , where [latex]q[/latex] is the quantity produced. The fixed cost [latex](F)[/latex] of production of\nsame product reduces with [latex]q[/latex] according to the equation [latex]F = 100/ q[/latex]. How many\nunits should be produced to minimize the total cost [latex] (V +F)[/latex]?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "11110112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both [S] and [D] are symmetric"
+        },
+        {
+          "id": "B",
+          "text": "Both [S] and [D] are skew-symmetric"
+        },
+        {
+          "id": "C",
+          "text": "[S] is skew-symmetric and [D] is symmetric"
+        },
+        {
+          "id": "D",
+          "text": "[S] is symmetric and [D] is skew-symmetric"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "[A] is a square matrix which is neither symmetric nor skew-symmetric and [latex][A]^{T}[/latex] is its transpose. The sum and difference of these matrices are defined as [latex][S] = [A]+[A]^{T}[/latex] and [latex][D] = [A]-[A]^{T}[/latex], respectively. Which of the following statements is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "11110212",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x_{i+1}=\\frac{1}{2}(x_{i}+\\frac{N}{x_{i}})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x_{i+1}=\\frac{1}{2}(x_{i}^{2}+\\frac{N}{x_{i}^{2}})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x_{i+1}=\\frac{1}{2}(x_{i}+\\frac{N^{2}}{x_{i}})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x_{i+1}=\\frac{1}{2}(x_{i}-\\frac{N}{x_{i}})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The square root of a number N is to be obtained by applying the Newton\nRaphson iterations to the equation [latex]x^2-N=0[/latex]. If i denotes the iteration index,\nthe correct iterative scheme will be",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "11110312",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/7[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]9/49[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]12/49[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3/7[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "There are two containers, with one containing 4 Red and 3 Green balls and the\nother containing 3 Blue and 4 Green balls. One ball is drawn at random from\neach container. The probability that one of the balls is Red and the other is Blue\nwill be",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "11112612",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3y^{2}-3x^{2}+K[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]6x - 6y + K[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]6y - 6x + K[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]6xy + K[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "For an analytic function, [latex]f(x + iy) = u(x,y)+ iv(x,y), \\; u[/latex] is given by [latex]u = 3x^{2}-3y^{2}[/latex]. The expression for [latex]v[/latex], considering [latex]K[/latex] to be a constant is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "11112712",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2/ \\pi [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\pi /2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "What should be the value of [latex]\\lambda[/latex] such that the function defined below is continuous at [latex]x = \\pi /2[/latex]? [latex]f(x)=\\left\\{\\begin{matrix} \\frac{\\lambda \\cos x}{\\frac{\\pi }{2}-x} &if x \\neq \\frac{\\pi }{2} \\\\ 1& if x= \\frac{\\pi }{2} \\end{matrix}\\right.[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "11112812",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "a/2"
+        },
+        {
+          "id": "C",
+          "text": "a"
+        },
+        {
+          "id": "D",
+          "text": "2a"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "What is the value of the definite integral, [latex]\\int_{0}^{a}\\frac{\\sqrt{x}}{\\sqrt{x}+\\sqrt{a-x}}dx[/latex] ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "11112912",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a^{2}b^{2}-(\\vec{a} \\cdot \\vec{b})^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]ab-\\vec{a} \\cdot \\vec{b}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]a^{2}b^{2}+(\\vec{a} \\cdot \\vec{b})^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]ab+\\vec{a} \\cdot \\vec{b}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "If [latex]\\vec{a}\\; and\\; \\vec{b}[/latex] are two arbitrary vectors with magnitudes a and b, respectively,  [latex]|\\vec{a} \\times \\vec{b}|^{2}[/latex] will be equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CE",
+      "id": "11113012",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y=\\frac{2}{3x^{2}}+\\frac{x}{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y=\\frac{x}{2}+\\frac{1}{2x}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y=\\frac{2}{3}+\\frac{x}{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y=\\frac{2}{3x}+\\frac{x^{2}}{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The solution of the differential equation [latex]\\frac{dy}{dx}+\\frac{y}{x}=x[/latex], with the condition that y = 1 at x = 1, is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    }
+  ],
+  "schema_version": 1
+}

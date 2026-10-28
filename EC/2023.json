@@ -1,0 +1,1312 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1423101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{7}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-\\frac{2}{7}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2}{7}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-\\frac{7}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]v_{1}=\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 0\\end{array}\\right][/latex] and [latex]v_{2}=\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 3\\end{array}\\right][/latex] be two vectors. The value of the coefficient [latex]\\alpha[/latex] in the expression [latex]v_{1}=\\alpha v_{2}+e[/latex], which minimizes the length of the error vector [latex]e[/latex], is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2}{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{4}{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The rate of increase, of a scalar field [latex]f(x, y, z)=x y z[/latex] in the direction [latex]v=(2,1,2)[/latex] at a point [latex](0,2,1)[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2 e^{\\frac{j 2 \\pi}{8}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2 e^{\\frac{j \\pi}{8}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2 e^{\\frac{j 5 \\pi}{8}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2 e^{\\frac{j 9 \\pi}{8}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]w^{4}=16 j[/latex]. Which of the following cannot be a value of [latex]w[/latex] ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-\\pi(1+j)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\pi(1+j)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\pi(1-j)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-\\pi(1-j)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the contour integral, [latex]\\oint_{c}\\left(\\frac{z+2}{z^{2}+2 z+2}\\right) d z[/latex], where the contour [latex]C[/latex] is [latex]\\left\\{z:\\left|z+1-\\frac{3}{2} j\\right|=1\\right\\}[/latex], taken in the counter clockwise direction, is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left\\{\\lambda_{k} \\operatorname{det}\\mid 1 \\leq k \\leq n\\right\\}[/latex] and [latex]\\left\\{P v_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left\\{\\lambda_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex] and [latex]\\left\\{v_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left\\{\\lambda_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex] and [latex]\\left\\{P v_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left\\{\\lambda_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex] and [latex]\\left\\{P^{-1} v_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let the sets of eigenvalues and eigenvectors of a matrix [latex]B[/latex] be [latex]\\left\\{\\lambda_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex] and [latex]\\left\\{v_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex], respectively. For any invertible matrix [latex]P[/latex], the sets of eigenvalues and eigenvectors of the matrix [latex]A[/latex], where [latex]B=P^{-1} A B[/latex], respectively, are",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "degenerate [latex]n[/latex]-type."
+        },
+        {
+          "id": "B",
+          "text": "degenerate [latex]p[/latex]-type."
+        },
+        {
+          "id": "C",
+          "text": "non-degenerate [latex]n[/latex]-type."
+        },
+        {
+          "id": "D",
+          "text": "non-degenerate [latex]p[/latex]-type."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a semiconductor, if the Fermi energy level lies in the conduction band, then the semiconductor is known as",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "All energy states in the valence band are filled with electrons and all energy states in the conduction band are empty of electrons."
+        },
+        {
+          "id": "B",
+          "text": "All energy states in the valence band are empty of electrons and all energy states in the conduction band are filled with electrons."
+        },
+        {
+          "id": "C",
+          "text": "All energy states in the valence and conduction band are filled with holes."
+        },
+        {
+          "id": "D",
+          "text": "All energy states in the valence and conduction band are filled with electrons."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For an intrinsic semiconductor at temperature [latex]T=0 \\mathrm{~K}[/latex], which of the following statement is true?",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]R=1 \\Omega, L=1 \\mu \\mathrm{H}[/latex] and [latex]C=1 \\mu \\mathrm{F}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]R=0.1 \\Omega, L=1 \\mu \\mathrm{H}[/latex] and [latex]C=1 \\mu \\mathrm{F}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]R=0.01 \\Omega, L=1 \\mu \\mathrm{H}[/latex] and [latex]C=1 \\mu \\mathrm{F}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]R=0.001 \\Omega, L=1 \\mu \\mathrm{H}[/latex] and [latex]C=1 \\mu \\mathrm{F}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A series [latex]R L C[/latex] circuit has a quality factor [latex]Q[/latex] of 1000 at a center frequency of [latex]10^{6} \\mathrm{rad} / \\mathrm{s}[/latex]. The possible values of [latex]R, L[/latex] and [latex]C[/latex] are",
+      "topic": "Network Functions",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]v_{p} \\gt c, v_{g} \\gt c[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]v_{p} \\lt c, v_{g} \\gt c[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]v_{p} \\gt c, v_{g} \\lt c[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]v_{p} \\lt c, v_{g} \\lt c[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a narrow band signal, propagating in a lossless dielectric medium [latex]\\left(\\epsilon_{r}=4, \\mu_{r}=1\\right)[/latex], with phase velocity [latex]v_{p}[/latex] and group velocity [latex]v_{g}[/latex]. Which of the following statement is true? ( [latex]c[/latex] is the velocity of light in vacuum.)",
+      "topic": "Miscellaneous Topics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the closed loop gain is less than 1 and the phase shift is less than [latex]180^{\\circ}[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "the closed loop gain is greater than 1 and the phase shift is less than [latex]180^{\\circ}[/latex]."
+        },
+        {
+          "id": "C",
+          "text": "the closed loop gain is less than 1 and the phase shift is greater than [latex]180^{\\circ}[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "the closed loop gain is greater than 1 and the phase shift is greater than [latex]180^{\\circ}[/latex]."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A cascade of common-source amplifiers in a unity gain feedback configuration oscillates when",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{\\sqrt{T_{1} T_{2}}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{T_{1} T_{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{T_{1} \\sqrt{T_{2}}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{T_{2} \\sqrt{T_{1}}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The open loop transfer function of a unity negative feedback system is [latex]G(s)=\\frac{k}{s\\left(1+s T_{1}\\right)\\left(1+s T_{2}\\right)}[/latex], where [latex]k, T_{1}[/latex] and [latex]T_{2}[/latex] are positive constants. The phase crossover frequency, in rad/s, is",
+      "topic": "Control Systems",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Causal and time invariant"
+        },
+        {
+          "id": "B",
+          "text": "Non-causal and time varying"
+        },
+        {
+          "id": "C",
+          "text": "Causal and time varying"
+        },
+        {
+          "id": "D",
+          "text": "Non-causal and time invariant"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a system with input [latex]x(t)[/latex] and output [latex]y(t)=x\\left(e^{t}\\right)[/latex]. The system is",
+      "topic": "LTI Systems Continuous and Discrete",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{E}{4}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{E}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]E[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2 E[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]m(t)[/latex] be a strictly band-limited signal with bandwidth [latex]B[/latex] and energy [latex]E[/latex]. Assuming [latex]\\omega_{0}=10 B[/latex], the energy in the signal [latex]m(t) \\cos \\omega_{0} t[/latex] is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sqrt{\\pi} e^{\\frac{\\omega^{2}}{2}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{e^{-\\frac{\\omega^{2}}{4}}}{2 \\sqrt{\\pi}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{\\pi} e^{-\\frac{\\omega^{2}}{4}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sqrt{\\pi} e^{-\\frac{\\omega^{2}}{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The Fourier transform [latex]X(\\omega)[/latex] of [latex]x(t)=e^{-t^{2}}[/latex] is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) [latex]\\rightarrow[/latex] (a), (ii) [latex]\\rightarrow[/latex] (b), (iii) [latex]\\rightarrow[/latex] (c), (iv) [latex]\\rightarrow[/latex] (d)"
+        },
+        {
+          "id": "B",
+          "text": "(i) [latex]\\rightarrow[/latex] (a), (ii) [latex]\\rightarrow[/latex] (c), (iii) [latex]\\rightarrow[/latex] , (iv) [latex]\\rightarrow[/latex] (d)"
+        },
+        {
+          "id": "C",
+          "text": "(i) [latex]\\rightarrow[/latex] (d), (ii) [latex]\\rightarrow[/latex] (b), (iii) [latex]\\rightarrow[/latex] (c), (iv) [latex]\\rightarrow[/latex] (a)"
+        },
+        {
+          "id": "D",
+          "text": "(i) [latex]\\rightarrow[/latex] (a), (ii) [latex]\\rightarrow[/latex] (c), (iii) [latex]\\rightarrow[/latex] (d), (iv) [latex]\\rightarrow[/latex] (b)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In the table shown below, match the signal type with its spectral characteristics. [latex]\\begin{array}{ll}\n\\textbf{Signal type} &\\textbf{Spectral Characteristics}\\\\\n\\text{(i) Continuous, aperiodic}& \\text{(i) Continuous, aperiodic}\\\\\n\\text{(ii) Continuous, periodic}& \\text{(ii) Continuous, periodic}\\\\\n\\text{(iii) Discrete, aperiodic}& \\text{(iii) Discrete, aperiodic}}\\\\\n\\text{(iv) Discrete, periodic} & \\text{(iv) Discrete, periodic}}\n\\end{array}[/latex]",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The signal-to-noise ratio (SNR) of an ADC with a full-scale sinusoidal input is given to be [latex]61.96 \\mathrm{~dB}[/latex]. The resolution of the ADC is _____ bits. (rounded off to the nearest integer).",
+      "topic": "Communication Systems",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "24"
+        },
+        {
+          "id": "C",
+          "text": "29"
+        },
+        {
+          "id": "D",
+          "text": "-5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the line integral [latex]\\int_{P}^{Q}\\left(z^{2} d x+3 y^{2} d y+2 x z d z\\right)[/latex] along the straight line joining the points [latex]P(1,1,2)[/latex] and [latex]Q(2,3,1)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]l^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{l^{2}}{4}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]l[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{l^{2}}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]x[/latex] be an [latex]n \\times 1[/latex] real column vector with length [latex]l=\\sqrt{x^{T} x}[/latex]. The trace of the matrix [latex]P=x x^{T}[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sum_{i=1}^{2} \\alpha_{i} e^{\\lambda_{i} t} v_{i}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sum_{i=1}^{2} \\alpha_{i} e^{2 \\lambda_{i} t} v_{i}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sum_{i=1}^{2} \\alpha_{i} e^{3 \\lambda_{i} t} v_{i}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sum_{i=1}^{2} \\alpha_{i} e^{4 \\lambda_{i} t} v_{i}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The state equation of a second order system is [latex]\\dot{x}(t)=A x(t), x(0)[/latex] is the initial condition. Suppose [latex]\\lambda_{1}[/latex] and [latex]\\lambda_{2}[/latex] are two distinct eigenvalues of [latex]A[/latex] and [latex]v_{1}[/latex] and [latex]v_{2}[/latex] are the corresponding eigenvectors. For constants [latex]\\alpha_{1}[/latex] and [latex]\\alpha_{2}[/latex], the solution, [latex]x(t)[/latex], of the state equation is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]B_{T}+W[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{3}{2} B_{T}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2 B_{T}+W[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{5}{2} B_{T}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let a frequency modulated (FM) signal\n[latex]x(t)=A \\cos \\left(\\omega_{c} t+k_{f} \\int_{-\\infty}^{t} m(\\lambda) d \\lambda\\right)[/latex], where [latex]m(t)[/latex] is a message signal of bandwidth [latex]W[/latex]. It is passed through a non-linear system with output [latex]y(t)=2 x(t)+5(x(t))^{2}[/latex]. Let [latex]B_{T}[/latex] denote the FM bandwidth. The minimum value of [latex]\\omega_{c}[/latex] required to recover [latex]x(t)[/latex] from [latex]y(t)[/latex] is",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "-10"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "-2"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a discrete-time periodic signal with period [latex]N=5[/latex]. Let the discrete-time Fourier series (DTFS) representation be [latex]x[n]=\\sum_{k=0}^{4} a_{k} e^{\\frac{j k 2 \\pi n}{5}}[/latex], where [latex]a_{0}=1, a_{1}=3 j, a_{2}=2 j[/latex], [latex]a_{3}=-2 j[/latex] and [latex]a_{4}=-3 j[/latex]. The value of the sum [latex]\\sum_{n=0}^{4} x[n] \\sin \\frac{4 \\pi n}{5}[/latex] is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\delta[n]+\\delta[n-1]-\\frac{1}{2} \\delta[n-2]-\\frac{5}{2} \\delta[n-3]+\\delta[n-5][/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\delta[n]-\\delta[n-1]-\\frac{1}{2} \\delta[n-2]-\\frac{5}{2} \\delta[n-3]+\\delta[n-5][/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\delta[n]-\\delta[n-1]-\\frac{1}{2} \\delta[n-2]+\\frac{5}{2} \\delta[n-3]-\\delta[n-5][/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\delta[n]+\\delta[n-1]+\\frac{1}{2} \\delta[n-2]+\\frac{5}{2} \\delta[n-3]+\\delta[n-5][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let an input [latex]x[n][/latex] having discrete time Fourier transform. [latex]X\\left(e^{j \\Omega}\\right)=1-e^{-j \\Omega}+2 e^{-3 j \\Omega}[/latex] be passed through an LTI system. The frequency response of the LTI system is [latex]H\\left(e^{j \\Omega}\\right)=1-\\frac{1}{2} e^{-j 2 \\Omega}[/latex]. The output [latex]y[n][/latex] of the system is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423139",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left(\\frac{15 W}{4}\\right) \\cos (10.5 W t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left(\\frac{15 W}{2}\\right) \\cos (10.5 W t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left(\\frac{15 W}{8}\\right) \\cos (10.5 W t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](15 W) \\cos (10.5 W t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]x(t)=10 \\cos (10.5 \\mathrm{Wt})[/latex] be passed through an LTI system having impulse response [latex]h(t)=\\pi\\left(\\frac{\\sin W t}{\\pi t}\\right)^{2} \\cos 10 W t[/latex]. The output of the system is",
+      "topic": "LTI Systems Continuous and Discrete",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423143",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]C_{1 x}=1, C_{1 y}=1, \\theta=\\pi / 4[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]C_{1 x}=2, C_{1 y}=1, \\theta=\\pi / 2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]C_{1 x}=1, C_{1 y}=2, \\theta=3 \\pi / 2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]C_{1 x}=2, C_{1 y}=1, \\theta=3 \\pi / 4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The electric field of a plane electromagnetic wave is [latex]E=a_{x} C_{1 x} \\cos (\\omega t-\\beta z)+a_{y} C_{1 y} \\cos (\\omega t-\\beta z+\\theta) \\mathrm{V} / \\mathrm{m}[/latex] Which of the following combination(s) will give rise to a left handed elliptically polarized (LHEP) wave?",
+      "topic": "Uniform Plane Waves",
+      "type": "MSQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423146",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In an extrinsic semiconductor, the hole concentration is given to be [latex]1.5 n_{i}[/latex] where [latex]n_{i}[/latex] is the intrinsic carrier concentration of [latex]1 \\times 10^{10} \\mathrm{~cm}^{-3}[/latex]. The ratio of electron to hole mobility for equal hole and electron drift current is given as  ___ (rounded off to two decimal places).",
+      "topic": "Electronic Devices",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]X(t)[/latex] be a white Gaussian noise with power spectral density [latex]\\frac{1}{2} \\mathrm{~W} / \\mathrm{Hz}[/latex]. If [latex]X(t)[/latex] is input to an LTI system with impulse response [latex]e^{-t} u(t)[/latex]. The average power of the system output is ___ [latex]\\mathrm{W}[/latex]. (Rounded off to two decimal place).",
+      "topic": "LTI Systems Continuous and Discrete",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A transparent dielectric coating is applied to glass [latex]\\left(\\epsilon_{r}=4, \\mu_{r}=1\\right)[/latex] to eliminate the reflection of red light [latex]\\left(\\lambda_{0}=0.75 \\mu \\mathrm{m}\\right)[/latex]. The minimum thickness of the dielectric coating, in [latex]\\mu \\mathrm{m}[/latex], that can be used is ____ (rounded off to two decimal places).",
+      "topic": "Electromagnetics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a semiconductor device, the Fermi-energy level is [latex]0.35 \\mathrm{eV}[/latex] above the valence band energy. The effective density of states in the valence band at [latex]T=300 \\mathrm{~K}[/latex] is [latex]1 \\times 10^{19} \\mathrm{~cm}^{-3}[/latex]. The thermal equilibrium hole concentration in silicon at [latex]400 \\mathrm{~K}[/latex] is ___ [latex]\\_\\times 10^{13} \\mathrm{~cm}^{-3}[/latex]. (rounded off to two decimal places). Given [latex]\\mathrm{kT}[/latex] at [latex]300 \\mathrm{~K}[/latex] is [latex]0.026 \\mathrm{eV}[/latex].",
+      "topic": "Electronic Devices",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A sample and hold circuit is implemented using a resistive switch and a capacitor with a time constant of [latex]1 \\mu \\mathrm{s}[/latex]. The time for sampling switch to stay closed to charge a capacitor adequately to a full scale voltage of [latex]1 \\mathrm{~V}[/latex] with 12-bit accuracy is ____ [latex]\\mu \\mathrm{s}[/latex]. (rounded off to two decimal places)",
+      "topic": "Transient Analysis",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The frequency of occurrence of 8 symbols [latex](a-h)[/latex] is shown in the table below. A symbol is chosen and it is determined by asking a series of \"yes/no\" questions which are assumed to be truthfully answered. The average number of questions when asked in the most efficient sequence, to determine the chosen symbol, is ____ (rounded off to two decimal places). [latex]\n\\begin{array}{|c|c|c|c|c|c|c|c|c|}\n\\hline\nSymbols & a & b & c & d & e & f & g & h \\\\\n\\hline\nFrequency& \\frac{1}{2} & \\frac{1}{4} & \\frac{1}{8} & \\frac{1}{16} & \\frac{1}{32} & \\frac{1}{64} & \\frac{1}{128} & \\frac{1}{128} \\\\ \nof \\; occurrence& &&&&&&& \\\\\n\\hline\n\\end{array}\n[/latex]",
+      "topic": "Information Theory and Coding",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "conscious"
+        },
+        {
+          "id": "B",
+          "text": "consensus"
+        },
+        {
+          "id": "C",
+          "text": "conscience"
+        },
+        {
+          "id": "D",
+          "text": "consent"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "\"I cannot support this proposal. My ______ will not permit it.\"",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Judiciary"
+        },
+        {
+          "id": "B",
+          "text": "Executive"
+        },
+        {
+          "id": "C",
+          "text": "Governmental"
+        },
+        {
+          "id": "D",
+          "text": "Legal"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Courts :______: Parliament : Legislature",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "123555789"
+        },
+        {
+          "id": "B",
+          "text": "123457869"
+        },
+        {
+          "id": "C",
+          "text": "123456789"
+        },
+        {
+          "id": "D",
+          "text": "99999"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "What is the smallest number with distinct digits whose digits add up to 45 ?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "40"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "30"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a class of 100 students, (i) there are 30 students who neither like romantic movies nor comedy movies, (ii) the number of students who like romantic movies is twice the number of students who like comedy movies, and (iii) the number of students who like both romantic movies and comedy movies is 20. How many students in the class like romantic movies?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "All creatures with claws are animals."
+        },
+        {
+          "id": "B",
+          "text": "Some creatures with claws are non-ferocious."
+        },
+        {
+          "id": "C",
+          "text": "Some non-ferocious creatures have claws."
+        },
+        {
+          "id": "D",
+          "text": "Some ferocious creatures are creatures with claws."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Forestland is a planet inhabited by different kinds of creatures. Among other creatures, it is populated by animals all of whom are ferocious. There are also creatures that have claws, and some that do not. All creatures that have claws are ferocious. Based only on the information provided above, which one of the following options can be logically inferred with certainty?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "It is a child's description of what he or she likes."
+        },
+        {
+          "id": "B",
+          "text": "It is an adult's memory of what he or she liked as a child."
+        },
+        {
+          "id": "C",
+          "text": "The child in the passage read stories about interplanetary travel only in parts."
+        },
+        {
+          "id": "D",
+          "text": "It teaches us that stories are good for children."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which one of the following options can be inferred from the given passage alone? When I was a kid, I was partial to stories about other worlds and interplanetary travel. I used to imagine that I could just gaze off into space and be whisked to another planet. [Excerpt from The Truth about Stories by T. King]",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "700"
+        },
+        {
+          "id": "B",
+          "text": "600"
+        },
+        {
+          "id": "C",
+          "text": "800"
+        },
+        {
+          "id": "D",
+          "text": "1000"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Out of 1000 individuals in a town, 100 unidentified individuals are covid positive. Due to lack of adequate covid-testing kits, the health authorities of the town devised a strategy to identify these covid-positive individuals. The strategy is to: (i) Collect saliva samples from all 1000 individuals and randomly group them into sets of 5 . (ii) Mix the samples within each set and test the mixed sample for covid. (iii) If the test done in (ii) gives a negative result, then declare all the 5 individuals to be covid negative. (iv) If the test done in (ii) gives a positive result, then all the 5 individuals are separately tested for covid. Given this strategy, no more than ______ testing kits will be required to identify all the 100 covid positive individuals irrespective of how they are grouped.",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "1423165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "32"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "31"
+        },
+        {
+          "id": "D",
+          "text": "63"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "[latex]100 \\mathrm{~cm} \\times 32 \\mathrm{~cm}[/latex] rectangular sheet is folded 5 times. Each time the sheet is folded, the long edge aligns with its opposite side. Eventually, the folded sheet is a rectangle of dimensions [latex]100 \\mathrm{~cm} \\times 1 \\mathrm{~cm}[/latex]. The total number of creases visible when the sheet is unfolded is",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "12310114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{7}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-\\frac{2}{7}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2}{7}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-\\frac{7}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]v_{1}=\\left[\\begin{array}{l}1 \\\\ 2 \\\\ 0\\end{array}\\right][/latex] and [latex]v_{2}=\\left[\\begin{array}{l}2 \\\\ 1 \\\\ 3\\end{array}\\right][/latex] be two vectors. The value of the coefficient [latex]\\alpha[/latex] in the expression [latex]v_{1}=\\alpha v_{2}+e[/latex], which minimizes the length of the error vector [latex]e[/latex], is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "12310214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2}{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{4}{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The rate of increase, of a scalar field [latex]f(x, y, z)=x y z[/latex] in the direction [latex]v=(2,1,2)[/latex] at a point [latex](0,2,1)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "12310314",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2 e^{\\frac{j 2 \\pi}{8}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2 e^{\\frac{j \\pi}{8}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2 e^{\\frac{j 5 \\pi}{8}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2 e^{\\frac{j 9 \\pi}{8}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]w^{4}=16 j[/latex]. Which of the following cannot be a value of [latex]w[/latex] ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "12310414",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-\\pi(1+j)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\pi(1+j)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\pi(1-j)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-\\pi(1-j)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the contour integral, [latex]\\oint_{c}\\left(\\frac{z+2}{z^{2}+2 z+2}\\right) d z[/latex], where the contour [latex]C[/latex] is [latex]\\left\\{z:\\left|z+1-\\frac{3}{2} j\\right|=1\\right\\}[/latex], taken in the counter clockwise direction, is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "12310514",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left\\{\\lambda_{k} \\operatorname{det}\\mid 1 \\leq k \\leq n\\right\\}[/latex] and [latex]\\left\\{P v_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left\\{\\lambda_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex] and [latex]\\left\\{v_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left\\{\\lambda_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex] and [latex]\\left\\{P v_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left\\{\\lambda_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex] and [latex]\\left\\{P^{-1} v_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let the sets of eigenvalues and eigenvectors of a matrix [latex]B[/latex] be [latex]\\left\\{\\lambda_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex] and [latex]\\left\\{v_{k} \\mid 1 \\leq k \\leq n\\right\\}[/latex], respectively. For any invertible matrix [latex]P[/latex], the sets of eigenvalues and eigenvectors of the matrix [latex]A[/latex], where [latex]B=P^{-1} A B[/latex], respectively, are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "12312714",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "24"
+        },
+        {
+          "id": "C",
+          "text": "29"
+        },
+        {
+          "id": "D",
+          "text": "-5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the line integral [latex]\\int_{P}^{Q}\\left(z^{2} d x+3 y^{2} d y+2 x z d z\\right)[/latex] along the straight line joining the points [latex]P(1,1,2)[/latex] and [latex]Q(2,3,1)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "12312814",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]l^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{l^{2}}{4}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]l[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{l^{2}}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]x[/latex] be an [latex]n \\times 1[/latex] real column vector with length [latex]l=\\sqrt{x^{T} x}[/latex]. The trace of the matrix [latex]P=x x^{T}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EC",
+      "id": "12313314",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sum_{i=1}^{2} \\alpha_{i} e^{\\lambda_{i} t} v_{i}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sum_{i=1}^{2} \\alpha_{i} e^{2 \\lambda_{i} t} v_{i}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sum_{i=1}^{2} \\alpha_{i} e^{3 \\lambda_{i} t} v_{i}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sum_{i=1}^{2} \\alpha_{i} e^{4 \\lambda_{i} t} v_{i}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The state equation of a second order system is [latex]\\dot{x}(t)=A x(t), x(0)[/latex] is the initial condition. Suppose [latex]\\lambda_{1}[/latex] and [latex]\\lambda_{2}[/latex] are two distinct eigenvalues of [latex]A[/latex] and [latex]v_{1}[/latex] and [latex]v_{2}[/latex] are the corresponding eigenvectors. For constants [latex]\\alpha_{1}[/latex] and [latex]\\alpha_{2}[/latex], the solution, [latex]x(t)[/latex], of the state equation is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    }
+  ],
+  "schema_version": 1
+}

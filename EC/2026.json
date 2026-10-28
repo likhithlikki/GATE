@@ -1,0 +1,1191 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1426101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} 1 & 0 \\\\ 0 & -2 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} -1 & 0 \\\\ 0 & 2 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} 0 & -2 \\\\ 1 & 0 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 0 & 2 \\\\ -1 & 0 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the differential equation [latex]\\vec{\\dot{w}} = A\\vec{w}[/latex], with [latex]\\vec{w}(t = 0) = \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix}[/latex]. If [latex]\\vec{w}(t) = e^t \\vec{u}_x + e^{-2t} \\vec{u}_y[/latex] be the solution to the equation where [latex]\\vec{u}_x[/latex] and [latex]\\vec{u}_y[/latex] are unit vectors along the positive [latex]x[/latex] and [latex]y[/latex] axes respectively, then which of the following options is the correct matrix representing [latex]A[/latex]?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\hat{i} - \\sqrt{2}\\hat{k}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2}{3}\\hat{i} - \\frac{1}{3}\\hat{k}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{2}\\hat{i} - \\sqrt{3}\\hat{k}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\sqrt{2}\\hat{i} - \\hat{k}}{\\sqrt{3}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A surface is given by [latex]z^2 = 2x^2 - y^2[/latex] and [latex]\\vec{n}[/latex] and [latex]-\\vec{n}[/latex] are unit normal vectors to the surface at the point [latex]\\vec{P} = \\hat{i} + \\sqrt{2}\\hat{k}[/latex]. Which of the following vectors can be [latex]\\vec{n}[/latex], where [latex]\\hat{i}, \\hat{j}[/latex], and [latex]\\hat{k}[/latex] are the unit vectors along [latex]x, y[/latex] and [latex]z[/latex] axes, respectively?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{e^{-2s}}{s^2(s - 2)}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{e^{-2(s-2)}}{s^3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{se^{-2s}}{(s - 2)^2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{e^{-2s}}{s^3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The Laplace Transform of the signal [latex]x(t) = u(t - 2) * (t \\cdot u(t))[/latex] is given by which of the following expressions? [Note: \"[latex]*[/latex]\" represents convolution operator]",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Drift"
+        },
+        {
+          "id": "B",
+          "text": "Diffusion"
+        },
+        {
+          "id": "C",
+          "text": "Tunneling"
+        },
+        {
+          "id": "D",
+          "text": "Ballistic transport"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider carrier transport in a Zener diode in the breakdown region. Which is the dominant transport mechanism for current flow in this case?",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "All of the first three samples of [latex]x_1(t)[/latex] are greater than the corresponding samples of [latex]x_2(t)[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "All of the last three samples of [latex]x_1(t)[/latex] are greater than the corresponding samples of [latex]x_2(t)[/latex]."
+        },
+        {
+          "id": "C",
+          "text": "All of the samples of [latex]x_2(t)[/latex] are greater than the corresponding samples of [latex]x_1(t)[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "All of the fourth to seventh samples of [latex]x_1(t)[/latex] are equal to the corresponding samples of [latex]x_2(t)[/latex]."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Two analog signals [latex]x_1(t)[/latex] and [latex]x_2(t)[/latex] ([latex]t[/latex] in second) are sampled at a rate [latex]F_s = 40 \\text{ Hz}[/latex], where [latex]x_1(t) = \\cos(20\\pi t), t \\ge 0[/latex], and [latex]x_2(t) = \\cos(100\\pi t), t \\ge 0[/latex]. The first ten samples (starting from [latex]t = 0[/latex]) are considered for the analysis. Which of the following statements is TRUE?",
+      "topic": "Sampling",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Stable and causal response"
+        },
+        {
+          "id": "B",
+          "text": "Stable and non-causal response"
+        },
+        {
+          "id": "C",
+          "text": "Unstable and causal response"
+        },
+        {
+          "id": "D",
+          "text": "Unstable and non-causal response"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The response of a discrete time system [latex]y[n][/latex] obeys the following relation: [latex]y[n] = \\frac{5}{6}y[n - 1] - \\frac{1}{6}y[n - 2] + x[n][/latex] The input to the system is [latex]x[n] = \\delta[n] - \\frac{1}{3}\\delta[n - 1][/latex]. Which of the following options is TRUE for [latex]y[n][/latex]?",
+      "topic": "LTI Systems Continuous and Discrete",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{15}{4\\pi}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{15}{2\\pi}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{75}{2\\pi}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{3}{4\\pi}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the Friis' transmission equation [latex]P_R = \\frac{P_T G_T G_R \\lambda^2}{(4\\pi D)^2}[/latex], where [latex]P_R[/latex] and [latex]P_T[/latex] are the received and the transmitted powers, respectively. [latex]G_T[/latex] and [latex]G_R[/latex] are the gain of transmitting and receiving antennas, respectively, [latex]D[/latex] is the distance between the transmitting and receiving antennas, and [latex]\\lambda[/latex] is the wavelength in free space. Given: [latex]G_T = G_R = 1.0[/latex], [latex]\\lambda = 0.30 \\text{ m}[/latex] and [latex]P_T = +10 \\text{ dBm}[/latex]. Choose the distance ([latex]D[/latex]), in km, from the following options at which the received power, [latex]P_R = -90 \\text{ dBm}[/latex]?",
+      "topic": "Miscellaneous Topics",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]10 \\text{ kHz}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]64 \\text{ kHz}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]5 \\text{ kHz}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]20 \\text{ kHz}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a discrete memoryless source with an alphabet of four source symbols. [latex]s(t)[/latex] is a multi-level [latex](-1, 0, +1, +2)[/latex] signal representing a long sequence of random symbols from the above source which is generating [latex]10^4[/latex] symbols per second. Which of the following options is the correct value of equivalent Nyquist bandwidth of [latex]s(t)[/latex]?",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]C\\frac{dV}{dt} = -m(t)[/latex], with [latex]V(t = 0^+) = V_0 + q/C[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]C\\frac{dV}{dt} = -m(t)[/latex], with [latex]V(t = 0^+) = V_0 + q/C + m(t = 0^-)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]C\\frac{dV}{dt} = -m(t)[/latex], with [latex]V(t = 0^+) = V_0 - q/C + m(t = 0^-)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]C\\frac{dV}{dt} = -m(t)[/latex], with [latex]V(t = 0^+) = q/C[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The relation between the input current ([latex]I[/latex]) and the output voltage ([latex]V[/latex]) of a circuit is governed by the equation: [latex]C\\frac{dV}{dt} = I(t) - m(t)[/latex]. The circuit is excited by [latex]I(t) = q\\delta(t)[/latex], where [latex]q[/latex] is a real valued constant. [latex]V[/latex] at [latex]t = 0^-[/latex] is [latex]V_0[/latex]. Which of the following is an equivalent representation of the above case?",
+      "topic": "LTI Systems Continuous and Discrete",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Right-handed circularly polarized"
+        },
+        {
+          "id": "B",
+          "text": "Left-handed circularly polarized"
+        },
+        {
+          "id": "C",
+          "text": "Linearly polarized"
+        },
+        {
+          "id": "D",
+          "text": "Linearly polarized with [latex]-45^\\circ[/latex] angle to [latex]\\hat{x}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The electric field of a monochromatic plane wave travelling in a lossless isotropic and homogenous medium is given by [latex]\\vec{E}(z,t) = E_0[\\hat{x}\\cos(\\omega t - kz) + \\hat{y}\\sin(\\omega t - kz)][/latex] in a right-handed orthogonal co-ordinate system. Which of the following is the correct polarization of the electromagnetic wave?",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2 \\text{ eV}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1 \\text{ eV}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2 \\text{ V}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1 \\text{ V}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a p-n junction diode when it is forward biased with [latex]2 \\text{ V}[/latex]. Which of the following is/are the correct magnitude(s) of the energy difference between quasi Fermi-levels, [latex]E_{fn}[/latex] in the n-side and [latex]E_{fp}[/latex] in the p-side?",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a = -1/2[/latex] and [latex]b = -1/2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]a = 1/2[/latex] and [latex]b = 1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]a = -3[/latex] and [latex]b = 0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]a = 1/2[/latex] and [latex]b = -3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the matrix [latex]M = \\begin{bmatrix} 2 & 1 & 1 \\\\ 1 & 3 & 0 \\\\ -1 & a & b \\end{bmatrix}[/latex]. Which of the following options is/are TRUE if [latex]\\det(M) \\neq 0[/latex]?",
+      "topic": "Linear Algebra",
+      "type": "MSQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A binary ripple counter is designed to count [latex](0)_{10}[/latex] to [latex](64)_{10}[/latex]. Which of the following is/are the number of flip-flops required to design the counter?",
+      "topic": "Sequential Circuits",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Ratio of the real to imaginary parts of the total displacement current"
+        },
+        {
+          "id": "B",
+          "text": "[latex](\\omega\\epsilon'' + \\sigma)/(\\omega\\epsilon')[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "Ratio of the electric susceptibility to permittivity"
+        },
+        {
+          "id": "D",
+          "text": "Ratio of the polarization vector [latex]\\vec{P}[/latex] to the displacement vector [latex]\\vec{D}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which option(s) represents/represent the dielectric loss tangent of a substrate?",
+      "topic": "Electromagnetics",
+      "type": "MSQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A wireless digital transmission scheme is using 16-QAM over an additive white Gaussian noise channel and a maximum-likelihood receiver. Consider the information bit rate from source to be [latex]4 \\times 10^6[/latex] bits per second. The minimum transmission bandwidth (in MHz) of the modulated signal necessary for optimum recovery of information at the receiver is ______. (rounded off to two decimal places)",
+      "topic": "Random Signals and Noise",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The cutoff frequency (in GHz) for the dominant [latex]TE_{10}[/latex] mode of an air-filled rectangular waveguide of inner dimension [latex]0.28 \\text{ inch} \\times 0.14 \\text{ inch}[/latex] is ______. (rounded off to two decimal places)",
+      "topic": "Waveguides",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a lossless passive two-port network, [latex]|S_{11}|[/latex] and [latex]|S_{21}|[/latex] intersect at [latex]-3 \\text{ dB}[/latex]. For a lossy passive two-port network, [latex]|S_{11}|[/latex] and [latex]|S_{21}|[/latex] intersect at [latex]-4 \\text{ dB}[/latex]. The percentage of power dissipated in the lossy network at the intersection frequency is _______. (rounded off to two decimal places)",
+      "topic": "Two Port Networks",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both [latex]S_A[/latex] and [latex]S_B[/latex] converge."
+        },
+        {
+          "id": "B",
+          "text": "Neither [latex]S_A[/latex] nor [latex]S_B[/latex] converges."
+        },
+        {
+          "id": "C",
+          "text": "[latex]S_A[/latex] converges but [latex]S_B[/latex] does not converge."
+        },
+        {
+          "id": "D",
+          "text": "[latex]S_B[/latex] converges but [latex]S_A[/latex] does not converge."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the two series, [latex]S_A[/latex] and [latex]S_B[/latex], where: [latex]S_A = \\sum_{n=1}^{\\infty} \\frac{n^2}{2^n}[/latex] [latex]S_B = 1 + \\frac{1}{2} + \\frac{1}{8} + \\frac{1}{16} + \\frac{1}{64} + \\frac{1}{128} + \\frac{1}{512} + \\dots[/latex] Which of the following statements is correct for the two given series?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a_{2m} = 0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]a_{2m} = 1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]a_{2m} = a_{2m+1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]a_{2m} = -1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The continuous time signal [latex]x(t)[/latex] is real, periodic with period [latex]T[/latex] and satisfies the Dirichlet conditions. The Fourier series representation of [latex]x(t) = \\sum_{n=-\\infty}^{\\infty} a_n e^{j(2\\pi nt/T)}[/latex] and [latex]x(t)[/latex] satisfies the following: [latex]x(t - T/2) = -x(t)[/latex]. For any integer [latex]m[/latex], which of the following options is correct?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/3[/latex] and [latex]0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/3[/latex] and [latex]1/9[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/3[/latex] and [latex]1/3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1[/latex] and [latex]0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]X, N, Y[/latex] and [latex]Z[/latex] be random variables. The variables [latex]X[/latex] and [latex]N[/latex] are independent of each other. [latex]X[/latex] is uniformly distributed between [latex]-1[/latex] and [latex]1[/latex]; [latex]N[/latex] follows Normal distribution with zero mean and unity variance. [latex]Y[/latex] and [latex]Z[/latex] are defined as, [latex]Y = X + N[/latex] and [latex]Z = X^2 + N[/latex]. Which of the following pairs represents the values of correlation between [latex]X[/latex] and [latex]Y[/latex] and that between [latex]X[/latex] and [latex]Z[/latex]?",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{3s}{s^2+4s-6}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{3s+5}{s^2+4s-6}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{3s+5}{s^2+4s+6}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{3s}{s^2+4s+6}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The state and output equations for a control system are: [latex]\\dot{x} = \\begin{bmatrix} -4 & -1.5 \\\\ 4 & 0 \\end{bmatrix} x + \\begin{bmatrix} 2 \\\\ 0 \\end{bmatrix} u[/latex]; [latex]y = \\begin{bmatrix} 1.5 & 0.625 \\end{bmatrix} x[/latex] Which of the following expressions correctly represents the transfer function [latex]\\frac{Y(s)}{U(s)}[/latex] of the system with zero initial conditions?",
+      "topic": "Control Systems",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](2FFF)_H[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](124FF)_H[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](424FF)_H[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](324FF)_H[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The address of the first location of a [latex]256 \\text{ kilo byte (KB)}[/latex] memory is [latex](2500)_H[/latex]. Choose the correct address of the last location of the memory.",
+      "topic": "Memories",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/9[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a real signal [latex]x(t)[/latex], [latex]-\\infty < t < \\infty[/latex], such that [latex]x(t) = 0[/latex] for [latex]t < 0[/latex], [latex]x(t) = 2[/latex] for [latex]0 \\le t < 1[/latex] and [latex]x(t) = 0[/latex] for [latex]t \\ge 1[/latex]. Let [latex]E[x(t)] = \\int_{-\\infty}^{\\infty} [x(t)]^2 dt[/latex]. Which of the following options correctly represents the ratio, [latex]E[x(t)] / E[3x(-3t + 5)][/latex]?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]10^{-3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]10^{-4}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]10^{-5}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]10^{-6}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A QPSK modulated signal from an additive white Gaussian noise (AWGN) channel is received with an [latex]E_b/N_o = 8.4 \\text{ dB}[/latex] at the input of a coherent QPSK demodulator. A maximum-likelihood reception method is used in the demodulator. Assume the complimentary error function [latex]\\text{erfc}(u) \\cong \\frac{1}{u\\sqrt{\\pi}} \\exp(-u^2)[/latex]. Which is the nearest bit error rate (BER) at the output of the demodulator?",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "52"
+        },
+        {
+          "id": "B",
+          "text": "53"
+        },
+        {
+          "id": "C",
+          "text": "54"
+        },
+        {
+          "id": "D",
+          "text": "55"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "What is the [latex]10\\text{'s}[/latex] complement of [latex](47)_{10}[/latex]?",
+      "topic": "Number Systems",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426136",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]B > 1 \\text{ kHz}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]63/\\pi \\text{ Hz} < B < 64/\\pi \\text{ Hz}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]126/\\pi \\text{ Hz} < B < 128/\\pi \\text{ Hz}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]B < 1 \\text{ Hz}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a real baseband signal [latex]x(t) = e^{-2t}[/latex], for [latex]t[/latex] (in seconds) [latex]\\ge 0[/latex]. If [latex]99\\%[/latex] of energy of [latex]x(t)[/latex] lies within [latex]B \\text{ Hz}[/latex], then which of the following options is TRUE for the value of [latex]B[/latex]?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]20.7 - j5.1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]17.7 - j11.8[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]97.5 - j65.0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]97.5 + j65.0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A complex load (in [latex]\\Omega[/latex]) is represented as [latex]\\Gamma_L = 0.5\\angle30^\\circ[/latex] on the Smith chart. A co-axial cable with a characteristic impedance of [latex]50 \\, \\Omega[/latex] is connected to the load. The new input impedance of the load now moves to a diametrically opposite point on the same [latex]\\Gamma[/latex] circle on the Smith chart. Which option is the nearest input impedance of the cable connected load (in [latex]\\Omega[/latex])?",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426144",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1410 \\pm 20 \\text{ nm}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1090 \\pm 20 \\text{ nm}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]950 \\pm 20 \\text{ nm}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]510 \\pm 20 \\text{ nm}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider an LED based on a direct bandgap semiconductor material with energy bandgap [latex]1.3 \\text{ eV}[/latex]. Given: Plank's constant, [latex]h = 6.63 \\times 10^{-34} \\text{ J s}[/latex] and speed of light in free space is [latex]3 \\times 10^8 \\text{ m s}^{-1}[/latex]. In which of the following wavelength ranges the LED will NOT emit?",
+      "topic": "Electronic Devices",
+      "type": "MSQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426145",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]C = B[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]C = 2B[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]C > 3B[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]C < B[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let the relevant bandwidth ([latex]B[/latex]) of a digital communication system be [latex]1 \\text{ MHz}[/latex] and [latex]kT = -174 \\text{ dBm/Hz}[/latex], where [latex]k[/latex] is Boltzmann's constant and [latex]'T'[/latex] is equivalent noise temperature of the receiver. The power ([latex]S[/latex]) of signal received through an additive Gaussian channel is [latex]-80 \\text{ dBm}[/latex]. Which of the following options is/are TRUE about Shannon capacity ([latex]C[/latex]) of the channel?",
+      "topic": "Information Theory and Coding",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426146",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\bar{x}\\bar{z} + xz + wxy[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]xz + wxy + w\\bar{x}\\bar{z} + wxy\\bar{z}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\bar{x}\\bar{z} + wxy + w\\bar{x}\\bar{z} + wxy\\bar{z}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\bar{x}\\bar{z} + xz + wy\\bar{z}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the four-variable Boolean function, [latex]f(w, x, y, z) = \\sum m(0,2,5,7,8,10,13,14,15)[/latex] with [latex]w[/latex] as MSB and [latex]z[/latex] as LSB. Which of the following expressions is/are the valid form(s) of [latex]f(w, x, y, z)[/latex]?",
+      "topic": "Digital Circuits",
+      "type": "MSQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426147",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x(t)[/latex] represents a PSK modulated signal for suitable choices of [latex]A(t)[/latex] and [latex]\\theta(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x(t)[/latex] represents an amplitude modulated signal for suitable choices of [latex]A(t)[/latex] and [latex]\\theta(t)[/latex]."
+        },
+        {
+          "id": "C",
+          "text": "[latex]x(t)[/latex] represents a band-limited Gaussian noise process."
+        },
+        {
+          "id": "D",
+          "text": "[latex]x(t)[/latex] never represents a narrowband FM signal."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a real, narrowband signal [latex]x(t) = A(t)\\cos[2\\pi f_ct + \\theta(t)][/latex] where the maximum frequency components of [latex]A(t)[/latex] and [latex]\\theta(t)[/latex] are [latex]f_M[/latex] and [latex]f_c (= 1000 f_M)[/latex], respectively. Which of the following statements is/are correct for [latex]-\\infty < t < \\infty[/latex]?",
+      "topic": "Communication Systems",
+      "type": "MSQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426148",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x_1(t)[/latex] and [latex]x_2(t)[/latex] are orthogonal to each other over [latex]0 \\le t < 1/n[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "[latex]x_1(t)[/latex] and [latex]x_2(t)[/latex] are orthonormal to each other over [latex]0 \\le t < 1/n[/latex]."
+        },
+        {
+          "id": "C",
+          "text": "[latex]x_2(t)[/latex] is a harmonic of [latex]x_1(t)[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "[latex]x_1(t)[/latex] and [latex]x_2(t)[/latex] are non-orthogonal to each other over [latex]0 \\le t < 1/(2n)[/latex]."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]x_1(t) = \\cos(2\\pi nt)[/latex] and [latex]x_2(t) = 2\\sin(4\\pi nt)[/latex] represent two sinusoids for a positive integer [latex]n[/latex] and [latex]-\\infty < t < \\infty[/latex]. Which of the following statements about [latex]x_1(t)[/latex] and [latex]x_2(t)[/latex] is/are valid?",
+      "topic": "Signals and Systems",
+      "type": "MSQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The average bit error rate at the input of a [latex](7, 4, 1)[/latex] Hamming decoder is [latex]0.10[/latex]. The probability that the decoder will fail to decode a received word correctly is ____. (rounded off to two decimal places)",
+      "topic": "Information Theory and Coding",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider that the concentration of electrons in a semiconductor bar varies linearly from [latex]2 \\times 10^{17} \\text{ cm}^{-3}[/latex] at [latex]x = 1 \\, \\mu\\text{m}[/latex] to [latex]1 \\times 10^{16} \\text{ cm}^{-3}[/latex] at [latex]x = 4 \\, \\mu\\text{m}[/latex] along the x-direction. Assume that the concentration of electrons is not varying along other directions (that is along y- and z-directions). [Given: the mobility of electron is [latex]1400 \\text{ cm}^2\\text{V}^{-1}\\text{s}^{-1}[/latex], thermal voltage is [latex]25 \\text{ mV}[/latex] and electronic charge is [latex]1.6 \\times 10^{-19} \\text{ Coulomb}[/latex].] The density of electron diffusion current (in [latex]\\text{A/mm}^2[/latex]) is ____. (rounded off to two decimal places)",
+      "topic": "Electronic Devices",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "normal"
+        },
+        {
+          "id": "B",
+          "text": "diurnal"
+        },
+        {
+          "id": "C",
+          "text": "abnormal"
+        },
+        {
+          "id": "D",
+          "text": "exceptional"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Among the following options, the antonym of the word \"nocturnal\" is _________.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "([latex]S_1[/latex]) and ([latex]S_2[/latex]) together imply ([latex]S_3[/latex])"
+        },
+        {
+          "id": "B",
+          "text": "([latex]S_1[/latex]) and ([latex]S_3[/latex]) together imply ([latex]S_2[/latex])"
+        },
+        {
+          "id": "C",
+          "text": "([latex]S_2[/latex]) and ([latex]S_3[/latex]) together imply ([latex]S_1[/latex])"
+        },
+        {
+          "id": "D",
+          "text": "([latex]S_1[/latex]) implies ([latex]S_3[/latex])"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The statements ([latex]S_1[/latex]), ([latex]S_2[/latex]), and ([latex]S_3[/latex]) pertain to the scores obtained by students in an exam. The maximum possible marks in the exam is [latex]150[/latex]. ([latex]S_1[/latex]) The highest score is [latex]100[/latex]. ([latex]S_2[/latex]) The fourth highest score is [latex]76[/latex]. ([latex]S_3[/latex]) There are at least four students whose scores are within [latex]25[/latex] of each other. Which one of the following options is necessarily correct?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "16"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Real numbers [latex]y, p[/latex], and [latex]n[/latex] (all greater than [latex]1[/latex]) satisfy [latex](\\log_{p^{1/n}} y)(\\log_{y^{1/n}} p) = 16[/latex] where the logarithms are taken to the bases [latex]p^{1/n}[/latex] and [latex]y^{1/n}[/latex]. The value of [latex]n[/latex] is _____",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "For each student, the scores of all the other students are more than [latex]10[/latex] marks away."
+        },
+        {
+          "id": "B",
+          "text": "There exists at least one student in the class for whom the scores of all the other students are more than [latex]10[/latex] marks away."
+        },
+        {
+          "id": "C",
+          "text": "There is exactly one student in the class for whom the scores of some students are more than [latex]10[/latex] marks away."
+        },
+        {
+          "id": "D",
+          "text": "For each student, the score of exactly one other student is more than [latex]10[/latex] marks away."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The following observation is made about the scores obtained by [latex]100[/latex] students in an exam: 'For each student, there exists another student in the class such that their scores are at most ten marks away.' If the above statement is false, which one of the following statements is necessarily true?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "CHIN"
+        },
+        {
+          "id": "B",
+          "text": "COIN"
+        },
+        {
+          "id": "C",
+          "text": "ITCH"
+        },
+        {
+          "id": "D",
+          "text": "NOSE"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Each one of the following clues contains a keyword that is partially filled. Clue 1: Synonym of recognize ([latex]8[/latex] letters): _D_NT_FY Clue 2: A story long enough to fill a book ([latex]5[/latex] letters): _ _ _ EL Clue 3: Two of something ([latex]6[/latex] letters): _ _ _ PLE Clue 4: A fraction of something, split equally into two parts ([latex]4[/latex] letters): _ _ _ F The first letter of each of the keywords can be rearranged to form a four-letter word. Which one of the options below is a possible choice for the four-letter word?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426162",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "P does not have any parent playing"
+        },
+        {
+          "id": "B",
+          "text": "Q does not have any parent playing"
+        },
+        {
+          "id": "C",
+          "text": "R does not have any parent playing"
+        },
+        {
+          "id": "D",
+          "text": "X does not have a child playing"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Three children [latex]P, Q, R[/latex] and two grown-ups [latex]X, Y[/latex] play a badminton doubles tournament. [latex]X[/latex] and [latex]Y[/latex] are parents to two of the children playing. The child of [latex]X[/latex] is not the same as the child of [latex]Y[/latex]. Exactly one of the children does not have a parent playing in the tournament. The following rules are followed: (i) A parent and his/her child cannot be on the same team. (ii) A match can feature at most one parent and his/her child that is a maximum of one parent-child pair can play in a match. The following matches were played: [latex]\n \\begin{array}{|c|c|c|}\n \\hline\n  & \\text{TEAM 1} & \\text{TEAM 2} \\\\\n \\hline\n \\text{MATCH 1} & \\text{P and X} & \\text{Q and R} \\\\\n \\hline\n \\text{MATCH 2} & \\text{P and R} & \\text{X and Y} \\\\\n \\hline\n \\text{MATCH 3} & \\text{R and X} & \\text{Q and Y} \\\\\n \\hline\n \\end{array}\n [/latex] Which one of the following options is correct?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EC",
+      "id": "1426163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "55"
+        },
+        {
+          "id": "B",
+          "text": "110"
+        },
+        {
+          "id": "C",
+          "text": "220"
+        },
+        {
+          "id": "D",
+          "text": "440"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]P_k[/latex] represent the perimeter of a square with sides of length [latex]k[/latex]. The value of the expression [latex]P_1 + P_2 + P_3 + \\dots + P_{10}[/latex] is ______",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2026
+    }
+  ],
+  "schema_version": 1
+}

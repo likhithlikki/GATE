@@ -1,0 +1,997 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1410101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "always zero"
+        },
+        {
+          "id": "B",
+          "text": "always pure imaginary"
+        },
+        {
+          "id": "C",
+          "text": "either zero or pure imaginary"
+        },
+        {
+          "id": "D",
+          "text": "always real"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The eigen values of a skew-symmetric matrix are",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]n(x) = Kexp(x/L) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]n(x)=Kexp(-x/\\sqrt{L})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]n(x)=K^{2}exp(-x/L)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]n(x) = Kexp(- x/L)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A function [latex]n(x)[/latex]  satisfied the differential equation [latex]\\frac{ d^{2}n(x)}{dx^{2}}-\\frac{n(x)}{L^{2}}=0[/latex] where L is a constant. The boundary conditions are : [latex]n(0) = K[/latex] and [latex]n(\\infty )[/latex] = 0. The solution to this equation is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The bandwidth of the circuit decreases if R is increased"
+        },
+        {
+          "id": "B",
+          "text": "The bandwidth of the circuit remains same if L is increased"
+        },
+        {
+          "id": "C",
+          "text": "At resonance, input impedance is a real quantity"
+        },
+        {
+          "id": "D",
+          "text": "At resonance, the magnitude of input impedance attains its minimum values"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For parallel RLC circuit, which one of the following statements is NOT correct?",
+      "topic": "Sinusoidal Steady State Analysis",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]150 cm^{2}/V-s[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1350 cm^{2}/V-s[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1800 cm^{2}/V-s[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3600 cm^{2}/V-s[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "At room temperature, a possible value for the mobility of electrons in the\ninversion layer of a silicon n-channel MOSFET is",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "wet oxidation"
+        },
+        {
+          "id": "B",
+          "text": "dry oxidation"
+        },
+        {
+          "id": "C",
+          "text": "epitaxial oxidation"
+        },
+        {
+          "id": "D",
+          "text": "ion implantation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Thin gate oxide in a CMOS process in preferably grown using",
+      "topic": "IC Fabrication",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]5\\delta [n+2]+3\\delta [n]+4\\delta [n-1][/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]5\\delta [n-2]+3\\delta [n]+4\\delta [n+1][/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]5u [n+2]+3u [n]+4u [n-1][/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]5u [n-2]+3u [n]+4u [n+1][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the z-transform [latex]x(z)=5z^{2}+4z^{-1}+3;0 \\lt|z|\\lt \\infty[/latex].  The inverse z-transform [latex]x[n][/latex] is",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\delta [n-1] +\\delta [n-2][/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\delta [n-4][/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\delta [n-3][/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\delta [n-1] \\delta [n-2][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Two discrete time system with impulse response [latex]h_{1}[n]=\\delta [n-1] [/latex] and [latex] h_{2}[n]=\\delta [n-2][/latex] are connected in cascade. The overall impulse response of the cascaded system is",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It is not possible to construct a signal flow graph with both input and output in normal order"
+        },
+        {
+          "id": "B",
+          "text": "The number of butterflies in the [latex]m^{th}[/latex] stage in N/m"
+        },
+        {
+          "id": "C",
+          "text": "In-place computation requires storage of only 2N data"
+        },
+        {
+          "id": "D",
+          "text": "Computation of a butterfly requires only one complex multiplication."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a N -point FET algorithm [latex]N=2^{m}[/latex], which one of the following statements is TRUE ?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sqrt{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2}{\\sqrt{3}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\sqrt{3}}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A system with transfer function [latex]\\frac{Y(s)}{X(s)}=\\frac{s}{s+p}[/latex] has an output [latex]y(t)=cos(2t-\\frac{\\pi }{3})[/latex] for the input signal [latex]x(t)=pcos(2t-\\frac{\\pi }{2})[/latex]. Then, the system parameter p is",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x(t)=A_{c}m(t)cos(2\\pi f_{c}t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x(t)=A_{c}[1+m(t)]cos(2\\pi f_{c}t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x(t)=A_{c}cos(2\\pi f_{c}t)+[/latex] [latex]\\frac{A_{c}}{4}m(t)cos(2\\pi f_{c}t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x(t)=A_{c}cos(2\\pi f_{c}t)cos(2\\pi f_{c}t)+[/latex] [latex]A_{c}sin(2\\pi f_{m}t)sin(2\\pi f_{c}t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Suppose that the modulating signal is [latex]m(t)=2cos(2\\pi f_{m}t)[/latex] and the carrier signal is [latex]X_{c}(t)=A_{c}cos(2\\pi f_{c}t)[/latex], which one of the following is a conventional AM signal without over-modulation",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10W"
+        },
+        {
+          "id": "B",
+          "text": "18W"
+        },
+        {
+          "id": "C",
+          "text": "20W"
+        },
+        {
+          "id": "D",
+          "text": "28W"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider an angle modulated signal [latex]x(t)=6cos[2\\pi  \\times 10^{6}t+2sin(8000\\pi t)+ [/latex] [latex]4cos(8000\\pi t)][/latex] V. The average power of x(t) is",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "lossless and reciprocal"
+        },
+        {
+          "id": "B",
+          "text": "lossless but not reciprocal"
+        },
+        {
+          "id": "C",
+          "text": "not lossless but reciprocal"
+        },
+        {
+          "id": "D",
+          "text": "neither lossless nor reciprocal"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If the scattering matrix [S] of a two port network is [latex]|S|=\\begin{bmatrix} 0.2\\angle 0^{\\circ}&0.9\\angle 90^{\\circ} \\\\ 0.9\\angle 90^{\\circ}& 0.1\\angle 90^{\\circ} \\end{bmatrix}[/latex] then the network is",
+      "topic": "Miscellaneous Topics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "500"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "0.014"
+        },
+        {
+          "id": "D",
+          "text": "0.002"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A transmission line has a characteristic impedance of 50 [latex]\\Omega[/latex] and a resistance of 0.1[latex]\\Omega[/latex]/m . If the line is distortion less, the attenuation constant(in Np/m) is",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{30\\pi }[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{60\\pi }[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{120\\pi }[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{240\\pi }[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The electric field component of a time harmonic plane EM wave traveling in\na nonmagnetic lossless dielectric medium has an amplitude of 1 V/m. If the\nrelative permittivity of the medium is 4, the magnitude of the time-average\npower density vector (in W/[latex]m^{2}[/latex]) is",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "maximum at x = e"
+        },
+        {
+          "id": "B",
+          "text": "minimum at x = e"
+        },
+        {
+          "id": "C",
+          "text": "maximum at [latex]x=e^{-1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "minimum at [latex]x=e^{-1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If [latex]e^{y}=x^{1/x}[/latex], then y has a",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{16}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{8}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{5}{16}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A fair coin is tossed independently four times. The probability of the event \"the\nnumber of time heads shown up is more than the number of times tail shown up\"",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{2}, -\\frac{1}{2} \\; and \\; 1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}, -\\frac{1}{2} \\; and \\; -1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2},1 \\; and \\; -\\frac{3}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{2},-1 \\; and \\; \\frac{3}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The residues of a complex function [latex]X(z)=\\frac{1-2z}{z(z-1)(z-2)}[/latex] at its poles are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.01"
+        },
+        {
+          "id": "B",
+          "text": "0.031"
+        },
+        {
+          "id": "C",
+          "text": "0.0631"
+        },
+        {
+          "id": "D",
+          "text": "0.1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider differential equation [latex]\\frac{dy(x)}{dx}-y(x)=x[/latex], with the initial condition y(0)=0. Using Euler's first order method with a step size of 0.1, the value of y(0.3) is",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Given [latex]f(t)=l^{-1}[\\frac{3s+1}{s^{3}+4s^{2}+(K-3)s}]. [/latex] If [latex] \\lim_{t\\rightarrow \\infty }f(t)=1[/latex], then the value of K is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]N_{E}=N_{B}=N_{C}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]N_{E} \\gt  \\gt N_{B} \\; and \\; N_{B} \\gt N_{C}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]N_{E}=N_{B} \\; and \\;  N_{B} \\lt N_{C}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]N_{E} \\lt N_{B} \\lt N_{C}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a uniformly doped BJT, assume that[latex]N_{E},N_{B}[/latex] and [latex]N_{C}[/latex] are the emitter,\r\nbase and collector doping in atoms/[latex]cm^{3}[/latex], respectively. If the emitter injection efficiency of the BJT is close unity, which one of the following condition is TRUE",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Reverse breakdown voltage is lower and depletion capacitance is lower"
+        },
+        {
+          "id": "B",
+          "text": "Reverse breakdown voltage is higher and depletion capacitance is lower"
+        },
+        {
+          "id": "C",
+          "text": "Reverse breakdown voltage is lower and depletion capacitance is higher"
+        },
+        {
+          "id": "D",
+          "text": "Reverse breakdown voltage is higher and depletion capacitance is higher"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Compared to a p-n junction with [latex]N_{A}=N_{D}=10^{14}/cm^{3}[/latex], which one of the following statements is TRUE for a p-n junction with [latex]N_{A}=N_{D}=10^{20}/cm^{3}[/latex]?",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](e^{t}-e^{3t})u(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](e^{-t}-e^{-3t})u(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](e^{-t}+e^{-3t})u(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](e^{t}+e^{3t})u(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A continuous time LTI system is described by [latex]\\frac{d^{2}y(t)}{dt^{2}}+4\\frac{dy(t)}{dt}+3y(t)=2\\frac{dx(t)}{dt}+4x(t)[/latex] Assuming zero initial conditions, the response y(t) of the above system for the input [latex]x(t)=e^{-2t}u(t)[/latex] is given by",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both S1 and S2 are true"
+        },
+        {
+          "id": "B",
+          "text": "Both S2 and S3 are true"
+        },
+        {
+          "id": "C",
+          "text": "Both S1 and S3 are true"
+        },
+        {
+          "id": "D",
+          "text": "S1, S2 and S3 are all"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The transfer function of a discrete time LTI system is given by [latex]H(z)=\\frac{2-\\frac{3}{4}z^{-1}}{1-\\frac{3}{4}z^{-1}+\\frac{1}{8}z^{-2}}[/latex] Consider the following statements: S1: The system is stable and causal for ROC: |z| [latex]\\gt[/latex]\n 1/2 S2: The system is stable but not causal for ROC:| z| [latex]\\lt[/latex]\n1/4 S3: The system is neither stable nor causal for ROC: 1/4 [latex]\\lt[/latex]\n |z| [latex]\\lt[/latex]\n 1/2 Which one of the following statements is valid ?",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "400 Hz"
+        },
+        {
+          "id": "B",
+          "text": "600 Hz"
+        },
+        {
+          "id": "C",
+          "text": "1200 Hz"
+        },
+        {
+          "id": "D",
+          "text": "1400 Hz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The Nyquist sampling rate for the sign [latex]s(t)=\\frac{sin(500\\pi t)}{\\pi t} \\times \\frac{sin(700)\\pi t}{\\pi t}[/latex] is given by",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]G_{c}(s)=\\frac{s+1}{s+2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]G_{c}(s)=\\frac{(s+1)(s+4)}{(s+2)(s+3)}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]G_{c}(s)=\\frac{s+2}{s+1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]G_{c}(s)=1+\\frac{2}{s}+3s[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A unity negative feedback closed loop system has a plant with the transfer function [latex]G(s)=\\frac{1}{s^{2}+2s+2}[/latex] and a controller [latex]G_{c}(s)[/latex] in the\nfeed forward path. For a unit set input, the transfer function of the controller that\ngives minimum steady state error is",
+      "topic": "Control Systems",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "1410146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{10\\pi }cos(3 \\times 10^{8}t+y)\\hat{a}_{x} \\; A/m[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{20\\pi }cos(3 \\times 10^{8}t+y)\\hat{a}_{x}\\; A/m[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-\\frac{1}{20\\pi }cos(3 \\times 10^{8}t+y)\\hat{a}_{x} \\; A/m[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-\\frac{1}{10\\pi }cos(3 \\times 10^{8}t+y)\\hat{a}_{x} \\; A/m[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A plane wave having the electric field components [latex]\\vec{E}_{i}=24 \\cos (3 \\times 10^{8}t-\\beta y)\\hat{a}_{z} V/m[/latex] and traveling in free space is incident normally on a lossless medium with [latex]\\mu =\\mu_{0} [/latex] and [latex] \\varepsilon =9\\varepsilon_{0}[/latex] which occupies the region [latex]y\\geq 0[/latex]. The reflected magnetic field component is given by",
+      "topic": "Uniform Plane Waves",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "11010114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "always zero"
+        },
+        {
+          "id": "B",
+          "text": "always pure imaginary"
+        },
+        {
+          "id": "C",
+          "text": "either zero or pure imaginary"
+        },
+        {
+          "id": "D",
+          "text": "always real"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The eigen values of a skew-symmetric matrix are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "11010314",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]n(x) = Kexp(x/L) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]n(x)=Kexp(-x/\\sqrt{L})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]n(x)=K^{2}exp(-x/L)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]n(x) = Kexp(- x/L)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A function [latex]n(x)[/latex]  satisfied the differential equation [latex]\\frac{ d^{2}n(x)}{dx^{2}}-\\frac{n(x)}{L^{2}}=0[/latex] where L is a constant. The boundary conditions are : [latex]n(0) = K[/latex] and [latex]n(\\infty )[/latex] = 0. The solution to this equation is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "11012614",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "maximum at x = e"
+        },
+        {
+          "id": "B",
+          "text": "minimum at x = e"
+        },
+        {
+          "id": "C",
+          "text": "maximum at [latex]x=e^{-1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "minimum at [latex]x=e^{-1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If [latex]e^{y}=x^{1/x}[/latex], then y has a",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "11012714",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{16}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{8}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{5}{16}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A fair coin is tossed independently four times. The probability of the event \"the\nnumber of time heads shown up is more than the number of times tail shown up\"",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "11012914",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{2}, -\\frac{1}{2} \\; and \\; 1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}, -\\frac{1}{2} \\; and \\; -1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2},1 \\; and \\; -\\frac{3}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{2},-1 \\; and \\; \\frac{3}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The residues of a complex function [latex]X(z)=\\frac{1-2z}{z(z-1)(z-2)}[/latex] at its poles are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EC",
+      "id": "11013014",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.01"
+        },
+        {
+          "id": "B",
+          "text": "0.031"
+        },
+        {
+          "id": "C",
+          "text": "0.0631"
+        },
+        {
+          "id": "D",
+          "text": "0.1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider differential equation [latex]\\frac{dy(x)}{dx}-y(x)=x[/latex], with the initial condition y(0)=0. Using Euler's first order method with a step size of 0.1, the value of y(0.3) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    }
+  ],
+  "schema_version": 1
+}

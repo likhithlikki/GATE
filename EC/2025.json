@@ -1,0 +1,1064 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1425101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only (i), (iii), and (iv)"
+        },
+        {
+          "id": "B",
+          "text": "Only (iv)"
+        },
+        {
+          "id": "C",
+          "text": "Only (ii)"
+        },
+        {
+          "id": "D",
+          "text": "Only (i) and (iii)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the matrix [latex] A [/latex] below: [latex] A = \\begin{bmatrix}\n2 & 3 & 4 & 5 \\\\\n0 & 6 & 7 & 8 \\\\\n0 & 0 & \\alpha & \\beta \\\\\n0 & 0 & 0 & \\gamma\n\\end{bmatrix} [/latex] For which of the following combinations of [latex] \\alpha, \\beta, \\gamma [/latex], is the rank of [latex] A [/latex] at least three? (i) [latex] \\alpha = 0 [/latex] and [latex] \\beta = \\gamma \\ne 0 [/latex] (ii) [latex] \\alpha = \\beta = \\gamma = 0 [/latex] (iii) [latex] \\beta = \\gamma = 0 [/latex] and [latex] \\alpha \\ne 0 [/latex] (iv) [latex] \\alpha = \\beta = \\gamma \\ne 0 [/latex]",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only (ii) converges"
+        },
+        {
+          "id": "B",
+          "text": "Only (ii) and (iii) converge"
+        },
+        {
+          "id": "C",
+          "text": "Only (iii) converges"
+        },
+        {
+          "id": "D",
+          "text": "All three converge"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following series: (i) [latex] \\sum_{n=1}^{\\infty} \\frac{1}{\\sqrt{n}} [/latex] (ii) [latex] \\sum_{n=1}^{\\infty} \\frac{1}{n(n+1)} [/latex] (iii) [latex] \\sum_{n=1}^{\\infty} \\frac{1}{n!} [/latex] Choose the correct option.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] \\frac{2}{3} [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\frac{1}{3} [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] \\frac{1}{2} [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] 1 [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A pot contains two red balls and two blue balls. Two balls are drawn from this pot randomly without replacement. What is the probability that the two balls drawn have different colours?",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] 15f_1 [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] 12f_1 [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] 4f_1 [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] 2f_1 [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a frequency-modulated (FM) signal [latex] f(t) = A_c \\cos\\left(2\\pi f_c t + 3\\sin(2\\pi f_1 t) + 4\\sin(6\\pi f_1 t)\\right) [/latex], where [latex] A_c [/latex] and [latex] f_c [/latex] are, respectively, the amplitude and frequency (in Hz) of the carrier waveform. The frequency [latex] f_1 [/latex] is in Hz, and assume that [latex] f_c > 100f_1 [/latex]. The peak frequency deviation of the FM signal in Hz is _______.",
+      "topic": "Communication Systems",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]|F(\\omega)| \\leq \\int_{-\\infty}^{\\infty}|f(t)| d t[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]|F(\\omega)|>\\int_{-\\infty}^{\\infty}|f(t)| d t[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]|F(\\omega)| \\leq \\int_{-\\infty}^{\\infty} f(t) d t[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]|F(\\omega)| \\geq \\int_{-\\infty}^{\\infty} f(t) d t[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a continuous-time, real-valued signal [latex]f(t)[/latex] whose Fourier transform [latex]F(\\omega)=\\int_{-\\infty}^{\\infty} f(t) \\exp (-j \\omega t) d t[/latex] exists. Which one of the following statements is always TRUE?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]{XY}+{YZ}+{ZX}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]{X} \\oplus {Y} \\oplus {Z}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]{X}+{Y}+{Z}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]XYZ[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A 3-input majority logic gate has inputs [latex]{X}, {Y}[/latex] and [latex]Z[/latex]. The output [latex]F[/latex] of the gate is logic '1' if two or more of the inputs are logic '1'. The output [latex]F[/latex] is logic '0' if two or more of the inputs are logic '0'. Which one of the following options is a Boolean expression of the output [latex]F[/latex] ?",
+      "topic": "Digital Circuits",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f[/latex] has no global maximizer"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f[/latex] has no global minimizer"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x=-1[/latex] is a local minimizer of [latex]f[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x=2[/latex] is a local maximizer of [latex]f[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the function [latex]f: R \\rightarrow R[/latex], defined as [latex]\\mathrm{f}(\\mathrm{x})=2 \\mathrm{x}^{3}-3 \\mathrm{x}^{2}-12 \\mathrm{x}+1[/latex]. Which of the following statements is/are correct? (Here, [latex]\\mathbb{R}[/latex] is the set of real numbers.)",
+      "topic": "Engineering Mathematics",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The discrete-time Fourier transform (DTFT) of x[n] always exists"
+        },
+        {
+          "id": "B",
+          "text": "The region of convergence (ROC) of [latex]\\mathrm{X}(\\mathrm{z})[/latex] contains neither poles nor zeros"
+        },
+        {
+          "id": "C",
+          "text": "The discrete-time Fourier transform (DTFT) exists if the region of convergence (ROC) contains the unit circle"
+        },
+        {
+          "id": "D",
+          "text": "If [latex]\\mathrm{x}[\\mathrm{n}]=\\alpha \\delta[\\mathrm{n}][/latex], where [latex]\\delta[\\mathrm{n}][/latex] is the unit impulse and [latex]\\alpha[/latex] is a scalar, then the region of convergence (RoC) is the entire z-plane"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]x[n][/latex] be a discrete-time signal whose [latex]z[/latex]-transform is [latex]X(z)[/latex]. Which of the following statements is/are TRUE?",
+      "topic": "Signals and Systems",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) is TRUE"
+        },
+        {
+          "id": "B",
+          "text": "(i) is FALSE"
+        },
+        {
+          "id": "C",
+          "text": "(ii) is TRUE"
+        },
+        {
+          "id": "D",
+          "text": "(ii) is FALSE"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a message signal [latex]\\mathrm{m}(\\mathrm{t})[/latex] which is bandlimited to [latex][-\\mathrm{W}, \\mathrm{W}][/latex], where W is in Hz . Consider the following two modulation schemes for the message signal: Double sideband-suppressed carrier (DSB-SC): [latex]f_{D S B}(t)=A_{c} m(t) \\cos \\left(2 \\pi f_{c} t\\right)[/latex] Amplitude modulation (AM): [latex]f_{A M}(t)=A_{c}(1+\\mu m(t)) \\cos \\left(2 \\pi f_{c} t\\right)[/latex] Here, [latex]A_{c}[/latex] and [latex]f_{c}[/latex] are the amplitude and frequency (in Hz ) of the carrier, respectively. In the case of AM, [latex]\\mu[/latex] denotes the modulation index. Consider the following statements: (i) An envelope detector can be used for demodulation in the DSB-SC scheme if [latex]\\mathrm{m}(\\mathrm{t})>0[/latex] for all t . (ii) An envelope detector can be used for demodulation in the AM scheme only if [latex]\\mathrm{m}(\\mathrm{t})>0[/latex] for all t . Which of the following options is/are correct?",
+      "topic": "Communication Systems",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It has an infinite input resistance"
+        },
+        {
+          "id": "B",
+          "text": "It has an infinite output resistance"
+        },
+        {
+          "id": "C",
+          "text": "It has an infinite open-loop differential gain"
+        },
+        {
+          "id": "D",
+          "text": "It has an infinite open-loop common-mode gain"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which of the following statements is/are TRUE with respect to an ideal opamp?",
+      "topic": "Operational Amplifiers",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The common-gate amplifier has an infinite input resistance"
+        },
+        {
+          "id": "B",
+          "text": "The common-source amplifier has an infinite input resistance"
+        },
+        {
+          "id": "C",
+          "text": "The input and output voltages of the commonsource amplifier are in phase"
+        },
+        {
+          "id": "D",
+          "text": "The input and output voltages of the commondrain amplifier are in phase"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which of the following statements is/are TRUE with respect to ideal MOSFET-based DC-coupled single-stage amplifiers having finite load resistors?",
+      "topic": "FET and MOSFET Analysis",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Arsenic"
+        },
+        {
+          "id": "B",
+          "text": "Boron"
+        },
+        {
+          "id": "C",
+          "text": "Gallium"
+        },
+        {
+          "id": "D",
+          "text": "Phosphorous"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which of the following can be used as an n-type dopant for silicon? Select the correct option(s).",
+      "topic": "Electronic Devices",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The function [latex]y(t)[/latex] satisfies [latex]\\mathrm{t}^{2} \\mathrm{y}^{\\prime \\prime}(\\mathrm{t})-2 \\mathrm{ty}^{\\prime}(\\mathrm{t})+2 \\mathrm{y}(\\mathrm{t})=0[/latex], where [latex]y^{\\prime}(t)[/latex] and [latex]y^{\\prime \\prime}(t)[/latex] denote the first and second derivatives of [latex]y(t)[/latex], respectively. Given [latex]\\mathrm{y}^{\\prime}(0)=1[/latex] and [latex]\\mathrm{y}^{\\prime}(1)=-1[/latex], the maximum value of [latex]y(t)[/latex] over [latex][0,1][/latex] is __________ (rounded off to two decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The Generator matrix of a [latex](6,3)[/latex] binary linear block code is given by [latex]\\mathrm{G}=\\left[\\begin{array}{llllll}1 & 0 & 0 & 1 & 0 & 1 \\\\ 0 & 1 & 0 & 0 & 1 & 1 \\\\ 0 & 0 & 1 & 1 & 1 & 0\\end{array}\\right][/latex] The minimum hamming distance [latex]\\mathrm{d}_{\\text {min }}[/latex] between code words equals __________ (answer in integer).",
+      "topic": "Information Theory and Coding",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\mathrm{L}=2, \\mathrm{I}=2[/latex], and [latex]\\mathrm{R}=1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\mathrm{L}=3, \\mathrm{I}=2[/latex], and [latex]\\mathrm{R}=0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\mathrm{L}=1, \\mathrm{I}=2[/latex], and [latex]\\mathrm{R}=2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\mathrm{L}=0, \\mathrm{I}=4[/latex], and [latex]\\mathrm{R}=1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the polynomial [latex]p(s)=s^{5}+7 s^{4}+3 s^{3}-33 s^{2}+2 s-40[/latex]. Let [latex](L,I,R)[/latex] be defined as follows. [latex]L[/latex] is the number of roots of [latex]p(s)[/latex] with negative real parts. [latex]I[/latex] is the number of roots of [latex]\\mathrm{p}(\\mathrm{s})[/latex] that are purely imaginary. [latex]R[/latex] is the number of roots of [latex]p(s)[/latex] with positive real parts. Which one of the following options is correct?",
+      "topic": "Stability Analysis",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\mathrm{f}(\\mathrm{t})[/latex] if [latex]\\mathrm{T}_{\\mathrm{s}}<\\pi / \\omega_{\\mathrm{c}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\mathrm{f}(\\mathrm{t}-\\tau)[/latex] if [latex]\\mathrm{T}_{\\mathrm{s}}<\\pi / \\omega_{\\mathrm{c}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f(t-\\tau)[/latex] if [latex]T_{s}<2 \\pi / \\omega_{c}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\mathrm{T}_{\\mathrm{s}} \\mathrm{f}(\\mathrm{t})[/latex] if [latex]\\mathrm{T}_{\\mathrm{s}}<2 \\pi / \\omega_{\\mathrm{c}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a continuous-time finite-energy signal [latex]f(t)[/latex] whose Fourier transform vanishes outside the frequency interval [latex]\\left[-\\omega_{c}, \\omega_{c}\\right][/latex], where [latex]\\omega_{c}[/latex] is in rad/sec. The signal [latex]f(t)[/latex] is uniformly sampled to obtain [latex]y(t)=f(t) p(t)[/latex]. Here, [latex]p(t)=\\sum_{n=-\\infty}^{\\infty} \\delta\\left(t-\\tau-n T_{s}\\right)[/latex], with [latex]\\delta(\\mathrm{t})[/latex] being the Dirac impulse, [latex]\\mathrm{T}_{\\mathrm{s}}>0[/latex], and [latex]\\tau>0[/latex]. The sampled signal [latex]\\mathrm{y}(\\mathrm{t})[/latex] is passed through an ideal lowpass filter [latex]h(t)=\\omega_{c} T_{s} \\frac{\\sin \\left(\\omega_{c} t\\right)}{\\pi \\omega_{c} t}[/latex] with cutoff frequency [latex]\\omega_{c}[/latex] and passband gain [latex]T_{s}[/latex]. The output of the filter is given by __________ .",
+      "topic": "Sampling",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1 / 3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2 / 3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]4 / 3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A source transmits symbol [latex]S[/latex] that takes values uniformly at random from the set [latex]\\{-2,0,2\\}[/latex]. The receiver obtains [latex]Y=S+N[/latex], where [latex]N[/latex] is a zero-mean Gaussian random variable independent of [latex]S[/latex]. The receiver uses the maximum likelihood decoder to estimate the transmitted symbol [latex]S[/latex]. Suppose the probability of symbol estimation error [latex]\\mathrm{P}_{\\mathrm{e}}[/latex] is expressed as follows: [latex]\\mathrm{P}_{\\mathrm{e}}=\\alpha \\mathrm{P}(\\mathrm{N}>1)[/latex], where [latex]\\mathrm{P}(\\mathrm{N}>1)[/latex] denotes the probability that [latex]N[/latex] exceeds 1. What is the value of [latex]\\alpha[/latex] ?",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) is TRUE and (ii) is FALSE"
+        },
+        {
+          "id": "B",
+          "text": "Both (i) and (ii) are TRUE"
+        },
+        {
+          "id": "C",
+          "text": "Both (i) and (ii) are FALSE"
+        },
+        {
+          "id": "D",
+          "text": "(i) is FALSE and (ii) is TRUE"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a real-valued random process [latex]\\mathrm{f}(\\mathrm{t})=\\sum_{\\mathrm{n}=1}^{\\mathrm{N}} \\mathrm{a}_{\\mathrm{n}} \\mathrm{p}(\\mathrm{t}-\\mathrm{nT})[/latex], where [latex]\\mathrm{T}>0[/latex] and N is a positive integer. Here, [latex]p(t)=1[/latex] for [latex]t \\in[0,0.5 T][/latex] and 0 otherwise. The coefficients [latex]\\mathrm{a}_{\\mathrm{n}}[/latex] are pairwise independent, zero-mean unit-variance random variables. Read the following statements about the random process and choose the correct option. (i) The mean of the process [latex]f(t)[/latex] is independent of time t . (ii) The autocorrelation function [latex]\\mathrm{E}[\\mathrm{f}(\\mathrm{t}) \\mathrm{f}(\\mathrm{t}+\\tau)][/latex] is independent of time t for all [latex]\\tau[/latex]. (Here, [latex]\\mathrm{E}[\\cdot][/latex] is the expectation operation.)",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "61.96 and 10"
+        },
+        {
+          "id": "B",
+          "text": "61.96 and 5"
+        },
+        {
+          "id": "C",
+          "text": "33.36 and 10"
+        },
+        {
+          "id": "D",
+          "text": "33.36 and 5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A 10-bit analog-to-digital converter (ADC) has a sampling frequency of 1 MHz and a full scale voltage of 3.3 V. For an input sinusoidal signal with frequency 500 kHz , the maximum SNR (in dB , rounded off to two decimal places) and the data rate (in Mbps) at the output of the ADC are __________ , respectively.",
+      "topic": "Digital Circuits",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425136",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.65"
+        },
+        {
+          "id": "B",
+          "text": "1.25"
+        },
+        {
+          "id": "C",
+          "text": "0.85"
+        },
+        {
+          "id": "D",
+          "text": "1.95"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The intrinsic carrier concentration of a semiconductor is [latex]2.5 \\times 10^{16} / \\mathrm{m}^{3}[/latex] at 300 K. If the electron and hole mobilities are [latex]0.15 \\mathrm{~m}^{2} / \\mathrm{Vs}[/latex] and [latex]0.05 \\mathrm{~m}^{2} / \\mathrm{Vs}[/latex], respectively, then the intrinsic resistivity of the semiconductor (in [latex]\\mathrm{k} \\Omega . \\mathrm{m}[/latex] ) at 300 K is __________ . (Charge of an electron [latex]\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}[/latex].)",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "26"
+        },
+        {
+          "id": "B",
+          "text": "98"
+        },
+        {
+          "id": "C",
+          "text": "38"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The electron mobility [latex]\\mu_{\\mathrm{n}}[/latex] in a non-degenerate germanium semiconductor at 300 K is [latex]0.38 \\mathrm{~m}^{2} / \\mathrm{Vs}[/latex]. The electron diffusivity [latex]\\mathrm{D}_{\\mathrm{n}}[/latex] at 300 K (in [latex]\\mathrm{cm}^{2} / \\mathrm{s}[/latex], rounded off to the nearest integer) is __________ . (Consider the Boltzmann constant [latex]\\mathrm{k}_{\\mathrm{B}}=1.38 \\times 10^{-23} \\mathrm{~J} / \\mathrm{K}[/latex] and the charge of an electron [latex]\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}[/latex].)",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425140",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.46"
+        },
+        {
+          "id": "B",
+          "text": "1.82"
+        },
+        {
+          "id": "C",
+          "text": "0.58"
+        },
+        {
+          "id": "D",
+          "text": "1.12"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An electric field of [latex]0.01 \\mathrm{~V} / \\mathrm{m}[/latex] is applied along the length of a copper wire of circular cross-section with diameter 1 mm . Copper has a conductivity of [latex]5.8 \\times 10^{7} \\mathrm{~S} / \\mathrm{m}[/latex]. The current (in Amperes, rounded off to two decimal places) flowing through the wire is __________ .",
+      "topic": "Electromagnetics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425141",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\beta=5 \\mathrm{~m}, \\alpha=7 \\mathrm{M}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\beta=6 \\mathrm{~m}, \\alpha=5 \\mathrm{M}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\beta=7 \\mathrm{~m}, \\alpha=6 \\mathrm{M}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\beta=7 \\mathrm{~m}, \\alpha=5 \\mathrm{M}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a non-negative function [latex]f(x)[/latex] which is continuous and bounded over the interval [latex][2,8][/latex]. Let M and m denote, respectively, the maximum and the minimum values of [latex]f(x)[/latex] over the interval. Among the combinations of [latex]\\alpha[/latex] and [latex]\\beta[/latex] given below, choose the one(s) for which the inequality [latex]\\beta \\leq \\int_{2}^{8} \\mathrm{f}(\\mathrm{x}) \\mathrm{dx} \\leq \\alpha[/latex] is guaranteed to hold.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\oint_{\\mathrm{C}} \\mathrm{e}^{z} \\mathrm{dz}=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\oint_{\\mathrm{C}} \\mathrm{e}^{\\mathrm{n}} \\mathrm{dz}=0[/latex], where n is an even integer"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\oint_{\\mathrm{C}} \\cos \\mathrm{zdz} \\neq 0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\oint_{\\mathrm{C}} \\sec \\mathrm{zdz} \\neq 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which of the following statements involving contour integrals (evaluated counter-clockwise) on the unit circle C in the complex plane is/are TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425143",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "The signals [latex]x_{1}(t), x_{2}(t)[/latex], and [latex]x_{3}(t)[/latex] are bounded for all bounded inputs"
+        },
+        {
+          "id": "B",
+          "text": "There exists a bounded input such that at least one of the signals [latex]x_{1}(t), x_{2}(t)[/latex], and [latex]x_{3}(t)[/latex] is unbounded"
+        },
+        {
+          "id": "C",
+          "text": "There exists a bounded input such that the signals [latex]x_{1}(t), x_{2}(t)[/latex], and [latex]x_{3}(t)[/latex] are unbounded"
+        },
+        {
+          "id": "D",
+          "text": "The signals [latex]x_{1}(t), x_{2}(t)[/latex], and [latex]x_{3}(t)[/latex] are unbounded for all bounded inputs"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a system where [latex]{x}_{1}({t}), {x}_{2}({t})[/latex], and [latex]{x}_{3}({t})[/latex] are three internal state signals and [latex]u(t)[/latex] is the input signal. The differential equations governing the system are given by [latex]\\frac{d}{d t}\\left[\\begin{array}{l}x_{1}(t) \\\\ x_{2}(t) \\\\ x_{3}(t)\\end{array}\\right]=\\left[\\begin{array}{ccc}2 & 0 & 0 \\\\ 0 & -2 & 0 \\\\ 0 & 0 & 0\\end{array}\\right]\\left[\\begin{array}{l}x_{1}(t) \\\\ x_{2}(t) \\\\ x_{3}(t)\\end{array}\\right]+\\left[\\begin{array}{l}1 \\\\ 1 \\\\ 1\\end{array}\\right] u(t)[/latex]. Which of the following statements is/are TRUE?",
+      "topic": "State Space Analysis",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425144",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\mathrm{g}(0.4)>\\mathrm{g}(0.3)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\mathrm{g}(0.3)>\\mathrm{g}(0.4)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\mathrm{g}(0.3)>\\mathrm{g}(0.25)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]g(0.25)>g(0.3)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The random variable [latex]X[/latex] takes values in [latex]\\{-1,0,1\\}[/latex] with probabilities [latex]\\mathrm{P}(\\mathrm{X}=-1)=\\mathrm{P}(\\mathrm{X}=1)=\\alpha[/latex] and [latex]\\mathrm{P}(\\mathrm{X}=0)=1-2 \\alpha[/latex], where [latex]0<\\alpha<\\frac{1}{2}[/latex]. Let [latex]g(\\alpha)[/latex] denote the entropy of [latex]X[/latex] (in bits), parameterized by [latex]\\alpha[/latex]. Which of the following statements is/are TRUE?",
+      "topic": "Information Theory and Coding",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425145",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]c_{k}=d_{k}[/latex] for all [latex]k[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\mathrm{y}(\\mathrm{t})[/latex] is periodic with a fundamental period [latex]\\alpha \\mathrm{T}_{0}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\mathrm{c}_{\\mathrm{k}}=\\mathrm{d}_{\\mathrm{k}} / \\alpha[/latex] for all k"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\mathrm{y}(\\mathrm{t})[/latex] is periodic with a fundamental period [latex]\\mathrm{T}_{0} / \\alpha[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]f(t)[/latex] be a periodic signal with fundamental period [latex]\\mathrm{T}_{0}>0[/latex]. Consider the signal [latex]\\mathrm{y}(\\mathrm{t})=\\mathrm{f}(\\alpha \\mathrm{t})[/latex], where [latex]\\alpha>1[/latex]. The Fourier series expansions of [latex]f(t)[/latex] and [latex]y(t)[/latex] are given by [latex]f(t)=\\sum_{k=-\\infty}^{\\infty} c_{k} e^{j \\frac{2 \\pi}{T_{0}} k t} \\& y(t)=\\sum_{k=-\\infty}^{\\infty} d_{k} e^{j \\frac{2 \\pi}{T_{0}} \\alpha k t}[/latex] Which of following statement is/are TRUE?",
+      "topic": "Signals and Systems",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425148",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Two fair dice (with faces labeled [latex]1,2,3,4,5[/latex], and 6) are rolled. Let the random variable X denote the sum of the outcomes obtained. The expectation of X is __________ (rounded off to two decimal places).",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the vectors [latex]\\mathbf{a}=\\left[\\begin{array}{l}1 \\\\ 1\\end{array}\\right], \\mathbf{b}=\\left[\\begin{array}{c}0 \\\\ 3 \\sqrt{2}\\end{array}\\right][/latex] For real-valued scalar variable x , the value of [latex]\\min _{x}\\|a x-b\\|_{2}[/latex] is __________ (rounded off to two decimal places). [latex]\\|\\cdot\\|_{2}[/latex] denotes the Euclidean norm, i.e., if for [latex]\\mathbf{y}=\\left[\\begin{array}{l}\\mathrm{y}_{1} \\\\ \\mathrm{y}_{2}\\end{array}\\right],\\|\\mathbf{y}\\|_{2}=\\sqrt{\\mathrm{y}_{1}^{2}+\\mathrm{y}_{2}^{2}}[/latex].",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "X and Y are Bernoulli random variables taking values in [latex]\\{0,1\\}[/latex]. The joint probability mass function of the random variables is given by: [latex]\n\\begin{aligned}\n& \\mathrm{P}(\\mathrm{X}=0, \\mathrm{Y}=0)=0.06 \n& \\mathrm{P}(\\mathrm{X}=0, \\mathrm{Y}=1)=0.14 \n& \\mathrm{P}(\\mathrm{X}=1, \\mathrm{Y}=0)=0.24 \n& \\mathrm{P}(\\mathrm{X}=1, \\mathrm{Y}=1)=0.56\n\\end{aligned}\n[/latex] The mutual information [latex]\\mathrm{I}(\\mathrm{X} ; \\mathrm{Y})[/latex] is __________ (rounded off to two decimal places).",
+      "topic": "Information Theory and Coding",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An ideal p-n junction germanium diode has a reverse saturation current of [latex]10 \\mu \\mathrm{~A}[/latex] at 300 K . The voltage (in Volts, rounded off to two decimal places) to be applied across the junction to get a forward bias current of 100 mA at 300 K is __________ . (Consider the Boltzmann constant [latex]\\mathrm{k}_{\\mathrm{B}}=1.38 \\times 10^{-23} \\mathrm{~J} / \\mathrm{K}[/latex] and the charge of an electron [latex]\\mathrm{e}=1.6 \\times 10^{-19} \\mathrm{C}[/latex].)",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A [latex]50 \\Omega[/latex] lossless transmission line is terminated with a load [latex]\\mathrm{Z}_{\\mathrm{L}}[/latex] of [latex](50-\\mathrm{j} 75) \\Omega[/latex]. If the average incident power on the line is 10 mW , then the average power delivered to the load (in mW , rounded off to one decimal place) is __________ .",
+      "topic": "Transmission Lines",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Extol"
+        },
+        {
+          "id": "B",
+          "text": "Prize"
+        },
+        {
+          "id": "C",
+          "text": "Appropriate"
+        },
+        {
+          "id": "D",
+          "text": "Espouse"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Here are two analogous groups, Group-I and Group-II, that list words in their decreasing order of intensity. Identify the missing word in Group-II. Group-I: [latex]\\text{Abuse} \\rightarrow \\text{Insult} \\rightarrow \\text{Ridicule}[/latex] Group-II: [latex] \\_\\_\\_\\_\\_\\_ \\rightarrow \\text{Praise} \\rightarrow \\text{Appreciate}[/latex]",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "will be"
+        },
+        {
+          "id": "B",
+          "text": "can be"
+        },
+        {
+          "id": "C",
+          "text": "am going to be"
+        },
+        {
+          "id": "D",
+          "text": "could have been"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Had I learnt acting as a child, I ________ a famous film star. Select the most appropriate option to complete the above sentence.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sqrt{2}^6[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{2}^4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The 12 musical notes are given as [latex]C, C^\\#, D, D^\\#, E, F, F^\\#, G, G^\\#, A, A^\\#, and B. [/latex] Frequency of each note is [latex]\\sqrt[12]{2}[/latex] times the frequency of the previous note. If the frequency of the note [latex]C[/latex] is 130.8 Hz, then the ratio of frequencies of notes [latex]F^\\#[/latex] and [latex]C[/latex]is:",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "P [latex]\\rightarrow[/latex] Q [latex]\\rightarrow[/latex] R [latex]\\rightarrow[/latex] S"
+        },
+        {
+          "id": "B",
+          "text": "Q [latex]\\rightarrow[/latex] S [latex]\\rightarrow[/latex] R [latex]\\rightarrow[/latex] P"
+        },
+        {
+          "id": "C",
+          "text": "R [latex]\\rightarrow[/latex] S [latex]\\rightarrow[/latex] Q [latex]\\rightarrow[/latex] P"
+        },
+        {
+          "id": "D",
+          "text": "S [latex]\\rightarrow[/latex] P [latex]\\rightarrow[/latex] R [latex]\\rightarrow[/latex] Q"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed: P. Over time, such adaptations lead to significant evolutionary changes with the potential to shape the development of new species. Q. In natural world, organisms constantly adapt to their environments in response to challenges and opportunities. R. This process of adaptation is driven by the principle of natural selection, where favorable traits increase an organism's chances of survival and reproduction. S. As environments change, organisms that can adapt their behavior, structure and physiology to such changes are more likely to survive.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "France will occupy the third place if the list were made on the basis of the total number of medals won."
+        },
+        {
+          "id": "B",
+          "text": "The order of the top two nations will not change even if the list is made on the basis of the total number of medals won."
+        },
+        {
+          "id": "C",
+          "text": "USA and Canada together have less than 50% of the medals awarded to the nations in the above table."
+        },
+        {
+          "id": "D",
+          "text": "Canada has won twice as many total medals as Japan."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The table lists the top 5 nations according to the number of gold medals won in a tournament; also included are the number of silver and the bronze medals won by them. Based only on the data provided in the table, which one of the following statements is INCORRECT? [latex] \\begin{array}{|c|c|c|c|}\n\\hline\n\\text{Nation} & \\text{Gold} & \\text{Silver} & \\text{Bronze} \\\\\n\\hline\n\\text{USA} & 40 & 44 & 41 \\\\\n\\hline \\text{Canada} & 39 & 27 & 24 \\\\\n\\hline \\text{Japan} & 20 & 12 & 13 \\\\\n\\hline \\text{Australia} & 17 & 19 & 16 \\\\\n\\hline \\text{France} & 16 & 26 & 22 \\\\\n\\hline\n\\end{array}[/latex]",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EC",
+      "id": "1425165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 7,01,438"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 7,24,961"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 7,51,232"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 7,75,784"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "An organization allows its employees to work independently on consultancy projects but charges an overhead on the consulting fee. The overhead is 20% of the consulting fee, if the fee is up to Rs. 5,00,000. For higher fees, the overhead is Rs. 1,00,000 plus 10% of the amount by which the fee exceeds Rs. 5,00,000. The government charges a Goods and Services Tax of 18% on the total amount (the consulting fee plus the overhead). An employee of the organization charges this entire amount, i.e., the consulting fee, overhead, and tax, to the client. If the client cannot pay more than Rs. 10,00,000, what is the maximum consulting fee that the employee can charge?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    }
+  ],
+  "schema_version": 1
+}

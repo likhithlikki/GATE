@@ -1,0 +1,1095 @@
+{
+  "questions": [
+    {
+      "branch": "DA",
+      "id": "1625101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] E[X|Y] [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\frac{E[X]}{ E[Y]} [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] E[X] [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] E[Y] [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Suppose [latex] X [/latex] and [latex] Y [/latex] are random variables. The conditional expectation of [latex] X [/latex] given [latex] Y [/latex] is denoted by [latex]E[X|Y] [/latex]. Then [latex] E[E[X|Y]] [/latex] equals",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] O(n) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] O(n^2) [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] O(n^3) [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] O(n^4) [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "The number of additions and multiplications involved in performing Gaussian elimination on any [latex] n \\times n [/latex] upper triangular matrix is of the order",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The equation [latex] Bx = 0 [/latex] has no solution"
+        },
+        {
+          "id": "B",
+          "text": "The equation [latex] Bx = 0 [/latex] has exactly two solutions"
+        },
+        {
+          "id": "C",
+          "text": "The equation [latex] Bx = 0 [/latex] has infinitely many solutions"
+        },
+        {
+          "id": "D",
+          "text": "The equation [latex] Bx = 0 [/latex] has a unique solution"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "The sum of the elements in each row of [latex] A \\in \\mathbb{R}^{n \\times n} [/latex] is 1. If [latex] B = A^3 - 2A^2 + A [/latex], which one of the following statements is correct (for [latex] x \\in \\mathbb{R}^n [/latex])?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "-1"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Let [latex] X [/latex] be a continuous random variable whose cumulative distribution function (CDF) [latex] F_X(x) [/latex], for some [latex] t [/latex], is given as follows: [latex] F_X(x) =\n\\begin{cases}\n0, & x \\leq t \\\\\n\\frac{x - t}{4 - t}, & t \\leq x \\leq 4 \\\\\n1, & x \\geq 4\n\\end{cases} [/latex] If the median of [latex] X [/latex] is 3, then what is the value of [latex] t [/latex]?",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] a = -2, b = 1 [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] a = 2, b = -1 [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] a = -2, b = -1 [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] a = 1, b = 1 [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Let [latex] X = aZ + b [/latex], where [latex] Z [/latex] is a standard normal random variable, and [latex] a, b [/latex] are two unknown constants. It is given that [latex]\nE[X] = 1, \\quad E[(X - E[X])Z] = -2, \\quad E[(X - E[X])^2] = 4\n[/latex] where [latex] E[X] [/latex] denotes the expectation of random variable [latex] X [/latex]. The values of [latex] a, b [/latex] are:",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] \\ln 2 [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\ln 4 [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] \\ln 3 [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] \\ln 0.25 [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "It is given that [latex] P(X \\geq 2) = 0.25 [/latex] for an exponentially distributed random variable [latex] X [/latex] with [latex] E[X] = \\frac{1}{\\lambda} [/latex], where [latex] E[X] [/latex] denotes the expectation of [latex] X [/latex]. What is the value of [latex] \\lambda [/latex]? ([latex] \\ln [/latex] denotes natural logarithm)",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] f(x_n; w_{\\text{new}}, b_{\\text{new}}) > f(x_n; w_{\\text{old}}, b_{\\text{old}}) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] f(x_n; w_{\\text{new}}, b_{\\text{new}}) < f(x_n; w_{\\text{old}}, b_{\\text{old}}) [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] f(x_n; w_{\\text{new}}, b_{\\text{new}}) = f(x_n; w_{\\text{old}}, b_{\\text{old}}) [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] y_n f(x_n; w_{\\text{old}}, b_{\\text{old}}) > 1 [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Consider designing a linear classifier [latex] y = \\text{sign}(f(x; w, b)), \\quad f(x; w, b) = w^T x + b [/latex] on a dataset [latex] D = \\{(x_1, y_1), (x_2, y_2), \\dots, (x_N, y_N)\\} [/latex], [latex] x_i \\in \\mathbb{R}^d, y_i \\in \\{+1, -1\\}, i = 1, 2, \\dots, N [/latex]. Recall that the sign function outputs +1 if the argument is positive, and −1 if the argument is non-positive. The parameters [latex] w [/latex] and [latex] b [/latex] are updated as per the following training algorithm: [latex] w_{\\text{new}} = w_{\\text{old}} + y_n x_n, \\quad b_{\\text{new}} = b_{\\text{old}} + y_n [/latex] whenever [latex] \\text{sign}(f(x_n; w_{\\text{old}}, b_{\\text{old}})) \\neq y_n [/latex]. In other words, whenever the classifier wrongly predicts a sample [latex] (x_n, y_n) [/latex] from the dataset, [latex] w_{\\text{old}} [/latex] gets updated to [latex] w_{\\text{new}} [/latex], and likewise [latex] b_{\\text{old}} [/latex] gets updated to [latex] b_{\\text{new}} [/latex]. Consider the case [latex] (x_n, +1) [/latex], [latex] f(x_n; w_{\\text{old}}, b_{\\text{old}}) < 0 [/latex]. Then",
+      "topic": "Machine Learning",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] A.\\text{extend}(B) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] A.\\text{append}(B) [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] A.\\text{update}(B) [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] A.\\text{insert}(B) [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Consider the following Python declarations of two lists: [latex]A = [1, 2, 3], \\quad B = [4, 5, 6]\n[/latex] Which one of the following statements results in [latex] A = [1, 2, 3, 4, 5, 6] [/latex]?",
+      "topic": "Programming in Python",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] \\mathbb{R}^n [/latex] has a unique set of orthonormal basis vectors"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\mathbb{R}^n [/latex] does not have a unique set of orthonormal basis vectors"
+        },
+        {
+          "id": "C",
+          "text": "Linearly independent vectors in [latex] \\mathbb{R}^n [/latex] are orthonormal"
+        },
+        {
+          "id": "D",
+          "text": "Orthonormal vectors in [latex] \\mathbb{R}^n [/latex] are linearly independent"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Which of the following statements is/are correct?",
+      "topic": "Linear Algebra",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Rank of [latex] A [/latex] is [latex] n [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] A [/latex] is invertible"
+        },
+        {
+          "id": "C",
+          "text": "0 is an eigenvalue of [latex] A [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] A^{-1} [/latex] has a negative eigenvalue"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Let [latex] A = I_n + xx^T [/latex], where [latex] I_n [/latex] is the [latex] n \\times n [/latex] identity matrix and [latex] x \\in \\mathbb{R}^n, x^T x = 1 [/latex]. Which of the following options is/are correct?",
+      "topic": "Linear Algebra",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Single Linkage Clustering uses DIS-1"
+        },
+        {
+          "id": "B",
+          "text": "Single Linkage Clustering uses DIS-2"
+        },
+        {
+          "id": "C",
+          "text": "Complete Linkage Clustering uses DIS-2"
+        },
+        {
+          "id": "D",
+          "text": "Complete Linkage Clustering uses DIS-1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Let [latex] C_1 [/latex] and [latex] C_2 [/latex] be two sets of objects. Let [latex] D(x, y) [/latex] be a measure of dissimilarity between two objects [latex] x [/latex] and [latex] y [/latex]. Consider the following definitions of dissimilarity between [latex] C_1 [/latex] and [latex] C_2 [/latex]. [latex] \\text{DIS-1}(C_1, C_2) = \\max_{x \\in C_1, y \\in C_2} D(x, y)[/latex] [latex] \\text{DIS-2}(C_1, C_2) = \\min_{x \\in C_1, y \\in C_2} D(x, y) [/latex] Which of the following statements is/are correct?",
+      "topic": "Machine Learning",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "There are three boxes containing white balls and black balls. Box-1 contains 2 black and 1 white balls. Box-2 contains 1 black and 2 white balls. Box-3 contains 3 black and 3 white balls. In a random experiment, one of these boxes is selected, where the probability of choosing Box-1 is [latex] \\dfrac{1}{2} [/latex], Box-2 is [latex] \\dfrac{1}{6} [/latex], and Box-3 is [latex] \\dfrac{1}{3} [/latex]. A ball is drawn at random from the selected box. Given that the ball drawn is white, the probability that it is drawn from Box-2 is ________ (Round off to two decimal places)",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Given data [latex] \\{(-1, 1), (2, -5), (3, 5)\\} [/latex] of the form [latex] (x, y) [/latex], we fit a model [latex] y = wx [/latex] using linear least-squares regression. The optimal value of [latex] w [/latex] is ________(Round off to three decimal places)",
+      "topic": "Machine Learning",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "The naive Bayes classifier is used to solve a two-class classification problem with class labels [latex] y_1, y_2 [/latex]. Suppose the prior probabilities are [latex] P(y_1) = \\frac{1}{3} [/latex] and [latex] P(y_2) = \\frac{2}{3} [/latex]. Assuming a discrete feature space with [latex] P(x|y_1) = \\frac{3}{4} \\quad \\text{and} \\quad P(x|y_2) = \\frac{1}{4} [/latex] for a specific feature vector [latex] x [/latex]. The probability of misclassifying [latex] x [/latex] is _______ (Round off to two decimal places)",
+      "topic": "Machine Learning",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Let [latex] Y = Z^2 [/latex], [latex] Z = \\frac{X - \\mu}{\\sigma} [/latex], where [latex] X [/latex] is a normal random variable with mean [latex] \\mu [/latex] and variance [latex] \\sigma^2 [/latex]. The variance of [latex] Y [/latex] is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] A [/latex] is invertible"
+        },
+        {
+          "id": "B",
+          "text": "Determinant of [latex] A [/latex] is 0"
+        },
+        {
+          "id": "C",
+          "text": "The sum of the diagonal elements of [latex] A [/latex] is 1"
+        },
+        {
+          "id": "D",
+          "text": "[latex] A [/latex] and [latex] A^2 [/latex] have the same rank"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Let [latex] A \\in \\mathbb{R}^{n \\times n} [/latex] be such that [latex] A^3 = A [/latex]. Which one of the following statements is ALWAYS correct?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] A [/latex] is invertible"
+        },
+        {
+          "id": "B",
+          "text": "0 is a singular value of [latex] A [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "Determinant of [latex] A [/latex] is 0"
+        },
+        {
+          "id": "D",
+          "text": "[latex] z^T A z = 0 [/latex] for some non-zero [latex] z \\in \\mathbb{R}^n [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Let [latex] \\{x_1, x_2, \\dots, x_n\\} [/latex] be a set of linearly independent vectors in [latex] \\mathbb{R}^n [/latex]. Let the [latex] (i, j) [/latex]-th element of matrix [latex] A \\in \\mathbb{R}^{n \\times n} [/latex] be given by [latex] A_{ij} = x_i^T x_j, 1 \\leq i, j \\leq n [/latex]. Which one of the following statements is correct?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.625"
+        },
+        {
+          "id": "B",
+          "text": "0.25"
+        },
+        {
+          "id": "C",
+          "text": "0.5"
+        },
+        {
+          "id": "D",
+          "text": "0.5625"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Consider the cumulative distribution function (CDF) of a random variable [latex] X [/latex]: [latex] F_X(x) =\n\\begin{cases}\n0, & x \\leq -1 \\\\\n\\frac{1}{4}(x+1)^2, & -1 \\leq x \\leq 1 \\\\\n1, & x \\geq 1\n\\end{cases} [/latex] The value of [latex] P(X^2 \\leq 0.25) [/latex] is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] \\phi(2) - \\phi(-2) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\phi(1) - \\phi(-1) [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] \\phi(3) - \\phi(-3) [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] \\phi(90) - \\phi(60) [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "A random variable [latex] X [/latex] is said to be distributed as [latex] \\text{Bernoulli}(\\theta) [/latex], denoted by [latex] X \\sim \\text{Bernoulli}(\\theta) [/latex], if [latex] P(X = 1) = \\theta, \\quad P(X = 0) = 1 - \\theta [/latex] for [latex] 0 < \\theta < 1. [/latex] Let [latex] Y = \\sum_{i=1}^{300} X_i [/latex], where [latex] X_i \\sim \\text{Bernoulli}(\\theta) [/latex], [latex] i = 1, 2, \\dots, 300 [/latex] be independent and identically distributed random variables with [latex] \\theta = 0.25 [/latex]. The value of [latex] P(60 \\leq Y \\leq 90) [/latex], after approximation through the Central Limit Theorem, is given by (Recall that [latex] \\phi(x) = \\frac{1}{\\sqrt{2\\pi}} \\int_{-\\infty}^{x} e^{-\\frac{t^2}{2}} \\, dt[/latex])",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1"
+        },
+        {
+          "id": "B",
+          "text": "0.01"
+        },
+        {
+          "id": "C",
+          "text": "0.5"
+        },
+        {
+          "id": "D",
+          "text": "0.434"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "For [latex] x \\in \\mathbb{R} [/latex], the floor function is denoted by [latex] f(x)=\\lfloor x \\rfloor [/latex] and defined as follows [latex] \\lfloor x \\rfloor = k, \\quad k \\leq x < k + 1, [/latex] where [latex] k [/latex] is an integer. Let [latex] Y = \\lfloor X \\rfloor [/latex], where [latex] X [/latex] is an exponentially distributed random variable with mean [latex] \\frac{1}{\\ln 10} [/latex], where [latex] \\ln [/latex] denotes the natural logarithm. For any positive integer [latex] \\ell [/latex], one can write the probability of the event [latex] Y = \\ell [/latex] as follows [latex] P(Y = \\ell) = q^\\ell(1 - q) [/latex] The value of [latex] q [/latex] is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1 - \\left(\\frac{5}{6}\\right)^{100}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left(\\frac{5}{6}\\right)^{100}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "A random experiment consists of throwing 100 fair dice, each die having six faces numbered 1 to 6. An event A represents the set of all outcomes where at least one of the dice shows a 1. Then, [latex]P(A) =[/latex]",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only A"
+        },
+        {
+          "id": "B",
+          "text": "Only B"
+        },
+        {
+          "id": "C",
+          "text": "Only C"
+        },
+        {
+          "id": "D",
+          "text": "A, C"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Consider the following Python code snippet. A={\"this\",\"that\"}\n    B={\"that\",\"other\"}\n    C={\"other\",\"this\"}\n    while \"other\" in C:\n        if \"this\" in A:\n            A,B,C=A-B,B-C,C-A\n        if \"that\" in B:\n            A,B,C=C|A,A|B,B|C When the above program is executed, at the end, which of the following sets contains \"this\"?",
+      "topic": "Programming in Python",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "ReLU is continuous everywhere"
+        },
+        {
+          "id": "B",
+          "text": "ReLU is differentiable everywhere"
+        },
+        {
+          "id": "C",
+          "text": "ReLU is not differentiable at [latex]x = 0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "ReLU([latex]x[/latex]) = ReLU([latex]ax[/latex]), for all [latex]a \\in \\mathbb{R}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Which of the following statements is/are correct about the rectified linear unit (ReLU) activation function defined as ReLU([latex]x[/latex]) = max([latex]x[/latex], 0), where [latex]x \\in \\mathbb{R}[/latex]?",
+      "topic": "Machine Learning",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625140",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Singular values of [latex]A[/latex] are also its eigenvalues"
+        },
+        {
+          "id": "B",
+          "text": "Singular values of [latex]A[/latex] are either 0 or 1"
+        },
+        {
+          "id": "C",
+          "text": "Determinant of [latex]A[/latex] is 1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]A[/latex] is invertible"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Let [latex]x_1, x_2, x_3, x_4, x_5[/latex] be a system of orthonormal vectors in [latex]\\mathbb{R}^{10}[/latex]. Consider the matrix [latex]A = x_1 x_1^T + ... + x_5 x_5^T[/latex]. Which of the following statements is/are correct?",
+      "topic": "Linear Algebra",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]A[/latex] must be orthogonal"
+        },
+        {
+          "id": "B",
+          "text": "[latex]A = I[/latex], where [latex]I[/latex] denotes the identity matrix, is the only solution"
+        },
+        {
+          "id": "C",
+          "text": "The eigenvalues of [latex]A[/latex] are either +1 or -1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]A[/latex] has full rank"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "An [latex]n \\times n[/latex] matrix [latex]A[/latex] with real entries satisfies the property: [latex]\\|Ax\\|^2 = \\|x\\|^2[/latex] , for all [latex]x \\in \\mathbb{R}^n[/latex], where [latex]\\|\\cdot\\|[/latex] denotes the Euclidean norm. Which of the following statements is/are ALWAYS correct?",
+      "topic": "Linear Algebra",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625143",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]w = \\begin{pmatrix} 4 \\\\ 4 \\end{pmatrix}[/latex] and [latex]b = 1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "The number of support vectors is 3"
+        },
+        {
+          "id": "C",
+          "text": "The margin is [latex]\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "Training accuracy is 98\\%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Consider designing a linear binary classifier [latex]f(x) = \\text{sign}(w^T x + b), x \\in \\mathbb{R}^2[/latex] on the following training data: Class-1: [latex]\\left\\{ \\begin{pmatrix} 2 \\\\ 0 \\end{pmatrix}, \\begin{pmatrix} 0 \\\\ 2 \\end{pmatrix}, \\begin{pmatrix} 2 \\\\ 2 \\end{pmatrix} \\right\\}[/latex], Class-2: [latex]\\left\\{ \\begin{pmatrix} 0 \\\\ 0 \\end{pmatrix} \\right\\}[/latex] Hard-margin support vector machine (SVM) formulation is solved to obtain [latex]w[/latex] and [latex]b[/latex]. Which of the following options is/are correct?",
+      "topic": "Machine Learning",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625144",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]E[ \\widehat{p}] = p[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]E[ \\widehat{p}] = \\frac{p}{n}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "As [latex]n[/latex] increases, variance of [latex] \\widehat{p} [/latex] decreases"
+        },
+        {
+          "id": "D",
+          "text": "Variance of [latex] \\widehat{p}[/latex] does not depend on [latex]n[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Consider a coin-toss experiment where the probability of head showing up is [latex]p[/latex]. In the [latex]i^{th}[/latex] coin toss, let [latex]X_i = 1[/latex] if head appears, and [latex]X_i = 0[/latex] if tail appears. Consider [latex] \\widehat{p} = \\frac{1}{n} \\sum_{i=1}^n X_i [/latex] where [latex]n[/latex] is the total number of independent coin tosses. Which of the following statements is/are correct?",
+      "topic": "Probability and Statistics",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625145",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "The sample [latex]x = 0[/latex] is assigned the label green if [latex]\\|\\mu_{red}\\| < \\|\\mu_{green}\\|[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f[/latex] is a linear function of [latex]x[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f(x) = w^T x + b[/latex], where [latex]w[/latex] and [latex]b[/latex] are functions of [latex]\\mu_{red}[/latex] and [latex]\\mu_{green}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f[/latex] is a quadratic polynomial in [latex]x[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Consider a two-class problem in [latex]\\mathbb{R}^d[/latex] with class labels red and green. Let [latex]\\mu_{red}[/latex] and [latex]\\mu_{green}[/latex] be the means of the two classes. Given test sample [latex]x \\in \\mathbb{R}^d[/latex], a classifier calculates the squared Euclidean distance (denoted by [latex]\\|\\cdot\\|^2[/latex]) between [latex]x[/latex] and the means of the two classes and assigns the class label that the sample [latex]x[/latex] is closest to. That is, the classifier computes [latex] f(x) = \\|\\mu_{red} - x\\|^2 - \\|\\mu_{green} - x\\|^2 [/latex] and assigns the label red to [latex]x[/latex] if [latex]f(x) < 0[/latex], and green otherwise. Which of the following statements is/are correct?",
+      "topic": "Machine Learning",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Let [latex]D = \\{x^{(1)}, ..., x^{(n)}\\}[/latex] be a dataset of [latex]n[/latex] observations where each [latex]x^{(i)} \\in \\mathbb{R}^{100}[/latex]. It is given that [latex]\\sum_{i=1}^n x^{(i)} = 0[/latex]. The covariance matrix computed from [latex]D[/latex] has eigenvalues [latex]\\lambda_i = 100^{2-i}[/latex], [latex]1 \\le i \\le 100[/latex]. Let [latex]u \\in \\mathbb{R}^{100}[/latex] be the direction of maximum variance with [latex]u^T u = 1[/latex]. The value of\n   [latex] \\frac{1}{n} \\sum_{i=1}^n |u^T x^{(i)}|^2 = [/latex]______ (Answer in integer)",
+      "topic": "Machine Learning",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "A bag contains 5 white balls and 10 black balls. In a random experiment, [latex]n[/latex] balls are drawn from the bag one at a time with replacement. Let [latex]S_n[/latex] denote the total number of black balls drawn in the experiment. The expectation of [latex]S_{100}[/latex] denoted by [latex]E[S_{100}] =[/latex] _____ (Round off to one decimal place)",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Consider the following Python code snippet. def f(a,b):\n        if (a==0):\n            return b\n        if (a%2==1):\n            return 2*f((a-1)/2,b)\n        return b+f(a-1,b)\n    print(f(15,10)) The value printed by the code snippet is _________ (Answer in integer)",
+      "topic": "Programming in Python",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Consider the following pseudocode. Create empty stack S\n    Set x=0, flag=0, sum=0\n    Push x onto S\n    while (S is not empty){\n        if (flag equals 0){\n            Set x = x+1\n            Push x onto S}\n        if (x equals 8):\n            Set flag=1\n        if (flag equals 1){\n            x = Pop(S)\n            if (x is odd):\n                Pop(S)\n            Set sum = sum + x}\n    }\n    Output sum The value of sum output by a program executing the above pseudocode is ___________ (Answer in integer)",
+      "topic": "Programming in Python",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Longing"
+        },
+        {
+          "id": "B",
+          "text": "Yelling"
+        },
+        {
+          "id": "C",
+          "text": "Yawning"
+        },
+        {
+          "id": "D",
+          "text": "Glaring"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Courage : Bravery :: Yearning : __________ Select the most appropriate option to complete the analogy.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "have been playing"
+        },
+        {
+          "id": "B",
+          "text": "had been playing"
+        },
+        {
+          "id": "C",
+          "text": "would have been playing"
+        },
+        {
+          "id": "D",
+          "text": "could be playing"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "We __________ tennis in the lawn when it suddenly started to rain. Select the most appropriate option to complete the above sentence.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "11"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "A [latex]4 \\times 4[/latex] digital image has pixel intensities [latex]U[/latex] as shown in the figure. The number of pixels with [latex]U \\leq 4[/latex] is: [latex]\\begin{array}{|c|c|c|c|}\n    \\hline\n    0 & 1 & 0 & 2 \\\\ \\hline\n    4 & 7 & 3 & 3 \\\\ \\hline\n    5 & 5 & 4 & 4 \\\\ \\hline\n    6 & 7 & 3 & 2 \\\\ \\hline\n\\end{array}[/latex]",
+      "topic": "Numerical Ability\n",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Perimeter increases by 10%"
+        },
+        {
+          "id": "B",
+          "text": "Length of the diagonals increases by 10%"
+        },
+        {
+          "id": "C",
+          "text": "Area increases by 10%"
+        },
+        {
+          "id": "D",
+          "text": "The rectangle becomes a square"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "A rectangle has a length [latex]L[/latex] and a width [latex]W[/latex], where [latex]L > W[/latex]. If the width, [latex]W[/latex], is increased by 10%, which one of the following statements is correct for all values of [latex]L[/latex] and [latex]W[/latex]?",
+      "topic": "Numerical Ability\n",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "P-2; Q-3; R-1; S-4"
+        },
+        {
+          "id": "B",
+          "text": "P-3; Q-4; R-1; S-2"
+        },
+        {
+          "id": "C",
+          "text": "P-4; Q-1; R-2; S-3"
+        },
+        {
+          "id": "D",
+          "text": "P-1; Q-2; R-4; S-3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Column-I has statements made by Shanthala; and, Column-II has responses given by Kanishk. [latex]\\begin{array}{|c|l|}\n    \\hline\n    &\\textbf{Column-I}  \\\\ \\hline\n    P. & \\text{This house is in a mess.} \\\\ \\hline\n    Q. & \\text{I am not happy with the marks given to me.}   \\\\ \\hline\n    R. & \\text{Politics is a subject I avoid talking about.}   \\\\ \\hline\n    S. & \\text{I don’t know what this word means.}  \\\\ \\hline\n\\end{array}[/latex] [latex]\\begin{array}{|c|l|}\n    \\hline\n    &\\textbf{Column-II} \\\\ \\hline\n     1. & \\text{Alright, I won’t bring it up during our conversations.} \\\\ \\hline\n     2. & \\text{Well, you can easily look it up.} \\\\ \\hline\n    3. & \\text{No problem, let me clear it up for you.} \\\\ \\hline\n   4. & \\text{Don’t worry, I will take it up with your teacher.} \\\\ \\hline\n\\end{array}[/latex] Identify the option that has the correct match between Column-I and Column-II.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625162",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] a_1 < a_2 < 50 [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] a_1 < 50 < a_2 [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] 50 < a_1 < a_2 [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "Either [latex] a_1 = 50 [/latex] or [latex] a_2 = 50 [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "Weight of a person can be expressed as a function of their age. The function usually varies from person to person. Suppose this function is identical for two brothers, and it monotonically increases till the age of 50 years and then monotonically decreases. Let [latex] a_1 [/latex] and [latex] a_2 [/latex] (in years) denote the ages of the brothers and [latex] a_1 < a_2 [/latex]. Which one of the following statements is correct about their age on the day when they attain the same weight?",
+      "topic": "Numerical Ability\n",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "DA",
+      "id": "1625164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] 2^{-1} [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] 2^{0} [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] 2^{3} [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] 2^{15} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Data Science and Artificial Intelligence",
+      "text": "If a real variable [latex] x [/latex] satisfies [latex] 3^{x^2} = 27 \\times 9^x [/latex], then the value of  \n[latex] \\frac{2^{x^2}}{(2^x)^2} [/latex] is:",
+      "topic": "Numerical Ability\n",
+      "type": "MCQ",
+      "year": 2025
+    }
+  ],
+  "schema_version": 1
+}

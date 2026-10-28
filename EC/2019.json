@@ -1,0 +1,759 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1419101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]ln(z)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{1/z}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{1-z}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]cos(z)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which one of the following functions is analytic over the entire complex plane?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Parabolas and Circles"
+        },
+        {
+          "id": "B",
+          "text": "Circles and Hyperbolas"
+        },
+        {
+          "id": "C",
+          "text": "Hyperbolas and Circles"
+        },
+        {
+          "id": "D",
+          "text": "Hyperbolas and Parabolas"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The families of curves represented by the solution of the equation [latex]\\frac{dy}{dx}=-\\left (\\frac{x}{y} \\right )^n[/latex] for [latex]n = -1[/latex] and [latex]n = +1[/latex], respectively, are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10011"
+        },
+        {
+          "id": "B",
+          "text": "1100001"
+        },
+        {
+          "id": "C",
+          "text": "1111000"
+        },
+        {
+          "id": "D",
+          "text": "1111111"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A linear Hamming code is used to map 4-bit messages to 7-bit codewords. The encoder mapping is linear. If the message 0001 is mapped to the codeword 0000111, and the message 0011 is mapped to the codeword 1100110, then the message 0010 is mapped to",
+      "topic": "Information Theory and Coding",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]NM_L[/latex] increases and [latex]NM_H[/latex]decreases"
+        },
+        {
+          "id": "B",
+          "text": "[latex]NM_L[/latex] decreases and [latex]NM_H[/latex] increases."
+        },
+        {
+          "id": "C",
+          "text": "Both [latex]NM_L[/latex] and [latex]NM_H[/latex] increase."
+        },
+        {
+          "id": "D",
+          "text": "No change in the noise margins."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A standard CMOS inverter is designed with equal rise and fall times ([latex]\\beta _n=\\beta _p[/latex]). If the width of the pMOS transistor in the inverter is increased, what would be the effect on the LOW noise margin ([latex]NM_L[/latex]) and the HIGH noise margin [latex]NM_H[/latex]?",
+      "topic": "Logic Families",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419116",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the contour integral [latex]\\frac{1}{2 \\pi j}\\oint \\left (z+\\frac{1}{z} \\right )^2 dz[/latex] evaluated over the unit circle |z|=1 is ______",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419117",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The number of distinct eigenvalues of the matrix [latex]\\begin{bmatrix} 2 & 2 & 3 &3 \\\\ 0& 1 & 1 & 1\\\\ 0 & 0 & 3 &3 \\\\ 0&0 & 0 &2 \\end{bmatrix}[/latex] is equal to ____",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419118",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If X and Y are random variables such that E[2X+Y]=0 and E[X+2Y]=33, then E[X]+E[Y]=________.",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419119",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the integral [latex]\\int_{0}^{\\pi}\\int_{y}^{\\pi}\\frac{sinx}{x}dxdy[/latex], is equal to ______",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let Z be an exponential random variable with mean 1. That is, the cumulative distribution function of Z is given by [latex]F_z(x)=\\left\\{\\begin{matrix} 1-e^{-x} & if & x\\geq 0\\\\ 0 & if & x \\lt 0 \\end{matrix}\\right.[/latex] Then [latex]Pr(Z\\gt 2|Z \\gt 1)[/latex], rounded off to two decimal places, is equal to ______",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the signal [latex]f(t)=1+2cos(\\pi t)+3sin\\left ( \\frac{2 \\pi}{3}t \\right )+4cos\\left (\\frac{\\pi}{2}t+\\frac{\\pi}{4} \\right )[/latex], where t is in seconds. Its fundamental time period, in seconds, is ____________",
+      "topic": "Signals and Systems",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Radiation resistance of a small dipole current element of length l at a frequency of 3 GHz is 3 ohms. If the length is changed by 1%, then the percentage change in the radiation resistance, rounded off to two decimal places, is _____ %.",
+      "topic": "Electromagnetics",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f(x)\\leq \\frac{1}{2}|x+1|[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f(x)\\leq 2|x+1|[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f(x)\\leq \\frac{1}{2}|x|[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f(x)\\leq 2|x|[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a differentiable function [latex]f(x)[/latex] on the set of real numbers such that [latex]f(-1)=0[/latex] and [latex]f'(x)\\leq 2[/latex]. Given these conditions, which one of the following inequalities is necessarily true for all [latex]x\\in [-2,2][/latex]?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "5.25"
+        },
+        {
+          "id": "B",
+          "text": "4.5"
+        },
+        {
+          "id": "C",
+          "text": "3.89"
+        },
+        {
+          "id": "D",
+          "text": "2.81"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a causal second-order system with the transfer function [latex]G(s)=\\frac{1}{1+2s+s^2}[/latex] with a unit-step [latex]R(s)=\\frac{1}{s}[/latex] as an input. Let C(s) be the corresponding output. The time taken by the system output c(t) to reach 94% of its steady-state value [latex]\\lim_{t \\to \\infty }c(t)[/latex], rounded off to two decimal places, is",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A single bit, equally likely to be 0 and 1, is to be sent across an additive white Gaussian noise (AWGN) channel with power spectral density [latex]N_0/2[/latex]. Binary signaling, with [latex]0\\rightarrow p(t)[/latex] and [latex]1\\rightarrow q(t)[/latex], is used for the transmission, along with an optimal receiver that minimizes the bit-error probability. Let [latex]\\varphi _1(t),\\varphi _2(t)[/latex] form an orthonormal signal set. If we choose [latex]p(t)=\\varphi _1(t)\\; and \\; q(t)=-\\varphi _2(t)[/latex], we would obtain a certain bit-error probability [latex]P_b[/latex]. If we keep [latex]p(t)=\\varphi _1(t)[/latex], but take [latex]q(t)=\\sqrt{E}\\varphi _2(t)[/latex], for what value of E would we obtain the same bit-error probability [latex]P_b[/latex]?",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]R=\\frac{\\eta \\times \\lambda }{1.24}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]R=\\frac{ \\lambda }{\\eta \\times 1.24}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]R=\\frac{ \\lambda \\times 1.24}{ \\eta}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]R=\\frac{1.24}{ \\lambda \\times \\eta}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The quantum efficiency ([latex]\\eta[/latex]) and responsivity (R) at a wavelength [latex]\\lambda (in \\; \\mu m)[/latex] in a p-i-n photodetector are related by",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1.5 \\times 10^8[/latex] m/s"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2 \\times 10^8[/latex] m/s"
+        },
+        {
+          "id": "C",
+          "text": "[latex]3 \\times 10^8[/latex] m/s"
+        },
+        {
+          "id": "D",
+          "text": "[latex]4.5 \\times 10^8[/latex] m/s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The dispersion equation of a waveguide,which relates the wavenumber kto the frequency [latex]\\omega[/latex], is [latex]k(\\omega) =(1/c)\\sqrt{\\omega ^2 -{\\omega _0}^2}[/latex] where the speed of light [latex]c=3 \\times 10^8[/latex] m/s, and [latex]\\omega_0[/latex] is a constant.  If the group velocity is [latex]2 \\times 10^8[/latex] m/s, then the phase velocity is",
+      "topic": "Waveguides",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419143",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the homogeneous ordinary differential equation [latex]x^2\\frac{d^2y}{dx^2}-3x\\frac{dy}{dx}+3y=0, \\; x \\gt 0[/latex] with y(x) as a generalsolution. Given that y(1)=1 and y(2)=14 the value of y(1.5), rounded off to two decimal places, is ______.",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419144",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let h[n] be a length-7 discrete-time finite impulse response filter, given by h[0]=4, h[1]=3,  h[2]=2,  h[3]=1, h[-1]=-3,  h[-2]=-2,  h[-3]=-1, and h[n] is zero for [latex]|n|\\geq 4[/latex]. A length-3 finite impulse response approximation g[n] of g[n] has to be obtained such that [latex]E(h,g)=\\int_{-\\pi}^{\\pi}|H(e^{j\\omega })-G(e^{j\\omega })|^2d\\omega[/latex] is minimized, where  [latex]H(e^{j\\omega })[/latex] and [latex]G(e^{j\\omega })[/latex] are the discrete-time Fourier transforms of h[n] and g[n], respectively. For the filter that minimizes E(h,g), the value of 10g[-1]+g[1], rounded off to 2 decimal places, is ________",
+      "topic": "Signals and Systems",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419146",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A voice signal m(t) is in the frequency range 5 kHz to 15 kHz. The signal is amplitude-modulated to generate an AM signal [latex]f(t)=A(1+m(t))cos 2\\pi f_c t[/latex], where [latex]f_c[/latex]=600kHz. The AM signal f(t) is to be digitized and archived. This is done by first sampling f(t) at 1.2 times the Nyquist frequency, and then quantizing each sample using a 256-level quantizer. Finally, each quantized sample is binary coded using K bits, where K is the minimum number of bits required for the encoding. The rate, in Megabits per second (rounded off to 2 decimal places), of the resulting stream of coded bits is _______ Mbps.",
+      "topic": "Digital Communication Systems",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419147",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A random variable X takes values  -1 and +1 with probabilities 0.2 and 0.8, respectively. It is transmitted across a channel which adds noise N, so that the random variable at the channel output is Y=X+N. The noise N is independent of X, and is uniformly distributed over the interval [-2,2]. The receiver makes a decision [latex]\\hat{X}=\\left\\{\\begin{matrix} -1 & if & Y\\leq \\theta \\\\ +1& if & Y> \\theta \\end{matrix}\\right.[/latex] where the threshold [latex]\\theta \\in [-1,1][/latex] is chosen so as to minimize the probability of error [latex]Pr[\\hat{X}\\neq X][/latex]. The minimum probability of error, rounded off to 1 decimal place, is ______.",
+      "topic": "Digital Communication Systems",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In an ideal pn junction with an ideality factor of 1 at T=300 K, the magnitude of the reverse-bias voltage required to reach 75% of its reverse saturation current, rounded off to 2 decimal places, is ____mV. [[latex]k=1.38 \\times 10^{-23}JK^{-1}[/latex], [latex]h=6.625 \\times 10^{-34}J-s[/latex], [latex]q=1.602 \\times 10^{-19}C[/latex]]",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a long-channel MOSFET with a channel length 1 [latex]\\mu m[/latex] and width 10 [latex]\\mu m[/latex]. The device parameters are acceptor concentration [latex]N_A=5 \\times 10^{16}cm^{-3}[/latex], electron mobility [latex]\\mu_n=800cm^2/V-s[/latex], oxide capacitance/area [latex]C_{ox}=3.45 \\times 10^{-7}F/cm^{2}[/latex], threshold voltage [latex]V_T=0.7V[/latex]. The drain saturation current ([latex]I_{Dsat}[/latex]) for a gate voltage of 5 V is _____mA(rounded off to two decimal places). [latex][\\varepsilon _0=8.854 \\times 10^{-14}F/cm,\\varepsilon _{Si}=11.9][/latex]",
+      "topic": "Electronic Devices",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "1419151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A rectangular waveguide of width w and height h has cut-off frequencies for [latex]TE_{10} \\; and \\;TE_{11}[/latex] modes in the ratio 1:2. The aspect ratio w/h, rounded off to two decimal places, is ___________",
+      "topic": "Waveguides",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "11910114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]ln(z)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{1/z}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{1-z}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]cos(z)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which one of the following functions is analytic over the entire complex plane?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "11910214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Parabolas and Circles"
+        },
+        {
+          "id": "B",
+          "text": "Circles and Hyperbolas"
+        },
+        {
+          "id": "C",
+          "text": "Hyperbolas and Circles"
+        },
+        {
+          "id": "D",
+          "text": "Hyperbolas and Parabolas"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The families of curves represented by the solution of the equation [latex]\\frac{dy}{dx}=-\\left (\\frac{x}{y} \\right )^n[/latex] for [latex]n = -1[/latex] and [latex]n = +1[/latex], respectively, are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "11911614",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "0.0001"
+        },
+        {
+          "id": "C",
+          "text": "0.0005"
+        },
+        {
+          "id": "D",
+          "text": "0.0008"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the contour integral [latex]\\frac{1}{2 \\pi j}\\oint \\left (z+\\frac{1}{z} \\right )^2 dz[/latex] evaluated over the unit circle |z|=1 is ______",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "11911714",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The number of distinct eigenvalues of the matrix [latex]\\begin{bmatrix} 2 & 2 & 3 &3 \\\\ 0& 1 & 1 & 1\\\\ 0 & 0 & 3 &3 \\\\ 0&0 & 0 &2 \\end{bmatrix}[/latex] is equal to ____",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "11911814",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "11"
+        },
+        {
+          "id": "D",
+          "text": "13"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If X and Y are random variables such that E[2X+Y]=0 and E[X+2Y]=33, then E[X]+E[Y]=________.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "11911914",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The value of the integral [latex]\\int_{0}^{\\pi}\\int_{y}^{\\pi}\\frac{sinx}{x}dxdy[/latex], is equal to ______",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "11912014",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.37"
+        },
+        {
+          "id": "B",
+          "text": "0.18"
+        },
+        {
+          "id": "C",
+          "text": "0.54"
+        },
+        {
+          "id": "D",
+          "text": "0.9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let Z be an exponential random variable with mean 1. That is, the cumulative distribution function of Z is given by [latex]F_z(x)=\\left\\{\\begin{matrix} 1-e^{-x} & if & x\\geq 0\\\\ 0 & if & x \\lt 0 \\end{matrix}\\right.[/latex] Then [latex]Pr(Z\\gt 2|Z \\gt 1)[/latex], rounded off to two decimal places, is equal to ______",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "11912614",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f(x)\\leq \\frac{1}{2}|x+1|[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f(x)\\leq 2|x+1|[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f(x)\\leq \\frac{1}{2}|x|[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f(x)\\leq 2|x|[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a differentiable function [latex]f(x)[/latex] on the set of real numbers such that [latex]f(-1)=0[/latex] and [latex]f'(x)\\leq 2[/latex]. Given these conditions, which one of the following inequalities is necessarily true for all [latex]x\\in [-2,2][/latex]?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EC",
+      "id": "11914314",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.25"
+        },
+        {
+          "id": "B",
+          "text": "4.25"
+        },
+        {
+          "id": "C",
+          "text": "3.75"
+        },
+        {
+          "id": "D",
+          "text": "5.25"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the homogeneous ordinary differential equation [latex]x^2\\frac{d^2y}{dx^2}-3x\\frac{dy}{dx}+3y=0, \\; x \\gt 0[/latex] with y(x) as a generalsolution. Given that y(1)=1 and y(2)=14 the value of y(1.5), rounded off to two decimal places, is ______.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    }
+  ],
+  "schema_version": 1
+}

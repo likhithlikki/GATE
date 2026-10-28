@@ -1,0 +1,1059 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1413101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "an AND gate"
+        },
+        {
+          "id": "B",
+          "text": "an OR gate"
+        },
+        {
+          "id": "C",
+          "text": "an XOR gate"
+        },
+        {
+          "id": "D",
+          "text": "a NAND gate"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A bulb in a staircase has two switches, one switch being at the ground floor and the other one at the first floor. The bulb can be turned ON and also can be turned OFF by any one of the switches irrespective of the state of the other switch. The logic of switching of the bulb resembles",
+      "topic": "Logic Gates",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\int \\int  ( \\overline{V}\\times \\overrightarrow{A}  )\\cdot \\overrightarrow{ds}[/latex] over the closed surface bounded by the loop"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\int \\int \\int  ( \\overline{V}\\cdot \\overrightarrow{A}  )dv[/latex] over the closed volume bounded by the loop"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\int \\int \\int  ( \\overline{V}\\cdot \\overrightarrow{A}  )dv[/latex] over the open volume bounded by the loop"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int \\int  ( \\overline{V}\\times \\overrightarrow{A}  )\\cdot \\overrightarrow{ds}[/latex] over the open surface bounded by the loop"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a vector field [latex]{\\overrightarrow{A}}( \\overrightarrow{r})[/latex]. The closed loop line integral [latex]\\int \\overrightarrow{A}\\cdot \\overrightarrow{di}[/latex] can be expressed as",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "product of [latex]h_{1}\\left ( t \\right )[/latex] and [latex]h_{2}\\left ( t \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "sum of [latex]h_{1}\\left ( t \\right )[/latex] and [latex]h_{2}\\left ( t \\right )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "convolution of [latex]h_{1}\\left ( t \\right )[/latex] and [latex]h_{2}\\left ( t \\right )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "subtraction of [latex]h_{2}\\left ( t \\right )[/latex] from [latex]h_{1}\\left ( t \\right )[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Two systems with impulse responses [latex]h_{1}\\left ( t \\right )[/latex] and [latex]h_{2}\\left ( t \\right )[/latex] are connected in cascade. Then the overall impulse response of the cascaded system is given by",
+      "topic": "LTI Systems Continuous and Discrete",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "injection, and subsequent diffusion and recombination of minority carriers"
+        },
+        {
+          "id": "B",
+          "text": "injection, and subsequent drift and generation of minority carriers"
+        },
+        {
+          "id": "C",
+          "text": "extraction, and subsequent diffusion and generation of minority carriers"
+        },
+        {
+          "id": "D",
+          "text": "extraction, and subsequent drift and recombination of minority carriers"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a forward biased pn junction diode, the sequence of events that best describes the mechanism of current flow is",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "superior quality oxide with a higher growth rate"
+        },
+        {
+          "id": "B",
+          "text": "inferior quality oxide with a higher growth rate"
+        },
+        {
+          "id": "C",
+          "text": "inferior quality oxide with a lower growth rate"
+        },
+        {
+          "id": "D",
+          "text": "superior quality oxide with a lower growth rate"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In IC technology, dry oxidation (using dry oxygen) as compared to wet oxidation (using steam or water vapor) produces",
+      "topic": "IC Fabrication",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]10^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]18^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]50^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]90^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The maximum value of [latex]\\theta[/latex] until which the approximation [latex]\\sin \\theta \\approx \\theta[/latex] holds to within 10% error is",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/3[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The divergence of the vector field [latex]\\overrightarrow{A}=x\\hat{a_{x}}+y\\hat{a_{y}}+z\\hat{a_{x}}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{t^{2}}{2}u\\left ( t \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{t(t-1)}{2}u(t-1)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\left ( t-1 \\right )^{2}}{2}u\\left ( t-1 \\right )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{t^{2}-1}{2}u\\left ( t-1 \\right )[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The impulse response of a system is [latex]h\\left ( t \\right )= tu\\left ( t \\right )[/latex]. For an input u(t-1), the output is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "17H"
+        },
+        {
+          "id": "B",
+          "text": "20H"
+        },
+        {
+          "id": "C",
+          "text": "23H"
+        },
+        {
+          "id": "D",
+          "text": "05H"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For 8085 microprocessor, the following program is executed. MVI A, 05H; MVI B, 05H; PTR: ADD B; DCR B; JNZ PTR; ADI 03H; HLT; At the end of program, accumulator contains",
+      "topic": "Microprocessor 8085 Programming",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{R}{10}Hz[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{R}{10}kHz[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{R}{5}Hz[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{R}{5}kHz[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The bit rate of a digital communication system is R kbits/s. The modulation used is 32-QAM. The minimum bandwidth required for ISI free transmission is",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "300"
+        },
+        {
+          "id": "C",
+          "text": "500"
+        },
+        {
+          "id": "D",
+          "text": "1500"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a periodic signal [latex]v\\left ( t \\right )=30\\sin 100t+10\\cos 300t+6\\sin \\left ( 500t+\\frac{\\pi }{4} \\right )[/latex], the fundamental frequency in rad/s is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5 kHz"
+        },
+        {
+          "id": "B",
+          "text": "12 kHz"
+        },
+        {
+          "id": "C",
+          "text": "15 kHz"
+        },
+        {
+          "id": "D",
+          "text": "20 kHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A band-limited signal with a maximum frequency of 5 kHz is to be sampled. According to the sampling theorem, the sampling frequency which is not valid is",
+      "topic": "Sampling",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "an increase in the gate-source capacitance"
+        },
+        {
+          "id": "B",
+          "text": "a decrease in the transconductance"
+        },
+        {
+          "id": "C",
+          "text": "a decrease in the unity-gain cutoff frequency"
+        },
+        {
+          "id": "D",
+          "text": "a decrease in the output resistance"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a MOSFET operating in the saturation region, the channel length modulation effect causes",
+      "topic": "FET and MOSFET Analysis",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "All the poles of the system must lie on the left side of the [latex]j\\omega[/latex] axis."
+        },
+        {
+          "id": "B",
+          "text": "Zeros of the system can lie anywhere in the s-plane."
+        },
+        {
+          "id": "C",
+          "text": "All the poles must lie within [latex]\\left | s \\right |=1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "All the roots of the characteristic equation must be located on the left side of the [latex]j\\omega[/latex] axis."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which one of the following statements is NOT TRUE for a continuous time causal and stable LTI system?",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The minimum eigenvalue of the following matrix is [latex]\\begin{bmatrix} 3 &5 &2 \\\\ 5 &12 &7 \\\\ 2 &7 &5 \\end{bmatrix}[/latex]",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "no real roots"
+        },
+        {
+          "id": "B",
+          "text": "no negative real root"
+        },
+        {
+          "id": "C",
+          "text": "odd number of real roots"
+        },
+        {
+          "id": "D",
+          "text": "at least one positive and one negative real root"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A polynomial [latex]f\\left ( x \\right )=a_{4}x^{4}+a_{3}x^{3}+a_{2}x^{2}+a_{1}x-a_{0}[/latex] with all coefficients positive has",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]5[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]7[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A source [latex]v_{s}\\left ( t \\right )=V\\cos 100\\pi t[/latex] has an internal impedance of [latex]\\left ( 4+j3 \\right )\\Omega[/latex]. If a purely resistive load connected to this source has to extract the maximum power out of the source, its value in [latex]\\Omega[/latex] should be",
+      "topic": "Network Theorems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.22 and 0.1"
+        },
+        {
+          "id": "B",
+          "text": "0.81 and 0.1"
+        },
+        {
+          "id": "C",
+          "text": "- 1.22 and 0.1"
+        },
+        {
+          "id": "D",
+          "text": "2.44 and 0.2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The return loss of a device is found to be 20 dB. The voltage standing wave ratio (VSWR) and magnitude of reflection coefficient are respectively",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{-\\pi f^{2}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{\\frac{-\\pi f^{2}}{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]e^{-\\pi \\left | f \\right |}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{-2\\pi f^{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]g(t)=e^{-\\pi t^{2}}[/latex], and [latex]h(t)[/latex] is a filter matched to [latex]g(t)[/latex]. If [latex]g(t)[/latex] is applied as input to [latex]h(t)[/latex], then the Fourier transform of the output is",
+      "topic": "Digital Communication Systems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{4}{9}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2}{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{5}{9}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]U[/latex] and [latex]V[/latex] be two independent zero mean Gaussian random variables of variances [latex]\\frac{1}{4}[/latex] and [latex]\\frac{1}{9}[/latex] respectively. The probability [latex]P\\left ( 3V\\geq 2U \\right )[/latex] is",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]5[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]8[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]16[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]A[/latex] be an [latex]m\\times n[/latex] matrix and [latex]B[/latex] an [latex]n\\times m[/latex] matrix. It is given that determinant [latex]\\left ( I_{m}+AB \\right )=[/latex] determinant [latex]\\left ( I_{m}+BA \\right )[/latex], where [latex]I_{k}[/latex] is the [latex]k\\times k[/latex] identity matrix. Using the above property, the determinant of the matrix given below is [latex]\\begin{bmatrix} 2 &1 &1 &1 \\\\ 1 &2 &1 &1 \\\\ 1 &1 &2 &1 \\\\ 1 &1 &1 &2 \\end{bmatrix}[/latex]",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]q_{1}+q_{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left ( \\frac{1}{q_{1}} \\right )+\\left ( \\frac{1}{q_{2}} \\right )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\left ( q_{1}R_{1}+q_{2}R_{2} \\right )}{R_{1}+R_{2}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\left ( q_{1}R_{2}+q_{2}R_{1} \\right )}{R_{1}+R_{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Two magnetically uncoupled inductive coils have Q factors [latex]q_{1}[/latex] and [latex]q_{2}[/latex] at the chosen operating frequency. Their respective resistances are [latex]R_{1}[/latex] and [latex]R_{2}[/latex] When connected in series, their effective Q factor at the same operating frequency is",
+      "topic": "Sinusoidal Steady State Analysis",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The impulse response of a continuous time system is given by [latex]h(t)= \\delta (t-1)+\\delta (t-3)[/latex]. The value of the step response at t = 2 is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{e^{-2s}}{s\\left ( s+2 \\right )\\left ( s+3 \\right )}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1-e^{-2s}}{s\\left ( s+2 \\right )\\left ( s+3 \\right )}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{e^{-2s}}{\\left ( s+2 \\right )\\left ( s+3 \\right )}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1-e^{-2s}}{\\left ( s+2 \\right )\\left ( s+3 \\right )}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A system is described by the differential equation [latex]\\frac{d^{2}y}{dt^{2}}+5\\frac{dy}{dt}+6y (t)=x(t)[/latex] Let [latex] x(t )[/latex] be a rectangular pulse given by [latex]x(t)=\\left\\{\\begin{matrix} 1 & o \\lt t \\lt 2 \\\\ 0 & otherwise \\end{matrix}\\right.[/latex] Assuming that y(0) = 0 and [latex]\\frac{dy}{dt}=0[/latex] at t = 0, the Laplace transform of y(t) is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "change the initial condition to -y(0) and the forcing function to 2x(t)"
+        },
+        {
+          "id": "B",
+          "text": "change the initial condition to 2y(0) and the forcing function to -x(t)"
+        },
+        {
+          "id": "C",
+          "text": "change the initial condition to [latex]j\\sqrt{2}y\\left ( 0 \\right )[/latex] and the forcing function to [latex]j\\sqrt{2}x\\left ( t \\right )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "change the initial condition to -2y(0) and the forcing function to -2x(t)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A system described by a linear, constant coefficient, ordinary, first order differential equation has an exact solution given by y(t) for t > 0, when the forcing function is x(t) and the initial condition is y(0). If one wishes to modify the system so that the solution becomes -2y(t) for t > 0, we need to",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]F\\left ( x \\right )-G\\left ( x \\right )\\leq 0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]F\\left ( x \\right )-G\\left ( x \\right )\\geq 0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left ( F\\left ( x \\right )-G\\left ( x \\right ) \\right )\\cdot x\\leq 0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left ( F\\left ( x \\right )-G\\left ( x \\right ) \\right )\\cdot x\\geq 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider two identically distributed zero-mean random variables U and V. Let the cumulative distribution functions of U and 2V be [latex]F(x)[/latex] and [latex]G(x)[/latex] respectively. Then, for all values of [latex]x[/latex]",
+      "topic": "Random Signals and Noise",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} \\alpha ^{2} &\\beta ^{2} &\\gamma ^{2} &\\delta ^{2} \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} \\sqrt{\\alpha } &\\sqrt{\\beta } &\\sqrt{\\gamma } &\\sqrt{\\delta } \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} \\alpha +\\beta &\\beta +\\delta &\\delta +\\gamma &\\gamma +\\alpha \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} \\alpha &\\beta &\\gamma &\\delta \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The DFT of a vector [a b c d] is the vector [latex]\\begin{bmatrix} \\alpha & \\beta & \\gamma &\\delta \\end{bmatrix}[/latex]. Consider the product [latex]\\begin{bmatrix} p &q &r &s\\end{bmatrix}=\\begin{bmatrix} a &b &c &d \\end{bmatrix}\\begin{bmatrix} a &b &c &d \\\\ d &a &b & c\\\\ c& d &a &b \\\\ b&c &d &a \\end{bmatrix}[/latex] The DFT of the vector [latex]\\begin{bmatrix} p &q &r &s \\end{bmatrix}[/latex] is a scaled version of",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "1413147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{3}{4}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{3}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\log _{2}3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let U and V be two independent and identically distributed random variables such that  [latex]P\\left ( U=+1 \\right )=P\\left ( U=-1 \\right )=\\frac{1}{2}[/latex]. The entropy H(U +V) in bits is",
+      "topic": "Information Theory and Coding",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "11310214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\int \\int  ( \\overline{V}\\times \\overrightarrow{A}  )\\cdot \\overrightarrow{ds}[/latex] over the closed surface bounded by the loop"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\int \\int \\int  ( \\overline{V}\\cdot \\overrightarrow{A}  )dv[/latex] over the closed volume bounded by the loop"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\int \\int \\int  ( \\overline{V}\\cdot \\overrightarrow{A}  )dv[/latex] over the open volume bounded by the loop"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int \\int  ( \\overline{V}\\times \\overrightarrow{A}  )\\cdot \\overrightarrow{ds}[/latex] over the open surface bounded by the loop"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider a vector field [latex]{\\overrightarrow{A}}( \\overrightarrow{r})[/latex]. The closed loop line integral [latex]\\int \\overrightarrow{A}\\cdot \\overrightarrow{di}[/latex] can be expressed as",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "11310614",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]10^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]18^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]50^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]90^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The maximum value of [latex]\\theta[/latex] until which the approximation [latex]\\sin \\theta \\approx \\theta[/latex] holds to within 10% error is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "11310714",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/3[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The divergence of the vector field [latex]\\overrightarrow{A}=x\\hat{a_{x}}+y\\hat{a_{y}}+z\\hat{a_{x}}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "11311914",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The minimum eigenvalue of the following matrix is [latex]\\begin{bmatrix} 3 &5 &2 \\\\ 5 &12 &7 \\\\ 2 &7 &5 \\end{bmatrix}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "11312014",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "no real roots"
+        },
+        {
+          "id": "B",
+          "text": "no negative real root"
+        },
+        {
+          "id": "C",
+          "text": "odd number of real roots"
+        },
+        {
+          "id": "D",
+          "text": "at least one positive and one negative real root"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A polynomial [latex]f\\left ( x \\right )=a_{4}x^{4}+a_{3}x^{3}+a_{2}x^{2}+a_{1}x-a_{0}[/latex] with all coefficients positive has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EC",
+      "id": "11312714",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]5[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]8[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]16[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Let [latex]A[/latex] be an [latex]m\\times n[/latex] matrix and [latex]B[/latex] an [latex]n\\times m[/latex] matrix. It is given that determinant [latex]\\left ( I_{m}+AB \\right )=[/latex] determinant [latex]\\left ( I_{m}+BA \\right )[/latex], where [latex]I_{k}[/latex] is the [latex]k\\times k[/latex] identity matrix. Using the above property, the determinant of the matrix given below is [latex]\\begin{bmatrix} 2 &1 &1 &1 \\\\ 1 &2 &1 &1 \\\\ 1 &1 &2 &1 \\\\ 1 &1 &1 &2 \\end{bmatrix}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    }
+  ],
+  "schema_version": 1
+}

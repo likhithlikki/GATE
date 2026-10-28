@@ -1,0 +1,2268 @@
+{
+  "questions": [
+    {
+      "branch": "CE",
+      "id": "1207101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The minimum and the maximum eigen values of the matrix [latex]\\begin{bmatrix} 1 & 1&3 \\\\ 1& 5 & 1\\\\ 3&1 & 1 \\end{bmatrix}[/latex] are -2 and 6, respectively. What is the other eigen value ?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The degree of the differential equation [latex]\\frac{d^{2}x}{dt^{2}}+2x^{3}=0[/latex] is",
+      "topic": "Ordinary Differential Equation ",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y=e^{\\frac{1}{2x}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]ln(y)=\\frac{x^{3}}{3}+4[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]ln(y)=\\frac{x^{2}}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y=e^{\\frac{x^{3}}{3}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The solution for the differential equation [latex]\\frac{dy}{dx}=x^{2}y[/latex] with the condition that y = 1 at x = 0 is",
+      "topic": "Ordinary Differential Equation ",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "75MPa"
+        },
+        {
+          "id": "B",
+          "text": "86.5MPa"
+        },
+        {
+          "id": "C",
+          "text": "100MPa"
+        },
+        {
+          "id": "D",
+          "text": "122.3MPa"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "An axially loaded bar is subjected to a normal stress of 173 MPa. The stress in the bar is",
+      "topic": "Principal Stress and Principal Strain",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "200kN"
+        },
+        {
+          "id": "B",
+          "text": "283kN"
+        },
+        {
+          "id": "C",
+          "text": "400kN"
+        },
+        {
+          "id": "D",
+          "text": "800kN"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A steel column, pinned at both end, has a buckling load of 200 kN. If the column is restrained against lateral movement at its mid-height, it buckling load will be",
+      "topic": "Theory of Columns and Shear Centre",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "force at i due to a unit deformation at j"
+        },
+        {
+          "id": "B",
+          "text": "deformation at j due to a unit force at i"
+        },
+        {
+          "id": "C",
+          "text": "deformation at i due to a unit force at j"
+        },
+        {
+          "id": "D",
+          "text": "force at j due to a unit deformation at i"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The stiffness coefficient [latex]k_{ij}[/latex] indicates",
+      "topic": "Matrix Method of Structural Analysis",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]G=\\frac{E}{2(1+\\mu )}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]E=\\frac{G}{2(1+\\mu )}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]G=\\frac{E}{(1+2\\mu )}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]G=\\frac{E}{2(1-\\mu )}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "For an isotropic material, the relationship between the Young's modulus (E), shear modulus (G) and Poisson's ratio ([latex]\\mu[/latex]) is given by",
+      "topic": "Properties of Metals, Stress and Strain",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0[latex]kN/m^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "20[latex]kN/m^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "40[latex]kN/m^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "60[latex]kN/m^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A clay soil sample is tested in a triaxial apparatus in consolidated-drained conditions at a cell pressure of 100 kN/[latex]m^{2}[/latex]. What will be the pore water pressure\nat a deviator stress of 40 kN/[latex]m^{2}[/latex] ?",
+      "topic": "Shear Strength of Soil",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "100"
+        },
+        {
+          "id": "C",
+          "text": "200"
+        },
+        {
+          "id": "D",
+          "text": "400"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The vertical stress at some depth below the corner of a 2m x 3m rectangular footing due to a certain load intensity is 100 kN/[latex]m^{2}[/latex]. What will be the vertical\nstress in kN/[latex]m^{2}[/latex] below the centre of a 4m x 6m rectangular footing at the same depth and same load intensity ?",
+      "topic": "Stress Distribution in the Soil",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]M_{1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]M_{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]M_{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]S_{1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "There is a free overfall at the end of a long open channel. For a given flow rate,\nthe critical depth is less than the normal depth. What gradually varied flow\nprofile will occur in the channel for this flow rate ?",
+      "topic": "Open Channel Flow",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10days"
+        },
+        {
+          "id": "B",
+          "text": "15days"
+        },
+        {
+          "id": "C",
+          "text": "20days"
+        },
+        {
+          "id": "D",
+          "text": "25days"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The consumptive use of water for a crop during a particular stage of growth is\n2.0 mm/day. The maximum depth of available water in the root zone is 60 mm.\nIrrigation is required when the amount of available water is 50% of the maximum\navailable water in the root zone. Frequency of irrigation should be",
+      "topic": "Irrigation Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Wetted perimeter increases with an increase in design discharge."
+        },
+        {
+          "id": "B",
+          "text": "Hydraulic radius increases with an increase in slit factor."
+        },
+        {
+          "id": "C",
+          "text": "Wetted perimeter decreases with an increase in design discharge"
+        },
+        {
+          "id": "D",
+          "text": "Wetted perimeter increases with an increase in slit factor."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "As per the Lacey's method for design of alluvial channels, identify the TRUE\nstatement from the following :",
+      "topic": "Irrigation Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "cardio-vascular problems"
+        },
+        {
+          "id": "B",
+          "text": "skin discolouration"
+        },
+        {
+          "id": "C",
+          "text": "calcium deficiency"
+        },
+        {
+          "id": "D",
+          "text": "increased laundry expenses"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The presence of hardness in excess of permissible limit causes",
+      "topic": "Quality Characteristics of Water",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "environment lapse rate is greater than adiabatic lapse rate"
+        },
+        {
+          "id": "B",
+          "text": "environment lapse rate is less than adiabatic lapse rate"
+        },
+        {
+          "id": "C",
+          "text": "environment lapse rate is equal to adiabatic lapse rate"
+        },
+        {
+          "id": "D",
+          "text": "maximum mixing depth is equal to zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The dispersion of pollutants in atmosphere is maximum when",
+      "topic": "Environmental Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "350 mg/L carbonate hardness and zero non-carbonate hardness"
+        },
+        {
+          "id": "B",
+          "text": "250 mg/L carbonate hardness and zero non-carbonate hardness"
+        },
+        {
+          "id": "C",
+          "text": "250 mg/L carbonate hardness and 350 mg/L non-carbonate hardness"
+        },
+        {
+          "id": "D",
+          "text": "250 mg/L carbonate hardness and 100 mg/L non-carbonate hardness"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The alkalinity and the hardness of a water sample are 250 mg/L and 350 mg/L as [latex]CaCO_{3}[/latex], respectively. The water has",
+      "topic": "Quality Characteristics of Water",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Ductility test"
+        },
+        {
+          "id": "B",
+          "text": "Penetration test"
+        },
+        {
+          "id": "C",
+          "text": "Softening point test"
+        },
+        {
+          "id": "D",
+          "text": "Viscosity test"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The consistency and flow resistance of bitumen can be determined from which of\nthe following ?",
+      "topic": "Highway Materials",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "11"
+        },
+        {
+          "id": "B",
+          "text": "17"
+        },
+        {
+          "id": "C",
+          "text": "24"
+        },
+        {
+          "id": "D",
+          "text": "32"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "If a two-lane National Highway and a two-lane State Highway intersect at right\nangles, the number of potential conflict point at the intersection, assuming that\nboth the roads are two-way is",
+      "topic": "Traffic Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "80"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "40"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "In signal design as per Indian Roads Congress specifications, if the sum of the\nratios of normal flows to saturation flow of two directional traffic is 0.50 and the\ntotal lost time per cycle is 10 seconds, the optimum cycle length in seconds is",
+      "topic": "Traffic Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2,7"
+        },
+        {
+          "id": "B",
+          "text": "3,8"
+        },
+        {
+          "id": "C",
+          "text": "8,3"
+        },
+        {
+          "id": "D",
+          "text": "7,2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "For what values of [latex]\\alpha[/latex] and [latex]\\beta[/latex]\n the following simultaneous equations have an infinite\nnumber of solutions ? x + y + z = 5; x + 3y + 3z = 9; x + 2y + [latex]\\alpha[/latex]z = [latex]\\beta[/latex]",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "14"
+        },
+        {
+          "id": "D",
+          "text": "15"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A velocity vector is given as [latex]\\vec{V}=5xy\\vec{i}+2y^{2}\\vec{j}+3yz^{2}\\vec{k}[/latex]. The divergence of this velocity vector at (1,1,1) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "35.2[latex]^{\\circ}C[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "31.5[latex]^{\\circ}C[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "28.7[latex]^{\\circ}C[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "15[latex]^{\\circ}C[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A body originally at [latex]60^{\\circ}C[/latex]\n cools down to 40[latex]^{\\circ}[/latex]C in 15 minutes when kept in air at a temperature 25[latex]^{\\circ}[/latex]C. What will be the temperature of the body at the end of 30 minutes ?",
+      "topic": "Ordinary Differential Equation ",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x_{k+1}=\\frac{2x_{k}^{3}+9}{3x_{k}^{2}+4}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x_{k+1}=\\frac{3x_{k}^{2}+4}{2x_{k}^{2}+9}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x_{k+1}=x_{k}-3x_{k}^{2}+4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x_{k+1}=\\frac{4x_{k}^{2}+3}{9X_{k}^{2}+2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The following equation needs to be numerically solved using the Newton-Raphson\nmethod. [latex]x^{3}+4x-9=0[/latex] The iterative equation for this purpose is (k indicates the iteration level)",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\pi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\pi /2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\pi /4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\pi /8[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Evaluate [latex]\\int_{0}^{\\infty }\\frac{sint}{t}dt[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{3} \\begin{bmatrix} -7 & 2\\\\ 5&-1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{3} \\begin{bmatrix} 7 & 2\\\\ 5&1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{3} \\begin{bmatrix} 7 & -2\\\\ -5&1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{3} \\begin{bmatrix} -7 & -2\\\\ -5&-1 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The inverse of the [latex]2\\times 2[/latex]\n matrix [latex]\\begin{bmatrix} 1 & 2\\\\ 5&7 \\end{bmatrix}[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2 and 3"
+        },
+        {
+          "id": "B",
+          "text": "2 and 4"
+        },
+        {
+          "id": "C",
+          "text": "3 and 4"
+        },
+        {
+          "id": "D",
+          "text": "-2 and -3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Given that one root of the equation [latex]x^{3}-10x^{2}+ 31x - 30 = 0[/latex] is 5, the other two\nroots are",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "zero"
+        },
+        {
+          "id": "B",
+          "text": "12MPa"
+        },
+        {
+          "id": "C",
+          "text": "24MPa"
+        },
+        {
+          "id": "D",
+          "text": "2400MPa"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A metal bar of length 100 mm is inserted between two rigid supports and its\ntemperature is increased by [latex]10^{\\circ}C[/latex]. If the coefficient of thermal expansion is [latex]12\\times 10^{-6}[/latex] per [latex]^{\\circ}C[/latex] and the Young's modulus is [latex]2\\times 10^{5}[/latex] MPa, the stress in the bar is",
+      "topic": "Properties of Metals, Stress and Strain",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "59 MPa and 47.2 MPa"
+        },
+        {
+          "id": "B",
+          "text": "100 MPa and 80 MPa"
+        },
+        {
+          "id": "C",
+          "text": "118 MPa and 160 MPa"
+        },
+        {
+          "id": "D",
+          "text": "200 MPa and 160 MPa"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The maximum and minimum shear stresses in a hollow circular shaft of outer\ndiameter 20 mm and thickness 2 mm, subjected to a torque of 92.7 Nm will be",
+      "topic": "Torsion of Shafts and Pressure Vessels",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3MPa"
+        },
+        {
+          "id": "B",
+          "text": "6MPa"
+        },
+        {
+          "id": "C",
+          "text": "10MPa"
+        },
+        {
+          "id": "D",
+          "text": "20MPa"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The shear stress at the neutral axis in a beam of triangular section with a base of\n40 mm and height 20 mm, subjected to a shear force of 3 kN is",
+      "topic": "Solid Mechanics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]U= U_{1}+U_{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]U= U_{1}U_{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]U \\lt U_{1}+U_{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]U \\gt  U_{1}+U_{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "[latex]U_{1}[/latex] and [latex]U_{2}[/latex] are the Strain energies stored in a prismatic bar due toaxial tensile forces [latex]P_{1}[/latex] and [latex]P_{2}[/latex], respectively. The strain energy U stored in the same bar due to combined action of [latex]P_{1}[/latex] and [latex]P_{2}[/latex] will be",
+      "topic": "Solid Mechanics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 2"
+        },
+        {
+          "id": "B",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "C",
+          "text": "2 and 3"
+        },
+        {
+          "id": "D",
+          "text": "only 2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Consider the following statements : 1. The compressive strength of concrete decreases with increase in water-cement ratio of the concrete mix 2. Water is added to the concrete mix for hydration of cement and workability. 3. Creep and shrinkage of concrete are independent of the water-cement ratio\nin the concrete mix. The TRUE statements are",
+      "topic": "Working Stress and Limit State Method",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0175"
+        },
+        {
+          "id": "B",
+          "text": "0.175"
+        },
+        {
+          "id": "C",
+          "text": "1.75"
+        },
+        {
+          "id": "D",
+          "text": "17.5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The percentage loss of prestress due to anchorage slip of 3 mm in a concrete beam\nof length 30 m which is post-tensioned by a tendon with an initial stress of 1200\n[latex]N/mm^{2}[/latex] and modulus of elasticity equal to [latex]2.1 \\times 10^{5} N/mm^{2}[/latex] is",
+      "topic": "Prestressed Concrete Beams",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5 [latex]N/mm^{2}[/latex] (compression), 10[latex]N/mm^{2}[/latex]\n (compression)"
+        },
+        {
+          "id": "B",
+          "text": "10 [latex]N/mm^{2}[/latex] (tension), 2.5  [latex]N/mm^{2}[/latex]\n (compression)"
+        },
+        {
+          "id": "C",
+          "text": "3.75 [latex]N/mm^{2}[/latex] (tension), 3.75 [latex]N/mm^{2}[/latex] (compression)"
+        },
+        {
+          "id": "D",
+          "text": "2.75 [latex]N/mm^{2}[/latex] (compression), 3.75 [latex]N/mm^{2}[/latex]\n (compression)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A concrete beam of rectangular cross-section of size 120 mm (width) and 200\nmm (depth) is prestressed by a straight tendon to an effective force of 150 kN at\nan eccentricity of 20 mm (below the centroidal axis in the depth direction). The\nstresses at the top and bottom fibres of the section are",
+      "topic": "Prestressed Concrete Beams",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2 and 3"
+        },
+        {
+          "id": "B",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "C",
+          "text": "1 and 2"
+        },
+        {
+          "id": "D",
+          "text": "1 and 3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Consider the following statements : 1. Modulus of elasticity of concrete increases with increase in compressive strength of concrete. 2. Brittleness of concrete increases with decrease in compressive strength of concrete. 3. Shear strength of concrete increase with increase in compressive strength of concrete. The TRUE statements are",
+      "topic": "Working Stress and Limit State Method",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "SC"
+        },
+        {
+          "id": "B",
+          "text": "MI"
+        },
+        {
+          "id": "C",
+          "text": "CI"
+        },
+        {
+          "id": "D",
+          "text": "SM"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Sieve analysis on a dry soil sample of mass 1000 g showed that 980 g and 270 g of\nsoil pass through 4.75 mm and 0.075 mm sieve, respectively. The liquid limit and\nplastic limits of the soil fraction passing through 425[latex]\\mu[/latex] sieves are 40% and 18%,\nrespectively. The soil may be classified as",
+      "topic": "Geotechnical Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "19.4, 0.81"
+        },
+        {
+          "id": "B",
+          "text": "18.5, 0.30"
+        },
+        {
+          "id": "C",
+          "text": "19.4, 0.45"
+        },
+        {
+          "id": "D",
+          "text": "18.5, 0.45"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The water content of a saturated soil and the specific gravity of soil solids were\nfound to be 30% and 2.70, respectively. Assuming the unit weight of water to be\n10 kN/[latex]m^{3}[/latex], the saturated unit weight kN/[latex]m^{3}[/latex] and the void ratio of the soil are",
+      "topic": "Properties of Soils",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "600, 600, 400"
+        },
+        {
+          "id": "B",
+          "text": "600, 450, 350"
+        },
+        {
+          "id": "C",
+          "text": "600, 500, 250"
+        },
+        {
+          "id": "D",
+          "text": "600, 400, 250"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The bearing capacity of a rectangular footing of plan dimensions 1.5m x 3m resting on the surface of a sand deposit was estimated as 600 kN/[latex]m^{2}[/latex] when the water table is far below the base of the footing. The bearing capacities in kN/[latex]m^{2}[/latex] when the water level rises to depths of 3 m, 1.5 m and 0.5 m below the base of the footing are",
+      "topic": "Shallow Foundation and Bearing Capacity",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207150",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100N"
+        },
+        {
+          "id": "B",
+          "text": "10N"
+        },
+        {
+          "id": "C",
+          "text": "1N"
+        },
+        {
+          "id": "D",
+          "text": "0.1N"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A horizontal water jet with a velocity of 10 m/s and cross sectional area of 10\n[latex]mm^{2}[/latex] strikes a flat plate held normal to the flow direction. The density of water\nis 1000 kg/[latex]m^{3}[/latex]. The total force on the plate due to the jet is",
+      "topic": "Impact of Jets and Turbines",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207151",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.05[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "0.08[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "0.57[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "5.7[latex]m^{3}/s[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A 1:50 scale model of a spillway is to be tested in the laboratory. The discharge in the prototype is 1000 [latex]m^{3}/s[/latex]. The discharge to be maintained in the model test is",
+      "topic": "Fluid Mechanics and Hydraulics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207152",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.08[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "0.11[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "0.15[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "0.2[latex]m^{3}/s[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A triangle open channel has a vertex angle of [latex]90^{\\circ}[/latex] and carries flow at a critical depth of 0.30 m. The discharge in the channel is",
+      "topic": "Open Channel Flow",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207153",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.025[latex]N.s/m^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "0.012[latex]N.s/m^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "0.00192[latex]N.s/m^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "0.00102[latex]N.s/m^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Flow rate of a fluid (density = 1000 [latex]kg/m^{3}[/latex]) in a small diameter tube is 800 [latex]mm^{3}/s[/latex]. The length and the diameter of the tube are 2 m and 0.5 mm, respectively. The pressure drop in 2 m length is equal to 2.0 MPa. The viscosity of the fluid is",
+      "topic": "Viscous Flow of Incompressible Fluid",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207154",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Critical"
+        },
+        {
+          "id": "B",
+          "text": "Horizontal"
+        },
+        {
+          "id": "C",
+          "text": "Mild"
+        },
+        {
+          "id": "D",
+          "text": "Steep"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The flow rate in a wide rectangular open channel is 2.0 [latex]m^{3}/s[/latex] per metre width. The\r\nchannel bed slope is 0.002. The Manning's roughness coefficient is 0.012. The slope of the channel is classified as",
+      "topic": "Open Channel Flow",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.85[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "3.21[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "4.63[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "5.23[latex]m^{3}/s[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The culturable command area for a distributed channel is 20,000 hectares. Wheat\nis grown in the entire area and the intensity of irrigation is 50%. The kor period\nfor wheat is 30 days and the kor water depth is 120 mm. The outlet discharge for\nthe distributary should be",
+      "topic": "Irrigation Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100%"
+        },
+        {
+          "id": "B",
+          "text": "93%"
+        },
+        {
+          "id": "C",
+          "text": "80%"
+        },
+        {
+          "id": "D",
+          "text": "65%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Two electrostatic precipitators (ESPs) are in series. The fractional efficiencies of\nthe upstream and downstream ESPs for size [latex]d_{p}[/latex]\n are 80% and 65%, respectively.\nWhat is the overall efficiency of the system for the same [latex]d_{p}[/latex] ?",
+      "topic": "Environmental Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "104 g/day"
+        },
+        {
+          "id": "B",
+          "text": "120 g/day"
+        },
+        {
+          "id": "C",
+          "text": "208 g/day"
+        },
+        {
+          "id": "D",
+          "text": "313 g/day"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "50 g of [latex]CO_{2}[/latex] and 25 g of [latex]CH_{4}[/latex] are produced from the decomposition of municipal solid waste (MSW) with a formula weight of 120 g. What is the average per capita green house gas production in a city of 1 million people with a MSW production rate of 500 ton/day ?",
+      "topic": "Municipal Solid Waste Management",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.42m"
+        },
+        {
+          "id": "B",
+          "text": "0.62m"
+        },
+        {
+          "id": "C",
+          "text": "0.82m"
+        },
+        {
+          "id": "D",
+          "text": "0.92m"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The extra widening required for a two-lane National Highway at a horizontal\ncurve of 300 m radius, considering a wheel base of 8 m and a design speed of 100 kmph is",
+      "topic": "Geometric Design of Highway and Planning",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4.40%"
+        },
+        {
+          "id": "B",
+          "text": "4.75%"
+        },
+        {
+          "id": "C",
+          "text": "5%"
+        },
+        {
+          "id": "D",
+          "text": "5.25%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "While designing a hill road with a ruling gradient of 6%, if a sharp horizontal\ncurve of 50 m radius is encountered, the compensated gradient at the curve as per\nthe Indian Roads Congress specifications should be",
+      "topic": "Geometric Design of Highway and Planning",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207161",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "82.1m"
+        },
+        {
+          "id": "B",
+          "text": "102.4m"
+        },
+        {
+          "id": "C",
+          "text": "164.2m"
+        },
+        {
+          "id": "D",
+          "text": "186.4m"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The design speed on a road is 60 kmph. Assuming the driver reaction time of\n2.5 seconds and coefficient of friction of pavement surface as 0.35, the required\nstopping distance for two-way traffic on a single lane road is",
+      "topic": "Geometric Design of Highway and Planning",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207162",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "20m"
+        },
+        {
+          "id": "B",
+          "text": "25m"
+        },
+        {
+          "id": "C",
+          "text": "30m"
+        },
+        {
+          "id": "D",
+          "text": "40m"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The width of the expansion join is 20 mm in a cement concrete pavement. The paying temperature is [latex]20^{\\circ}C[/latex] and the maximum slab temperature in summer is [latex]60^{\\circ}C[/latex]. The coefficient of the thermal expansion of concrete is [latex]10\\times 10^{-6} mm/mm/^{\\circ}C[/latex] and the joint filler compresses up to 50% of the thickness. The spacing between expansion joints should be",
+      "topic": "Pavement Design",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207165",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1:900"
+        },
+        {
+          "id": "B",
+          "text": "1:1111"
+        },
+        {
+          "id": "C",
+          "text": "1:1121"
+        },
+        {
+          "id": "D",
+          "text": "1:1221"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The plan of a map was photo copied to a reduced size such that a line originally\n100 mm, measures 90 mm. The original scale of the plan was 1:1000. The revised scale is",
+      "topic": "Geomatics Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207168",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "80.4, 600.0"
+        },
+        {
+          "id": "B",
+          "text": "600.0, 80.4"
+        },
+        {
+          "id": "C",
+          "text": "600.0, 39.89"
+        },
+        {
+          "id": "D",
+          "text": "49.89, 300.0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Two straight lines intersect at an angle of 60[latex]^{\\circ}[/latex]. The radius of a curve joining the two straight lines is 600 m. The length of long chord and mid-ordinate in metres\nof the curve are",
+      "topic": "Tacheometric, Curve and Hydrographic Surveying",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207169",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "S45[latex]^{\\circ}[/latex]E"
+        },
+        {
+          "id": "B",
+          "text": "S40[latex]^{\\circ}[/latex]E"
+        },
+        {
+          "id": "C",
+          "text": "S50[latex]^{\\circ}[/latex]E"
+        },
+        {
+          "id": "D",
+          "text": "S50[latex]^{\\circ}[/latex]W"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The magnetic bearing of a line AB is S 45[latex]^{\\circ}[/latex] E and the declination is 5[latex]^{\\circ}[/latex] West. The true bearing of the line AB is",
+      "topic": "Theodolites, Compass and Traverse Surveying",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207172",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1[latex]k m^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "2[latex]k m^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "3.2[latex]k m^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "5.4[latex]k m^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Ordinates of a 1-hour unity hydrograph at 1 hour intervals, starting from time t = 0 are 0, 2, 6, 4, 2, 1 and 0 [latex]m^{3}/s[/latex]. Catchment area represented by this unit hydrograph is",
+      "topic": "Infiltration, Runoff and Hydrographs",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207173",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "3[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "4[latex]m^{3}/s[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "5[latex]m^{3}/s[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Ordinates of a 1-hour unity hydrograph at 1 hour intervals, starting from time t = 0 are 0, 2, 6, 4, 2, 1 and 0 [latex]m^{3}/s[/latex]. Ordinate of a 3-hour unit hydrograph for the catchment at t = 3 hours is",
+      "topic": "Infiltration, Runoff and Hydrographs",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207174",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2h"
+        },
+        {
+          "id": "B",
+          "text": "4.8h"
+        },
+        {
+          "id": "C",
+          "text": "10h"
+        },
+        {
+          "id": "D",
+          "text": "24h"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A completely mixed activated sludge process is used to treat a wastewater flow\nof 1 million litres per day (1 MLD) having a [latex]BOD_5[/latex] of 200 mg/L. The biomass\nconcentration in the aeration tank is 2000 mg/L and the concentration of the net\nbiomass leaving the system is 50 mg/L. The aeration tank has a volume of 200 [latex]m^3[/latex]. What is the hydraulic retention time of the wastewater in aeration tank ?",
+      "topic": "Treatment of Waste Water",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207175",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5h"
+        },
+        {
+          "id": "B",
+          "text": "8h"
+        },
+        {
+          "id": "C",
+          "text": "2 days"
+        },
+        {
+          "id": "D",
+          "text": "8 days"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A completely mixed activated sludge process is used to treat a wastewater flow\nof 1 million litres per day (1 MLD) having a [latex]BOD_5[/latex] of 200 mg/L. The biomass\nconcentration in the aeration tank is 2000 mg/L and the concentration of the net\nbiomass leaving the system is 50 mg/L. The aeration tank has a volume of 200 [latex]m^3[/latex]. What is the average time for which the biomass stays in the system ?",
+      "topic": "Treatment of Waste Water",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207176",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "wL"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{5wL}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{5wL}{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{5wL}{8}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A two span continuous beam having equal spans each of length L is subjected to\na uniformly distributed load w per unit length. The beam has constant flexural\nrigidity. The reaction at the middle support is",
+      "topic": "Methods of Structural Analysis",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207177",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{wL^{2}}{4}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{wL^{2}}{8}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{wL^{2}}{12}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{wL^{2}}{16}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A two span continuous beam having equal spans each of length L is subjected to\na uniformly distributed load w per unit length. The beam has constant flexural\nrigidity. The bending moment at the middle support is",
+      "topic": "Methods of Structural Analysis",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207178",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.14"
+        },
+        {
+          "id": "B",
+          "text": "0.45"
+        },
+        {
+          "id": "C",
+          "text": "45.08"
+        },
+        {
+          "id": "D",
+          "text": "156.82"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A single reinforced rectangular concrete beam has a width of 150 mm and an\r\neffective depth of 330 mm. The characteristic compressive strength of concrete\r\nis 20 MPa and the characteristic tensile strength of steel is 415 MPa. Adopt the\r\nstress block for concrete as given in IS:456-2000 and take limiting value \r\nof depth of neutral axis as 0.48 times the effective depth of the beam The limiting value of the moment of resistance of the beam in kN.m is",
+      "topic": "RCC Structures",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207179",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "473.9"
+        },
+        {
+          "id": "B",
+          "text": "412.3"
+        },
+        {
+          "id": "C",
+          "text": "373.9"
+        },
+        {
+          "id": "D",
+          "text": "312.3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A single reinforced rectangular concrete beam has a width of 150 mm and an\r\neffective depth of 330 mm. The characteristic compressive strength of concrete\r\nis 20 MPa and the characteristic tensile strength of steel is 415 MPa. Adopt the\r\nstress block for concrete as given in IS:456-2000 and take limiting value \r\nof depth of neutral axis as 0.48 times the effective depth of the beam The limiting area of tension steel in [latex]mm^{2}[/latex] is",
+      "topic": "RCC Structures",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207182",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0012"
+        },
+        {
+          "id": "B",
+          "text": "0.0021"
+        },
+        {
+          "id": "C",
+          "text": "0.0025"
+        },
+        {
+          "id": "D",
+          "text": "0.0052"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A rectangular open channel needs to be designed to carry a flow of 2.0 [latex]m^{3}/s[/latex] under uniform flow conditions. The Manning's roughness coefficient is 0.018. The\nchannel should be such that the flow depth is equal to half the width, and the Froude\nnumber is equal to 0.5 The bed slope of the channel to be provided is",
+      "topic": "Open Channel Flow",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207183",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5.6[latex]N/m^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "10.8[latex]N/m^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "12.3[latex]N/m^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "17.2[latex]N/m^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A rectangular open channel needs to be designed to carry a flow of 2.0 [latex]m^{3}/s[/latex] under uniform flow conditions. The Manning's roughness coefficient is 0.018. The\nchannel should be such that the flow depth is equal to half the width, and the Froude\nnumber is equal to 0.5 Keeping the width, flow depth and roughness the same, if the bed slope of the\nabove channel is double, the average boundary shear stress under uniform flow\nconditions is",
+      "topic": "Open Channel Flow",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207184",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]20m^{3}/m^{2}/day[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]40m^{3}/m^{2}/day[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]67m^{3}/m^{2}/day[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]133m^{3}/m^{2}/day[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A plain sedimentation tank with a length of 20 m, width of 10 m, and a depth of\n3 m is used in a water treatment plant to treat 4 million litres of water per day\n(4 MLD). The average temperature of water is 20[latex]^{\\circ}[/latex]C. The dynamic viscosity of\nwater is [latex]1.002 \\times 10^{-3}N.s/m^2[/latex] at 20[latex]^{\\circ}[/latex]C. Density of water is 998.2 [latex]kg/m^3[/latex]. Average\nspecific gravity of particles is 2.65. What is the surface overflow rate in the sedimentation tank ?",
+      "topic": "Water Treatment",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "1207185",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]11.8\\times 10^{-3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]16.0\\times 10^{-3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]50\\times 10^{-3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]160\\times 10^{-3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A plain sedimentation tank with a length of 20 m, width of 10 m, and a depth of\n3 m is used in a water treatment plant to treat 4 million litres of water per day\n(4 MLD). The average temperature of water is 20[latex]^{\\circ}[/latex]C. The dynamic viscosity of\nwater is [latex]1.002 \\times 10^{-3}N.s/m^2[/latex] at 20[latex]^{\\circ}[/latex]C. Density of water is 998.2 [latex]kg/m^3[/latex]. Average\nspecific gravity of particles is 2.65. What is the minimum diameter of the particle which can be removed with 100%\nefficiency in the above sedimentation tank ?",
+      "topic": "Water Treatment",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "10710112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The minimum and the maximum eigen values of the matrix [latex]\\begin{bmatrix} 1 & 1&3 \\\\ 1& 5 & 1\\\\ 3&1 & 1 \\end{bmatrix}[/latex] are -2 and 6, respectively. What is the other eigen value ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "10710212",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The degree of the differential equation [latex]\\frac{d^{2}x}{dt^{2}}+2x^{3}=0[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "10710312",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y=e^{\\frac{1}{2x}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]ln(y)=\\frac{x^{3}}{3}+4[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]ln(y)=\\frac{x^{2}}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y=e^{\\frac{x^{3}}{3}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The solution for the differential equation [latex]\\frac{dy}{dx}=x^{2}y[/latex] with the condition that y = 1 at x = 0 is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "10712112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2,7"
+        },
+        {
+          "id": "B",
+          "text": "3,8"
+        },
+        {
+          "id": "C",
+          "text": "8,3"
+        },
+        {
+          "id": "D",
+          "text": "7,2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "For what values of [latex]\\alpha[/latex] and [latex]\\beta[/latex]\n the following simultaneous equations have an infinite\nnumber of solutions ? x + y + z = 5; x + 3y + 3z = 9; x + 2y + [latex]\\alpha[/latex]z = [latex]\\beta[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "10712212",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "14"
+        },
+        {
+          "id": "D",
+          "text": "15"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A velocity vector is given as [latex]\\vec{V}=5xy\\vec{i}+2y^{2}\\vec{j}+3yz^{2}\\vec{k}[/latex]. The divergence of this velocity vector at (1,1,1) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "10712312",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "35.2[latex]^{\\circ}C[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "31.5[latex]^{\\circ}C[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "28.7[latex]^{\\circ}C[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "15[latex]^{\\circ}C[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "A body originally at [latex]60^{\\circ}C[/latex]\n cools down to 40[latex]^{\\circ}[/latex]C in 15 minutes when kept in air at a temperature 25[latex]^{\\circ}[/latex]C. What will be the temperature of the body at the end of 30 minutes ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "10712412",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x_{k+1}=\\frac{2x_{k}^{3}+9}{3x_{k}^{2}+4}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x_{k+1}=\\frac{3x_{k}^{2}+4}{2x_{k}^{2}+9}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x_{k+1}=x_{k}-3x_{k}^{2}+4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x_{k+1}=\\frac{4x_{k}^{2}+3}{9X_{k}^{2}+2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The following equation needs to be numerically solved using the Newton-Raphson\nmethod. [latex]x^{3}+4x-9=0[/latex] The iterative equation for this purpose is (k indicates the iteration level)",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "10712512",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\pi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\pi /2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\pi /4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\pi /8[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Evaluate [latex]\\int_{0}^{\\infty }\\frac{sint}{t}dt[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "10712712",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{3} \\begin{bmatrix} -7 & 2\\\\ 5&-1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{3} \\begin{bmatrix} 7 & 2\\\\ 5&1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{3} \\begin{bmatrix} 7 & -2\\\\ -5&1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{3} \\begin{bmatrix} -7 & -2\\\\ -5&-1 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "The inverse of the [latex]2\\times 2[/latex]\n matrix [latex]\\begin{bmatrix} 1 & 2\\\\ 5&7 \\end{bmatrix}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "CE",
+      "id": "10712812",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2 and 3"
+        },
+        {
+          "id": "B",
+          "text": "2 and 4"
+        },
+        {
+          "id": "C",
+          "text": "3 and 4"
+        },
+        {
+          "id": "D",
+          "text": "-2 and -3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Civil Engineering",
+      "text": "Given that one root of the equation [latex]x^{3}-10x^{2}+ 31x - 30 = 0[/latex] is 5, the other two\nroots are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    }
+  ],
+  "schema_version": 1
+}

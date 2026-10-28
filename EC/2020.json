@@ -1,0 +1,810 @@
+{
+  "questions": [
+    {
+      "branch": "EC",
+      "id": "1420101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It is not necessary that these vectors span [latex]\\mathbb{R}^4[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "These vectors are not linearly independent."
+        },
+        {
+          "id": "C",
+          "text": "Any four of these vectors form a basis for [latex]\\mathbb{R}^4[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "If {[latex]v_1, v_3,v_5, v_6[/latex]} spans [latex]\\mathbb{R}^4[/latex], then it forms a basis for [latex]\\mathbb{R}^4[/latex]."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If [latex]v_1, v_2,..., v_6[/latex] are six vectors in [latex]\\mathbb{R}^4[/latex], which one of the following statements is False?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\vec{A}[/latex] is solenoidal if [latex]\\bigtriangledown \\cdot \\vec{A}=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\bigtriangledown \\times \\vec{A}[/latex] is another vector field."
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\vec{A}[/latex] is irrotational if [latex]\\bigtriangledown ^2 \\vec{A}=0[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\bigtriangledown \\times(\\bigtriangledown \\times \\vec{A})=\\bigtriangledown (\\bigtriangledown \\cdot \\vec{A})-\\bigtriangledown ^2 \\vec{A}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a vector field [latex]\\vec{A}[/latex], which one of the following is False?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{e}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The partial derivative of the function [latex]f(x,y,z)=e^{1-x \\cos y}+xze^{-1/(1+y^2)}[/latex] with respect to x at the point (1,0,e) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y=C_1e^{3x}+C_2e^{-3x}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y=(C_1+C_2x)e^{-3x}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y=(C_1+C_2x)e^{3x}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y=C_1e^{3x}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The general solution of [latex]\\frac{d^2y}{dx^2}-6\\frac{dy}{dx}+9y=0[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "18.02 meV"
+        },
+        {
+          "id": "B",
+          "text": "9.01 meV"
+        },
+        {
+          "id": "C",
+          "text": "13.45 meV"
+        },
+        {
+          "id": "D",
+          "text": "26.90 meV"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A single crystal intrinsic semiconductor is at a temperature of 300 K with effective density\nof states for holes twice that of electrons. The thermal voltage is 26 mV. The intrinsic\nFermi level is shifted from mid-bandgap energy level by",
+      "topic": "Electronic Devices",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "With all other parameters unchanged, [latex]U_{max}[/latex] decreases if the intrinsic carrier density\nis reduced."
+        },
+        {
+          "id": "B",
+          "text": "[latex]U_{max}[/latex] occurs at the edges of the depletion region in the device."
+        },
+        {
+          "id": "C",
+          "text": "[latex]U_{max}[/latex] depends exponentially on the applied bias."
+        },
+        {
+          "id": "D",
+          "text": "With all other parameters unchanged,[latex]U_{max}[/latex] increases if the thermal velocity of the\ncarriers increases."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the recombination process via bulk traps in a forward biased [latex]pn[/latex] homojunction\ndiode. The maximum recombination rate is [latex]U_{max}[/latex]. If the electron and the hole capture\ncross-section are equal, which one of the following is False?",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]N(1-\\alpha )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\alpha ^n[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1-\\alpha ^n[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1-(1-\\alpha )^n[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A digital communication system transmits a block of N bits. The probability of error in\ndecoding a bit is [latex]\\alpha[/latex]. The error event of each bit is independent of the error events of\nthe other bits. The received block is declared erroneous if at least one of the its bits\nis decoded wrongly. The probability that the received block is erroneous is",
+      "topic": "Information Theory and Coding",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a circle of radius 1 with centre at (0, 0)."
+        },
+        {
+          "id": "B",
+          "text": "a point at the centre of the chart."
+        },
+        {
+          "id": "C",
+          "text": "a line passing through the centre of the chart"
+        },
+        {
+          "id": "D",
+          "text": "a circle of radius 0.5 with centre at (0.5, 0)."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The impedances Z=jX, for all X in the range ([latex]-\\infty ,\\infty[/latex]), map to the Smith chart as",
+      "topic": "Transmission Lines",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420119",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In an 8085 microprocessor, the number of address lines required to access a 16 K byte\nmemory bank is __________.",
+      "topic": "Microprocessors",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A 10-bit D/A converter is calibrated over the full range from 0 to 10 V. If the input to\nthe D/A converter is 13A (in hex), the output (rounded off to three decimal places) is\n_________ V.",
+      "topic": "Digital Circuits",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A transmission line of length [latex]3\\lambda /4[/latex] and having a characteristic impedance of 50[latex]\\Omega[/latex] is\nterminated with a load of 400[latex]\\Omega[/latex]. The impedance (rounded off to two decimal places)\nseen at the input end of the transmission line is __________ [latex]\\Omega[/latex].",
+      "topic": "Transmission Lines",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A binary random variable X takes the value +2 or -2. The probability [latex]P(X=+2)= \\alpha[/latex].\nThe value of [latex]\\alpha[/latex] (rounded off to one decimal place), for which the entropy of X is maximum,\nis __________",
+      "topic": "Random Signals and Noise",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The loop transfer function of a negative feedback system is [latex]G(s)H(s)=\\frac{K(s+11)}{s(s+2)(s+8)}[/latex] The value of K, for which the system is marginally stable, is ________.",
+      "topic": "Time Response Analysis",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The random variable [latex]Y=\\int_{-\\infty }^{\\infty }W(t)\\phi (t) dt[/latex] where [latex]\\phi (t) =\\left\\{\\begin{matrix} 1; & 5\\leq t\\leq 7\\\\ 0; & otherwise \\end{matrix}\\right.[/latex] and W(t) is a real white Gaussian noise process with two-sided power spectral density [latex]S_W(f) = 3[/latex] W/Hz, for all f. The variance of Y is _________.",
+      "topic": "Random Signals and Noise",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The two sides of a fair coin are labelled as 0 and 1. The coin is tossed two times\nindependently. Let M and N denote the labels corresponding to the outcomes of those\ntosses. For a random variable X, defined as X = min(M, N), the expected value E(X)\n(rounded off to two decimal places) is _________.",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]b_2=2b_1[/latex] and [latex]6b_1-3b_3+b_4=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]b_3=2b_1[/latex] and [latex]6b_1-3b_3+b_4=0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]b_2=2b_1[/latex] and [latex]3b_1-6b_3+b_4=0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]b_3=2b_1[/latex] and [latex]3b_1-6b_3+b_4=0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following system of linear equation. [latex]x_1+2x_2=b_1;[/latex] [latex]2x_1+4x_2=b_2;[/latex] [latex]3x_1+7x_2=b_3;[/latex] [latex]3x_1+9x_2=b_4;[/latex] Which one of the following conditions ensures that a solution exists for the above system?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]ln |y-1|=0.5x^2 +C[/latex] and y=1"
+        },
+        {
+          "id": "B",
+          "text": "[latex]ln |y-1|=2x^2 +C[/latex] and y=1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]ln |y-1|=0.5x^2 +C[/latex] and y=-1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]ln |y-1|=2x^2 +C[/latex] and y=-1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which one of the following options contains two solutions of the differential equation [latex]\\frac{dy}{dx}=(y-1)x[/latex]?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "All X[k] are non-zero"
+        },
+        {
+          "id": "B",
+          "text": "Only X[4] is non-zero"
+        },
+        {
+          "id": "C",
+          "text": "Only X[2] and X [6] are non-zero"
+        },
+        {
+          "id": "D",
+          "text": "Only X[3] and X [5] are non-zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A finite duration discrete-time signal x[n] is obtained by sampling the continuous-time\r\nsignal [latex]x(t) = \\cos (200 \\pi t)[/latex] at sampling instants t = n/400, n = 0,1,..., 7. The 8-point\r\ndiscrete Fourier transform (DFT) of x[n] is defined as [latex]x[k]=\\sum_{n=0}^{7}x[n]e^{-j\\frac{\\pi kn}{4}}[/latex],  k=0,1,...,7. Which one of the following statement is TRUE?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0.84 \\times 10^{19}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]5.57 \\times 10^{19}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1.04 \\times 10^{19}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]83.6 \\times 10^{19}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A pn junction solar cell of area 1.0 [latex]cm^{2}[/latex], illuminated uniformly with 100 mW [latex]cm^{-2}[/latex],\nhas the following parameters: Efficiency = 15%, open circuit voltage = 0.7 V, fill\nfactor = 0.8, and thickness = 200 [latex]\\mu m[/latex], The charge of an electron is [latex]1.6 \\times 10^{-19}[/latex]C. The\naverage optical generation rate (in [latex]cm^{-3} s^{-1}[/latex]) is",
+      "topic": "PN-Junction Diodes and Special Diodes",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "110101"
+        },
+        {
+          "id": "B",
+          "text": "110010"
+        },
+        {
+          "id": "C",
+          "text": "111101"
+        },
+        {
+          "id": "D",
+          "text": "111001"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "P, Q, and R are the decimal integers corresponding to the 4-bit binary number 1100\nconsidered in signed magnitude, 1's complement, and 2's complement representations,\nrespectively. The 6-bit 2's complement representation of (P+Q+R) is",
+      "topic": "Number Systems",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420140",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "(-1,0)"
+        },
+        {
+          "id": "B",
+          "text": "(-2,-1)"
+        },
+        {
+          "id": "C",
+          "text": "(-3,-2)"
+        },
+        {
+          "id": "D",
+          "text": "(-[latex]\\infty[/latex]\n,-3)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The characteristic equation of a system is [latex]s^3 + 3s^2 + (K + 2)s + 3K = 0[/latex] In the root locus plot for the given system, as K varies from 0 to [latex]\\infty[/latex], the break-away\nor break-in point(s) lie within",
+      "topic": "Root Locus",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The magnetic field of a uniform plane wave in vacuum is given by [latex]\\vec{H}(x,y,z,t)=(\\hat{a}_x+2\\hat{a}_y+b\\hat{a}_z) \\cos (\\omega t+3x-y-z)[/latex] The value of b is _____",
+      "topic": "Uniform Plane Waves",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420148",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "In a digital communication system, a symbol S randomly chosen from the set ([latex]s_1, s_2, s_3, s_4[/latex])\nis transmitted. It is given that [latex]s_1=-3, s_2=-1, s_3=+1[/latex] and [latex]s_4=+2[/latex]. The received\nsymbol is Y = S + W. W is a zero-mean unit-variance Gaussian random variable and\nis independent of S. [latex]P_i[/latex] is the conditional probability of symbol error for the maximum\nlikelihood (ML) decoding when the transmitted symbol [latex]S=s_i[/latex]. The index i for which the\nconditional symbol error probability [latex]P_i[/latex] is the highest is ______.",
+      "topic": "Random Signals and Noise",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "A system with transfer function [latex]G(s)=\\frac{1}{(s+1)(s+a)}, a \\gt 0[/latex] is subjected an input [latex]5\\cos 3t[/latex].\nThe steady state output of the system is [latex]\\frac{1}{\\sqrt{10}} \\cos (3t-1.892)[/latex]. The value of [latex]a[/latex] is ____.",
+      "topic": "Time Response Analysis",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "1420154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "X is a random variable with uniform probability density function in the interval [-2,10]. For Y = 2X-6, the conditional probability [latex]P(Y \\leq 7|X \\geq 5)[/latex] (rounded off to three decimal places) is _____.",
+      "topic": "Random Signals and Noise",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "12010114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It is not necessary that these vectors span [latex]\\mathbb{R}^4[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "These vectors are not linearly independent."
+        },
+        {
+          "id": "C",
+          "text": "Any four of these vectors form a basis for [latex]\\mathbb{R}^4[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "If {[latex]v_1, v_3,v_5, v_6[/latex]} spans [latex]\\mathbb{R}^4[/latex], then it forms a basis for [latex]\\mathbb{R}^4[/latex]."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "If [latex]v_1, v_2,..., v_6[/latex] are six vectors in [latex]\\mathbb{R}^4[/latex], which one of the following statements is False?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "12010214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\vec{A}[/latex] is solenoidal if [latex]\\bigtriangledown \\cdot \\vec{A}=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\bigtriangledown \\times \\vec{A}[/latex] is another vector field."
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\vec{A}[/latex] is irrotational if [latex]\\bigtriangledown ^2 \\vec{A}=0[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\bigtriangledown \\times(\\bigtriangledown \\times \\vec{A})=\\bigtriangledown (\\bigtriangledown \\cdot \\vec{A})-\\bigtriangledown ^2 \\vec{A}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "For a vector field [latex]\\vec{A}[/latex], which one of the following is False?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "12010314",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{e}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The partial derivative of the function [latex]f(x,y,z)=e^{1-x \\cos y}+xze^{-1/(1+y^2)}[/latex] with respect to x at the point (1,0,e) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "12010414",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y=C_1e^{3x}+C_2e^{-3x}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y=(C_1+C_2x)e^{-3x}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y=(C_1+C_2x)e^{3x}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y=C_1e^{3x}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The general solution of [latex]\\frac{d^2y}{dx^2}-6\\frac{dy}{dx}+9y=0[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "12012514",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.15"
+        },
+        {
+          "id": "B",
+          "text": "0.75"
+        },
+        {
+          "id": "C",
+          "text": "0.55"
+        },
+        {
+          "id": "D",
+          "text": "0.25"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "The two sides of a fair coin are labelled as 0 and 1. The coin is tossed two times\nindependently. Let M and N denote the labels corresponding to the outcomes of those\ntosses. For a random variable X, defined as X = min(M, N), the expected value E(X)\n(rounded off to two decimal places) is _________.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "12012614",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]b_2=2b_1[/latex] and [latex]6b_1-3b_3+b_4=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]b_3=2b_1[/latex] and [latex]6b_1-3b_3+b_4=0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]b_2=2b_1[/latex] and [latex]3b_1-6b_3+b_4=0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]b_3=2b_1[/latex] and [latex]3b_1-6b_3+b_4=0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Consider the following system of linear equation. [latex]x_1+2x_2=b_1;[/latex] [latex]2x_1+4x_2=b_2;[/latex] [latex]3x_1+7x_2=b_3;[/latex] [latex]3x_1+9x_2=b_4;[/latex] Which one of the following conditions ensures that a solution exists for the above system?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EC",
+      "id": "12012714",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]ln |y-1|=0.5x^2 +C[/latex] and y=1"
+        },
+        {
+          "id": "B",
+          "text": "[latex]ln |y-1|=2x^2 +C[/latex] and y=1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]ln |y-1|=0.5x^2 +C[/latex] and y=-1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]ln |y-1|=2x^2 +C[/latex] and y=-1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electronics and Communication Engineering",
+      "text": "Which one of the following options contains two solutions of the differential equation [latex]\\frac{dy}{dx}=(y-1)x[/latex]?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    }
+  ],
+  "schema_version": 1
+}
