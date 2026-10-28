@@ -1,0 +1,2299 @@
+{
+  "questions": [
+    {
+      "branch": "ME",
+      "id": "1305101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a line integral and a surface integral"
+        },
+        {
+          "id": "B",
+          "text": "a surface integral and a volume integral"
+        },
+        {
+          "id": "C",
+          "text": "a line integral and a volume integral"
+        },
+        {
+          "id": "D",
+          "text": "gradient of a function and its surface integral"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Strokes theorem connects",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0036"
+        },
+        {
+          "id": "B",
+          "text": "0.1937"
+        },
+        {
+          "id": "C",
+          "text": "0.2234"
+        },
+        {
+          "id": "D",
+          "text": "0.3874"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A lot has 10% defective items. Ten items are chosen randomly from this lot. The probability that exactly 2 of the chosen items are defective is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2\\int_{0}^{a}(\\sin ^{6} x)dx[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2\\int_{0}^{a}(\\sin ^{7} x)dx[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2\\int_{0}^{a}(\\sin ^{6} x + \\sin ^{7} x)dx[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "[latex]\\int_{-a}^{a}(\\sin ^{6} x + \\sin ^{7} x)dx[/latex]\n is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A is a 3 x 4 real matrix and Ax=b is an inconsistent system of equations. The highest possible rank of A is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4y"
+        },
+        {
+          "id": "B",
+          "text": "[latex]16y^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "x"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Changing the order of the integration in the double integral [latex]I=\\int_{0}^{8}\\int_{\\frac{x}{4}}^{2}f(x,y)dydx[/latex]\nleads to [latex]I=\\int_{r}^{s}\\int_{p}^{q}f(x,y)dxdy[/latex]. What is q?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "v=0, a=0"
+        },
+        {
+          "id": "B",
+          "text": "v=0, a=2"
+        },
+        {
+          "id": "C",
+          "text": "v=2 a=0"
+        },
+        {
+          "id": "D",
+          "text": "v=2 a=2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The time variation of the position of a particle in rectilinear motion is given by [latex]x-2t^{3}+t^{2}+2t[/latex]. If v is the velocity and a the acceleration of the particle in consistent units, the motion started with",
+      "topic": "Translation and Rotation",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "zero"
+        },
+        {
+          "id": "B",
+          "text": "2.5 N"
+        },
+        {
+          "id": "C",
+          "text": "5 N"
+        },
+        {
+          "id": "D",
+          "text": "25 N"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A simple pendulum of length 5m, with a bob of mass 1 kg, is in simple harmonic motion. As it passes through its mean position, the bob has a speed of 5 m/s. the net force on the bob at the mean position is",
+      "topic": "Translation and Rotation",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sigma _{r}=0,\\sigma _{z}=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sigma _{r}\\neq 0,\\sigma _{z}=0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sigma _{r}= 0,\\sigma _{z}\\neq 0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sigma _{r}\\neq 0,\\sigma _{z}\\neq 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A uniform, slender cylindrical rod is made of a homogeneous and isotropic material. The rod rests on a frictionless surface. The rod is heated uniformly. If the radial and longitudinal thermal stresses are represented by [latex]\\sigma _{r}[/latex]\n and [latex]\\sigma _{z}[/latex], respectively, then",
+      "topic": "Strain Energy and Thermal Stresses",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The number of degrees of freedom of a planar linkage with 8 links and 9 simple revolute joints is",
+      "topic": "Planar Mechanisms",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P"
+        },
+        {
+          "id": "B",
+          "text": "Q"
+        },
+        {
+          "id": "C",
+          "text": "R"
+        },
+        {
+          "id": "D",
+          "text": "S"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "There are four samples P, Q, R and S, with natural frequencies 64, 96, 128 and 256 Hz respectively. There are mounted on test setups for conducting vibration experiments. If a loud pure note of frequency 144 Hz is produced by some instrument, which of the samples will show the most perceptible induced vibration?",
+      "topic": "Vibration",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Sommerfeld number"
+        },
+        {
+          "id": "B",
+          "text": "Rating life"
+        },
+        {
+          "id": "C",
+          "text": "Specific dynamic capacity"
+        },
+        {
+          "id": "D",
+          "text": "Rotation factor"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the following is a criterion in the design of hydrodynamic journal bearings?",
+      "topic": "Machine Design",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{\\partial v}{\\partial x}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-\\frac{\\partial v}{\\partial x}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\partial v}{\\partial y}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-\\frac{\\partial v}{\\partial y}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The velocity components in the x and y directions of a two dimensional potential flow are u and v, respectively, then [latex]\\frac{\\partial u}{\\partial x}[/latex]\r\n is equal to",
+      "topic": "Fluid Mechanics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{T}{X}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\partial T}{\\partial x}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\partial^2 T}{\\partial x \\partial t}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\partial^2 T}{\\partial x^{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a case of one dimensional heat conduction in a medium with constant properties, T is the temperature at position x, at time t. Then [latex]\\frac{\\partial T}{\\partial t}[/latex]\nis propotional to",
+      "topic": "Heat Transfer",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.002"
+        },
+        {
+          "id": "B",
+          "text": "0.027"
+        },
+        {
+          "id": "C",
+          "text": "0.25"
+        },
+        {
+          "id": "D",
+          "text": "0.75"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For a typical sample of ambient air (at 35[latex]^{\\circ}[/latex]C, 75% relative humidity and standard atmospheric pressure), the amount of moisture in kg per kg of dry air will be approximately",
+      "topic": "Properties of Moist Air",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Air gets cooled and humidified"
+        },
+        {
+          "id": "B",
+          "text": "Air gets heated and humidified"
+        },
+        {
+          "id": "C",
+          "text": "Air gets heated and dehumidified"
+        },
+        {
+          "id": "D",
+          "text": "Air gets cooled and dehumidified"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Water at 42[latex]^{\\circ}[/latex] is sprayed into a stream of air at atmospheric pressure, dry bulb temperature of 40[latex]^{\\circ}[/latex]C and a wet bulb temperature of 20[latex]^{\\circ}[/latex]C. The air leaving the spray humidifier is not saturated. Which of the following statements is true?",
+      "topic": "Psychrometric Process",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "strength of the metal decreases but ductility increases"
+        },
+        {
+          "id": "B",
+          "text": "both strength and ductility of the metal decrease"
+        },
+        {
+          "id": "C",
+          "text": "both strength and ductility of the metal increase"
+        },
+        {
+          "id": "D",
+          "text": "strength of the metal increases but ductility decreases"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "When the temperature of a solid metal increases.",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "decreases with increase in gap between the two joining surfaces"
+        },
+        {
+          "id": "B",
+          "text": "increases with increase in gap between the two joining surfaces"
+        },
+        {
+          "id": "C",
+          "text": "decreases up to certain gap between the two joining surfaces beyond which it increases"
+        },
+        {
+          "id": "D",
+          "text": "increases up to certain gap between the two joining surfaces beyond which it decreases"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The strength of a brazed joint",
+      "topic": "Joining-Welding",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "greater than the upper limit of the hole"
+        },
+        {
+          "id": "B",
+          "text": "lesser than the upper limit of the hole"
+        },
+        {
+          "id": "C",
+          "text": "greater than the lower limit of the hole"
+        },
+        {
+          "id": "D",
+          "text": "lesser than the lower limit of the hole"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In order to have interfernce fit, it is essential that the lower limit of the shaft should be",
+      "topic": "Metrology and Inspection",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "When 3-2-1 principle in used to support and locate a three dimensional workpiece during machining, the number of degrees of freedom that are restricted is",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\square[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "A"
+        },
+        {
+          "id": "C",
+          "text": "D"
+        },
+        {
+          "id": "D",
+          "text": "O"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An assembly activity is represented on an Operation Process Chart by the symbol",
+      "topic": "PERT and CPM",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{7}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{5}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2}{7}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{2}{5}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The sales of a product during the last four years were 860, 880, 870 and 890 units. The forecast for the fourth year was 876 units. If the forecast for the fifth year, using simple exponential smoothing, is equal to the forecast using a three period moving average, the value of the exponential smoothing constant [latex]\\alpha[/latex] is",
+      "topic": "Production Planning and Control",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{11}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{10}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{9}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider a single server queuing model with Poisson arrivals [latex](\\lambda =4/hour)[/latex]\r\n and exponential service [latex](\\mu =4/hour)[/latex]\r. The number in the system is restricted to a maximum of 10. The probability that a person who comes in leaves without joining the queue is",
+      "topic": "Queuing Theory and Transportation",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} 1\\\\ -2\\\\ 0\\\\ 0 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} 0\\\\ 0\\\\ 1\\\\ 0 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} 1\\\\ 0\\\\ 0\\\\ -2 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 1\\\\ -1\\\\ 2\\\\ 1 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the following is an eigen vector of the matrix [latex]\\begin{bmatrix} 5 & 0 & 0 & 0\\\\ 0 & 5 & 0 & 0\\\\ 0 & 0 & 2 & 1\\\\ 0 & 0 & 3 & 1 \\end{bmatrix}[/latex]\n?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "zero"
+        },
+        {
+          "id": "B",
+          "text": "2 units"
+        },
+        {
+          "id": "C",
+          "text": "50 units"
+        },
+        {
+          "id": "D",
+          "text": "100 units"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "With a 1 unit change in b, what is the change in x in the solution of the system of equations [latex]x+y=2,  \\; \\; 1.01x+0.99y=b ?[/latex]",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2\\frac{v}{u}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "2uv"
+        },
+        {
+          "id": "C",
+          "text": "[latex]v^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "By a change of variables x(u,v)=uv, [latex]y(u,v)=\\frac{v}{u}[/latex]\r\n  in a double integral, the integrand  f(x,y) changes to [latex] f( uv,\\frac{v}{u})\\phi (u,v)[/latex]. Then [latex]\\phi (u,v)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{3}m[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2}{3}m[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2\\sqrt{2}}{3}m[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{4}{3}m[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The right circular cone of largest volume that can be enclosed by a sphere of 1 m radius has a height of",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "e"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{e}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{e^{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If [latex]x^{2}\\frac{\\mathrm{d} y}{\\mathrm{d} x}+2xy=\\frac{2ln x}{x}[/latex], and [latex]y(1)=0[/latex], \n and  then what is y(e)?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is 1"
+        },
+        {
+          "id": "B",
+          "text": "is zero"
+        },
+        {
+          "id": "C",
+          "text": "is -1"
+        },
+        {
+          "id": "D",
+          "text": "cannot be determined without specifying the path"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The line integral [latex]\\int \\bar{V} d\\bar{r}[/latex]\r\n of the vector function [latex] \\bar{V} (\\bar{r})=2xyz\\hat{i}+x^{2}z\\hat{j}+x^{2}y\\hat{k}[/latex]\r\n from the \r\norigin to the point P(1,1,1)",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x_{1}=0.5[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x_{1}=1.406[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x_{1}=1.5[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x_{1}=2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Starting from [latex]x_{0}=1[/latex], one step of Newton-Raphson method in solving the equation [latex]x^{3}+3x-7=0[/latex]\n gives the next value ([latex]x_{1}[/latex]\n) as",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{9}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{5}{36}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{3}{4}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A single die is thrown twice. What is the probability that the sum is neither 8 or 9?",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "zero"
+        },
+        {
+          "id": "B",
+          "text": "11.77 N"
+        },
+        {
+          "id": "C",
+          "text": "5.74 N"
+        },
+        {
+          "id": "D",
+          "text": "8.83 N"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Two books of mass 1 kg each are kept on a table, one over the other. The coefficient of friction on every pair of contacting surfaces is 0.3. The lower book is pulled with a horizontal force F. The minimum value of F for which slip occurs between the two books is",
+      "topic": "Friction",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.60 m/s"
+        },
+        {
+          "id": "B",
+          "text": "1.20 m/s"
+        },
+        {
+          "id": "C",
+          "text": "1.68 m/s"
+        },
+        {
+          "id": "D",
+          "text": "2.40 m/s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a cam-follower mechanism, the follower needs to rise through 20 mm during 60[latex]^{\\circ}[/latex] of cam rotation, the first 30[latex]^{\\circ}[/latex] with a constant acceleration and then with a deceleration of the same magnitude. The initial and final speeds of the follower are zero. The cam rotates at a uniform speed of 300 rpm. The maximum speed of the follower is",
+      "topic": "Theory of Machine",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "50 mm"
+        },
+        {
+          "id": "B",
+          "text": "120 mm"
+        },
+        {
+          "id": "C",
+          "text": "150 mm"
+        },
+        {
+          "id": "D",
+          "text": "280 mm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A rotating disc of 1 m diameter has two eccentric masses of 0.5 kg each at radii of 50 mm and 60 mm at angular positions of 0[latex]^{\\circ}[/latex] and 150[latex]^{\\circ}[/latex], respectively. A balancing mass of 0.1 kg is to be used to balance the rotor. What is the radial position of the balancing mass?",
+      "topic": "Vibration",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305149",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.2 N.s/m"
+        },
+        {
+          "id": "B",
+          "text": "3.4 N.s/m"
+        },
+        {
+          "id": "C",
+          "text": "8.7 N.s/m"
+        },
+        {
+          "id": "D",
+          "text": "12.0 N.s/m"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a spring-mass system, the mass is 0.1 kg and the stiffness of the spring is 1 kN/m. By introducing a damper, the frequency of oscillation is found to be 90% of the original value. What is the damping coefficient of the damper?",
+      "topic": "Vibration",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305151",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]l_{o}= 220mm, k=1862 N/m[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]l_{o}= 210mm, k=1960 N/m[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]l_{o}= 210mm, k=2156 N/m[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]l_{o}= 220mm, k=2156 N/m[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A weighing machine consists of a 2 kg pan resting on a spring. In this condition, the pan resting on the spring, the length of the spring is 200 mm. When a mass of 20 kg is placed on the pan, the length of the spring becomes 100 mm. For the spring, the un-deformed length [latex]l_{o}[/latex]\n and the spring constant k (stiffiness) are",
+      "topic": "Springs",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305152",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2 m/s"
+        },
+        {
+          "id": "B",
+          "text": "1.0 m/s"
+        },
+        {
+          "id": "C",
+          "text": "1.4 m/s"
+        },
+        {
+          "id": "D",
+          "text": "2.0 m/s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A venturimeter of 20 mm throat diameter is used to measure the velocity of water in a horizontal pipe of 40 mm diameter. If the pressure difference between the pipe and throat sections is found to be 30 kPa then, neglecting frictional losses, the flow velocity is",
+      "topic": "Fluid Mechanics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305154",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A reversible thermodynamic cycle containing only three processes and producing work is to be constructed. The constraints are: (i) there must be one isothermal process, (ii) there must be one isentropic process, (iii) the maximum and minimum cycle pressures and the clearance volume are fixed, and (iv) polytropic processes are not allowed. Then the numbers of possible cycles are",
+      "topic": "Thermodynamic System and Processes",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "will be slightly less than 5 bar"
+        },
+        {
+          "id": "B",
+          "text": "will be slightly more than 5 bar"
+        },
+        {
+          "id": "C",
+          "text": "will be exactly 5 bar"
+        },
+        {
+          "id": "D",
+          "text": "cannot be ascertained in the absence of the value of a"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Nitrogen at an initial state of 10 bar, 1 [latex]m^{3}[/latex]\n and 300 K is expanded isothermally to a final volume of 2[latex]m^{3}[/latex]. The p-v-T relation is [latex]\\left ( p+\\frac{a}{v^{2}} \\right )v= RT[/latex]\n where a [latex]\\gt[/latex] 0. The final pressure",
+      "topic": "Thermodynamics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8.7"
+        },
+        {
+          "id": "B",
+          "text": "13.9"
+        },
+        {
+          "id": "C",
+          "text": "17.3"
+        },
+        {
+          "id": "D",
+          "text": "27.7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A small copper ball of 5 mm diameter at 500 K is dropped into an  oil bath whose temperature is 300 K. The thermal conductivity of copper is 400 W/m.K, its density 9000 [latex]kg/m^{3}[/latex]\n and its specific heat 385 J/kg.K. If the heat transfer coefficient is 250 [latex]W/m^{2}[/latex]. K and lumped analysis is assumed to be valid, the rate of fall of the temperature of the ball at the beginning of cooling will be, in K/s,",
+      "topic": "Heat Transfer",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.375"
+        },
+        {
+          "id": "B",
+          "text": "0.625"
+        },
+        {
+          "id": "C",
+          "text": "0.75"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A solid cylinder (surface 2) is located at the center of a hollow sphere (surface 1). The diameter of the sphere is 1m, while the cylinder has a diameter and length of 0.5m each. The radiation configuration factor F11 is",
+      "topic": "Radiation",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "parallel flow"
+        },
+        {
+          "id": "B",
+          "text": "double pipe"
+        },
+        {
+          "id": "C",
+          "text": "counter flow"
+        },
+        {
+          "id": "D",
+          "text": "cross flow"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Hot oil is cooled from 80 to 50[latex]^{\\circ}[/latex]C in an oil cooler which uses air as the coolant. The air temperature rises from 30 to 40[latex]^{\\circ}[/latex]C. the designer uses a LMTD value of 26[latex]^{\\circ}[/latex]C. the type of heat exchanger is",
+      "topic": "Heat Exchanger",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305164",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "48 m"
+        },
+        {
+          "id": "B",
+          "text": "64 m"
+        },
+        {
+          "id": "C",
+          "text": "120 m"
+        },
+        {
+          "id": "D",
+          "text": "142 m"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A leaf is caught in a whirlpool. At a given instant, the leaf is at a distance of 120 m from the center of the whirlpool. The whirlpool can be described by the following velocity distribution: [latex]V_{r}= - \\left ( \\frac{60 \\times 10^{3}}{2\\pi r} \\right )m/s[/latex]\nand [latex]V_{0}= \\frac{300 \\times 10^{3}}{2\\pi r} m/s[/latex],\n where r (in meters) is the distance from the center of the whirlpool. What will be the distance of the leaf from the center when it has moved through half a revolution?",
+      "topic": "Fluid Mechanics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305165",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4.05 s"
+        },
+        {
+          "id": "B",
+          "text": "5.05 s"
+        },
+        {
+          "id": "C",
+          "text": "6.05 s"
+        },
+        {
+          "id": "D",
+          "text": "7.25 s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A mould has a downsprue whose length is 20 cm and the cross sectional area at the base of the downsprue is 1 [latex]cm^2[/latex]. The downsprue feeds a horizontal runner leading into the mould cavity of volume 1000 [latex]cm^{3}[/latex]. The time required to fill the mould cavity will be",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305167",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1480 A"
+        },
+        {
+          "id": "B",
+          "text": "3300 A"
+        },
+        {
+          "id": "C",
+          "text": "4060 A"
+        },
+        {
+          "id": "D",
+          "text": "9400 A"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Spot welding of two 1 mm thick sheets of steel (density = 8000 [latex]kg/m^{3}[/latex]\r\n) is carried out successfully by passing a certain amount of current for 0.1 second through the electrodes. The resultant weld nugget formed is 5 mm in diameter and 1.5 mm thick. If the latent heat of fusion of steel is 1400 kJ/kg and the effective resistance in the welding operation is 200 [latex]\\mu \\Omega[/latex], the current passing through the electrodes is approximately",
+      "topic": "Joining-Welding",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305168",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8 minutes"
+        },
+        {
+          "id": "B",
+          "text": "12 minutes"
+        },
+        {
+          "id": "C",
+          "text": "16 minutes"
+        },
+        {
+          "id": "D",
+          "text": "20 minutes"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A 600 mm x 300 mm flat surface of a plate is to be finish machined on a shaper. The plate has been fixed with the 600 mm side along the tool travel direction. If the tool over-travel at each end of the plate is 20 mm, average cutting speed is 8 m/min, feed rate is 0.3 mm/stroke and the ratio of return time to cutting time of the tool is 1:2, the time required for machining will be",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305169",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "N010 G02 X10 Y10 X5 Y5 R5"
+        },
+        {
+          "id": "B",
+          "text": "N010 G03 X10 Y10 X5 Y5 R5"
+        },
+        {
+          "id": "C",
+          "text": "N010 G01 X5 Y5 X10 Y10 R5"
+        },
+        {
+          "id": "D",
+          "text": "N010 G02 X5 Y5 X10 Y10 R5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The tool of an NC machine has to move along a circular arc from (5,5) to (10,10) while performing an operation. The center of the arc is at (10,5). Which one of the following NC tool path commands performs the above mentioned operation?",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305170",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Process I"
+        },
+        {
+          "id": "B",
+          "text": "Process II"
+        },
+        {
+          "id": "C",
+          "text": "Process III"
+        },
+        {
+          "id": "D",
+          "text": "Process IV"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A component can be produced by any of the four processes I, II, III and IV. Process I has a fixed cost of Rs.20 and variable cost of Rs.3 per piece. Process II has a fixed cost of Rs.50 and variable cost of Re.1 per piece. Process III has a fixed cost of Rs.40 and variable cost of Rs.2 per piece. Process IV has a fixed cost of Rs.10 and variable cost of Rs.4 per piece. If the company wishes to produce 100 pieces of the component, from economic point of view it should choose",
+      "topic": "Linear Programming",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305171",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "45"
+        },
+        {
+          "id": "B",
+          "text": "50"
+        },
+        {
+          "id": "C",
+          "text": "55"
+        },
+        {
+          "id": "D",
+          "text": "60"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A welding operation is time-studied during which a operator was pace-rated as 120%. The operator took, on an average, 8 minutes for producing the weld-joint. If a total of 10% allowances are allowed for this operation, the expected standard production rate of the weld-joint (in units per 8 hour day) is",
+      "topic": "Production Planning and Control",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305173",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A project has six activities (A to F) with respective activity durations 7,5,6,6,8,4 days. The network has three paths A-B,C-D and E-F. All the activities can be crashed with the same crash cost per day. The number of activities that need to be crashed to reduce the project duration by 1 day is",
+      "topic": "PERT and CPM",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305174",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 4, 90"
+        },
+        {
+          "id": "B",
+          "text": "2, 4, 110"
+        },
+        {
+          "id": "C",
+          "text": "3, 4, 90"
+        },
+        {
+          "id": "D",
+          "text": "3, 4, 110"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A company has two factories S1, S2 and two warehouses D1, D2. the supplies from S1 and S2 are 50 and 40 units respectively. Warehouse D1 requires a minimum of 20 units and a maximum of 40 units. Warehouse D2 requires a minimum of 20 units and, over and above, it can take as much as can be supplied. A balanced transportation problem is to be formulated for the above situation. The number of supply points, the number of demand points, and the total supply (or total demand) in the balanced transportation problem respectively are",
+      "topic": "Linear Programming",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305175",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{\\tan 8^{\\circ}+ \\cot 15^{\\circ}}{\\tan 8^{\\circ}+\\cot 30^{\\circ}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\tan 15^{\\circ}+ \\cot 8^{\\circ}}{\\tan 30^{\\circ}+\\cot 8^{\\circ}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\tan 15^{\\circ}+ \\cot 7^{\\circ}}{\\tan 30^{\\circ}+\\cot 7^{\\circ}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\tan 7^{\\circ}+ \\cot 15^{\\circ}}{\\tan 7^{\\circ}+\\cot 30^{\\circ}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Two tools P and Q have signatures [latex]5^{\\circ}-5^{\\circ}-6^{\\circ}-8^{\\circ}-30^{\\circ}-0^{\\circ}[/latex]\n and [latex]5^{\\circ}-5^{\\circ}-7^{\\circ}-7^{\\circ}-8^{\\circ}-15^{\\circ}-0^{\\circ}[/latex]\n (both ASA) respectively. They are used to turn components under the same machining conditions. If [latex]h_{P}[/latex]\n and [latex]h_{Q}[/latex]\n denote the peakto-valley heights of surfaces produced by the tools P and Q, the ratio [latex]\\frac{h_{P}}{h_{Q}}[/latex]\n  will be",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305179",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\eta _{O} =0.25, \\eta _{B}=0.18[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\eta _{O} =0.5, \\eta _{B}=0.45[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\eta _{O} =\\eta _{B}=0.33[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "it is not possible to calculate the efficiencies unless the temperature after the expansion is given."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In two air standard cycles - one operating on the Otto and the other on the Brayton cycle - air is isentropically compressed from 300 to 450 K. heat is added to raise the temperature to 600 K in the Otto cycle and to 550 K in the Brayton cycle. If [latex]\\eta _{O}[/latex]\n and [latex]\\eta _{B}[/latex]\n are the efficiencies of the Otto and Brayton cycles, then",
+      "topic": "Power System",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305180",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]W_{O} \\gt W_{B}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]W_{O} \\lt W_{B}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]W_{O} = W_{B}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "it is not possible to calculate the work outputs unless the temperature after the expansion is given."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In two air standard cycles - one operating on the Otto and the other on the Brayton cycle - air is isentropically compressed from 300 to 450 K. heat is added to raise the temperature to 600 K in the Otto cycle and to 550 K in the Brayton cycle. If [latex]W_{O}[/latex]\n and [latex]W_{B}[/latex]\n are work outputs per unit mass, then",
+      "topic": "Power System",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305181",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "p = 3, q = 3"
+        },
+        {
+          "id": "B",
+          "text": "p = 3, q = 4"
+        },
+        {
+          "id": "C",
+          "text": "p = 4, q = 3"
+        },
+        {
+          "id": "D",
+          "text": "p = 4, q = 4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The complete solution for the ordinary differential equation [latex]\\frac{\\mathrm{d}^{2} y}{\\mathrm{d} x_{2}}+ p\\frac{\\mathrm{d} y}{\\mathrm{d} x}+qy = 0[/latex]\nis [latex]y= c_{1}e^{-x}+c_{2}e^{-3x}[/latex] Then, p and q are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305182",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{-3x}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]xe^{-x}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]xe^{-2x}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x^{2}e^{-2x}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The complete solution for the ordinary differential equation [latex]\\frac{\\mathrm{d}^{2} y}{\\mathrm{d} x_{2}}+ p\\frac{\\mathrm{d} y}{\\mathrm{d} x}+qy = 0[/latex]\nis [latex]y= c_{1}e^{-x}+c_{2}e^{-3x}[/latex] Which of the following is a solution of the differential equation [latex]\\frac{\\mathrm{d}^{2} y}{\\mathrm{d} x_{2}}+ p\\frac{\\mathrm{d} y}{\\mathrm{d} x}+(q+1)y = 0 ?[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305185",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left ( \\frac{5}{3} ,\\frac{5}{3} \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left ( \\frac{4}{3} ,\\frac{4}{3} \\right )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left ( \\frac{5}{2} ,\\frac{5}{2} \\right )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](5,0)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider a linear programming problem with two variables and two constraints. The objective function is: Maximize [latex]X_{1}+X_{2}[/latex]. The corner points of the feasible region are (0,0), (0,2), (2,0) and [latex]\\left ( \\frac{4}{3},\\frac{4}{3} \\right )[/latex] If an additional constraint [latex]X_{1}+X_{2}\\leq 5[/latex]\n is added, the optimal solution is",
+      "topic": "Linear Programming",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305186",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Y_{1}[/latex] and [latex]Y_{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Y_{1}[/latex] and [latex]v_{1}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]Y_{1}[/latex] and [latex]v_{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]v_{1}[/latex] and [latex]v_{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider a linear programming problem with two variables and two constraints. The objective function is: Maximize [latex]X_{1}+X_{2}[/latex]. The corner points of the feasible region are (0,0), (0,2), (2,0) and [latex]\\left ( \\frac{4}{3},\\frac{4}{3} \\right )[/latex] Let [latex]Y_{1}[/latex]\r\n and [latex]Y_{2}[/latex]\r\n be the decision variables of the dual and [latex]v_{1}[/latex]\r\n and [latex]v_{2}[/latex]\r\n be the slack variables of the dual of the given linear programming problem. The optimum dual variables are",
+      "topic": "Linear Programming",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305189",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "444"
+        },
+        {
+          "id": "B",
+          "text": "890"
+        },
+        {
+          "id": "C",
+          "text": "[latex]4.44 \\times 10^5[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]5.33 \\times 10^5[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An un-insulated air conditioning duct of rectangular cross section 1 m x 0.5 m, carrying air at 20[latex]^{\\circ}[/latex]C with a velocity of 10 m/s, is exposed to an ambient of 30[latex]^{\\circ}[/latex]C. Neglect the effect of duct construction material. For air in the range of 20-30[latex]^{\\circ}[/latex]C, data are as follows: thermal conductivity =0.025 W/m.K; viscosity = 18[latex]\\mu[/latex]Pa.s; Prandtl number =0.73; density = 1.2 [latex]kg/m^{3}[/latex]. The laminar flow Nusselt number is 3.4 for constant wall temperature conditions and, for turbulent flow, Nu=0.023  [latex]Re^{0.8}Pr^{0.33}[/latex] The Reynolds number for the flow is",
+      "topic": "Heat Transfer in Flow Over Plates and Pipes",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "1305190",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3.8"
+        },
+        {
+          "id": "B",
+          "text": "5.3"
+        },
+        {
+          "id": "C",
+          "text": "89"
+        },
+        {
+          "id": "D",
+          "text": "769"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An un-insulated air conditioning duct of rectangular cross section 1 m x 0.5 m, carrying air at 20[latex]^{\\circ}[/latex]C with a velocity of 10 m/s, is exposed to an ambient of 30[latex]^{\\circ}[/latex]C. Neglect the effect of duct construction material. For air in the range of 20-30[latex]^{\\circ}[/latex]C, data are as follows: thermal conductivity =0.025 W/m.K; viscosity = 18[latex]\\mu[/latex]Pa.s; Prandtl number =0.73; density = 1.2 [latex]kg/m^{3}[/latex]\n. The laminar flow Nusselt number is 3.4 for constant wall temperature conditions and, for turbulent flow, Nu=0.023  [latex]Re^{0.8}Pr^{0.33}[/latex] The heat transfer per metre length of the duct, in watts, is:",
+      "topic": "Heat Transfer in Flow Over Plates and Pipes",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10510113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a line integral and a surface integral"
+        },
+        {
+          "id": "B",
+          "text": "a surface integral and a volume integral"
+        },
+        {
+          "id": "C",
+          "text": "a line integral and a volume integral"
+        },
+        {
+          "id": "D",
+          "text": "gradient of a function and its surface integral"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Strokes theorem connects",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10510213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0036"
+        },
+        {
+          "id": "B",
+          "text": "0.1937"
+        },
+        {
+          "id": "C",
+          "text": "0.2234"
+        },
+        {
+          "id": "D",
+          "text": "0.3874"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A lot has 10% defective items. Ten items are chosen randomly from this lot. The probability that exactly 2 of the chosen items are defective is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10510313",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2\\int_{0}^{a}(\\sin ^{6} x)dx[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2\\int_{0}^{a}(\\sin ^{7} x)dx[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2\\int_{0}^{a}(\\sin ^{6} x + \\sin ^{7} x)dx[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "[latex]\\int_{-a}^{a}(\\sin ^{6} x + \\sin ^{7} x)dx[/latex]\n is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10510413",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A is a 3 x 4 real matrix and Ax=b is an inconsistent system of equations. The highest possible rank of A is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10510513",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4y"
+        },
+        {
+          "id": "B",
+          "text": "[latex]16y^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "x"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Changing the order of the integration in the double integral [latex]I=\\int_{0}^{8}\\int_{\\frac{x}{4}}^{2}f(x,y)dydx[/latex]\nleads to [latex]I=\\int_{r}^{s}\\int_{p}^{q}f(x,y)dxdy[/latex]. What is q?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10513113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} 1\\\\ -2\\\\ 0\\\\ 0 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} 0\\\\ 0\\\\ 1\\\\ 0 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} 1\\\\ 0\\\\ 0\\\\ -2 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 1\\\\ -1\\\\ 2\\\\ 1 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the following is an eigen vector of the matrix [latex]\\begin{bmatrix} 5 & 0 & 0 & 0\\\\ 0 & 5 & 0 & 0\\\\ 0 & 0 & 2 & 1\\\\ 0 & 0 & 3 & 1 \\end{bmatrix}[/latex]\n?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10513213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "zero"
+        },
+        {
+          "id": "B",
+          "text": "2 units"
+        },
+        {
+          "id": "C",
+          "text": "50 units"
+        },
+        {
+          "id": "D",
+          "text": "100 units"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "With a 1 unit change in b, what is the change in x in the solution of the system of equations [latex]x+y=2,  \\; \\; 1.01x+0.99y=b ?[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10513313",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2\\frac{v}{u}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "2uv"
+        },
+        {
+          "id": "C",
+          "text": "[latex]v^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "By a change of variables x(u,v)=uv, [latex]y(u,v)=\\frac{v}{u}[/latex]\r\n  in a double integral, the integrand  f(x,y) changes to [latex] f( uv,\\frac{v}{u})\\phi (u,v)[/latex]. Then [latex]\\phi (u,v)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10513413",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{3}m[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2}{3}m[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2\\sqrt{2}}{3}m[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{4}{3}m[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The right circular cone of largest volume that can be enclosed by a sphere of 1 m radius has a height of",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10513513",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "e"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{e}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{e^{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If [latex]x^{2}\\frac{\\mathrm{d} y}{\\mathrm{d} x}+2xy=\\frac{2ln x}{x}[/latex], and [latex]y(1)=0[/latex], \n and  then what is y(e)?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10513613",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is 1"
+        },
+        {
+          "id": "B",
+          "text": "is zero"
+        },
+        {
+          "id": "C",
+          "text": "is -1"
+        },
+        {
+          "id": "D",
+          "text": "cannot be determined without specifying the path"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The line integral [latex]\\int \\bar{V} d\\bar{r}[/latex]\r\n of the vector function [latex] \\bar{V} (\\bar{r})=2xyz\\hat{i}+x^{2}z\\hat{j}+x^{2}y\\hat{k}[/latex]\r\n from the \r\norigin to the point P(1,1,1)",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10513713",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x_{1}=0.5[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x_{1}=1.406[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x_{1}=1.5[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x_{1}=2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Starting from [latex]x_{0}=1[/latex], one step of Newton-Raphson method in solving the equation [latex]x^{3}+3x-7=0[/latex]\n gives the next value ([latex]x_{1}[/latex]\n) as",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10513813",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{9}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{5}{36}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{3}{4}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A single die is thrown twice. What is the probability that the sum is neither 8 or 9?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10518113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "p = 3, q = 3"
+        },
+        {
+          "id": "B",
+          "text": "p = 3, q = 4"
+        },
+        {
+          "id": "C",
+          "text": "p = 4, q = 3"
+        },
+        {
+          "id": "D",
+          "text": "p = 4, q = 4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The complete solution for the ordinary differential equation [latex]\\frac{\\mathrm{d}^{2} y}{\\mathrm{d} x_{2}}+ p\\frac{\\mathrm{d} y}{\\mathrm{d} x}+qy = 0[/latex]\nis [latex]y= c_{1}e^{-x}+c_{2}e^{-3x}[/latex] Then, p and q are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "ME",
+      "id": "10518213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{-3x}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]xe^{-x}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]xe^{-2x}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x^{2}e^{-2x}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The complete solution for the ordinary differential equation [latex]\\frac{\\mathrm{d}^{2} y}{\\mathrm{d} x_{2}}+ p\\frac{\\mathrm{d} y}{\\mathrm{d} x}+qy = 0[/latex]\nis [latex]y= c_{1}e^{-x}+c_{2}e^{-3x}[/latex] Which of the following is a solution of the differential equation [latex]\\frac{\\mathrm{d}^{2} y}{\\mathrm{d} x_{2}}+ p\\frac{\\mathrm{d} y}{\\mathrm{d} x}+(q+1)y = 0 ?[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    }
+  ],
+  "schema_version": 1
+}

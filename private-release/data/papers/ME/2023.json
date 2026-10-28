@@ -1,0 +1,886 @@
+{
+  "questions": [
+    {
+      "branch": "ME",
+      "id": "1323101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3 and 3, respectively"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{3}[/latex] and [latex]\\sqrt{3}[/latex]  , respectively"
+        },
+        {
+          "id": "C",
+          "text": "0.015 and 0.015, respectively"
+        },
+        {
+          "id": "D",
+          "text": "3 and 9, respectively"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A machine produces a defective component with a probability of 0.015. The\nnumber of defective components in a packed box containing 200 components\nproduced by the machine follows a Poisson distribution. The mean and the\nvariance of the distribution are",
+      "topic": "Production Planning and Control",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\tau _{w}/2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{2}\\tau _{w}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2\\tau _{w}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\tau _{w}/ \\sqrt{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Air (density = [latex] =1.2kg/m^3[/latex], kinematic viscosity [latex] =1.5 \\times 10^{-5} m^2/s[/latex]) flows over a flat\nplate with a free-stream velocity of [latex]2 m/s[/latex]. The wall shear stress at a location\n[latex]15 mm[/latex] from the leading edge is [latex] \\tau _w[/latex]. What is the wall shear stress at a location\n[latex]30 mm[/latex] from the leading edge?",
+      "topic": "Fluid Mechanics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "neither the Reynolds number nor the Prandtl number"
+        },
+        {
+          "id": "B",
+          "text": "both the Reynolds and Prandtl numbers"
+        },
+        {
+          "id": "C",
+          "text": "the Reynolds number but not the Prandtl number"
+        },
+        {
+          "id": "D",
+          "text": "the Prandtl number but not the Reynolds number"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider incompressible laminar flow of a constant property Newtonian fluid in\nan isothermal circular tube. The flow is steady with fully-developed temperature\nand velocity profiles. The Nusselt number for this flow depends on",
+      "topic": "Heat Transfer in Flow Over Plates and Pipes",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Q_H=2000J, Q_L=500J, W=1000J[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Q_H=2000J, Q_L=750J, W=1250J[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]Q_H=6000J, Q_L=500J, W=5500J[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]Q_H=6000J, Q_L=600J, W=5500J[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A heat engine extracts heat [latex] (Q_H)[/latex] from a thermal reservoir at a temperature of\n[latex]1000 K[/latex] and rejects heat [latex] (Q_L)[/latex] to a thermal reservoir at a temperature of [latex]100 K[/latex],\nwhile producing work [latex] (W)[/latex]. Which one of the combinations of [latex] (Q_H,Q_L,W)[/latex] given is allowed?",
+      "topic": "Thermodynamics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Arc welding"
+        },
+        {
+          "id": "B",
+          "text": "Brazing"
+        },
+        {
+          "id": "C",
+          "text": "Adhesive bonding"
+        },
+        {
+          "id": "D",
+          "text": "Spot welding"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Two surfaces P and Q are to be joined together. In which of the given joining\noperation(s), there is no melting of the two surfaces P and Q for creating the joint?",
+      "topic": "Joining-Welding",
+      "type": "MSQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Mould walls indicate boundaries within which the molten part material is allowed,\nwhile pattern walls indicate boundaries of regions where mould material is not\nallowed."
+        },
+        {
+          "id": "B",
+          "text": "Moulds can be used to make patterns."
+        },
+        {
+          "id": "C",
+          "text": "Pattern walls indicate boundaries within which the molten part material is\nallowed, while mould walls indicate boundaries of regions where mould material\nis not allowed."
+        },
+        {
+          "id": "D",
+          "text": "Patterns can be used to make moulds."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a metal casting process to manufacture parts, both patterns and moulds provide\nshape by dictating where the material should or should not go. Which of the\noption(s) given correctly describe(s) the mould and the pattern?",
+      "topic": "Manufacturing Engineering",
+      "type": "MSQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Maximum normal stress theory predicts that the material fails"
+        },
+        {
+          "id": "B",
+          "text": "Maximum shear stress theory predicts that the material fails"
+        },
+        {
+          "id": "C",
+          "text": "Maximum normal stress theory predicts that the material does not fail"
+        },
+        {
+          "id": "D",
+          "text": "Maximum shear stress theory predicts that the material does not fail"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The principal stresses at a point P in a solid are 70 MPa, -70 MPa and 0. The\nyield stress of the material is 100 MPa. Which prediction(s) about material failure\nat P is/are CORRECT?",
+      "topic": "Stress and Strain",
+      "type": "MSQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A linear transformation maps a point [latex] (x,y)[/latex] in the plane to the point [latex] (\\hat{x},\\hat{y})[/latex] according to the rule [latex] \\hat{x}=3y,\\hat{y}=2x[/latex] Then, the disc [latex] x^2+y^2 \\leq 1[/latex] gets transformed to a region with an area equal to\n_________ . (Rounded off to two decimals) Take [latex]\\pi =3.14[/latex].",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The value of [latex]k[/latex] that makes the complex-valued function [latex] f(z)=e^{-kx}(\\cos 2y -i \\sin 2y)[/latex] analytic, where [latex]z=x+iy[/latex], is _________.\n(Answer in integer)",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider a counter-flow heat exchanger with the inlet temperatures of two fluids\n(1 and 2) being [latex] T_{1,in}=300K[/latex] and [latex] T_{2,in}=350K[/latex]. The heat capacity rates of the\ntwo fluids are [latex] C_1=1000 W/K[/latex] and  [latex] C_2=400 W/K[/latex], and the effectiveness of the\nheat exchanger is 0.5. The actual heat transfer rate is _____ kW. (Answer in integer)",
+      "topic": "Heat Exchanger",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left ( -1+\\frac{1}{2}e^{-t}+\\frac{1}{2}e^{t} \\right )u(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left (\\frac{1}{3}e^{-t}-e^{t} \\right )u(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left ( -1+\\frac{1}{2}e^{-(t-1)}+\\frac{1}{2}e^{(t-1)} \\right )u(t-1)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left ( -1+\\frac{1}{2}e^{-(t-1)}+\\frac{1}{2}e^{(t-1)} \\right )u(t-1)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the options given is the inverse Laplace transform of [latex] \\frac{1}{s^3-s}[/latex] [latex] u(t)[/latex]denotes the unit-step function.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "For an ideal gas, the enthalpy is independent of pressure."
+        },
+        {
+          "id": "B",
+          "text": "For a real gas going through an adiabatic reversible process, the process equation is given by [latex]PV^\\gamma =[/latex] constant, where [latex]P[/latex] is the pressure, [latex]V[/latex] is the volume and [latex]\\gamma [/latex] is the ratio of the specific heats\nof the gas at constant pressure and constant volume."
+        },
+        {
+          "id": "C",
+          "text": "For an ideal gas undergoing a reversible polytropic process [latex]PV^{1.5} =[/latex] constant, the equation\nconnecting the pressure, volume and temperature of the gas at any point along the process is [latex]\\frac{P}{R}=\\frac{mT}{V}[/latex]  where [latex]R[/latex] is the gas constant and  [latex]m[/latex] is the mass of the gas."
+        },
+        {
+          "id": "D",
+          "text": "Any real gas behaves as an ideal gas at sufficiently low pressure or sufficiently high\ntemperature."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the following statements is FALSE?",
+      "topic": "Thermodynamic System and Processes",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{(\\pi d h+\\pi d^2/2)}{6L^2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1-\\frac{(\\pi d h+\\pi d^2/2)}{6L^2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A cylindrical rod of length [latex]h [/latex] and diameter [latex]d [/latex] is placed inside a cubic enclosure of\nside length [latex]L [/latex].  [latex]S [/latex]denotes the inner surface of the cube. The view-factor [latex]F_{S-S} [/latex] is",
+      "topic": "Radiation",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323138",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The smallest perimeter that a rectangle with area of 4 square units can have is\n______ units.\n(Answer in integer)",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323139",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider the second-order linear ordinary differential equation [latex]x^2\\frac{d^2y}{dx^2}+x\\frac{dy}{dx}-y=0,\\;\\; x \\geq 1[/latex] with the initial conditions [latex]y(x=1)=6,\\;\\;\\left.\\begin{matrix}\r\n\\frac{dy}{dx}\r\n\\end{matrix}\\right|_{x=1}=2[/latex] The value of [latex]y[/latex] at [latex]x=2[/latex]   equals _________. (Answer in integer)",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323140",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The initial value problem [latex]\\frac{dy}{dt} +2y=0,\\;\\;y(0)=1[/latex] is solved numerically using the forward Euler's method with a constant and\npositive time step of [latex]\\Delta t[/latex]. Let [latex]y_n[/latex] represent the numerical solution obtained after [latex]n[/latex] steps. The condition [latex]|y_{n+1}| \\leq |y_n|[/latex] is satisfied if and only if [latex]\\Delta t[/latex] does not exceed _____. (Answer in integer)",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323141",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The atomic radius of a hypothetical face-centered cubic (FCC) metal is [latex](\\sqrt{2}/10)[/latex] nm. The atomic weight of the metal is 24.092 g/mol. Taking\nAvogadros number to be [latex]6.023 \\times 10^{23}[/latex]  atoms/mol, the density of the metal is\n_______ [latex]kg/m^3[/latex]. (Answer in integer)",
+      "topic": "Manufacturing Engineering",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323147",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Ignoring the small elastic region, the true stress  [latex](\\sigma) -  [/latex] true strain [latex]( \\varepsilon)  [/latex] variation of a\nmaterial beyond yielding follows the equation [latex]\\sigma =400 \\varepsilon ^{0.3}  [/latex] MPa. The engineering\nultimate tensile strength value of this material is ________ MPa.\n(Rounded off to one decimal place)",
+      "topic": "Stress and Strain",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A cylindrical transmission shaft of length 1.5 m and diameter 100 mm is made\nof a linear elastic material with a shear modulus of 80 GPa. While operating at\n500 rpm, the angle of twist across its length is found to be 0.5 degrees. The power transmitted by the shaft at this speed is _______kW. (Rounded off to\ntwo decimal places) Take [latex]\\pi= 3.14[/latex].",
+      "topic": "Torsion of Shafts",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider a mixture of two ideal gases, X and Y, with molar masses [latex]\\bar{M}_X=10kg/kmol [/latex] and [latex]\\bar{M}_Y=20kg/kmol [/latex], respectively, in a container. The total\npressure in the container is 100 kPa, the total volume of the container is [latex]10m^3 [/latex]\nand the temperature of the contents of the container is 300 K. If the mass of\ngas-X in the container is 2 kg, then the mass of gas-Y in the container\nis ____ kg. (Rounded off to one decimal place) Assume that the universal gas constant is 8314 [latex]J \\;kmol^{-1}K^{-1}[/latex]",
+      "topic": "Thermodynamic System and Processes",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The velocity field of a certain two-dimensional flow is given by [latex]V(x,y)=k(x\\hat{i}-y\\hat{j}) [/latex] where [latex]k=2s^{-1}[/latex]. The coordinates [latex]x[/latex] and [latex]y[/latex] are in meters. Assume gravitational\neffects to be negligible. If the density of the fluid is [latex]1000kg/m^3[/latex]\nand the pressure at the origin is 100 kPa,\nthe pressure at the location (2 m, 2 m) is _____________ kPa.\n(Answer in integer)",
+      "topic": "Fluid Mechanics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider a unidirectional fluid flow with the velocity field given by [latex]V(x,y,z,t)=u(x,t)\\hat{i}[/latex] where [latex]u(0,t)=1[/latex]. If the spatially homogeneous density field varies with time [latex]t[/latex] as [latex]\\rho (t)=1+0.2e^{-t}[/latex] the value of [latex]u(2,1)[/latex] is _______. (Rounded off to two decimal places) Assume all quantities to be dimensionless.",
+      "topic": "Fluid Mechanics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "got it fixed"
+        },
+        {
+          "id": "B",
+          "text": "getting it fixed"
+        },
+        {
+          "id": "C",
+          "text": "gets fixed"
+        },
+        {
+          "id": "D",
+          "text": "got fixed"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "He did not manage to fix the car himself, so he _______ in the garage.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Child"
+        },
+        {
+          "id": "B",
+          "text": "Temperature"
+        },
+        {
+          "id": "C",
+          "text": "Height"
+        },
+        {
+          "id": "D",
+          "text": "Lift"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Planting : Seed : : Raising : _____ (By word meaning)",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "30"
+        },
+        {
+          "id": "B",
+          "text": "15"
+        },
+        {
+          "id": "C",
+          "text": "29"
+        },
+        {
+          "id": "D",
+          "text": "31"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The minute-hand and second-hand of a clock cross each other _______ times\nbetween 09:15:00 AM and 09:45:00 AM on a day.",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "All of Ravi's friends are hardworking and kind."
+        },
+        {
+          "id": "B",
+          "text": "No one who is not a friend of Ravi is hardworking and kind."
+        },
+        {
+          "id": "C",
+          "text": "None of Ravi's friends are interested in sports."
+        },
+        {
+          "id": "D",
+          "text": "Some of Ravi's friends are hardworking and kind."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a recently held parent-teacher meeting, the teachers had very few complaints\nabout Ravi. After all, Ravi was a hardworking and kind student. Incidentally, almost\nall of Ravi's friends at school were hardworking and kind too. But the teachers drew\nattention to Ravi's complete lack of interest in sports. The teachers believed that,\nalong with some of his friends who showed similar disinterest in sports, Ravi needed\nto engage in some sports for his overall development. Based only on the information provided above, which one of the following\nstatements can be logically inferred with certainty?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323162",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider the following inequalities [latex] p^2-4q \\lt 4[/latex] [latex]3p+2q \\lt 6[/latex] where [latex] p[/latex] and [latex] q[/latex] are positive integers. The value of [latex] (p+q)[/latex] is _______.",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "(iv), (i), (iii), (ii)"
+        },
+        {
+          "id": "B",
+          "text": "(iii), (i), (ii), (iv)"
+        },
+        {
+          "id": "C",
+          "text": "(ii), (i), (iv), (iii)"
+        },
+        {
+          "id": "D",
+          "text": "(i), (iii), (ii), (iv)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the sentence sequences in the given options creates a coherent\nnarrative? (i) I could not bring myself to knock. (ii) There was a murmur of unfamiliar voices coming from the big drawing\nroom and the door was firmly shut. (iii) The passage was dark for a bit, but then it suddenly opened into a bright\nkitchen. (iv) I decided I would rather wander down the passage.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "1323164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "729"
+        },
+        {
+          "id": "B",
+          "text": "728"
+        },
+        {
+          "id": "C",
+          "text": "665"
+        },
+        {
+          "id": "D",
+          "text": "664"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "How many pairs of sets (S,T) are possible among the subsets of {1, 2, 3, 4, 5, 6}\nthat satisfy the condition that S is a subset of T?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "12312213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "18.84"
+        },
+        {
+          "id": "B",
+          "text": "22.25"
+        },
+        {
+          "id": "C",
+          "text": "62.15"
+        },
+        {
+          "id": "D",
+          "text": "45.25"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A linear transformation maps a point [latex] (x,y)[/latex] in the plane to the point [latex] (\\hat{x},\\hat{y})[/latex] according to the rule [latex] \\hat{x}=3y,\\hat{y}=2x[/latex] Then, the disc [latex] x^2+y^2 \\leq 1[/latex] gets transformed to a region with an area equal to\n_________ . (Rounded off to two decimals) Take [latex]\\pi =3.14[/latex].",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "12312313",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The value of [latex]k[/latex] that makes the complex-valued function [latex] f(z)=e^{-kx}(\\cos 2y -i \\sin 2y)[/latex] analytic, where [latex]z=x+iy[/latex], is _________.\n(Answer in integer)",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "12312613",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left ( -1+\\frac{1}{2}e^{-t}+\\frac{1}{2}e^{t} \\right )u(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left (\\frac{1}{3}e^{-t}-e^{t} \\right )u(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left ( -1+\\frac{1}{2}e^{-(t-1)}+\\frac{1}{2}e^{(t-1)} \\right )u(t-1)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left ( -1+\\frac{1}{2}e^{-(t-1)}+\\frac{1}{2}e^{(t-1)} \\right )u(t-1)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the options given is the inverse Laplace transform of [latex] \\frac{1}{s^3-s}[/latex] [latex] u(t)[/latex]denotes the unit-step function.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "12313813",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The smallest perimeter that a rectangle with area of 4 square units can have is\n______ units.\n(Answer in integer)",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "12313913",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "9"
+        },
+        {
+          "id": "C",
+          "text": "13"
+        },
+        {
+          "id": "D",
+          "text": "17"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider the second-order linear ordinary differential equation [latex]x^2\\frac{d^2y}{dx^2}+x\\frac{dy}{dx}-y=0,\\;\\; x \\geq 1[/latex] with the initial conditions [latex]y(x=1)=6,\\;\\;\\left.\\begin{matrix}\r\n\\frac{dy}{dx}\r\n\\end{matrix}\\right|_{x=1}=2[/latex] The value of [latex]y[/latex] at [latex]x=2[/latex]   equals _________. (Answer in integer)",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "ME",
+      "id": "12314013",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The initial value problem [latex]\\frac{dy}{dt} +2y=0,\\;\\;y(0)=1[/latex] is solved numerically using the forward Euler's method with a constant and\npositive time step of [latex]\\Delta t[/latex]. Let [latex]y_n[/latex] represent the numerical solution obtained after [latex]n[/latex] steps. The condition [latex]|y_{n+1}| \\leq |y_n|[/latex] is satisfied if and only if [latex]\\Delta t[/latex] does not exceed _____. (Answer in integer)",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    }
+  ],
+  "schema_version": 1
+}

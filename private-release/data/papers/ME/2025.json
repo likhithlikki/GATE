@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "branch": "ME",
+      "id": "1325101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]A^{T}=A^{-1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]AB=BA[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](AB)^{T}=B^{T}A^{T}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]A=A^{-1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let [latex]A[/latex] and [latex]B[/latex] be real symmetric matrices of same size. Which one of the following options is correct?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]u=e^{x+y}[/latex] is a solution for all [latex]x[/latex] and [latex]y[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]u=e^{x}\\sin y[/latex] is a solution for all [latex]x[/latex] and [latex]y[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]u=\\sin x \\sin y[/latex] is a solution for all [latex]x[/latex] and [latex]y[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]u=\\cos x \\cos y[/latex] is a solution for all [latex]x[/latex] and [latex]y[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For the differential equation given below, which one of the following options is correct? [latex] \\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} = 0 [/latex]  [latex]\\;\\;\\; 0 \\leq x \\leq 1, 0 \\leq y \\leq 1 [/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the magnitude of this vector field"
+        },
+        {
+          "id": "B",
+          "text": "the argument of this vector field"
+        },
+        {
+          "id": "C",
+          "text": "the magnitude of the curl of this vector field"
+        },
+        {
+          "id": "D",
+          "text": "zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The divergence of the curl of a vector field is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.25"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "0.675"
+        },
+        {
+          "id": "D",
+          "text": "0.75"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If two unbiased coins are tossed, then what is the probability of having at least one head?",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "100"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a laboratory experiment using a scaled down model to measure scour at a bridge pier, the Froude number is important. The ratio of the prototype length to the model length is 100. If the velocity of the model is 1 [latex]ms^{-1}[/latex], the velocity (in [latex]ms^{-1}[/latex]) of the prototype is",
+      "topic": "Fluid Mechanics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "wet-bulb temperature"
+        },
+        {
+          "id": "B",
+          "text": "specific humidity"
+        },
+        {
+          "id": "C",
+          "text": "relative humidity"
+        },
+        {
+          "id": "D",
+          "text": "enthalpy"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a psychrometric chart, one axis represents dry-bulb temperature. The axis, that is perpendicular to the dry-bulb temperature axis, represents",
+      "topic": "Psychrometric Process",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "carburizing"
+        },
+        {
+          "id": "B",
+          "text": "cyaniding"
+        },
+        {
+          "id": "C",
+          "text": "nitriding"
+        },
+        {
+          "id": "D",
+          "text": "carbonitriding"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Among the following surface hardening processes, steel is heated to the lowest temperature in",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "gas welding"
+        },
+        {
+          "id": "B",
+          "text": "laser welding"
+        },
+        {
+          "id": "C",
+          "text": "arc welding"
+        },
+        {
+          "id": "D",
+          "text": "friction welding"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The welding process commonly used for fabricating tailor-welded blanks of dissimilar thickness for automotive applications is",
+      "topic": "Joining-Welding",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "115.5"
+        },
+        {
+          "id": "B",
+          "text": "100"
+        },
+        {
+          "id": "C",
+          "text": "66.7"
+        },
+        {
+          "id": "D",
+          "text": "141.4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The yield stress of a metal in uniaxial tension is 200 MPa. According to von Mises yield criterion, the yield stress (in MPa) of the metal in pure shear is closest to",
+      "topic": "Stress and Strain",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "boundary representation (B-rep)"
+        },
+        {
+          "id": "B",
+          "text": "Bezier curves"
+        },
+        {
+          "id": "C",
+          "text": "B-splines"
+        },
+        {
+          "id": "D",
+          "text": "nonuniform rational B-splines (NURBS)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In computer aided design (CAD), solid models can be constructed using",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "electric discharge machining"
+        },
+        {
+          "id": "B",
+          "text": "ultrasonic machining"
+        },
+        {
+          "id": "C",
+          "text": "electrochemical machining"
+        },
+        {
+          "id": "D",
+          "text": "transferred arc plasma machining"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Ceramics and glass are machined by",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "loose fit"
+        },
+        {
+          "id": "B",
+          "text": "interference fit"
+        },
+        {
+          "id": "C",
+          "text": "transition fit"
+        },
+        {
+          "id": "D",
+          "text": "clearance fit"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "When assembled, the hole [latex]30^{+0.030}_{+0.000}[/latex] mm and shaft [latex]30^{+0.020}_{-0.020}[/latex] mm will result in",
+      "topic": "Metrology and Inspection",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "An unbalanced rigid rotor can be completely balanced using a single balancing mass"
+        },
+        {
+          "id": "B",
+          "text": "An unbalanced rigid rotor can be completely balanced using two balancing masses attached in two distinct planes"
+        },
+        {
+          "id": "C",
+          "text": "A single-cylinder internal combustion engine can be completely balanced using a single balancing mass"
+        },
+        {
+          "id": "D",
+          "text": "A single-cylinder internal combustion engine can be completely balanced using two balancing masses"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In the context of balancing of rotating and reciprocating masses, which one of the following options is true?",
+      "topic": "Theory of Machine",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Angular contact bearing"
+        },
+        {
+          "id": "B",
+          "text": "Double-row ball bearing"
+        },
+        {
+          "id": "C",
+          "text": "Straight roller bearing"
+        },
+        {
+          "id": "D",
+          "text": "Tapered roller bearing"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A shaft carries a helical spur gear. Which one of the following bearings can NOT be used to support it?",
+      "topic": "Gear and Gear Train",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The values of a function [latex]f[/latex] obtained for different values of [latex]x[/latex] are shown in the table below. [latex] \\begin{array}{|c|c|c|c|c|c|} \\hline x & 0 & 0.25 & 0.5 & 0.75 & 1.0 \\\\ \\hline f(x) & 0.9 & 2.0 & 1.5 & 1.8 & 0.4 \\\\ \\hline \\end{array} [/latex] Using Simpson's one-third rule, [latex] \\int_0^1 f(x) dx \\approx[/latex] ______ (rounded off to 2 decimal places).",
+      "topic": "Numerical Methods",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The thermal efficiency of an ideal air-standard Otto cycle is 0.5. The value of specific heat ratio of air is 1.4. The compression ratio of the cycle is ______________ (rounded off to 1 decimal place).",
+      "topic": "IC Engine",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A liquid metal is poured in a mold cavity of size [latex]200 mm \\times 200 mm  \\times  200 mm[/latex]. The cooling is uniform in all directions with NO additional compensation for shrinkage. Considering the volumetric shrinkage during solidification and solid contraction as 7% and 8%, respectively, the length of the cube edge after cooling down to the room temperature is _______ mm (rounded off to 1 decimal place).",
+      "topic": "Manufacturing Engineering",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A block of mass 1 kg connected to a spring of stiffness [latex]10Nm^{-1}[/latex] is operating in a viscous medium such that the damping ratio (or damping factor) is equal to the ratio of the damped frequency to the natural frequency. The magnitude of the damping ratio for this system is ________ (rounded off to 2 decimal places).",
+      "topic": "Vibration",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In the closed interval [0, 3], the minimum value of the function [latex]f[/latex] given below is [latex]f(x) = 2x^3 - 9x^2 + 12x [/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.8  and 42.0"
+        },
+        {
+          "id": "B",
+          "text": "0.8 and 4.2"
+        },
+        {
+          "id": "C",
+          "text": "8.0 and 42.0"
+        },
+        {
+          "id": "D",
+          "text": "8.0 and 4.2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Considering the actual demand and the forecast for a product given in the table below, the mean forecast error and the mean absolute deviation, respectively, are [latex]\\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n\\text{Period} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\\\\n\\hline\n\\text{Actual demand} & 425 & 415 & 420 & 430 & 427 & 418 & 422 & 416 & 426 & 421 \\\\\n\\hline\n\\text{Forecast} & 427 & 422 & 416 & 422 & 423 & 420 & 419 & 418 & 430 & 415 \\\\\n\\hline\n\\end{array}[/latex]",
+      "topic": "Production Planning and Control",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "P-II, Q-IV, R-V, S-I, T-VI, U-III"
+        },
+        {
+          "id": "B",
+          "text": "P-II, Q-V, R-VI, S-I, T-III, U-IV"
+        },
+        {
+          "id": "C",
+          "text": "P-V, Q-I, R-VI, S-III, T-II, U-IV"
+        },
+        {
+          "id": "D",
+          "text": "P-II, Q-IV, R-I, S-V, T-VI, U-III"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Match the mold elements in the casting process with the most suitable function [latex]\n\\begin{array}{|c|c|}\n\\hline\n\\textbf{Mold element} & \\textbf{Function} \\\\\n\\hline\n\\begin{array}{c|l}\nP & \\text{Blind riser} \\\\\nQ & \\text{Chill} \\\\\nR & \\text{Skim bob} \\\\\nS & \\text{Core} \\\\\nT & \\text{Insulating sleeve} \\\\\nU & \\text{Inoculant} \\\\\n\\end{array}\n&\n\\begin{array}{c|l}\nI & \\text{Casting with internal cavity} \\\\\nII & \\text{Molten metal reservoir} \\\\\nIII & \\text{Nucleating agent} \\\\\nIV & \\text{Assisting in faster heat removal from melt} \\\\\nV & \\text{Removal of impurities} \\\\\nVI & \\text{Increasing the solidification time} \\\\\n\\end{array}\n\\\\\n\\hline\n\\end{array}\n\n [/latex]",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "51.2"
+        },
+        {
+          "id": "B",
+          "text": "63.2"
+        },
+        {
+          "id": "C",
+          "text": "75"
+        },
+        {
+          "id": "D",
+          "text": "93.2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Wire drawing operation is performed on a perfectly plastic metal without any strain hardening. Assuming no friction and no redundant work, the maximum possible percentage reduction in area in a single pass is closest to",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "P-3-III, Q-1-IV, R-4-I, S-2-II"
+        },
+        {
+          "id": "B",
+          "text": "P-3-II, Q-2-IV, R-4-I, S-1-III"
+        },
+        {
+          "id": "C",
+          "text": "P-4-III, Q-2-IV, R-1-II, S-3-I"
+        },
+        {
+          "id": "D",
+          "text": "P-3-II, Q-2-IV, R-1-I, S-4-III"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In relation to additive manufacturing, match the following [latex]\n\\begin{array}{|c|c|c|}\n\\hline\n\\textbf{Process} & \\textbf{Layer creation technique} & \\textbf{Material} \\\\\n\\hline\n\\begin{array}{c|l}\nP & \\text{Stereolithography} \\\\\nQ & \\text{Fused deposition modeling} \\\\\nR & \\text{Laminated object manufacturing} \\\\\nS & \\text{Laser-engineered net shaping} \\\\\n\\end{array}\n&\n\\begin{array}{c|l}\n1 & \\text{Injection of powder stream} \\\\\n2 & \\text{Extrusion of melted polymer} \\\\\n3 & \\text{Liquid layer curing} \\\\\n4 & \\text{Sheet material deposition} \\\\\n\\end{array}\n&\n\\begin{array}{c|l}\nI & \\text{Paper} \\\\\nII & \\text{Epoxy} \\\\\nIII & \\text{Titanium} \\\\\nIV & \\text{Acrylonitrile butadiene styrene (ABS)} \\\\\n\\end{array}\n\\\\\n\\hline\n\\end{array}\n\n [/latex]",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "feasible and 3.6"
+        },
+        {
+          "id": "B",
+          "text": "NOT feasible and 2.6"
+        },
+        {
+          "id": "C",
+          "text": "feasible and 3.0"
+        },
+        {
+          "id": "D",
+          "text": "NOT feasible and 6.0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A plate of 30 mm thickness is fed through a rolling mill with two powered rolls.\nEach roll has a diameter of 500 mm. The plate thickness is to be reduced to 27 mm\nin a single pass. Assume no change in width. The process feasibility and the\nmaximum draft (in mm) can be represented, respectively, as Use the coefficient of friction as 0.12",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "one-fourth of the endurance limit"
+        },
+        {
+          "id": "B",
+          "text": "half of the endurance limit"
+        },
+        {
+          "id": "C",
+          "text": "the endurance limit"
+        },
+        {
+          "id": "D",
+          "text": "twice the endurance limit"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The endurance limit of a specific grade of steel is same as its yield strength. The\nultimate strength of this grade of steel is twice of its yield strength. A component\nmade of this steel is loaded in tension and unloaded periodically. It is required that\nthe component does NOT fail for at least [latex]10^{6}[/latex] loading cycles, as per the Soderberg law. Considering a factor of safety of 2, the maximum applied tensile principal\nstress is",
+      "topic": "Stress-strain Relationship and Elastic Constants",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "For the same maximum velocity, the average velocity is higher in the turbulent regime than that of the laminar regime"
+        },
+        {
+          "id": "B",
+          "text": "Compressibility effects are important if Mach number is less than 0.3"
+        },
+        {
+          "id": "C",
+          "text": "For laminar flow, the friction factor is independent of surface roughness"
+        },
+        {
+          "id": "D",
+          "text": "For laminar flow, friction factor decreases with decrease in Reynolds number"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For a fully-developed pipe flow, which of the following options is/are correct?",
+      "topic": "Fluid Mechanics",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325135",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If [latex]C[/latex] is the unit circle in the complex plane with its center at the origin, then the value of [latex]n[/latex] in the equation given below is __________ (rounded off to 1 decimal place). [latex] \\oint_{c}\\frac{z^{3}}{(z^{2}+4)(z^{2}-4)}dz=2 \\pi i n [/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325136",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The directional derivative of the function [latex]f[/latex] given below at the point [latex](1,0)[/latex] in the\ndirection of [latex]\\frac{1}{2}(\\hat{i}+\\sqrt{3}\\hat{j})[/latex] is __________ (rounded off to 1 decimal place). [latex] f(x,y)=x^{2}+xy^{2} [/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325137",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let [latex]y[/latex] be the solution of the differential equation with the initial conditions given below. If [latex]y(x=2)=A \\ln 2[/latex], then the value of [latex]A[/latex] is __________ (rounded off to 2 decimal places). [latex] x^{2}\\frac{d^{2}y}{dx^{2}}+3x\\frac{dy}{dx}+y=0, \\quad y(x=1)=0, \\quad \\frac{dy}{dx}(x=1)=1 [/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325140",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider a velocity field [latex] \\vec{V}=3 z \\hat{i}+0 \\hat{j}+C x \\hat{k} [/latex], where [latex]C[/latex] is a constant. If the flow\nis irrotational, the value of [latex]C[/latex] is __________ (rounded off to 1 decimal place).",
+      "topic": "Fluid Mechanics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325142",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A thermal power plant is running with no reheat or regeneration. The specific enthalpy and specific entropy of steam at the turbine inlet are  [latex]3344 \\; kJ \\; kg^{-1}[/latex] and  [latex]6.5 \\; kJ\\;  kg^{-1} K^{-1}[/latex] respectively. The turbine isentropic efficiency is 0.9, and the mass flow rate of steam at the turbine inlet is  [latex]102 kg \\; s^{-1}[/latex]. The turbine power output is __________ MW (rounded off to 1 decimal place). Properties of saturated liquid and saturated vapor at turbine exit pressure Saturated liquid water Saturated water vapor Specific enthalpy [latex](\\text{kJ kg}^{-1})[/latex] Specific entropy [latex](\\text{kJ kg}^{-1} \\text{K}^{-1})[/latex] Specific enthalpy [latex](\\text{kJ kg}^{-1})[/latex] Specific entropy [latex](\\text{kJ kg}^{-1} \\text{K}^{-1})[/latex] 341 1.1 2645 7.6",
+      "topic": "Power System",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325143",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider a Pelton wheel of 1 m diameter. The magnitude of relative velocity of\nwater at the bucket inlet is same as the magnitude of relative velocity of water at\nthe bucket exit. The absolute speed of water at the bucket inlet is 125.66  [latex]ms^{-1}[/latex]. For maximum power output from the Pelton wheel, the rpm of the Pelton wheel is _______ (rounded off to 1 decimal place).",
+      "topic": "Turbines and Pumps",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325144",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A thermodynamically closed system contains 1 kg of hydrogen. The system\nundergoes a reversible polytropic process with polytropic index 1.3. The work\noutput during the process is 400 kJ. During the process, hydrogen behaves as an\nideal gas with constant specific heats. The absolute value of heat transfer during the\nprocess is __________ kJ (rounded off to 1 decimal place). Specific heat of hydrogen at constant pressure [latex] = 14.56  kJ \\; kg^{-1} K^{-1} [/latex] Specific heat of hydrogen at constant volume [latex] = 10.4  kJ\\; kg^{-1} K^{-1} [/latex]",
+      "topic": "Thermodynamics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A heat pump, operating in reversed Carnot cycle, maintains a steady air temperature\nof 300 K inside an auditorium. The heat pump receives heat from the ambient air.\nThe ambient air temperature is 280 K. Heat loss from the auditorium is 15 kW. The\npower consumption of the heat pump is __________ kW (rounded off to 2 decimal places).",
+      "topic": "Second Law, Carnot Cycle and Entropy",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A pair of spur gears is required to maintain a velocity ratio of 1:2. The module of the gears is 10 mm and the addendum is 10 mm. If the operating pressure angle is [latex]15^{\\circ} [/latex], the minimum number of teeth required on the pinion to ensure NO interference/undercutting is ____ (answer in integer).",
+      "topic": "Gear and Gear Train",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Two metal parts (a cylinder and a cube) of same volume are cast under identical conditions. The diameter of the cylinder is equal to its height. The ratio of the solidification time of the cube to that of the cylinder is________ (rounded off to 2 decimal places). Assume that solidification time follows Chvorinov’s rule with an exponent of 2.",
+      "topic": "Manufacturing Engineering",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Cylindrical workpieces of diameter 60 mm and length 400 mm are machined on a lathe at a cutting speed of 25 [latex]m\\; min^{-1}[/latex] and a feed of 0.2 [latex]mm\\; rev^{-1}[/latex]. The Taylor's tool life parameters [latex]C[/latex] and [latex]n[/latex] for this setup are 75 and 0.25, respectively. The tool changing time is 3 minutes. With a labor and overhead cost of Rs. 5 per minute, the tool changing cost per piece is Rs. _______ (rounded off to 2 decimal places).",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A company uses 3000 units of a part annually. The units are priced as given in the table below. It costs Rs. 150 to place an order. Carrying costs are 40 percent of the purchase price per unit on an annual basis. The minimum total annual cost is Rs. _______ (rounded off to 1 decimal place). [latex]\n\n\\begin{array}{|c|c|}\n\\hline \\text{Order quantity} & \\text{Unit price (₹)}\n \\\\\n\\hline\n1 \\text{ to } 499 & 9.0 \\\\\n500 \\text{ to } 999 & 8.5 \\\\\n1000 \\text{ or more} & 8.0 \\\\\n\\hline\n\\end{array}\n [/latex]",
+      "topic": "Inventory Control",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A project involves eight activities with the precedence relationship and duration as shown in the table below. The slack for the activity D is _____ hours (answer in integer). [latex]\n\\begin{array}{|c|c|c|} \\hline\n\\text{Activity} & \\text{Immediate predecessor} & \\text{Duration (hours)} \\\\\n\\hline\n\nA & - & 4 \\\\ \\hline\nB & A & 8 \\\\ \\hline\nC & A & 5 \\\\ \\hline\nD & B & 2 \\\\ \\hline\nE & B & 7 \\\\ \\hline\nF & C & 6 \\\\ \\hline\nG & D & 3 \\\\ \\hline\nH & E, F, G & 9 \\\\\n\\hline\n\\end{array}\n [/latex]",
+      "topic": "PERT and CPM",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Pride"
+        },
+        {
+          "id": "B",
+          "text": "School"
+        },
+        {
+          "id": "C",
+          "text": "Forest"
+        },
+        {
+          "id": "D",
+          "text": "Series"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Fish: Shoal :: Lion: ________ Select the correct option to complete the analogy.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It is I who am responsible for this fiasco."
+        },
+        {
+          "id": "B",
+          "text": "It is myself who is responsible for this fiasco."
+        },
+        {
+          "id": "C",
+          "text": "It is I who is responsible for this fiasco."
+        },
+        {
+          "id": "D",
+          "text": "It is I who are responsible for this fiasco."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Identify the grammatically correct sentence:",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "18"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Two cars, P and Q, start from a point X in India at 10 AM. Car P travels North with a speed of [latex]25~km/h[/latex] and car Q travels East with a speed of [latex]30~km/h.[/latex] Car P travels continuously but car Q stops for some time after travelling for one hour. If both the cars are at the same distance from X at 11:30 AM, for how long (in minutes) did car Q stop?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]ce(x)\\ge x[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]fl(x)\\le x[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]ce(x)\\ge fl(x)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]fl(x) < ce(x)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The ceiling function of a real number [latex]x[/latex], denoted by [latex]ce(x)[/latex], is defined as the smallest integer that is greater than or equal to [latex]x[/latex]. Similarly, the floor function, denoted by [latex]fl(x)[/latex] is defined as the largest integer that is smaller than or equal to [latex]x[/latex]. Which one of the following statements is NOT correct for all possible values of [latex]x[/latex]?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{48}{125}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{16}{125}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{16}{25}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{25}{48}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "P and Q play chess frequently against each other. Of these matches, P has won 80% of the matches, drawn 15% of the matches and lost 5% of the matches. If they play 3 more matches, what is the probability of P winning exactly 2 of these 3 matches?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P\\rightarrow Q\\rightarrow R\\rightarrow S[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Q \\rightarrow S\\rightarrow R\\rightarrow P[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]S\\rightarrow Q\\rightarrow P\\rightarrow R[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]S\\rightarrow P\\rightarrow R\\rightarrow Q[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed: P. At once, without thinking much, people rushed towards the city in hordes with the sole aim of grabbing as much gold as they could. Q. However, little did they realize about the impending hardships they would have to face on their way to the city: miles of mud, unfriendly forests, hungry beasts and inimical local lords all of which would reduce their chances of getting gold to almost zero. R. All of them thought that easily they could lay their hands on gold and become wealthy overnight. S. About a hundred years ago, the news that gold had been discovered in Kolar spread like wildfire and the whole State was in raptures.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325162",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "5-17-1-2"
+        },
+        {
+          "id": "B",
+          "text": "17-19-13-17"
+        },
+        {
+          "id": "C",
+          "text": "13-3-1-2"
+        },
+        {
+          "id": "D",
+          "text": "19-23-17-19"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If HIDE and CAGE are coded as 19-23-7-11 and 5-2-17-11 respectively, then what is the code for HIGH?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Circle; Square; Equilateral triangle; Isosceles triangle"
+        },
+        {
+          "id": "B",
+          "text": "Isosceles triangle; Equilateral triangle; Square; Circle"
+        },
+        {
+          "id": "C",
+          "text": "Equilateral triangle; Isosceles triangle; Square; Circle"
+        },
+        {
+          "id": "D",
+          "text": "Isosceles triangle; Square; Equilateral triangle; Circle"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the following options has the correct sequence of objects arranged in the increasing number of mirror lines (lines of symmetry)?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "ME",
+      "id": "1325165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0\\le p\\le 0.2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]0.4\\le p\\le 0.6[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0.2\\le p\\le 0.4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0.6\\le p\\le 1.0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A final year student appears for placement interview in two companies, [latex]S[/latex] and [latex]T[/latex]. Based on her interview performance, she estimates the probability of receiving job offers from companies [latex]S[/latex] and [latex]T[/latex] to be 0.8 and 0.6, respectively. Let [latex]p[/latex] be the probability that she receives job offers from both the companies. Select the most appropriate option.",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    }
+  ],
+  "schema_version": 1
+}

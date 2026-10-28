@@ -1,0 +1,1989 @@
+{
+  "questions": [
+    {
+      "branch": "ME",
+      "id": "1308101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{4!}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2^4}{4!}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{e^2}{4!}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{e^4}{4!}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In the Taylor series expansion of [latex]e^{x}[/latex] about x=2, the coefficient of [latex](x-2)^4[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-0.99"
+        },
+        {
+          "id": "B",
+          "text": "-0.16"
+        },
+        {
+          "id": "C",
+          "text": "0.16"
+        },
+        {
+          "id": "D",
+          "text": "0.99"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Given that [latex]\\ddot{x}+3x=0[/latex], and x(0) = 1, [latex]\\dot{x}(0)=0[/latex], what is x(1)?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/16[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/12[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/8[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The value of [latex]\\lim_{x\\rightarrow 8}\\frac{x^{1/3}-2}{(x-8)}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/4[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]3/8[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3/4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A coin is tossed 4 times. What is the probability of getting heads exactly 3 times?",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "p"
+        },
+        {
+          "id": "B",
+          "text": "p-1"
+        },
+        {
+          "id": "C",
+          "text": "p-2"
+        },
+        {
+          "id": "D",
+          "text": "p-3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The matrix [latex]\\begin{bmatrix} 1 &2 & 4\\\\ 3 & 0 &6 \\\\ 1& 1 & p \\end{bmatrix}[/latex] has one Eigenvalue equal to 3. The sum of the other two Eigenvalues is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The divergence of the vector field [latex](x-y)\\hat{i}+(y-x)\\hat{j}+(x+y+z)\\hat{k}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Variable with maximum at the bottom of the beam"
+        },
+        {
+          "id": "B",
+          "text": "Variable with maximum at the top of the beam"
+        },
+        {
+          "id": "C",
+          "text": "Uniform"
+        },
+        {
+          "id": "D",
+          "text": "Variable with maximum at the neutral axis"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The transverse shear stress acting in a beam of rectangular cross-section, subjected to a transverse shear load, is",
+      "topic": "Strength of Materials",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Young's modulus"
+        },
+        {
+          "id": "B",
+          "text": "Shear modulus"
+        },
+        {
+          "id": "C",
+          "text": "Poisson's ratio"
+        },
+        {
+          "id": "D",
+          "text": "Both Young's modulus and shear modulus"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A rod of Length L and diameter D is subjected to a tensile load P. Which of the following is sufficient to calculate the resulting change in diameter?",
+      "topic": "Stress and Strain",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1m/s"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{2}[/latex]m/s"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{3}[/latex]m/s"
+        },
+        {
+          "id": "D",
+          "text": "2m/s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A straight rod of length L(t), hinged at one end and freely extensible at the other end, rotates\r\nthrough an angle [latex]\\theta (t)[/latex] about the hinge. At time t,  L(t)=1m,  L(t)=1m/s, [latex]\\theta (t)=\\frac{\\pi}{4}[/latex]rad and [latex]\\theta (t)=1[/latex]\r\nrad/s. The magnitude of the velocity at the other end of the rod is",
+      "topic": "Plane Motion",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A Planar mechanism has 8 links and 10 rotary joints. The number of degrees of freedom of the\nmechanism, using Grubler's criterion is",
+      "topic": "Planar Mechanisms",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Decreased"
+        },
+        {
+          "id": "B",
+          "text": "Increased or decreased, depending on the external bending load"
+        },
+        {
+          "id": "C",
+          "text": "Neither decreased nor increased"
+        },
+        {
+          "id": "D",
+          "text": "Increased"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An axial residual compressive stress due to a manufacturing process is present on the outer\nsurface of a rotating shaft subjected to bending. Under a given bending load. The fatigue life of the\nshaft in the presence of the residual compressive stress is",
+      "topic": "Strength of Materials",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-R ln2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "[latex]R ln2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-R ln4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "2 moles of oxygen are mixed adiabatically with another 2 moles of oxygen in mixing chamber, so\nthat the final total pressure and temperature of the mixture become same as those of the\nindividual constituents at their initial states. The universal gas constant is given as R. The change\nin entropy due to mixing, per mole of oxygen, is given by",
+      "topic": "Pure Substances",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.001mm"
+        },
+        {
+          "id": "B",
+          "text": "0.01mm"
+        },
+        {
+          "id": "C",
+          "text": "1mm"
+        },
+        {
+          "id": "D",
+          "text": "1000mm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For flow of fluid over a heated plate, the following fluid properties are known Viscosity = 0.001 Pa.s. specific heat at constant pressure = 1kJ/kg.K thermal conductivity = 1 W/mK. The hydrodynamic boundary layer thickness at a specified location on the plate is 1 mm. The\r\nthermal boundary layer thickness at the same location is",
+      "topic": "Heat Transfer in Flow Over Plates and Pipes",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "steady  flow"
+        },
+        {
+          "id": "B",
+          "text": "irrotational flow"
+        },
+        {
+          "id": "C",
+          "text": "inviscid flow"
+        },
+        {
+          "id": "D",
+          "text": "incompressible flow"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For a continuity equation given by  [latex]\\vec{\\triangledown} \\cdot \\vec{V}=0[/latex] to be valid, where  [latex]\\vec{V}[/latex] is the velocity vector, which one of\nthe following is a necessary condition?",
+      "topic": "Fluid Mechanics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "All processes are both internally as well as externally reversible."
+        },
+        {
+          "id": "B",
+          "text": "Intake and exhaust processes are constant volume heat rejection processes."
+        },
+        {
+          "id": "C",
+          "text": "The combustion process is a constant volume heat addition process."
+        },
+        {
+          "id": "D",
+          "text": "The working fluid is an ideal gas with constant specific heats."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the following is NOT a necessary assumption for the air-standard Otto cycle?",
+      "topic": "IC Engine",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\lambda ^{2}(e^{-\\lambda ^{2}t})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{(e^{-\\lambda ^{2}t})}{\\lambda ^{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\lambda (e^{-\\lambda t})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{(e^{-\\lambda t})}{\\lambda }[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In an M/M/1 queuing system, the number of arrivals in an interval of length T is a Poisson random\nvariable (i.e. the probability of there being n arrivals in an interval of length T is [latex]\\frac{e^{(-\\lambda T)}(\\lambda T)^{n}}{n!}[/latex]. The\nprobability density function f(t) of the inter-arrival time is given by",
+      "topic": "Queuing Theory and Transportation",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a set of grid points on the surface"
+        },
+        {
+          "id": "B",
+          "text": "a set of grid control points"
+        },
+        {
+          "id": "C",
+          "text": "four bounding curves defining the surface"
+        },
+        {
+          "id": "D",
+          "text": "two bounding curves and a set of grid control points"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For generating a Coon's surface we require",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "milling"
+        },
+        {
+          "id": "B",
+          "text": "shaping with rack cutter"
+        },
+        {
+          "id": "C",
+          "text": "shaping with pinion cutter"
+        },
+        {
+          "id": "D",
+          "text": "hobbing"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Internal gear cutting operation can be performed by",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-4"
+        },
+        {
+          "id": "B",
+          "text": "-2"
+        },
+        {
+          "id": "C",
+          "text": "-1"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The directional derivative of the scalar function [latex]1f(x,y,z)=x^2+2y^2+z[/latex] at the point P = (1, 1, 2) in\nthe direction of the vector [latex]\\vec{a}=3\\hat{i}-4\\hat{j}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Any real number"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "There is no such value"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For what value of a, if any, will the following system of equations in x, y and z have a solution 2x + 3y = 4 x + y + z = 4 x + 2y - z = a",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\int_{0}^{\\pi/4}\\tan x dx[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\int_{0}^{\\infty }\\frac{1}{x^2+1} dx[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\int_{0}^{\\infty }xe^{-x}dx[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int_{0}^{1 }\\frac{1}{1-x} dx[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which of the following integrals is unbounded?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2\\pi i[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4\\pi i[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-2\\pi i[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The integral [latex]\\oint f(z)dz[/latex] evaluated around the unit circle on the complex plane for [latex]f(z)=\\frac{\\cos z}{z}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.27"
+        },
+        {
+          "id": "B",
+          "text": "0.67"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "1.22"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The length of the curve [latex]y=\\frac{3}{2}x^{3/2}[/latex] between x = 0 and x = 1 is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The Eigenvectors of the matrix [latex]\\begin{bmatrix} 1 &2 \\\\ 0& 2 \\end{bmatrix}[/latex] are written in the form [latex]\\begin{bmatrix} 1 \\\\ a \\end{bmatrix}[/latex] and [latex]\\begin{bmatrix} 1 \\\\ b \\end{bmatrix}[/latex]. What is a + b?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "ln2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "1/ln2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let [latex]f=y^x[/latex]. What is [latex]\\frac{\\partial^2 f}{\\partial x\\partial y}[/latex] at x=2, y=1?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "0.37"
+        },
+        {
+          "id": "C",
+          "text": "0.62"
+        },
+        {
+          "id": "D",
+          "text": "1.13"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "It is given that y'' + 2y' + y = 0,  y (0) = 0, y(1) = 0. What is y(0.5)?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "41 MPa"
+        },
+        {
+          "id": "B",
+          "text": "82 MPa"
+        },
+        {
+          "id": "C",
+          "text": "164 MPa"
+        },
+        {
+          "id": "D",
+          "text": "204 MPa"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A solid circular shaft of diameter 100 mm is subjected to an axial stress of 50 Mpa. It is further\r\nsubjected to a torque of 10 kNm. The maximum principal stress experienced on the shaft is\r\nclosest to",
+      "topic": "Strength of Materials",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{h}{2}(1-cos\\frac{\\pi \\theta }{\\beta })[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\pi h}{\\beta 2}sin(\\frac{\\pi \\theta }{\\beta })[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\pi^2 h}{\\beta^2 2}cos(\\frac{\\pi \\theta }{\\beta })[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{-\\pi^3 h}{\\beta^3 2}sin(\\frac{\\pi \\theta }{\\beta })[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a cam design, the rise motion is given by a simple harmonic motion (SHM) [latex]s=\\frac{h}{2}(1-cos\\frac{\\pi \\theta }{\\beta })[/latex] where h is total rise,\n[latex]\\theta[/latex] is camshaft angle, [latex]\\beta[/latex] is the total angle of the rise interval. The jerk is given by",
+      "topic": "Theory of Machine",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "40"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A uniform rigid rod of mass m = 1kg and length L = 1m is hinged at its centre and laterally\nsupported at one end by a spring of spring constant k = 300 N/m. The natural frequency [latex]\\omega _n[/latex] in\nrad/s is",
+      "topic": "Vibration",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "decreased by 8 times"
+        },
+        {
+          "id": "B",
+          "text": "decreased by 2 times"
+        },
+        {
+          "id": "C",
+          "text": "increased by 2 times"
+        },
+        {
+          "id": "D",
+          "text": "increased by 8 times"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A compression spring is made of music wire of 2mm diameter having a shear strength and shear\nmodulus of 800 MPa and 80 GPa respectively. The mean coil diameter is 20mm, free length is\n40mm and the number of active coils is 10. If the mean coil diameter is reduced to 10mm, the\nstiffness of the spring is approximately",
+      "topic": "Springs",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.040 Nm"
+        },
+        {
+          "id": "B",
+          "text": "0.252 Nm"
+        },
+        {
+          "id": "C",
+          "text": "0.400 Nm"
+        },
+        {
+          "id": "D",
+          "text": "0.6562 Nm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A journal bearing has a shaft diameter of 40mm and a length of 40 mm. the shaft is rotating at 20\nrad/s and the viscosity of the lubricant is 20mPa-s. the clearance is 0.020 mm. the loss of torque\ndue to the viscosity of the lubricant is approximately:",
+      "topic": "Machine Design",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "148 Nm"
+        },
+        {
+          "id": "B",
+          "text": "196 Nm"
+        },
+        {
+          "id": "C",
+          "text": "372 Nm"
+        },
+        {
+          "id": "D",
+          "text": "490 Nm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A clutch has outer and inner diameters 100 mm and 40 mm respectively. Assuming a uniform\npressure of 2 MPa and coefficient of friction of liner material 0.4, the torque carrying capacity of\nthe clutch is",
+      "topic": "Machine Design",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "32MPa"
+        },
+        {
+          "id": "B",
+          "text": "46 MPa"
+        },
+        {
+          "id": "C",
+          "text": "58MPa"
+        },
+        {
+          "id": "D",
+          "text": "70 MPa"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A spur gear has a module of 3 mm, number of teeth 16, a face width of 36 mm and a pressure angle\nof 20[latex]^{\\circ}[/latex]. It is transmitting a power of 3 kW at 20 rev/s. Taking a velocity factor of 1.5, and a form\nfactor of 0.3, the stress in the gear tooth is about",
+      "topic": "Gears",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0kJ"
+        },
+        {
+          "id": "B",
+          "text": "1kJ"
+        },
+        {
+          "id": "C",
+          "text": "2kJ"
+        },
+        {
+          "id": "D",
+          "text": "3kJ"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A gas expands in a frictionless piston-cylinder arrangement. The expansion process is very slow,\nand is resisted by an ambient pressure of 100kPa. During the expansion process, the pressure of\nthe system (gas) remains constant at 300kPa. The change in volume of the gas is 0.01[latex]m^3[/latex]. The\nmaximum amount of work that could be utilized from the above process is",
+      "topic": "Thermodynamics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is 40[latex]^{\\circ}[/latex]C"
+        },
+        {
+          "id": "B",
+          "text": "is 60[latex]^{\\circ}[/latex]C"
+        },
+        {
+          "id": "C",
+          "text": "is 80[latex]^{\\circ}[/latex]C"
+        },
+        {
+          "id": "D",
+          "text": "cannot be determined"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The logarithmic mean temperature difference (LMTD) of a counterflow heat exchanger is 20[latex]^{\\circ}[/latex]C.\nThe cold fluid enters at 20[latex]^{\\circ}[/latex]C and the hot fluid enters at 100[latex]^{\\circ}[/latex]C. Mass flow rate of the cold fluid is\ntwice that of the hot fluid. Specific heat at constant pressure of the hot fluid is twice that of the cold\nfluid. The exit temperature of the cold fluid",
+      "topic": "Heat Exchanger",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5 unit"
+        },
+        {
+          "id": "B",
+          "text": "0 unit"
+        },
+        {
+          "id": "C",
+          "text": "1 unit"
+        },
+        {
+          "id": "D",
+          "text": "2 unit"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A two dimensional fluid element rotates like a rigid body. At a point within the element, the\npressure is 1 unit. Radius of the Mohr's circle, characterizing the state of stress at the point, is",
+      "topic": "Mohr's Circle",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The internal energy of the gas decreases from its initial value, but the enthalpy remains constant"
+        },
+        {
+          "id": "B",
+          "text": "The internal energy of the gas increases from its initial value, but the enthalpy remains constant"
+        },
+        {
+          "id": "C",
+          "text": "Both internal energy and enthalpy of the gas remain constant"
+        },
+        {
+          "id": "D",
+          "text": "Both internal energy and enthalpy of the gas increase"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A balloon containing an ideal gas is initially kept in an evacuated and insulated room. The balloon\nruptures and the gas fills up the entire room. Which one of the following statements is TRUE at the\nend of above process?",
+      "topic": "Thermodynamics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308153",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.57"
+        },
+        {
+          "id": "B",
+          "text": "1.13"
+        },
+        {
+          "id": "C",
+          "text": "2.26"
+        },
+        {
+          "id": "D",
+          "text": "4.52"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Moist air at a pressure of 100 kPa is compressed to 500 kPa and then cooled to 35[latex]^{\\circ}[/latex]C in an after\ncooler. The air at the entry to the after cooler is unsaturated and becomes just saturated at the exit\nof the after cooler. The saturation pressure of water at 35[latex]^{\\circ}[/latex]C is 5.628 kPa. The partial pressure of\nwater vapour (in kPa) in the moist air entering the compressor is closest to",
+      "topic": "Properties of Moist Air",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10[latex]^{\\circ}[/latex]C"
+        },
+        {
+          "id": "B",
+          "text": "20[latex]^{\\circ}[/latex]C"
+        },
+        {
+          "id": "C",
+          "text": "25[latex]^{\\circ}[/latex]C"
+        },
+        {
+          "id": "D",
+          "text": "30[latex]^{\\circ}[/latex]C"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Air (at atmospheric pressure) at a dry bulb temperature of 40[latex]^{\\circ}[/latex]C and wet bulb temperature of\n20[latex]^{\\circ}[/latex]C is humidified in an air washer operating with continuous water recirculation. The wet bulb\ndepression (i.e. the difference between the dry and wet bulb temperature) at the exit is 25% of\nthat at the inlet. The dry bulb temperature at the exit of the air washer is closest to",
+      "topic": "Psychrometric Process",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is valid only if the process is both reversible and adiabatic"
+        },
+        {
+          "id": "B",
+          "text": "is valid only if the process is both reversible and isothermal"
+        },
+        {
+          "id": "C",
+          "text": "is valid for any reversible process"
+        },
+        {
+          "id": "D",
+          "text": "is incorrect; it must be [latex]w=\\int_{inlet}^{outlet}vdp[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a steady state flow process taking place in a device with a single inlet and a single outlet, the work done per unit mass flow rate is given by [latex]w=-\\int_{inlet}^{outlet}vdp[/latex] , where v is the specific volume and p is the pressure. The expression for w given above",
+      "topic": "Thermodynamics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "mn"
+        },
+        {
+          "id": "B",
+          "text": "2(m+n)"
+        },
+        {
+          "id": "C",
+          "text": "m+n"
+        },
+        {
+          "id": "D",
+          "text": "m+n-1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For the standard transportation linear program with m sources and n destinations and total supply equaling total demand, an optimal solution (lowest cost) with the smallest number of nonzero [latex]x_{ij}[/latex] values (amounts from source i to destination j) is desired. The best upper bound for this\nnumber is",
+      "topic": "Linear Programming",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "neither [latex]F_1(t)[/latex] nor [latex]F_2(t)[/latex] will catch up with the value [latex]d_2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "both sequences [latex]F_1(t)[/latex] and [latex]F_2(t)[/latex] will reach [latex]d_2[/latex] in the same period"
+        },
+        {
+          "id": "C",
+          "text": "[latex]F_1(t)[/latex] will attain the value [latex]d_2[/latex] before [latex]F_2(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]F_2(t)[/latex] will attain the value [latex]d_2[/latex] before [latex]F_1(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A moving average system is used for forecasting weekly demand. [latex]F_1(t)[/latex] and [latex]F_2(t)[/latex] are sequences of forecasts with parameters [latex]m_1[/latex] and [latex]m_2[/latex] , respectively, where [latex]m_1[/latex] and [latex]m_1[/latex]  ([latex]m_1 \\gt m_2[/latex]) denote the number of weeks over which the moving averages are taken. The actual demand shows a step increase from [latex]d_1[/latex] and [latex]d_2[/latex] at a certain time. Subsequently",
+      "topic": "Production Planning and Control",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308163",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2%"
+        },
+        {
+          "id": "B",
+          "text": "7%"
+        },
+        {
+          "id": "C",
+          "text": "8%"
+        },
+        {
+          "id": "D",
+          "text": "9%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "While cooling, a cubical casting of side 40 mm undergoes 3%, 4% and 5% volume shrinkage during the liquid state, phase transition and solid state, respectively. The volume of metal compensated from the riser is",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308164",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0[latex]^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "45[latex]^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "60[latex]^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "90[latex]^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a single point turning tool, the side rake angle and orthogonal rake angle are equal. [latex]\\Phi[/latex] is the principle cutting edge angle and its range is [latex]0^{\\circ}\\leq \\Phi \\leq 90^{\\circ}[/latex]. The chip flows in the orthogonal plane. The value of [latex]\\Phi[/latex] is closest to",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308165",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "40"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "79"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A researcher conducts electrochemical machining (ECM) on a binary alloy (density 6000 kg/[latex]m^3[/latex]) of iron (atomic weight 56, valency 2) and metal P (atomic weight 24, valency 4). Faraday's constant = 96500 coulomb/mole. Volumetric material removal rate of the alloy is 50 [latex]mm^3[/latex]/sec at a current of 2000 A. The percentage of the metal P in the alloy is closest to",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308166",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "15.2"
+        },
+        {
+          "id": "B",
+          "text": "18.2"
+        },
+        {
+          "id": "C",
+          "text": "30.4"
+        },
+        {
+          "id": "D",
+          "text": "45.6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a single pass rolling operation, a 20 mm thick plate with plate width of 100 mm, is reduced to 18 mm. The roller radius is 250 mm and rotational speed is 10 rpm. The average flow stress for the plate material is 300 MPa. The power required for the rolling operation in kW is closest to",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308167",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "14"
+        },
+        {
+          "id": "C",
+          "text": "24"
+        },
+        {
+          "id": "D",
+          "text": "34"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In arc welding of a butt joint, the welding speed is to be selected such that highest cooling rate is achieved. Melting efficiency and heat transfer efficiency are 0.5 and 0.7, respectively. The area of the weld cross section is 5 [latex]mm^2[/latex] and the unit energy required to melt the metal is 10 J/[latex]mm^3[/latex]. If the welding power is 2 kW, the welding speed in mm/s is closest to",
+      "topic": "Joining-Welding",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308168",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Buckling due to circumferential compression; Increase blank holder pressure"
+        },
+        {
+          "id": "B",
+          "text": "High blank holder pressure and high friction; Reduce blank holder pressure and apply lubricant"
+        },
+        {
+          "id": "C",
+          "text": "High temperature causing increase in circumferential length; Apply coolant to blank"
+        },
+        {
+          "id": "D",
+          "text": "Buckling due to circumferential compression; decrease blank holder pressure"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In the deep drawing of cups, blanks show a tendency to wrinkle up around the periphery (flange). The most likely cause and remedy of the phenomenon are, respectively,",
+      "topic": "Sheet Metal Operation",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308182",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "52; 320N"
+        },
+        {
+          "id": "B",
+          "text": "52; 400N"
+        },
+        {
+          "id": "C",
+          "text": "28 ; 400 N"
+        },
+        {
+          "id": "D",
+          "text": "28 ; 320 N"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Orthogonal turning is performed on a cylindrical workpiece with shear strength of 250 MPa. The following conditions are used: cutting velocity is 180 m/min, feed is 0.20 mm/rev, depth of cut is 3 mm, chip thickness ratio = 0.5. The orthogonal rake angle is [latex]7^{\\circ}[/latex]. Apply Merchant's theory foranalysis. The shear plane angle (in degrees) and the shear force respectively are",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "1308183",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "568 N ; 387 N"
+        },
+        {
+          "id": "B",
+          "text": "565 N ; 381 N"
+        },
+        {
+          "id": "C",
+          "text": "440 N ; 342 N"
+        },
+        {
+          "id": "D",
+          "text": "480 N ; 356 N"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Orthogonal turning is performed on a cylindrical workpiece with shear strength of 250 MPa. The following conditions are used: cutting velocity is 180 m/min, feed is 0.20 mm/rev, depth of cut is 3 mm, chip thickness ratio = 0.5. The orthogonal rake angle is [latex]7^{\\circ}[/latex]. Apply Merchant's theory foranalysis. The cutting and frictional forces, respectively, are",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10810113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{4!}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2^4}{4!}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{e^2}{4!}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{e^4}{4!}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In the Taylor series expansion of [latex]e^{x}[/latex] about x=2, the coefficient of [latex](x-2)^4[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10810213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-0.99"
+        },
+        {
+          "id": "B",
+          "text": "-0.16"
+        },
+        {
+          "id": "C",
+          "text": "0.16"
+        },
+        {
+          "id": "D",
+          "text": "0.99"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Given that [latex]\\ddot{x}+3x=0[/latex], and x(0) = 1, [latex]\\dot{x}(0)=0[/latex], what is x(1)?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10810313",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/16[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/12[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/8[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The value of [latex]\\lim_{x\\rightarrow 8}\\frac{x^{1/3}-2}{(x-8)}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10810413",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/4[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]3/8[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3/4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A coin is tossed 4 times. What is the probability of getting heads exactly 3 times?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10810513",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "p"
+        },
+        {
+          "id": "B",
+          "text": "p-1"
+        },
+        {
+          "id": "C",
+          "text": "p-2"
+        },
+        {
+          "id": "D",
+          "text": "p-3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The matrix [latex]\\begin{bmatrix} 1 &2 & 4\\\\ 3 & 0 &6 \\\\ 1& 1 & p \\end{bmatrix}[/latex] has one Eigenvalue equal to 3. The sum of the other two Eigenvalues is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10810613",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The divergence of the vector field [latex](x-y)\\hat{i}+(y-x)\\hat{j}+(x+y+z)\\hat{k}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10812213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-4"
+        },
+        {
+          "id": "B",
+          "text": "-2"
+        },
+        {
+          "id": "C",
+          "text": "-1"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The directional derivative of the scalar function [latex]1f(x,y,z)=x^2+2y^2+z[/latex] at the point P = (1, 1, 2) in\nthe direction of the vector [latex]\\vec{a}=3\\hat{i}-4\\hat{j}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10812313",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Any real number"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "There is no such value"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For what value of a, if any, will the following system of equations in x, y and z have a solution 2x + 3y = 4 x + y + z = 4 x + 2y - z = a",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10812413",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\int_{0}^{\\pi/4}\\tan x dx[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\int_{0}^{\\infty }\\frac{1}{x^2+1} dx[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\int_{0}^{\\infty }xe^{-x}dx[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int_{0}^{1 }\\frac{1}{1-x} dx[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which of the following integrals is unbounded?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10812513",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2\\pi i[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4\\pi i[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-2\\pi i[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The integral [latex]\\oint f(z)dz[/latex] evaluated around the unit circle on the complex plane for [latex]f(z)=\\frac{\\cos z}{z}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10812613",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.27"
+        },
+        {
+          "id": "B",
+          "text": "0.67"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "1.22"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The length of the curve [latex]y=\\frac{3}{2}x^{3/2}[/latex] between x = 0 and x = 1 is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10812713",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The Eigenvectors of the matrix [latex]\\begin{bmatrix} 1 &2 \\\\ 0& 2 \\end{bmatrix}[/latex] are written in the form [latex]\\begin{bmatrix} 1 \\\\ a \\end{bmatrix}[/latex] and [latex]\\begin{bmatrix} 1 \\\\ b \\end{bmatrix}[/latex]. What is a + b?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10812813",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "ln2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "1/ln2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let [latex]f=y^x[/latex]. What is [latex]\\frac{\\partial^2 f}{\\partial x\\partial y}[/latex] at x=2, y=1?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "ME",
+      "id": "10812913",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "0.37"
+        },
+        {
+          "id": "C",
+          "text": "0.62"
+        },
+        {
+          "id": "D",
+          "text": "1.13"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "It is given that y'' + 2y' + y = 0,  y (0) = 0, y(1) = 0. What is y(0.5)?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    }
+  ],
+  "schema_version": 1
+}

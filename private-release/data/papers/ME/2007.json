@@ -1,0 +1,2299 @@
+{
+  "questions": [
+    {
+      "branch": "ME",
+      "id": "1307101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "Undefined"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The minimum value of function  [latex]y=x^2[/latex] in the interval [1,5] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "are always real"
+        },
+        {
+          "id": "B",
+          "text": "are always real and positive"
+        },
+        {
+          "id": "C",
+          "text": "are always real and non-negative"
+        },
+        {
+          "id": "D",
+          "text": "occur in complex conjugate pairs"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If a square matrix A is real and symmetric, then the Eigenvalues",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{\\partial \\varphi }{\\partial x}= -\\frac{\\partial \\Psi }{\\partial x}; \\frac{\\partial \\varphi }{\\partial y}= \\frac{\\partial \\Psi }{\\partial y}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\partial \\varphi }{\\partial y}= -\\frac{\\partial \\Psi }{\\partial x}; \\frac{\\partial \\varphi }{\\partial x}= \\frac{\\partial \\Psi }{\\partial y}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\partial^2 \\varphi }{\\partial x^2}+\\frac{\\partial^2 \\varphi }{\\partial y^2}=\\frac{\\partial^2 \\Psi }{\\partial x^2}+\\frac{\\partial^2 \\Psi }{\\partial y^2}=1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\partial \\varphi }{\\partial x}+\\frac{\\partial \\varphi }{\\partial y}=\\frac{\\partial \\Psi }{\\partial x}=\\frac{\\partial \\Psi }{\\partial y}= 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If [latex]\\varphi (x,y)[/latex]\r\n and [latex]\\Psi (x,y)[/latex]\r\n are functions with continuous second derivatives, then [latex]\\varphi (x,y) + i \\Psi (x,y)[/latex]\r\n can be expressed as an analytic function of  [latex]x + i y \\; (i=\\sqrt{-1})[/latex]\r\n, when",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "degree 1 order 2"
+        },
+        {
+          "id": "B",
+          "text": "degree 1 order 1"
+        },
+        {
+          "id": "C",
+          "text": "degree 2 order 1"
+        },
+        {
+          "id": "D",
+          "text": "degree 2  order 2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The partial differential equation [latex]\\frac{\\partial^2\\varphi }{\\partial x^2}+\\frac{\\partial^2\\varphi }{\\partial y^2}+\\left ( \\frac{\\partial \\varphi }{\\partial x} \\right )+\\left ( \\frac{\\partial \\varphi }{\\partial y} \\right )= 0[/latex]\n has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\delta Q = dU + \\delta W[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]T dS = dU + pdV[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]T dS = dU + \\delta W[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\delta Q = dU + p dV[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which of the following relationships is valid only for reversible processes undergone by a closed system of simple compressible substance (neglect changes in kinetic and potential energy)?",
+      "topic": "Thermodynamics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "will rise"
+        },
+        {
+          "id": "B",
+          "text": "will fall"
+        },
+        {
+          "id": "C",
+          "text": "will remain constant"
+        },
+        {
+          "id": "D",
+          "text": "may rise or fall depending on the amount of heat transferred"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Water has a critical specific volume of 0.003155 [latex]m^3[/latex]/kg. A closed and rigid steel tank of volume 0.025 [latex]m^3[/latex] contains a mixture of water and steam at 0.1 MPa. The mass of the mixture is 10 kg. The tank is now slowly heated. The liquid level inside the tank",
+      "topic": "Pure Substances",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]F \\lt 1/2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]F = 1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]F = 1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]F \\gt 1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider an incompressible laminar boundary layer flow over a flat plate of length L, aligned with the direction of an oncoming uniform free stream. If F is the ratio of the drag force on the front half of the plate to the drag force on the rear half, then",
+      "topic": "Viscous, Turbulent Flow and Boundary Layer Theory",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{L}{u_{0}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{L}{3u_{0}}ln4[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{L}{4u_{0}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{L}{2.5u_{0}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a steady flow through a nozzle, the flow velocity on the nozzle axis is given by [latex]v = u_{0}\\left ( 1+\\frac{3x}{L} \\right )i[/latex], where x  is the distance along the axis of the nozzle from its inlet plane and L is the length of the nozzle. The time required for a fluid particle on the axis to travel from the inlet to the exit lane of the nozzle is",
+      "topic": "Fluid Mechanics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/5[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider steady laminar incompressible axi-symmetric fully developed viscous flow through a straight circular pipe of constant cross - sectional area at a Reynolds number of 5. The ratio of inertia force to viscous force on a fluid particle is",
+      "topic": "Viscous, Turbulent Flow and Boundary Layer Theory",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8000"
+        },
+        {
+          "id": "B",
+          "text": "6000"
+        },
+        {
+          "id": "C",
+          "text": "4000"
+        },
+        {
+          "id": "D",
+          "text": "1000"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A ball bearing operating at a load F has 8000 hours of life.  The life of the bearing, in hours, when the load is doubled to 2F is",
+      "topic": "Machine Design",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "total linear momentum only"
+        },
+        {
+          "id": "B",
+          "text": "total kinetic energy only"
+        },
+        {
+          "id": "C",
+          "text": "both linear momentum and kinetic energy"
+        },
+        {
+          "id": "D",
+          "text": "neither linear momentum nor kinetic energy"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "During inelastic collision of two particles, which one of the following is conserved?",
+      "topic": "Impulse and Momentum, Energy Formulations",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\alpha \\Delta T[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]E\\alpha \\Delta T[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]E\\alpha \\Delta T L[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A steel rod of length L and diameter D, fixed at both ends, is uniformly heated to a temperature rise of [latex]\\Delta T[/latex]\r. The Young's modulus is E and the co efficient of linear expansion is  [latex]\\alpha[/latex]. The thermal stress in the rod is",
+      "topic": "Strain Energy and Thermal Stresses",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "occurs when excitation frequency is greater than undamped natural frequency"
+        },
+        {
+          "id": "B",
+          "text": "occurs when excitation frequency is less than undamped natural frequency"
+        },
+        {
+          "id": "C",
+          "text": "occurs when excitation frequency is equal to undamped natural frequency"
+        },
+        {
+          "id": "D",
+          "text": "never occurs"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For an under damped harmonic oscillator, resonance",
+      "topic": "Vibration",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "high speed steel"
+        },
+        {
+          "id": "B",
+          "text": "hypoeutectoid steel"
+        },
+        {
+          "id": "C",
+          "text": "hypereutectoid steel"
+        },
+        {
+          "id": "D",
+          "text": "cast iron"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If a particular Fe-C alloy contains less than 0.83% carbon, it is called",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "low carbon steel"
+        },
+        {
+          "id": "B",
+          "text": "titanium"
+        },
+        {
+          "id": "C",
+          "text": "copper"
+        },
+        {
+          "id": "D",
+          "text": "tin"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which of the following engineering materials is the most suitable candidate for hot chamber die casting?",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "gas tungsten arc welding"
+        },
+        {
+          "id": "B",
+          "text": "resistance spot welding"
+        },
+        {
+          "id": "C",
+          "text": "friction welding"
+        },
+        {
+          "id": "D",
+          "text": "submerged arc welding"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the following is a solid state joining process?",
+      "topic": "Joining-Welding",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "20.56"
+        },
+        {
+          "id": "B",
+          "text": "26.56"
+        },
+        {
+          "id": "C",
+          "text": "30.56"
+        },
+        {
+          "id": "D",
+          "text": "36.56"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In orthogonal turning of a low carbon steel bar of diameter 150 mm with uncoated carbide tool, the cutting velocity is 90 m/min. The feed is 0.24 mm/rev and the depth of cut is 2 mm. The chip thickness obtained is 0.48mm. If the orthogonal rake angle is zero and the principle cutting edge angle is [latex]90^{\\circ}[/latex]\n, the shear angle in degree is",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "induction motor"
+        },
+        {
+          "id": "B",
+          "text": "dc servo motor"
+        },
+        {
+          "id": "C",
+          "text": "steppe motor"
+        },
+        {
+          "id": "D",
+          "text": "linear servo motor"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which type of motor is NOT used in axis or spindle drives of CNC machine tools?",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left ( \\frac{4\\pi }{6}\\right )^{3} \\left ( \\frac{r}{l} \\right )^{6}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left ( \\frac{4\\pi }{6}\\right ) \\left ( \\frac{r}{l} \\right )^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left ( \\frac{4\\pi }{6}\\right )^{2} \\left ( \\frac{r}{l} \\right )^{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left ( \\frac{4\\pi }{6}\\right )^{2} \\left ( \\frac{r}{l} \\right )^{4}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Volume of a cube of side '[latex]l[/latex]' and volume of a sphere of radius 'r' are equal. Both the cube and the sphere are solid and of same material. They are being cast. The ratio of the solidification time of the cube to the same of the sphere is",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4 or 1"
+        },
+        {
+          "id": "B",
+          "text": "4 only"
+        },
+        {
+          "id": "C",
+          "text": "1 only"
+        },
+        {
+          "id": "D",
+          "text": "Undefined"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If [latex]y=x+\\sqrt{x+\\sqrt{x+\\sqrt{x+...\\infty }}}[/latex], then  y (2) =",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{2} (\\bar{a}-\\bar{b})\\cdot (\\bar{a}-\\bar{c})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2} \\left | (\\bar{a}-\\bar{b})\\times (\\bar{a}-\\bar{c})\\right |[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2} \\left |\\bar{a}\\times \\bar{b}\\times \\bar{c} \\right |[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{2} (\\bar{a}\\times \\bar{b} )\\cdot \\bar{c}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The area of a triangle formed by the tips of vectors [latex]\\bar{a},\\bar{b} \\; and \\; \\bar{c}[/latex]\n is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-\\infty\\leq x \\leq \\infty[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-\\infty\\leq x \\leq 1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x\\lt 1,x \\gt 1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-2 \\lt x \\leq 2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The solution of  [latex]\\frac{\\mathrm{d} y}{\\mathrm{d} x}=y^{2}[/latex]\n  with initial value y (0) = 1 is bounded in the interval",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{s} F(s)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{s} F(s)-f(0)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]sF (s) - f (0) [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int F(s)ds[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If F(s) is the Laplace transform of function f(t), then Laplace transform of [latex]\\int_{0}^{t} f(\\tau)d\\tau[/latex]\r\n is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "0.005"
+        },
+        {
+          "id": "D",
+          "text": "0.00025"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A calculator has accuracy up to 8 digits after decimal place. The value of when [latex]\\int_{0}^{2\\pi } \\sin x dx[/latex]\n evaluated using this calculator by trapezoidal method with 8 equal intervals, to 5 significant digits is",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "E (XY) = E (X) E (Y)"
+        },
+        {
+          "id": "B",
+          "text": "Cov (X, Y) = 0"
+        },
+        {
+          "id": "C",
+          "text": "Var (X + Y) = Var (X) + Var (Y)"
+        },
+        {
+          "id": "D",
+          "text": "[latex]E(X^{2}Y^{2})=(E(X))^{2}(E(Y))^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let X and Y be two independent random variables. Which one of the relations between expectation (E), variance (Var) and covariance (Cov) given below is FALSE?",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/6[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "[latex]\\lim_{x\\rightarrow 0}\\frac{e^x-\\left ( 1+x+\\frac{x^{2}}{1} \\right )}{x^{3}}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "Infinite"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The number of linearly independent Eigenvectors of [latex]\\begin{bmatrix} 2 & 1\\\\ 0 & 2 \\end{bmatrix}[/latex]\n is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "25%"
+        },
+        {
+          "id": "B",
+          "text": "50%"
+        },
+        {
+          "id": "C",
+          "text": "80%"
+        },
+        {
+          "id": "D",
+          "text": "89%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The inlet angle of runner blades of a Francis turbine is 90[latex]^{\\circ}[/latex]. The blades are so shaped that the tangential component of velocity at blade outlet is zero. The flow velocity remains constant throughout the blade passage and is equal to half of the blade velocity at runner inlet. The blade efficiency of the runner is",
+      "topic": "Turbines and Pumps",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.33"
+        },
+        {
+          "id": "B",
+          "text": "1.5"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "4.64"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The temperature distribution within the thermal boundary layer over a heated isothermal flat plate is given by [latex]\\frac{T-T_{w}}{T_{\\infty }-T_{w}}=\\frac{3}{2}\\left ( \\frac{y}{\\delta _{t}} \\right )-\\frac{1}{2}\\left ( \\frac{y}{\\delta _{t}} \\right )^{3},[/latex]\n where [latex]T_{w}[/latex]\n and [latex]T_{\\infty }[/latex]\n  are the temperatures of plate and free stream respectively, and y is the normal distance measured from the plate. The local Nusselt number based on the thermal boundary layer thickness [latex]\\delta _{t}[/latex]\n is given by",
+      "topic": "Heat Transfer in Flow Over Plates and Pipes",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "30"
+        },
+        {
+          "id": "C",
+          "text": "35"
+        },
+        {
+          "id": "D",
+          "text": "45"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a counter flow heat exchanger, hot fluid enters at 60[latex]^{\\circ}[/latex]C and cold fluid leaves at 30[latex]^{\\circ}[/latex]C. Mass flow rate of the hot fluid is  1 kg/s and that of the cold fluid is 2 kg/s.  Specific heat of the hot fluid is 10kJ/kgK and that of the cold fluid is 5 kJ /kgK. The Log Mean Temperature Difference (LMTD) for the heat exchanger in [latex]^{\\circ}[/latex]C is",
+      "topic": "Heat Exchanger",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "200"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The average heat transfer co-efficient on a thin hot vertical plate suspended in still air can be determined from observations of the change in plate temperature with time as it cools. Assume the plate temperature to be uniform at any instant of time and radiation heat exchange with the surroundings is negligible. The ambient temperature is [latex]25^{\\circ}C[/latex]\n the plate has a total surface area of [latex]0.1 m^{2}[/latex]\n and a mass of 4 kg. The specific heat of the plate material is 2.5 kJ/kgK.  The convective heat transfer co-efficient in [latex]W/m^{2}K[/latex], at the instant when the plate temperature is [latex]225^{\\circ}C[/latex]\n and the change in plate temperature with time  dT/dt = -0.02 K/s, is",
+      "topic": "Heat Transfer",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "N/4"
+        },
+        {
+          "id": "B",
+          "text": "N/2"
+        },
+        {
+          "id": "C",
+          "text": "N"
+        },
+        {
+          "id": "D",
+          "text": "2N"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A model of a hydraulic turbine is tested at a head of 1/4th of that under which the full scale turbine works. The diameter of the model is half of that of the full scale turbine. If N is the RPM of the full scale turbine, then the RPM of the model will be",
+      "topic": "Turbines and Pumps",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "46.40%"
+        },
+        {
+          "id": "B",
+          "text": "56.10%"
+        },
+        {
+          "id": "C",
+          "text": "58.20%"
+        },
+        {
+          "id": "D",
+          "text": "62.80%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The stroke and bore of a four stroke spark ignition engine are 250 mm and 200 mm respectively. The clearance volume is 0.001 [latex]m^{3}[/latex]. If the specific heat ratio [latex]\\gamma = 1.4[/latex],\r\n the air-standard cycle efficiency of the engine is",
+      "topic": "IC Engine",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.471"
+        },
+        {
+          "id": "B",
+          "text": "0.407"
+        },
+        {
+          "id": "C",
+          "text": "0.321"
+        },
+        {
+          "id": "D",
+          "text": "0.125"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A building has to be maintained at [latex]21^{\\circ}C[/latex]\r\n (dry bulb) and [latex]14.5^{\\circ}C[/latex]\r\n. (wet bulb). The dew point temperature under these conditions is [latex]10.17^{\\circ}C[/latex]\r\n. The outside temperature is [latex]-23^{\\circ}C[/latex]\r\n (dry bulb) and an internal and external heat transfer coefficients are 8 W/ [latex]m^{2}K[/latex]\r\n and 23 W/[latex]m^{2}K[/latex]\r\n respectively. If the building wall has the thermal conductivity of 1.2 W/mK. The minimum thickness(in m) of wall required to prevent condensation is",
+      "topic": "Properties of Moist Air",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "75"
+        },
+        {
+          "id": "B",
+          "text": "123.8"
+        },
+        {
+          "id": "C",
+          "text": "128.2"
+        },
+        {
+          "id": "D",
+          "text": "159"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Atmospheric air at a flow rate of 3 kg/s (on dry basis) enters a cooling and dehumidifying coil with an enthalpy of   85 kJ/kg of dry air and a humidity ratio of 19 grams/kg of dry air. The air leaves the coil with an enthalpy of 43 kJ/kg of dry air and a humidity ratio of 8 grams/kg of dry air. If the condensate water leaves the coil with an enthalpy of 67 kJ/kg, the required cooling capacity of the coil in kW is",
+      "topic": "Psychrometric Process",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "12.5"
+        },
+        {
+          "id": "B",
+          "text": "14.29"
+        },
+        {
+          "id": "C",
+          "text": "33.33"
+        },
+        {
+          "id": "D",
+          "text": "57.14"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A heat transformer is a device that transfers a part of the heat, supplied to it at an intermediate temperature, to a high temperature reservoir while rejecting the remaining part to a low temperature heat sink.  In such a heat transformer, 100 kJ of heat is supplied at 350 K. The maximum amount of heat in kJ that can be transferred to 400 K, when the rest is rejected to a heat sink at 300 K is",
+      "topic": "Second Law, Carnot Cycle and Entropy",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P and S"
+        },
+        {
+          "id": "B",
+          "text": "Q and S"
+        },
+        {
+          "id": "C",
+          "text": "P, R and S"
+        },
+        {
+          "id": "D",
+          "text": "P,Q,R and S"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which combination of the following statements is correct? The incorporation of reheater in a steam power plant: P: always increases the thermal efficiency of the plant. Q: always increases the dryness fraction of steam at condenser inlet. R: always increases the mean temperature of heat addition. S: always increases the specific work output.",
+      "topic": "Pure Substances",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "R and S"
+        },
+        {
+          "id": "B",
+          "text": "P and Q"
+        },
+        {
+          "id": "C",
+          "text": "Q, R and S"
+        },
+        {
+          "id": "D",
+          "text": "P, Q and R"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which combination of the following statements is correct? P. A gas cools upon expansion only when its Joule-Thomson co-efficient is positive in the temperature range of expansion. Q. For a system undergoing a process, its entropy remains constant only when the process is reversible. R. The work done by a closed system in an adiabatic process is a point function. S. A liquid expands upon freezing when the slope of its fusion curve on Pressure-Temperature diagram is negative.",
+      "topic": "Fluid Mechanics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P and Q"
+        },
+        {
+          "id": "B",
+          "text": "R and S"
+        },
+        {
+          "id": "C",
+          "text": "P and R"
+        },
+        {
+          "id": "D",
+          "text": "P and S"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which combination of the following statements about steady incompressible forced vortex flow is\ncorrect? P: Shear stress is zero at all points in the flow. Q: Vorticity is zero at all points in the flow. R: Velocity is directly proportional to the radius from the centre of the vortex. S: Total mechanical energy per unit mass is constant in the entire flow field.",
+      "topic": "Fluid Properties",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "85"
+        },
+        {
+          "id": "B",
+          "text": "90"
+        },
+        {
+          "id": "C",
+          "text": "100"
+        },
+        {
+          "id": "D",
+          "text": "110"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A 200 x 100 x 50 mm steel block is subjected to a hydrostatic pressure of 15 MPa. The Young's modulus and Poisson's ratio of the material are 200 GPa and 0.3 respectively. The change in the volume of the block in [latex]mm^{3}[/latex]\n is",
+      "topic": "Stress and Strain",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1.6"
+        },
+        {
+          "id": "C",
+          "text": "1.4"
+        },
+        {
+          "id": "D",
+          "text": "1.2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A thin spherical pressure vessel of 200 mm diameter and 1 mm thickness is subjected to an internal pressure varying from 4 to 8 MPa. Assume that the yield, ultimate, and endurance strength of material are 600, 800 and 400 MPa respectively. The factor of safety as per Goodman's relation is",
+      "topic": "Static Dynamic Loading and Failure Theories",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.062"
+        },
+        {
+          "id": "B",
+          "text": "0.125"
+        },
+        {
+          "id": "C",
+          "text": "0.25"
+        },
+        {
+          "id": "D",
+          "text": "0.785"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A natural feed journal bearing of diameter 50 mm and length 50 mm operating  at 20 revolution/s  and carries a load of 2 kN. The viscosity of the lubricant is 20 mPa s, the radial clearance is 50 [latex]\\mu[/latex]m. The Sommerfield number for the bearing is",
+      "topic": "Machine Design",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307151",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1"
+        },
+        {
+          "id": "B",
+          "text": "0.2"
+        },
+        {
+          "id": "C",
+          "text": "0.3"
+        },
+        {
+          "id": "D",
+          "text": "0.4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The speed of an engine varies from 210 rad/s to 190 rad/s. During a cycle the change in kinetic energy is found to be 400 Nm. The inertia of the flywheel in [latex]kgm^{2}[/latex]\n is",
+      "topic": "Theory of Machine",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307153",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Xe^{-2n\\pi \\left ( \\frac{\\zeta }{\\sqrt{1-\\zeta ^{2}}})\\right )}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Xe^{2n\\pi \\left ( \\frac{\\zeta }{\\sqrt{1-\\zeta ^{2}}})\\right )}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]Xe^{-2n\\pi \\left ( \\frac{\\sqrt{1-\\zeta ^{2}}}{\\zeta })\\right )}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]X[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The equation of motion of a harmonic oscillator is given by [latex]\\frac{\\mathrm{d}^{2} x}{\\mathrm{d} t^{2}}+2\\zeta \\omega _{n}\\frac{\\mathrm{d} x}{\\mathrm{d} t}+\\omega _{n}^{2}x=0[/latex] and the initial conditions at t = 0 are x (0)= X, [latex]\\frac{\\mathrm{d} x}{\\mathrm{d} t}(0)=0[/latex]. \n The amplitude of x(t) after n complete cycle is",
+      "topic": "Vibration",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307154",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.68"
+        },
+        {
+          "id": "B",
+          "text": "2.75"
+        },
+        {
+          "id": "C",
+          "text": "6.32"
+        },
+        {
+          "id": "D",
+          "text": "11"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The piston rod of diameter 20 mm and length 700 mm in a hydraulic cylinder is subjected to a compressive force of 10 kN due to the internal pressure. The end conditions for the rod may be assumed as guided at the piston end and hinged at the other end. The Young's modulus is           200 GPa. The factor of safety for the piston rod is",
+      "topic": "Static Dynamic Loading and Failure Theories",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "high and high"
+        },
+        {
+          "id": "B",
+          "text": "low and low"
+        },
+        {
+          "id": "C",
+          "text": "high and low"
+        },
+        {
+          "id": "D",
+          "text": "low and high"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In electrodischarge machining (EDM), if the thermal conductivity of tool is high and the specific heat of work piece is low, then the tool wear rate and material removal rate are expected to be respectively",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "40"
+        },
+        {
+          "id": "B",
+          "text": "80"
+        },
+        {
+          "id": "C",
+          "text": "400"
+        },
+        {
+          "id": "D",
+          "text": "800"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In orthogonal turning of medium carbon steel, the specific machining energy is     2.0 J/[latex]mm^{3}[/latex]\n. The cutting velocity, feed and depth of cut are 120 m/min, 0.2 mm/rev and 2 mm respectively. The main cutting force in N is",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "E = 20 + 2L"
+        },
+        {
+          "id": "B",
+          "text": "E = 20 + 8L"
+        },
+        {
+          "id": "C",
+          "text": "E = 80 + 2L"
+        },
+        {
+          "id": "D",
+          "text": "E = 80 + 8L"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A direct current welding machine with a linear power source characteristic provides open circuit voltage of 80 V and short circuit current of 800 A. During welding with the machine, the measured arc current is 500 A corresponding to an arc length of 5.0 mm and the measured arc current is 460 A corresponding to an arc length of 7.0 mm.  The linear voltage (E) - arc length (L) characteristic of the welding arc can be given as (where E is in Volt and L is in mm)",
+      "topic": "Joining-Welding",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.04"
+        },
+        {
+          "id": "B",
+          "text": "0.05"
+        },
+        {
+          "id": "C",
+          "text": "0.1"
+        },
+        {
+          "id": "D",
+          "text": "0.11"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A hole is specified as [latex]40^{_{0.000}^{0.050}}[/latex]\nmm. The mating shaft has a clearance fit with minimum clearance of 0.01 mm. The tolerance on the shaft is 0.04 mm. The maximum clearance in mm between the hole and the shaft is",
+      "topic": "Metrology and Inspection",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.56"
+        },
+        {
+          "id": "B",
+          "text": "1.25"
+        },
+        {
+          "id": "C",
+          "text": "0.8"
+        },
+        {
+          "id": "D",
+          "text": "0.64"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In orthogonal turning of low carbon steel pipe with principle cutting edge angle of 90[latex]^{\\circ}[/latex], the main cutting force is 1000 N and the feed force is 800 N. The shear angle is 25[latex]^{\\circ}[/latex] and orthogonal rake angle is zero. Employing Merchant's theory, the ratio of friction force to normal force acting on the cutting tool is",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "50.37"
+        },
+        {
+          "id": "B",
+          "text": "60.37"
+        },
+        {
+          "id": "C",
+          "text": "70.37"
+        },
+        {
+          "id": "D",
+          "text": "80.37"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Two metallic sheets, each of 2.0 mm thickness, are welded in a lap joint configuration by resistance spot welding at a welding current of 10 kA and welding time of 10 milli second. A spherical fusion zone extending up to the full thickness of each sheet is formed. The properties of the metallic sheets are given as: ambient temperature = 293 K melting temperature = 1793 K density = 7000 [latex]kg/m^{3}[/latex] latent heat of fusion = 300 kJ/kg specific heat = 800 J/kg K Assume:  1) Contact resistance along sheet - sheet interface is 500 micro-ohm and along electrode - sheet interface is zero; 2) No conductive heat loss through the bulk sheet materials; and 3) The complete weld fusion zone is at the melting temperature. The melting efficiency (in %) of the process is",
+      "topic": "Joining-Welding",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307161",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "40"
+        },
+        {
+          "id": "B",
+          "text": "30"
+        },
+        {
+          "id": "C",
+          "text": "20"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Capacities of production of an item over 3 consecutive months in regular time are 100, 100 and 80 and in overtime are      20, 20 and 40. The demands over those 3 months are 90, 130 and 110. The cost of production in regular time and overtime are respectively Rs. 20 per item and       Rs. 24 per item. Inventory carrying cost is Rs. 2 per item per month. The levels of starting and final inventory are nil. Backorder is not permitted. For minimum cost of plan, the level of planned production in overtime in the third month is",
+      "topic": "Production Planning and Control",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307168",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "800"
+        },
+        {
+          "id": "B",
+          "text": "2800"
+        },
+        {
+          "id": "C",
+          "text": "4800"
+        },
+        {
+          "id": "D",
+          "text": "6800"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The maximum level of inventory of an item is 100 and it is achieved with infinite replenishment rate. The inventory becomes zero over one and half month due to consumption at a uniform rate. This cycle continues throughout the year. Ordering cost is Rs. 100 per order and inventory carrying cost is Rs. 10 per item per month. Annual cost (in Rs.) of the plan, neglecting material cost, is",
+      "topic": "Inventory Control",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307169",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "400"
+        },
+        {
+          "id": "B",
+          "text": "500"
+        },
+        {
+          "id": "C",
+          "text": "600"
+        },
+        {
+          "id": "D",
+          "text": "700"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a machine shop, pins of 15 mm diameter are produced at a rate of 1000 per month and the same is consumed at a rate of 500 per month.  The production and consumption continue simultaneously till the maximum inventory is reached. Then inventory is allowed to reduced to zero due to consumption. The lost size of production is 1000. If backlog is not allowed, the maximum inventory level is",
+      "topic": "Inventory Control",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307170",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "200"
+        },
+        {
+          "id": "B",
+          "text": "250"
+        },
+        {
+          "id": "C",
+          "text": "255"
+        },
+        {
+          "id": "D",
+          "text": "260"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The net requirements of an item over 5 consecutive weeks are 50 - 0 - 15 - 20 - 20. The inventory carrying cost and ordering cost are Rs. 1 per item per week and Rs. 100 per order respectively. Starting inventory is zero. Use \"Least Unit Cost Technique\" for developing the plan.  The cost of the plan (in Rs.) is",
+      "topic": "Inventory Control",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307171",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "140"
+        },
+        {
+          "id": "B",
+          "text": "150"
+        },
+        {
+          "id": "C",
+          "text": "160"
+        },
+        {
+          "id": "D",
+          "text": "170"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A gear set has a pinion with 20 teeth and a gear with 40 teeth. The pinion runs at 30 rev/s and transmits a power of 20 kW. The teeth are on the [latex]20^{\\circ}[/latex]\n full - depth system and have a module of 5 mm. The length of the line of action is 19 mm. The center distance for the above gear set in mm is",
+      "topic": "Gears",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307172",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.21"
+        },
+        {
+          "id": "B",
+          "text": "1.25"
+        },
+        {
+          "id": "C",
+          "text": "1.29"
+        },
+        {
+          "id": "D",
+          "text": "1.33"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A gear set has a pinion with 20 teeth and a gear with 40 teeth. The pinion runs at 30 rev/s and transmits a power of 20 kW. The teeth are on the [latex]20^{\\circ}[/latex]\n full - depth system and have a module of 5 mm. The length of the line of action is 19 mm. The contact ratio of the contacting tooth is",
+      "topic": "Gears",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307173",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "77.23"
+        },
+        {
+          "id": "B",
+          "text": "212.2"
+        },
+        {
+          "id": "C",
+          "text": "225.8"
+        },
+        {
+          "id": "D",
+          "text": "289.43"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A gear set has a pinion with 20 teeth and a gear with 40 teeth. The pinion runs at 30 rev/s and transmits a power of 20 kW. The teeth are on the [latex]20^{\\circ}[/latex]\n full - depth system and have a module of 5 mm. The length of the line of action is 19 mm. The resultant force on the contacting gear tooth in N is",
+      "topic": "Gears",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307178",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "15 mm"
+        },
+        {
+          "id": "B",
+          "text": "10 mm"
+        },
+        {
+          "id": "C",
+          "text": "5 mm"
+        },
+        {
+          "id": "D",
+          "text": "0 mm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider steady one-dimensional heat flow in a plate of 20 mm thickness with a uniform heat generation of 80 MW/[latex]m^3[/latex]. The left and right faces are kept at constant temperatures of 160[latex]^{\\circ}[/latex]C and 120[latex]^{\\circ}[/latex]C respectively. The plate has a constant thermal conductivity of 200 W/mK. The location of maximum temperature within the plate from its left face is",
+      "topic": "Heat Transfer",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307179",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "160"
+        },
+        {
+          "id": "B",
+          "text": "165"
+        },
+        {
+          "id": "C",
+          "text": "200"
+        },
+        {
+          "id": "D",
+          "text": "250"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider steady one-dimensional heat flow in a plate of 20 mm thickness with a uniform heat generation of 80 MW/[latex]m^3[/latex]. The left and right faces are kept at constant temperatures of 160[latex]^{\\circ}[/latex]C and 120[latex]^{\\circ}[/latex]C respectively. The plate has a constant thermal conductivity of 200 W/mK. The maximum temperature within the plate in [latex]^{\\circ}[/latex]C is",
+      "topic": "Heat Transfer",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307184",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "87"
+        },
+        {
+          "id": "B",
+          "text": "97"
+        },
+        {
+          "id": "C",
+          "text": "107"
+        },
+        {
+          "id": "D",
+          "text": "114"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A low carbon steel bar of 147 mm diameter with a length of 630 mm is being turned with uncoated carbide insert. The observed tool lives are 24 min and 12 min for cutting velocities of 90 m/min and     120 m/min respectively. The feed and depth of cut are 0.2 mm/rev and 2 mm respectively. Use the unmachined diameter to calculate the cutting velocity. When tool life is 20 min, the cutting velocity in m/min is",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "1307185",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "20"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A low carbon steel bar of 147 mm diameter with a length of 630 mm is being turned with uncoated carbide insert. The observed tool lives are 24 min and 12 min for cutting velocities of 90 m/min and     120 m/min respectively. The feed and depth of cut are 0.2 mm/rev and 2 mm respectively. Use the unmachined diameter to calculate the cutting velocity. Neglect over - travel or approach of the tool. When tool life is 20 min, the machining time in min for a single pass is",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10710113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "Undefined"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The minimum value of function  [latex]y=x^2[/latex] in the interval [1,5] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10710213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "are always real"
+        },
+        {
+          "id": "B",
+          "text": "are always real and positive"
+        },
+        {
+          "id": "C",
+          "text": "are always real and non-negative"
+        },
+        {
+          "id": "D",
+          "text": "occur in complex conjugate pairs"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If a square matrix A is real and symmetric, then the Eigenvalues",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10710313",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{\\partial \\varphi }{\\partial x}= -\\frac{\\partial \\Psi }{\\partial x}; \\frac{\\partial \\varphi }{\\partial y}= \\frac{\\partial \\Psi }{\\partial y}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\partial \\varphi }{\\partial y}= -\\frac{\\partial \\Psi }{\\partial x}; \\frac{\\partial \\varphi }{\\partial x}= \\frac{\\partial \\Psi }{\\partial y}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\partial^2 \\varphi }{\\partial x^2}+\\frac{\\partial^2 \\varphi }{\\partial y^2}=\\frac{\\partial^2 \\Psi }{\\partial x^2}+\\frac{\\partial^2 \\Psi }{\\partial y^2}=1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\partial \\varphi }{\\partial x}+\\frac{\\partial \\varphi }{\\partial y}=\\frac{\\partial \\Psi }{\\partial x}=\\frac{\\partial \\Psi }{\\partial y}= 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If [latex]\\varphi (x,y)[/latex]\r\n and [latex]\\Psi (x,y)[/latex]\r\n are functions with continuous second derivatives, then [latex]\\varphi (x,y) + i \\Psi (x,y)[/latex]\r\n can be expressed as an analytic function of  [latex]x + i y \\; (i=\\sqrt{-1})[/latex]\r\n, when",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10710413",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "degree 1 order 2"
+        },
+        {
+          "id": "B",
+          "text": "degree 1 order 1"
+        },
+        {
+          "id": "C",
+          "text": "degree 2 order 1"
+        },
+        {
+          "id": "D",
+          "text": "degree 2  order 2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The partial differential equation [latex]\\frac{\\partial^2\\varphi }{\\partial x^2}+\\frac{\\partial^2\\varphi }{\\partial y^2}+\\left ( \\frac{\\partial \\varphi }{\\partial x} \\right )+\\left ( \\frac{\\partial \\varphi }{\\partial y} \\right )= 0[/latex]\n has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10712113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4 or 1"
+        },
+        {
+          "id": "B",
+          "text": "4 only"
+        },
+        {
+          "id": "C",
+          "text": "1 only"
+        },
+        {
+          "id": "D",
+          "text": "Undefined"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If [latex]y=x+\\sqrt{x+\\sqrt{x+\\sqrt{x+...\\infty }}}[/latex], then  y (2) =",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10712213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{2} (\\bar{a}-\\bar{b})\\cdot (\\bar{a}-\\bar{c})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2} \\left | (\\bar{a}-\\bar{b})\\times (\\bar{a}-\\bar{c})\\right |[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2} \\left |\\bar{a}\\times \\bar{b}\\times \\bar{c} \\right |[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{2} (\\bar{a}\\times \\bar{b} )\\cdot \\bar{c}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The area of a triangle formed by the tips of vectors [latex]\\bar{a},\\bar{b} \\; and \\; \\bar{c}[/latex]\n is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10712313",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-\\infty\\leq x \\leq \\infty[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-\\infty\\leq x \\leq 1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x\\lt 1,x \\gt 1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-2 \\lt x \\leq 2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The solution of  [latex]\\frac{\\mathrm{d} y}{\\mathrm{d} x}=y^{2}[/latex]\n  with initial value y (0) = 1 is bounded in the interval",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10712413",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{s} F(s)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{s} F(s)-f(0)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]sF (s) - f (0) [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int F(s)ds[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If F(s) is the Laplace transform of function f(t), then Laplace transform of [latex]\\int_{0}^{t} f(\\tau)d\\tau[/latex]\r\n is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10712513",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "0.005"
+        },
+        {
+          "id": "D",
+          "text": "0.00025"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A calculator has accuracy up to 8 digits after decimal place. The value of when [latex]\\int_{0}^{2\\pi } \\sin x dx[/latex]\n evaluated using this calculator by trapezoidal method with 8 equal intervals, to 5 significant digits is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10712613",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "E (XY) = E (X) E (Y)"
+        },
+        {
+          "id": "B",
+          "text": "Cov (X, Y) = 0"
+        },
+        {
+          "id": "C",
+          "text": "Var (X + Y) = Var (X) + Var (Y)"
+        },
+        {
+          "id": "D",
+          "text": "[latex]E(X^{2}Y^{2})=(E(X))^{2}(E(Y))^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let X and Y be two independent random variables. Which one of the relations between expectation (E), variance (Var) and covariance (Cov) given below is FALSE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10712713",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/6[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "[latex]\\lim_{x\\rightarrow 0}\\frac{e^x-\\left ( 1+x+\\frac{x^{2}}{1} \\right )}{x^{3}}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "ME",
+      "id": "10712813",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "Infinite"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The number of linearly independent Eigenvectors of [latex]\\begin{bmatrix} 2 & 1\\\\ 0 & 2 \\end{bmatrix}[/latex]\n is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    }
+  ],
+  "schema_version": 1
+}

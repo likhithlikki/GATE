@@ -1,0 +1,2933 @@
+{
+  "questions": [
+    {
+      "branch": "ME",
+      "id": "1318101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{72}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{55}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{36}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{27}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Four red balls, four green balls and four blue balls are put in a box. Three balls are pulled out of the box at random one after another without replacement. The probability that all the three balls are red is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The rank of the matrix  [latex]\\begin{bmatrix} -4 & 1 & -1 \\\\ -1 & -1 & -1 \\\\ 7 & -3 & 1 \\end{bmatrix}[/latex]   is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "f([latex]\\xi[/latex])(b-a)"
+        },
+        {
+          "id": "B",
+          "text": "f(b)([latex]\\xi[/latex]-a)"
+        },
+        {
+          "id": "C",
+          "text": "f(a)(b-[latex]\\xi[/latex])"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "According to the Mean Value Theorem, for a continuous function f(x) in the interval [a, b], there exists a value  [latex]\\xi[/latex]  in this interval such that [latex]\\int_{a}^{b}f(x)dx[/latex] =",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "-1"
+        },
+        {
+          "id": "D",
+          "text": "y"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "F(z)  is a function of the complex variable z = x + iy given by [latex]F(z)=iz+kRe(z)+ i \\; lm(z)[/latex] For what value of k will F(z) satisfy the Cauchy-Riemann equations?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{\\sigma _{1} + \\sigma _{3}}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\sigma _{1} - \\sigma _{3}}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{\\frac{\\sigma _{1} + \\sigma _{3}}{2}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sqrt{\\frac{\\sigma _{1} - \\sigma _{3}}{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If [latex]\\sigma _{1}[/latex]   and [latex]\\sigma _{3}[/latex]    are the algebraically largest and smallest principal stresses respectively, the value of the maximum shear stress is",
+      "topic": "Mohr's Circle",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sqrt{\\frac{M}{K}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2\\pi}\\sqrt{\\frac{K}{M}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2\\pi\\sqrt{\\frac{K}{M}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sqrt{\\frac{K}{M}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The equation of motion for a spring-mass system excited by a harmonic force is [latex]M\\ddot{x} + Kx = Fcos(\\omega t)[/latex] where M is the mass, K is the spring stiffness, F is the force amplitude and is the angular frequency of excitation. Resonance occurs when is equal to",
+      "topic": "Vibration",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I and III"
+        },
+        {
+          "id": "B",
+          "text": "I and IV"
+        },
+        {
+          "id": "C",
+          "text": "II and III"
+        },
+        {
+          "id": "D",
+          "text": "II and IV"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For an Oldham coupling used between two shafts, which among the following statements are correct? I. Torsional load is transferred along shaft axis. II. A velocity ratio of 1:2 between shafts is obtained without using gears. III. Bending load is transferred transverse to shaft axis. IV. Rotation is transferred along shaft axis.",
+      "topic": "Torsion of Shafts",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It satisfies continuity equation."
+        },
+        {
+          "id": "B",
+          "text": "It is unidirectional when [latex]x\\rightarrow 0[/latex] and   [latex]y\\rightarrow \\infty[/latex]."
+        },
+        {
+          "id": "C",
+          "text": "Its streamlines are given by x = y."
+        },
+        {
+          "id": "D",
+          "text": "It is irrotational"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For a two-dimentional incompressible flow field given by [latex]\\vec{u}=A(x\\hat{i}-y\\hat{j})[/latex] , where [latex]A > 0[/latex] which one of the following statements is FALSE?",
+      "topic": "Viscous, Turbulent Flow and Boundary Layer Theory",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Its pressure is less than the saturation pressure at a given temperature."
+        },
+        {
+          "id": "B",
+          "text": "Its temperature is less than the saturation temperature at a given pressure."
+        },
+        {
+          "id": "C",
+          "text": "Its volume is less than the volume of the saturated vapour at a given temperature."
+        },
+        {
+          "id": "D",
+          "text": "Its enthalpy is less than the enthalpy of the saturated vapour at a given pressure."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Which one of the following statements is correct for a superheated vapour?",
+      "topic": "Thermodynamics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "increases linearly with the true strain"
+        },
+        {
+          "id": "B",
+          "text": "decreases linearly with the true strain"
+        },
+        {
+          "id": "C",
+          "text": "first increases linearly and then decreases linearly with the true strain"
+        },
+        {
+          "id": "D",
+          "text": "remains constant"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a linearly hardening plastic material, the true stress beyond initial yielding",
+      "topic": "Stress-strain Relationship and Elastic Constants",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "0.5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Using the Taylor's tool life equation with exponent n = 0.5, if the cutting speed is reduced  by 50%, the ratio of new tool life to original tool life is",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "grinding wheel wears 200 times the volume of the material removed"
+        },
+        {
+          "id": "B",
+          "text": "grinding wheel wears 0.005 times the volume of the material removed"
+        },
+        {
+          "id": "C",
+          "text": "aspect ratio of abrasive particles used in the grinding wheel is 200"
+        },
+        {
+          "id": "D",
+          "text": "ratio of volume of abrasive particle to that of grinding wheel is 200"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A grinding ratio of 200 implies that the",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "controls spindle speed"
+        },
+        {
+          "id": "B",
+          "text": "coordinates axes movements"
+        },
+        {
+          "id": "C",
+          "text": "operates tool changer"
+        },
+        {
+          "id": "D",
+          "text": "commands canned cycle"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Interpolator in a CNC machine",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Moving average method"
+        },
+        {
+          "id": "B",
+          "text": "Exponential smoothing with linear trend"
+        },
+        {
+          "id": "C",
+          "text": "Triple Exponential smoothing"
+        },
+        {
+          "id": "D",
+          "text": "Kalman Filter"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The time series forecasting method that gives equal weightage to each of the m most recent observations is",
+      "topic": "Production Planning and Control",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 3"
+        },
+        {
+          "id": "B",
+          "text": "3, 12"
+        },
+        {
+          "id": "C",
+          "text": "4, 12"
+        },
+        {
+          "id": "D",
+          "text": "[latex]4,48[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The number of atoms per unit cell and the number of slip systems, respectively, for a face-centered cubic (FCC) crystal are",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "33.3"
+        },
+        {
+          "id": "B",
+          "text": "3.33"
+        },
+        {
+          "id": "C",
+          "text": "0.33"
+        },
+        {
+          "id": "D",
+          "text": "0.0033"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A six-faced fair dice is rolled five times. The probability (in %) of obtaining \"ONE\" at least four times is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318119",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A steel column of rectangular section (15 mm x 10 mm) and length 1.5 m is simply supported at both ends. Assuming modulus of elasticity, E = 200 GPa for steel, the critical axial load (in kN) is ____ (correct to two decimal places).",
+      "topic": "Strength of Materials",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A four  bar mechanism  is made  up of  links of length  100, 200, 300 and 350 mm. If  the 350 mm link is fixed, the number of links that can rotate fully is __________.",
+      "topic": "Theory of Machine",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If the wire diameter of a compressive helical spring is increased by 2%, the change in spring stiffness (in %) is _____ (correct to two decimal places).",
+      "topic": "Springs",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An ideal gas undergoes a process from state  1 [latex](T_{1} = 300K, p_{1} = 100kPa)[/latex]  to state 2 [latex](T_{2} = 600K, p_{2} = 500kPa)[/latex]. The specific heats of the ideal gas are : [latex]C_{p} = 1kJ/kg-K[/latex] and [latex]C_{v} = 0.7kJ/kg-K[/latex] . The change in specific entropy of the ideal gas from state 1 to state 2 (in kJ/kg-K) is ________ (correct to two decimal places).",
+      "topic": "Second Law, Carnot Cycle and Entropy",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For a Pelton wheel with a given water jet velocity, the maximum output power from the Pelton wheel is obtained when the ratio of the bucket speed to the water jet speed is _______ (correct to two decimal places).",
+      "topic": "Turbines and Pumps",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The height (in mm) for a 125 mm sine bar to measure a taper of  [latex]27^{\\circ}{32}'[/latex]  on a flat work piece is _______ (correct to three decimal places).",
+      "topic": "Metrology and Inspection",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Y is normally distributed with mean 0 and variance 1"
+        },
+        {
+          "id": "B",
+          "text": "Y is normally distributed with mean 0 and variance 5"
+        },
+        {
+          "id": "C",
+          "text": "Y has mean 0 and variance 5, but is NOT normally distributed"
+        },
+        {
+          "id": "D",
+          "text": "Y has mean 0 and variance 1, but is NOT normally distributed"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let [latex]X_{1}[/latex], [latex]X_{2}[/latex]  be two independent normal random variables with means [latex]\\mu 1[/latex], [latex]\\mu 2[/latex] and standard deviations, respectively. Consider  [latex]Y=X_{1}-X_{2}[/latex]; [latex]\\mu _{1} = \\mu _{2}[/latex]=1, [latex]\\sigma _{1}=1, \\sigma _{2}=2[/latex]. Then",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A point mass is shot vertically up from ground level with a velocity of 4 m/s at time, [latex]t_0[/latex]. It loses 20% of its impact velocity after each collision with the ground. Assuming that the acceleration due to gravity is [latex]10m/s^{2}[/latex]  and that air resistance is negligible, the mass stops bouncing and comes to complete rest on the ground after a total time (in seconds) of",
+      "topic": "Impulse and Momentum, Energy Formulations",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "below 0.5"
+        },
+        {
+          "id": "B",
+          "text": "0.5 to 0.8"
+        },
+        {
+          "id": "C",
+          "text": "0.8 to 1.0"
+        },
+        {
+          "id": "D",
+          "text": "above 1.0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A self-aligning ball bearing has a basic dynamic load rating ( [latex]C_{10}[/latex]  for [latex]10^{6}[/latex] revolutions) of 35 kN. If the equivalent radial load on the bearing is 45 kN, the excepted life (in  revolutions) is",
+      "topic": "Machine Design",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "unsteady and one-dimensional"
+        },
+        {
+          "id": "B",
+          "text": "steady and two-dimensional"
+        },
+        {
+          "id": "C",
+          "text": "stead and one-dimensional"
+        },
+        {
+          "id": "D",
+          "text": "unsteady and two-dimensional"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a Lagrangian system, the position of a fluid particle in a flow is described as [latex]x=x_{o}e^{-kt}[/latex] and [latex]y=y_{o}e^{kt}[/latex] where t is the time while [latex]x_{o}[/latex]  ,[latex]x_{o}[/latex], and k are constants. The flow is",
+      "topic": "Fluid Properties",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.865"
+        },
+        {
+          "id": "B",
+          "text": "0.826"
+        },
+        {
+          "id": "C",
+          "text": "0.777"
+        },
+        {
+          "id": "D",
+          "text": "0.632"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The maximum reduction in cross-sectional area per pass ( R ) of a cold wire drawing process is [latex]R=1-e^{-(n+1)}[/latex] where n represents the strain hardening coefficient. For the case of a perfectly plastic  material, R is",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318137",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An explicit forward Euler method is used to numerically integrate the differential equation [latex]\\frac{\\mathrm{d} y}{\\mathrm{d} x}=y[/latex] using a time step of 0.1. With the initial condition y(0) = 1, the value of y(1) computed by this method is ___________ (correct to two decimal places).",
+      "topic": "Numerical Methods",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318138",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "F(s) is the Laplace transform of the function [latex]f(t)=2t^{2}e^{-t}[/latex] F(1) is ____________ (correct to two decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318144",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A tank of volume 0.05 [latex]m^{3}[/latex]  contains a mixture of saturated water and saturated steam at [latex]200^{\\circ}C[/latex] . The mass of the liquid present is 8 kg.  The entropy (in kJ/kg K) of the mixture is ___________ (correct to two decimal places). Property data for saturated steam and water are: At [latex]200^{\\circ}C[/latex] , [latex]p_{sat}[/latex] = 1.5538 MPa [latex]v_{f}[/latex]  = 0.001157 [latex]m^{3}[/latex] /kg,  [latex]v_{g}[/latex]  = 0.12736 [latex]m^{3}[/latex] /kg [latex]s_{fg}[/latex] =4.1014 kJ/kg K, [latex]s_{f}[/latex]= 2.3309 kJ/kg K",
+      "topic": "Second Law, Carnot Cycle and Entropy",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318146",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An engine working on air standard Otto cycle is supplied with air at 0.1 MPa and [latex]35^{\\circ}C[/latex]. The compression ratio is 8.  The heat supplied is 500 kJ/kg.   Property data for air: [latex]c_{p}[/latex] = 1.005 kJ/kg K, [latex]c_{v}[/latex] = 0.718 kJ/kg K, R = 0.287 kJ/kg K. The maximum temperature (in K) of the cycle is _________ (correct to one decimal place).",
+      "topic": "IC Engine",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An orthogonal cutting operation is being carried out in which uncut thickness is 0.010 mm, cutting speed is 130 m/min, rake angle is [latex]15^{\\circ}[/latex]  and width of cut is 6 mm. It is observed that the chip thickness is 0.015 mm, the cutting force is 60 N and the thrust force is 25 N. The ratio of friction energy to total energy is __________ (correct to two decimal places).",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A bar is compressed to half of its original length. The magnitude of true strain produced in the deformed bar is _________________ (correct to two decimal places).",
+      "topic": "Stress and Strain",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The minimum value of [latex]3x+5y[/latex] such that: [latex]3x+5y\\leq 15[/latex] [latex]4x+9y\\leq 8[/latex] [latex]13x+2y\\leq 2[/latex] [latex]x\\geq 0,y\\geq 0[/latex] is _______.",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An electrochemical machining (ECM) is to be used to cut a through hole into a 12 mm thick aluminum plate. The hole has a rectangular cross-section, [latex]10 mm \\times 30 mm[/latex]. The ECM operation will be accomplished in 2 minutes, with efficiency of 90%. Assuming specific removal rate for aluminum as [latex]3.44 \\times 10^{-2} mm^{3}/(As)[/latex] , the current (in A)  required is __________ (correct to two decimal places).",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "principle, principal"
+        },
+        {
+          "id": "B",
+          "text": "principal, principle"
+        },
+        {
+          "id": "C",
+          "text": "principle, principle"
+        },
+        {
+          "id": "D",
+          "text": "principal, principal"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "\"Going by the _____ that many hands make light work, the school ____ involved all the students in the task.\" The words that best fill the blanks in the above sentence are",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "cleanliness"
+        },
+        {
+          "id": "B",
+          "text": "punctuality"
+        },
+        {
+          "id": "C",
+          "text": "frugality"
+        },
+        {
+          "id": "D",
+          "text": "greatness"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "\"Her _____  should not be confused with miserliness; she is ever willing to assist those in need.\" The word that best fills the blank in the above sentence is",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "100"
+        },
+        {
+          "id": "D",
+          "text": "700"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Seven machines take 7 minutes to make 7 identical toys. At the same rate, how many minutes would it take for 100 machine to make 100 toys?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1125"
+        },
+        {
+          "id": "B",
+          "text": "2250"
+        },
+        {
+          "id": "C",
+          "text": "2924"
+        },
+        {
+          "id": "D",
+          "text": "4500"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A rectangle becomes a square when its length and breadth are reduced by [latex]10m[/latex] and [latex]5m[/latex], respectively. During this process, the rectangle loses [latex]650m^2[/latex] of area. What is the area of the original rectangle in square meters?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "63"
+        },
+        {
+          "id": "B",
+          "text": "72"
+        },
+        {
+          "id": "C",
+          "text": "81"
+        },
+        {
+          "id": "D",
+          "text": "90"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A number consists of two digits. The sum of the digits is 9. If 45 is subtracted from the number, its digits are interchanged. What is the number?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "-3 and 3"
+        },
+        {
+          "id": "B",
+          "text": "-1 and 1"
+        },
+        {
+          "id": "C",
+          "text": "-1 and 3"
+        },
+        {
+          "id": "D",
+          "text": "1 and 3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For integers, [latex]a, b \\text{ and } c[/latex], what would be the minimum and maximum values respectively of [latex]a+b+c  \\text{  if  } \\log a + \\log b + \\log c=0[/latex]?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318162",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "a and b are both odd"
+        },
+        {
+          "id": "B",
+          "text": "a and b are both even"
+        },
+        {
+          "id": "C",
+          "text": "a is even and b is odd"
+        },
+        {
+          "id": "D",
+          "text": "a is odd and b is even"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Given that [latex]a \\text{ and }b[/latex] are integers and [latex]a+a^2b^3[/latex] is odd, which of the following statements is correct?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "210 and 140"
+        },
+        {
+          "id": "B",
+          "text": "162.5 and 187.5"
+        },
+        {
+          "id": "C",
+          "text": "245 and 130"
+        },
+        {
+          "id": "D",
+          "text": "175 and 200"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "From the time the front of a train enters a platform, it takes 25 seconds for the back of the train to leave the platform, while traveling at a constant speed of 54 km/h. At the same speed, it takes 14 seconds to pass a man running at 9 km/h in the same direction as the train. What is the length of the train and that of the platform in meters, respectively?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "If (i) is true and (ii) is false, then (iii) is false."
+        },
+        {
+          "id": "B",
+          "text": "If (i) is true and (ii) is false, then (iii) is true."
+        },
+        {
+          "id": "C",
+          "text": "If (i) and (ii) are true, then (iii) is true."
+        },
+        {
+          "id": "D",
+          "text": "If (i) and (ii) are false, then (iii) is false."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider the following three statements: i.  Some roses are red. ii.  All red flowers fade quickly. iii.  some roses fade quickly. Which of the following statements can be logically inferred from the above statements?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318201",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "968.8"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "0.5"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The Fourier cosine series for an even function [latex]f(x)[/latex] is given by [latex]f(x)=a_{0}+\\sum_{n=1}^{\\infty}a_{n}\\cos(nx)[/latex] The value of the coefficient [latex]a_{2}[/latex] for the function  [latex]f(x)=\\cos ^{2}(x) in \\left [ 0 , \\pi \\right ][/latex]  is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318202",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{x}\\cos y + e^{x}\\sin y[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2e^{x}\\cos y[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2e^{x}\\sin y[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The divergence of the vector field [latex]\\overrightarrow{u}=e^{x}\\left ( \\cos y\\hat{i} + \\sin y\\hat{j}  \\right)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318203",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Wave equation"
+        },
+        {
+          "id": "B",
+          "text": "Heat equation"
+        },
+        {
+          "id": "C",
+          "text": "Laplace's equation"
+        },
+        {
+          "id": "D",
+          "text": "Elasticity equation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider a function u which depends on position x and time t. The partial differential\nequation [latex]\\frac{\\partial u}{\\partial t}=\\frac{\\partial^2 u}{\\partial x^2}[/latex] is known as the",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318204",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2"
+        },
+        {
+          "id": "B",
+          "text": "-1"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If y is the solution of the differential equation [latex]y^{3}\\frac{d y}{dx}+x^{3}=0,y(0)=1,[/latex]  the value of   [latex]y\\left ( -1 \\right )[/latex]  is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318205",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P=\\frac{\\pi ^{2}EI}{4L^{2}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]P=\\frac{\\pi ^{2}EI}{L^{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]P=\\frac{3\\pi ^{2}EI}{4L^{2}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]P=\\frac{4\\pi ^{2}EI}{L^{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The minimum axial compressive load, P, required to initiate buckling for a pinned-pinned slender column with bending stiffness EI and length L is",
+      "topic": "Strength of Materials",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318208",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "strain harden the bolt head"
+        },
+        {
+          "id": "B",
+          "text": "decrease stiffness of the bolted joint"
+        },
+        {
+          "id": "C",
+          "text": "increase stiffness of the bolted joint"
+        },
+        {
+          "id": "D",
+          "text": "prevent yielding of the thread root"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Pre-tensioning of a bolted joint is used to",
+      "topic": "Machine Design",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318209",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "500"
+        },
+        {
+          "id": "B",
+          "text": "1000"
+        },
+        {
+          "id": "C",
+          "text": "4000"
+        },
+        {
+          "id": "D",
+          "text": "8000"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The peak wavelength of radiation emitted by a black body at a temperature of 2000 K is 1.45 [latex]\\mu[/latex]m. If the peak wavelength of emitted radiation changes to 2.90 [latex]\\mu[/latex]m, then the temperature (in K) of the black body is",
+      "topic": "Radiation",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318210",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Delta s=C_{p}ln\\left ( \\frac{T_{2}}{T_{1}} \\right )-R ln\\left ( \\frac{p_{2}}{p_{1}} \\right ) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Delta s=C_{v}ln\\left ( \\frac{T_{2}}{T_{1}} \\right )-C_{p} ln\\left ( \\frac{v_{2}}{v_{1}} \\right ) [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Delta s=C_{p}ln\\left ( \\frac{T_{2}}{T_{1}} \\right )-C_{v} ln\\left ( \\frac{p_{2}}{p_{1}} \\right ) [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Delta s=C_{v}ln\\left ( \\frac{T_{2}}{T_{1}} \\right )+R ln\\left ( \\frac{v_{1}}{v_{2}} \\right ) [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For an ideal gas with constant properties undergoing a quasi-static process, which one of\nthe following represents the change of entropy [latex](\\Delta s)[/latex] from state 1 to 2?",
+      "topic": "Thermodynamics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318211",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The rotor blade is symmetric."
+        },
+        {
+          "id": "B",
+          "text": "The stator blade is symmetric."
+        },
+        {
+          "id": "C",
+          "text": "The absolute inlet flow angle is equal to absolute exit flow angle."
+        },
+        {
+          "id": "D",
+          "text": "The absolute exit flow angle is equal to inlet angle of rotor blade."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Select the correct statement for 50% reaction stage in a steam turbine.",
+      "topic": "Turbines and Pumps",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318212",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]M_{1}\\rightarrow M_{2}+M_{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]L_{1}\\rightarrow M_{1}+M_{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]L_{1}+M_{1}\\rightarrow M_{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]M_{1}+M_{2}\\rightarrow M_{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Denoting L as liquid and M as solid in a phase-diagram with the subscripts representing different phases, a eutectoid reaction is described by",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "coarse and randomly oriented"
+        },
+        {
+          "id": "B",
+          "text": "fine and randomly oriented"
+        },
+        {
+          "id": "C",
+          "text": "fine and ordered"
+        },
+        {
+          "id": "D",
+          "text": "coarse and ordered"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "During solidification of a pure molten metal, the grains in the casting near the mould wall are",
+      "topic": "Manufacturing Engineering",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "rotation per minute (rpm)"
+        },
+        {
+          "id": "B",
+          "text": "product of rpm and number of teeth in the cutter"
+        },
+        {
+          "id": "C",
+          "text": "product of rpm, feed per tooth and number of teeth in the cutter"
+        },
+        {
+          "id": "D",
+          "text": "product of rpm, feed per tooth and number of teeth in contact"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Feed rate in slab milling operation is equal to",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318216",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "ion displacement"
+        },
+        {
+          "id": "B",
+          "text": "melting and vaporization"
+        },
+        {
+          "id": "C",
+          "text": "corrosive reaction"
+        },
+        {
+          "id": "D",
+          "text": "plastic shear"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Metal removal in electric discharge machining takes place through",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318217",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "live and dead centres"
+        },
+        {
+          "id": "B",
+          "text": "three jaw chuck"
+        },
+        {
+          "id": "C",
+          "text": "lathe dog"
+        },
+        {
+          "id": "D",
+          "text": "four jaw chuck"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The preferred option for holding an odd-shaped workpiece in a centre lathe is",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318218",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "64"
+        },
+        {
+          "id": "B",
+          "text": "212"
+        },
+        {
+          "id": "C",
+          "text": "300"
+        },
+        {
+          "id": "D",
+          "text": "1200"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A local tyre distributor expects to sell approximately 9600 steel belted radial tyres next year. Annual carrying cost is Rs. 16 per tyre and ordering cost is Rs. 75. The economic order quantity of the tyres is",
+      "topic": "Inventory Control",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318219",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If A=[latex]\\begin{bmatrix} 1 & 2 & 3 \\\\ 0 & 4 & 5\\\\ 0 & 0 & 1 \\end{bmatrix}[/latex]  then det[latex](A^{-1})[/latex] is __________ (correct to two decimal places).",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318220",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A hollow circular shaft of inner radius 10 mm, outer radius 20 mm and length 1 m is to be used as a torsional spring. If the shear modulus of the material of the shaft is 150 GPa, the torsional stiffness of the shaft (in kN-m/rad) is ________ (correct to two decimal places).",
+      "topic": "Torsion of Shafts",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318221",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Fatigue life of a material for a fully reversed loading condition is estimated from [latex]\\sigma_{a}=1100N^{-0.15}[/latex] where [latex]\\sigma_{a}[/latex] is the stress amplitude in MPa and N is the failure life in cycles.The maximum\nallowable stress amplitude (in MPa) for a life of [latex]1\\times10^{5}[/latex] cycles under the same loading\ncondition is ________(correct to two decimal places).",
+      "topic": "Machine Design",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318222",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The viscous laminar flow of air over a flat plate results in the formation of a boundary layer. The boundary layer thickness at the end of the plate of length L is [latex]\\delta_{L}[/latex]. When the plate length is increased to twice its original length, the percentage change in laminar boundary layer thickness at the end of the plate (with respect to [latex]\\delta_{L}[/latex]) is ________ (correct to twodecimal places).",
+      "topic": "Viscous, Turbulent Flow and Boundary Layer Theory",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318224",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The arrival of customers over fixed time intervals in a bank follow a Poisson distribution with an average of 30 customers/hour. The probability that the time between successive customer arrival is between 1 and 3 minutes is _______ (correct to two decimal places).",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318226",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2}{5}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{4}{5}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let z be a complex variable. For a counter-clockwise integration around a unit circle C ,centred at origin, [latex]\\mathrm{\\oint_{c} \\frac{1}{5z-4}dz}=A\\pi i[/latex] the value of A is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318227",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "exponentially distributed with mean [latex]\\frac{1}{6}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "exponentially distributed with mean 2"
+        },
+        {
+          "id": "C",
+          "text": "normally distributed with mean[latex]\\frac{3}{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "normally distributed with mean [latex]\\frac{1}{6}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let [latex]X_{1}[/latex] and [latex]X_{2}[/latex] be two independent exponentially distributed random variables with means 0.5 and 0.25, respectively. Then [latex]Y=min(X_{1},  X_{2})[/latex]  is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318228",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\overrightarrow{r}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\overrightarrow{r}}{\\left | \\overrightarrow{r} \\right |}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\overrightarrow{r}}{\\overrightarrow{r}\\cdot \\overrightarrow{r}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\overrightarrow{r}}{\\left | \\overrightarrow{r} \\right |^{3}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For a position vector [latex]\\overrightarrow{r}=x\\hat{i}+y\\hat{j}+zk[/latex] the norm of the vector can be defined as [latex]\\left | \\overrightarrow{r} \\right |=\\sqrt{x^{2}+y^{2}+z^{2}}[/latex] . Given a function [latex]\\mathrm{\\phi =ln\\left | \\overrightarrow{r} \\right |}[/latex]  its gradient [latex]\\boldsymbol{\\bigtriangledown \\phi }[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318232",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{4h\\omega }{\\delta }[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]h\\omega[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2h\\omega }{\\delta }[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2h\\omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "In a cam-follower,the follower rises by h as the cam rotates by [latex]\\delta [/latex] (radians)  at constant angular velocity [latex]\\omega [/latex] ( radins/ s ). The follower is uniformly accelerating during the first half of the rise period and it is uniformly decelerating in the latter half of the rise period. Assuming that the magnitudes of the acceleration and deceleration are same, the maximum velocity of the follower is",
+      "topic": "Theory of Machine",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318235",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "no solution"
+        },
+        {
+          "id": "B",
+          "text": "one solution"
+        },
+        {
+          "id": "C",
+          "text": "two solutions"
+        },
+        {
+          "id": "D",
+          "text": "more than two solutions"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The problem of maximizing [latex]z=x_{1}-x_{2}[/latex]  subject to constraints  [latex]x_{1}+x_{2}\\leq 10, x_{1}\\geq 0,x_{2}\\geq 0[/latex]  and [latex]x_{2}\\leq 5[/latex]  has",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318236",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Given the ordinary differential equation [latex]\\frac{d^{2} y}{d x^{2}} + \\frac{dy}{dx}-6y=0[/latex] with y(0)=0 and [latex]\\frac{dy}{dx}(0)=1[/latex] , the value of y(1) is _________ (correct to two decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318238",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A bar is subjected to a combination of a steady load of 60 kN and a load fluctuating between -10 kN and 90 kN. The corrected endurance limit of the bar is 150 MPa, the yield strength of the material is 480 MPa and the ultimate strength of the material is 600 MPa. The bar cross-section is square with side a. If the factor of safety is 2, the value of a (in mm), according to the modified Goodman's criterion, is ________ (correct to two decimal places).",
+      "topic": "Static Dynamic Loading and Failure Theories",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318244",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Ambient air is at a pressure of 100 kPa, dry bulb temperature of  [latex]30^{\\circ}C[/latex]  and and 60% relative\nhumidity. The saturation pressure of water at [latex]30^{\\circ}C[/latex]  is 4.24 kPa. The specific humidity of\nair (in g/kg of dry air) is ________ (correct to two decimal places).",
+      "topic": "Properties of Moist Air",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318245",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A test is conducted on a one-fifth scale model of a Francis turbine under a head of 2 m and volumetric flow rate of 1 [latex]m^{3}/s[/latex] at 450 rpm. Take the water density and the acceleration due to gravity as  [latex]10^{3}[/latex] kg/[latex]m^{3}[/latex] and 10 m/[latex]s^{2}[/latex], respectively. Assume no losses both in model and prototype turbines. The power (in MW) of a full sized turbine while working under a head of 30 m is _______ (correct to two decimal places).",
+      "topic": "Turbines and Pumps",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318246",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The true stress (in MPa) versus true strain relationship for a metal is given by [latex]\\sigma =1020\\, \\varepsilon^{0.4}[/latex] The cross-sectional area at the start of a test (when the stress and strain values are equal to zero) is 100 [latex]mm^{2}[/latex]. The cross-sectional area at the time of necking (in [latex]mm^{2}[/latex]) is ________\n(correct to two decimal places)",
+      "topic": "Stress and Strain",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318247",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A steel wire is drawn from an initial diameter([latex]d_{i}[/latex]) of 10 mm to a final diameter ([latex]d_{f}[/latex]) of 7.5\r\nmm. The half cone angle ([latex]\\alpha[/latex]) of the die is [latex]5^{\\circ}[/latex] and the coefficient of friction ([latex]\\mu[/latex]) between the die and the wire is 0.1. The average of the initial and final yield stress [latex][(\\sigma_{Y}) _{avg}][/latex]  is 350\r\nMPa. The equation for drawing stress [latex]\\sigma_{f}[/latex], (in MPa) is given as : [latex]\\sigma _{f}=(\\sigma _{Y})_{avg}\\left \\{ 1+\\frac{1}{\\mu cot \\alpha } \\right \\}\\left [ 1-{\\left (\\frac{d_{f}}{d_{i}}\\right )}^{2\\mu cot\\alpha } \\right ][/latex] The drawing stress (in MPa) required to carry out this operation is _________ (correct to two decimal places).",
+      "topic": "Manufacturing Engineering",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318248",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Following data correspond to an orthogonal turning of a 100 mm diameter rod on a lathe.\nRake angle:[latex]+15^{\\circ}[/latex] ; Uncut chip thickness: 0.5 mm; nominal chip thickness after the cut: 1.25\nmm. The shear angle (in degrees) for this process is _______ (correct to two decimal places).",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318249",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Taylor's tool life equation is used to estimate the life of a batch of identical HSS twist drills\nby drilling through holes at constant feed in 20 mm thick mild steel plates. In test 1, a drill\nlasted 300 holes at 150 rpm while in test 2, another drill lasted 200 holes at 300 rpm. The\nmaximum number of holes that can be made by another drill from the above batch at 200\nrpm is ______ (correct to two decimal places).",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318250",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For sand-casting a steel rectangular plate with dimensions 80 mm [latex]\\times[/latex]  120 mm [latex]\\times[/latex]  20 mm, a\ncylindrical riser has to be designed. The height of the riser is equal to its diameter. The total\nsolidification time for the casting is 2 minutes. In Chvorinov's law for the estimation of the\ntotal solidification time, exponent is to be taken as 2. For a solidification time of 3 minutes\nin the riser, the diameter (in mm) of the riser is __________ (correct to two decimal\nplaces).",
+      "topic": "Manufacturing Engineering",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318252",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A circular hole of 25 mm diameter and depth of 20 mm is machined by EDM process. The\nmaterial removal rate (in m[latex]m^{3}[/latex] /min) is expressed as [latex]4\\times 10^{4}\\mathit{IT}^{-1.23}[/latex] where I=300 A and the melting point of the material, [latex]T=1600^{\\circ}C. [/latex] The time (in minutes)\nfor machining this hole is ________ (correct to two decimal places)",
+      "topic": "Machining and Machine Tool Operation",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318253",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A welding operation is being performed with voltage = 30 V and current = 100 A. The\ncross-sectional area of the weld bead is 20 [latex]mm^{2}[/latex]. The work-piece and filler are of titanium\nfor which the specific energy of melting is 14 J/[latex]mm^{3}[/latex]. Assuming a thermal efficiency of the\nwelding process 70%, the welding speed (in mm/s) is __________ (correct to two decimal\nplaces).",
+      "topic": "Joining-Welding",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318254",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Steam in the condenser of a thermal power plant is to be condensed at a temperature of\n[latex]30^{\\circ}C[/latex] with cooling water which enters the tubes of the condenser at [latex]14^{\\circ}C[/latex] and exits at [latex]22^{\\circ}C[/latex]. The total surface area of the tubes is 50 [latex]m^{2}[/latex], and the overall heat transfer coefficient\nis 2000 W/[latex]m^{2}[/latex] K. The heat transfer (in MW) to the condenser is ______ (correct to two\ndecimal places).",
+      "topic": "Heat Exchanger",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318255",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A vehicle powered by a spark ignition engine follows air standard Otto cycle ([latex]\\gamma[/latex] =1.4). The engine generates 70 kW while consuming 10.3 kg/hr of fuel. The calorific value of fuel is 44,000 kJ/kg. The compression ratio is _______ (correct to two decimal places).",
+      "topic": "IC Engine",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318256",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "complemented, complemented"
+        },
+        {
+          "id": "B",
+          "text": "complimented, complemented"
+        },
+        {
+          "id": "C",
+          "text": "complimented, complimented"
+        },
+        {
+          "id": "D",
+          "text": "complemented, complimented"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "\"The dress ______ her so well that they all immediately _______ her on her appearance.\" The words that best fill the blanks in the above sentence are",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318257",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "undiminished"
+        },
+        {
+          "id": "B",
+          "text": "damaged"
+        },
+        {
+          "id": "C",
+          "text": "illegal"
+        },
+        {
+          "id": "D",
+          "text": "uncertain"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "\" The judge's standing in the legal; community, though shaken by false allegations of wrongdoing. remained ______ .\" The word that best fills the blank in the above sentence is",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318258",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "UVWXY"
+        },
+        {
+          "id": "B",
+          "text": "TUVWX"
+        },
+        {
+          "id": "C",
+          "text": "STUVW"
+        },
+        {
+          "id": "D",
+          "text": "RSTUV"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Find the missing group of letters in the following series: BC, FCH, LMNO, ____",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318259",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The circle has the largest area"
+        },
+        {
+          "id": "B",
+          "text": "The square has the largest area"
+        },
+        {
+          "id": "C",
+          "text": "The equilateral triangle?has the largest area"
+        },
+        {
+          "id": "D",
+          "text": "All the three shapes have the same area"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The perimeters of a circle, a square, and an equilateral triangle are equal. Which one of the following statements is true?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318260",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The value of the expression [latex] \\frac{1}{1+ \\log_u \\: vw} + \\frac{1}{1+ \\log_v \\: wu} + \\frac{1}{1+\\log_w uv} [/latex] is ______",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318261",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Forty students watched films A, B and C over a week. Each student watched either only one film or all three. Thirteen students watched film A, sixteen students watched film B and nineteen students watched film C. How many students watched all three films?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318262",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1096"
+        },
+        {
+          "id": "B",
+          "text": "1111"
+        },
+        {
+          "id": "C",
+          "text": "1243"
+        },
+        {
+          "id": "D",
+          "text": "2486"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A wire would enclose an area of [latex]1936 m^2[/latex], if it is bent to a square. The wire is cut into two pieces. The longer piece is thrice as long as the shorter piece. The long and the short pieces are bent into a square and a circle, respectively. Which of the following choices is closest to the sum of the areas enclosed by the two pieces in square meters?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318263",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "50"
+        },
+        {
+          "id": "B",
+          "text": "89"
+        },
+        {
+          "id": "C",
+          "text": "146"
+        },
+        {
+          "id": "D",
+          "text": "175"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A contract is to be completed in 52 days and 125 identical robots were employed, each operational for 7 hours a day. After 39 days, five-seventh of the work was completed. How many additional robots would be required to complete the work on time, if each robot is now operational for 8 hours a day?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318264",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "54"
+        },
+        {
+          "id": "B",
+          "text": "65"
+        },
+        {
+          "id": "C",
+          "text": "66"
+        },
+        {
+          "id": "D",
+          "text": "76"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A house has a number which need to be identified. The following three statements are given that can help in identifying the house number? i. If the house number is a multiple of 3, then it is a number from 50 to 59. ii.  If the house number is NOT a multiple of 4, then it is a number from 60 to 69. iii.  If the house number is NOT a multiple of 6, then it is a number from 70 to 79. What is the house number?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "1318265",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Two T will occur."
+        },
+        {
+          "id": "B",
+          "text": "One H and one T will occur."
+        },
+        {
+          "id": "C",
+          "text": "Two H will occur."
+        },
+        {
+          "id": "D",
+          "text": "One H wll be followed by one T."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An unbiased coin is tossed six times in a row and four different such trials are conducted. One trial implies six tosses of the coin. If H stands for head ans T stands for tail, the following are the observations from the four trials. 1. HTHTHT 2. TTHHHT 3. HTTHHT 4. HHHT_ _ Which statement describing the last two coin tosses of the fourth trial has the highest probability of being correct?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11810113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{72}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{55}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{36}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{27}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Four red balls, four green balls and four blue balls are put in a box. Three balls are pulled out of the box at random one after another without replacement. The probability that all the three balls are red is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11810213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The rank of the matrix  [latex]\\begin{bmatrix} -4 & 1 & -1 \\\\ -1 & -1 & -1 \\\\ 7 & -3 & 1 \\end{bmatrix}[/latex]   is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11810313",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "f([latex]\\xi[/latex])(b-a)"
+        },
+        {
+          "id": "B",
+          "text": "f(b)([latex]\\xi[/latex]-a)"
+        },
+        {
+          "id": "C",
+          "text": "f(a)(b-[latex]\\xi[/latex])"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "According to the Mean Value Theorem, for a continuous function f(x) in the interval [a, b], there exists a value  [latex]\\xi[/latex]  in this interval such that [latex]\\int_{a}^{b}f(x)dx[/latex] =",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11810413",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "-1"
+        },
+        {
+          "id": "D",
+          "text": "y"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "F(z)  is a function of the complex variable z = x + iy given by [latex]F(z)=iz+kRe(z)+ i \\; lm(z)[/latex] For what value of k will F(z) satisfy the Cauchy-Riemann equations?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11811813",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "33.3"
+        },
+        {
+          "id": "B",
+          "text": "3.33"
+        },
+        {
+          "id": "C",
+          "text": "0.33"
+        },
+        {
+          "id": "D",
+          "text": "0.0033"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "A six-faced fair dice is rolled five times. The probability (in %) of obtaining \"ONE\" at least four times is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11812613",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Y is normally distributed with mean 0 and variance 1"
+        },
+        {
+          "id": "B",
+          "text": "Y is normally distributed with mean 0 and variance 5"
+        },
+        {
+          "id": "C",
+          "text": "Y has mean 0 and variance 5, but is NOT normally distributed"
+        },
+        {
+          "id": "D",
+          "text": "Y has mean 0 and variance 1, but is NOT normally distributed"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let [latex]X_{1}[/latex], [latex]X_{2}[/latex]  be two independent normal random variables with means [latex]\\mu 1[/latex], [latex]\\mu 2[/latex] and standard deviations, respectively. Consider  [latex]Y=X_{1}-X_{2}[/latex]; [latex]\\mu _{1} = \\mu _{2}[/latex]=1, [latex]\\sigma _{1}=1, \\sigma _{2}=2[/latex]. Then",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11813713",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.59"
+        },
+        {
+          "id": "B",
+          "text": "1.54"
+        },
+        {
+          "id": "C",
+          "text": "2.24"
+        },
+        {
+          "id": "D",
+          "text": "3.67"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "An explicit forward Euler method is used to numerically integrate the differential equation [latex]\\frac{\\mathrm{d} y}{\\mathrm{d} x}=y[/latex] using a time step of 0.1. With the initial condition y(0) = 1, the value of y(1) computed by this method is ___________ (correct to two decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11813813",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "1.5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "F(s) is the Laplace transform of the function [latex]f(t)=2t^{2}e^{-t}[/latex] F(1) is ____________ (correct to two decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11815113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The minimum value of [latex]3x+5y[/latex] such that: [latex]3x+5y\\leq 15[/latex] [latex]4x+9y\\leq 8[/latex] [latex]13x+2y\\leq 2[/latex] [latex]x\\geq 0,y\\geq 0[/latex] is _______.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11820113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-0.5"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "0.5"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The Fourier cosine series for an even function [latex]f(x)[/latex] is given by [latex]f(x)=a_{0}+\\sum_{n=1}^{\\infty}a_{n}\\cos(nx)[/latex] The value of the coefficient [latex]a_{2}[/latex] for the function  [latex]f(x)=\\cos ^{2}(x) in \\left [ 0 , \\pi \\right ][/latex]  is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11820213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{x}\\cos y + e^{x}\\sin y[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2e^{x}\\cos y[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2e^{x}\\sin y[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The divergence of the vector field [latex]\\overrightarrow{u}=e^{x}\\left ( \\cos y\\hat{i} + \\sin y\\hat{j}  \\right)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11820313",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Wave equation"
+        },
+        {
+          "id": "B",
+          "text": "Heat equation"
+        },
+        {
+          "id": "C",
+          "text": "Laplace's equation"
+        },
+        {
+          "id": "D",
+          "text": "Elasticity equation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Consider a function u which depends on position x and time t. The partial differential\nequation [latex]\\frac{\\partial u}{\\partial t}=\\frac{\\partial^2 u}{\\partial x^2}[/latex] is known as the",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11820413",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2"
+        },
+        {
+          "id": "B",
+          "text": "-1"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If y is the solution of the differential equation [latex]y^{3}\\frac{d y}{dx}+x^{3}=0,y(0)=1,[/latex]  the value of   [latex]y\\left ( -1 \\right )[/latex]  is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11821913",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "0.25"
+        },
+        {
+          "id": "C",
+          "text": "0.5"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "If A=[latex]\\begin{bmatrix} 1 & 2 & 3 \\\\ 0 & 4 & 5\\\\ 0 & 0 & 1 \\end{bmatrix}[/latex]  then det[latex](A^{-1})[/latex] is __________ (correct to two decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11822413",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.25"
+        },
+        {
+          "id": "B",
+          "text": "0.38"
+        },
+        {
+          "id": "C",
+          "text": "0.82"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The arrival of customers over fixed time intervals in a bank follow a Poisson distribution with an average of 30 customers/hour. The probability that the time between successive customer arrival is between 1 and 3 minutes is _______ (correct to two decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11822613",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2}{5}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{4}{5}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let z be a complex variable. For a counter-clockwise integration around a unit circle C ,centred at origin, [latex]\\mathrm{\\oint_{c} \\frac{1}{5z-4}dz}=A\\pi i[/latex] the value of A is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11822713",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "exponentially distributed with mean [latex]\\frac{1}{6}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "exponentially distributed with mean 2"
+        },
+        {
+          "id": "C",
+          "text": "normally distributed with mean[latex]\\frac{3}{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "normally distributed with mean [latex]\\frac{1}{6}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Let [latex]X_{1}[/latex] and [latex]X_{2}[/latex] be two independent exponentially distributed random variables with means 0.5 and 0.25, respectively. Then [latex]Y=min(X_{1},  X_{2})[/latex]  is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11822813",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\overrightarrow{r}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\overrightarrow{r}}{\\left | \\overrightarrow{r} \\right |}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{\\overrightarrow{r}}{\\overrightarrow{r}\\cdot \\overrightarrow{r}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\overrightarrow{r}}{\\left | \\overrightarrow{r} \\right |^{3}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "For a position vector [latex]\\overrightarrow{r}=x\\hat{i}+y\\hat{j}+zk[/latex] the norm of the vector can be defined as [latex]\\left | \\overrightarrow{r} \\right |=\\sqrt{x^{2}+y^{2}+z^{2}}[/latex] . Given a function [latex]\\mathrm{\\phi =ln\\left | \\overrightarrow{r} \\right |}[/latex]  its gradient [latex]\\boldsymbol{\\bigtriangledown \\phi }[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11823513",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "no solution"
+        },
+        {
+          "id": "B",
+          "text": "one solution"
+        },
+        {
+          "id": "C",
+          "text": "two solutions"
+        },
+        {
+          "id": "D",
+          "text": "more than two solutions"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "The problem of maximizing [latex]z=x_{1}-x_{2}[/latex]  subject to constraints  [latex]x_{1}+x_{2}\\leq 10, x_{1}\\geq 0,x_{2}\\geq 0[/latex]  and [latex]x_{2}\\leq 5[/latex]  has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "ME",
+      "id": "11823613",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.47"
+        },
+        {
+          "id": "B",
+          "text": "2.2"
+        },
+        {
+          "id": "C",
+          "text": "0.85"
+        },
+        {
+          "id": "D",
+          "text": "2.6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Mechanical Engineering",
+      "text": "Given the ordinary differential equation [latex]\\frac{d^{2} y}{d x^{2}} + \\frac{dy}{dx}-6y=0[/latex] with y(0)=0 and [latex]\\frac{dy}{dx}(0)=1[/latex] , the value of y(1) is _________ (correct to two decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    }
+  ],
+  "schema_version": 1
+}
