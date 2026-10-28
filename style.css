@@ -401,3 +401,31 @@ body[data-auth-protected="true"][data-auth-state="ready"] #auth-gate-screen { di
 
 /* Catalogue freshness (exam preview) */
 .freshness-stale { border-left: 4px solid #b42318; }
+
+/* System status page (status.html) */
+:root { --st-warn: #a15c00; }
+@media (prefers-color-scheme: dark) { :root { --st-warn: #e8a53a; } }
+.status-overall { display: block; margin: 1rem 0 1.25rem; padding: .85rem 1rem; border: 1px solid var(--line); border-left-width: 6px; border-radius: var(--radius); background: var(--surface); font-weight: 700; }
+.status-overall[data-state="ok"] { border-left-color: var(--st-answered); }
+.status-overall[data-state="warn"] { border-left-color: var(--st-warn); }
+.status-overall[data-state="fail"] { border-left-color: var(--st-unanswered); }
+.status-list { list-style: none; margin: 0 0 1.25rem; padding: 0; display: grid; gap: .75rem; }
+.status-card { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); padding: .9rem 1rem; }
+.status-head { display: flex; align-items: center; gap: .75rem; flex-wrap: wrap; }
+.status-titles { flex: 1 1 14rem; min-width: 0; }
+.status-name { font: 700 1.05rem/1.3 var(--sans); margin: 0; }
+.status-where { margin: .1rem 0 0; color: var(--muted); font-size: .85rem; }
+.status-dot { flex: 0 0 auto; width: 1.9rem; height: 1.9rem; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-weight: 800; color: #fff; background: var(--st-none); }
+.status-badge { font-weight: 700; font-size: .85rem; }
+.status-card[data-state="ok"] .status-dot { background: var(--st-answered); }
+.status-card[data-state="warn"] .status-dot { background: var(--st-warn); }
+.status-card[data-state="fail"] .status-dot { background: var(--st-unanswered); }
+.status-card[data-state="skip"] .status-dot, .status-card[data-state="run"] .status-dot { background: var(--field-border); }
+.status-card[data-state="ok"] .status-badge { color: var(--st-answered); }
+.status-card[data-state="warn"] .status-badge { color: var(--st-warn); }
+.status-card[data-state="fail"] .status-badge { color: var(--error-ink); }
+.status-body { margin-top: .6rem; }
+.status-summary { margin: 0 0 .35rem; }
+.status-details { margin: 0 0 .5rem 1.1rem; padding: 0; color: var(--muted); font-size: .9rem; }
+.status-fix { margin: .25rem 0 0; padding: .55rem .7rem; background: var(--tint); border-radius: var(--radius); font-size: .92rem; }
+.status-actions { display: flex; align-items: center; gap: .75rem; flex-wrap: wrap; }

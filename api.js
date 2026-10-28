@@ -18,7 +18,7 @@
   'use strict';
 
   /* OWNER ACTION: replace with the web app URL from Apps Script > Deploy > Manage deployments (ends in /exec). */
-  var ENDPOINT_URL = 'https://script.google.com/macros/s/AKfycbx9xHLLFvzEjZvvQY46Pmw-xp79XaSH3AabUhZ433aiylDuOgITDVDy7J-QeHbhQUQcDw/exec';
+  var ENDPOINT_URL = 'REPLACE_WITH_APPS_SCRIPT_WEB_APP_URL';
 
   var CALLBACK_NAME = 'gatePublicCatalogueCallback';
   /* Fixed, internally allowed operations. A request can never name any other operation. */

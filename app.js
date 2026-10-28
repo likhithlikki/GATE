@@ -2694,7 +2694,7 @@
       }
       showFreshness('unverified', 'Checking whether this preview matches the currently published catalogue\u2026', used, 'Checking\u2026', 'Checking\u2026');
       return api.loadCatalogueMetadata().then(function (meta) {
-        var at = meta.published_at ? new Date(meta.published_at).toUTCString() + ' (supplied by the site owner)' : 'Not configured by the site owner.';
+        var at = meta.published_at ? String(meta.published_at) + ' (supplied by the site owner)' : 'Not configured by the site owner.';
         if (meta.catalogue_version === prov.catalogue_version) {
           showFreshness('ok', 'This preview matches the currently published catalogue version.', used, shortVersion(meta.catalogue_version), at);
         } else {

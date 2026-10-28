@@ -1,6 +1,6 @@
 /* GATE Prep Studio: browser adapter for the PRIVATE authentication service (auth.js)
  *
- * Talks only to the private Apps Script web app (private-backend/AuthRouter.gs). It is not the public catalogue adapter (api.js) and it
+ * Talks only to the private Apps Script web app (backend/PrivateAuthExam.gs). It is not the public catalogue adapter (api.js) and it
  * never uses JSONP: passwords, OTPs, proofs and session tokens travel only in the body of an HTTPS POST sent as text/plain (a "simple"
  * cross-origin request, so no preflight; Apps Script does not answer OPTIONS). Nothing is ever put in a URL. This file never logs a
  * request, a response, a password, a code or a token.
@@ -20,7 +20,7 @@
   'use strict';
 
   /* OWNER ACTION: replace with the private auth web app URL (Apps Script > Deploy > Manage deployments, ends in /exec). */
-  var AUTH_ENDPOINT_URL = 'https://script.google.com/macros/s/AKfycbyeo-R6JBjmR3g7JqIKrVvvfIMg5SDs09AhDuhA5COOnUhcGCpbyp_vjOAlOSN6ULA/exec';
+  var AUTH_ENDPOINT_URL = 'REPLACE_WITH_PRIVATE_AUTH_WEB_APP_URL';
   var ENDPOINT_RE = /^https:\/\/script\.google\.com\/macros\/s\/[A-Za-z0-9_\-]{10,200}\/exec$/;
   var TIMEOUT_MS = 25000;
   var STORE_KEY = 'gps.session.v1';
