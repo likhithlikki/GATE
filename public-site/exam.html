@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Local exam window preview | GATE Prep Studio</title>
+  <meta name="description" content="A local preview of the GATE Prep Studio exam window using a question bank you select from your computer. Exam attempts, saving and scoring are not available yet.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f4e9c'/%3E%3Cpath d='M9 17l5 5 9-12' fill='none' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html" aria-label="GATE Prep Studio home">
+        <span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio
+      </a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle">
+      <label for="nav-toggle" class="nav-toggle-label">Menu</label>
+      <nav class="site-nav" aria-label="Main">
+        <ul class="nav-links">
+          <li><a href="practice.html">Practice</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+          <li><a href="dashboard.html">Dashboard</a></li>
+          <li><a href="help.html">Help</a></li>
+        </ul>
+        <div class="nav-actions">
+          <a class="btn btn-quiet" href="login.html">Log in</a>
+          <a class="btn btn-primary" href="register.html">Register</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section">
+      <div class="wrap">
+        <h1>Exam window</h1>
+        <p class="formula" role="note">Local preview only. Any questions shown come from a JSON file you selected on your own computer; this site does not supply them. Your answers stay in this page&rsquo;s memory. Nothing is saved remotely, sent, timed by a server or scored, and no answer keys or explanations are available. Once the preview is submitted or time is marked up, answers become read-only.</p>
+        <p class="lead">This shows how the exam window is planned to work: a question palette, buttons to move between questions, answer selection, clear response, mark for review and a summary.</p>
+        <p class="formula" id="bank-note" role="status">Loading the question bank&hellip;</p>
+        <div class="formula" id="freshness" hidden>
+          <p><strong>Catalogue freshness:</strong> <span id="fr-headline"></span></p>
+          <p class="fine">Version used for this preview: <span id="fr-used">&mdash;</span><br>Currently published version: <span id="fr-current">&mdash;</span><br>Publication time: <span id="fr-published">&mdash;</span></p>
+        </div>
+        <noscript><p class="formula" role="note">The exam window preview needs JavaScript.</p></noscript>
+      </div>
+    </section>
+
+
+    <section class="section" id="online-exam" aria-labelledby="online-heading">
+      <div class="wrap">
+        <h2 id="online-heading">Authenticated online examination</h2>
+        <p class="formula" role="note">This section is the real, server-timed exam window. It is separate from the local preview further down. The server holds your attempt, your saved answers and the deadline; this page only shows them. A choice counts as saved only after the server confirms it, and the countdown is a view of the server&rsquo;s deadline: your browser never decides whether a late answer is valid.</p>
+        <p class="status" id="ox-state" role="status" aria-live="polite">Checking the online service&hellip;</p>
+
+        <div id="ox-idle" hidden>
+          <p>No online attempt is open. Start one from the <a href="practice.html#online-card">practice page</a>, or look for an attempt of yours that is still in progress.</p>
+          <p class="exam-actions"><button type="button" class="btn btn-outline" id="ox-find">Look for my in-progress attempts</button></p>
+          <ul class="link-list" id="ox-find-list"></ul>
+        </div>
+
+        <div id="ox-live" hidden>
+          <div class="exam-bar">
+            <p class="exam-bar-title"><strong id="ox-bar-name">Online attempt</strong> <span class="fine" id="ox-bar-label"></span></p>
+            <div class="exam-timer-box">
+              <span class="exam-timer-label" id="ox-timer-state">Server deadline in</span>
+              <span class="exam-timer" id="ox-timer" role="timer" aria-live="off" aria-labelledby="ox-timer-state">--:--:--</span>
+            </div>
+          </div>
+          <p class="fine" id="ox-info"></p>
+          <p class="exam-state" id="ox-save-state" role="status" aria-live="polite"></p>
+          <p class="exam-actions"><button type="button" class="btn btn-outline" id="ox-retry" hidden>Retry saving now</button> <button type="button" class="btn btn-quiet" id="ox-reload" hidden>Reload from the server</button></p>
+
+          <div class="exam-layout">
+            <div class="exam-main">
+              <div id="ox-window" class="form-card">
+                <h3 id="ox-qtitle" tabindex="-1">Question 1</h3>
+                <p class="fine" id="ox-qtype"></p>
+                <p class="fine" id="ox-qmarks"></p>
+                <p class="fine" id="ox-qmeta"></p>
+                <p class="exam-qtext" id="ox-qtext"></p>
+                <div class="form" id="ox-answer"></div>
+                <p class="exam-mark-state" id="ox-q-state" aria-live="polite"></p>
+                <div class="exam-actions">
+                  <button type="button" class="btn btn-outline" id="ox-clear">Clear response</button>
+                  <button type="button" class="btn btn-outline" id="ox-mark" aria-pressed="false">Mark for review</button>
+                  <button type="button" class="btn btn-outline" id="ox-bookmark" aria-pressed="false" hidden>Bookmark question</button>
+                </div>
+                <div class="exam-actions exam-nav">
+                  <button type="button" class="btn btn-outline" id="ox-prev">Previous</button>
+                  <button type="button" class="btn btn-primary" id="ox-next">Next</button>
+                  <button type="button" class="btn btn-quiet" id="ox-open-summary">Review summary</button>
+                </div>
+              </div>
+
+              <div id="ox-summary" class="form-card" hidden>
+                <h3 id="ox-summary-title" tabindex="-1">Exam summary</h3>
+                <p class="fine">Counts reflect what you have chosen on this page. Only answers marked &ldquo;saved&rdquo; are confirmed by the server. Submitting closes the attempt for good.</p>
+                <dl class="feature-grid summary-grid">
+                  <div><dt>Questions</dt><dd id="ox-sum-total">0</dd></div>
+                  <div><dt>Answered</dt><dd id="ox-sum-answered">0</dd></div>
+                  <div><dt>Not answered</dt><dd id="ox-sum-notanswered">0</dd></div>
+                  <div><dt>Marked for review</dt><dd id="ox-sum-marked">0</dd></div>
+                  <div><dt>Not yet saved</dt><dd id="ox-sum-unsaved">0</dd></div>
+                </dl>
+                <div class="table-scroll">
+                  <table class="exam-table">
+                    <caption class="fine">Status of each question</caption>
+                    <thead><tr><th scope="col">Question</th><th scope="col">Type</th><th scope="col">Status</th><th scope="col">Saved</th><th scope="col">Marked for review</th></tr></thead>
+                    <tbody id="ox-summary-rows"></tbody>
+                  </table>
+                </div>
+                <p class="status" id="ox-submit-status" role="status" aria-live="polite"></p>
+                <div class="exam-actions">
+                  <button type="button" class="btn btn-outline" id="ox-back">Back to questions</button>
+                  <button type="button" class="btn btn-primary" id="ox-submit">Submit online exam</button>
+                </div>
+              </div>
+
+              <div id="ox-result" class="form-card" hidden>
+                <h3 id="ox-result-title" tabindex="-1">Attempt closed</h3>
+                <p id="ox-closed-text"></p>
+                <p class="status" id="ox-result-status" role="status" aria-live="polite"></p>
+                <dl class="feature-grid summary-grid" id="ox-result-dl" hidden>
+                  <div class="wide"><dt>Score (exact)</dt><dd id="ox-res-score">&mdash;</dd></div>
+                  <div><dt>Maximum marks</dt><dd id="ox-res-max">&mdash;</dd></div>
+                  <div><dt>Correct / wrong</dt><dd id="ox-res-cw">&mdash;</dd></div>
+                  <div><dt>Unanswered</dt><dd id="ox-res-un">&mdash;</dd></div>
+                  <div><dt>Marks to all</dt><dd id="ox-res-mta">&mdash;</dd></div>
+                  <div class="wide"><dt>Marking profile</dt><dd id="ox-res-profile">&mdash;</dd></div>
+                </dl>
+                <div class="exam-actions">
+                  <button type="button" class="btn btn-primary" id="ox-score">Get my result</button>
+                  <button type="button" class="btn btn-outline" id="ox-review">Answer review</button>
+                </div>
+                <p class="fine">Answer keys, correct options and explanations are never shown here. Answer review stays unavailable until the owner approves its policy (D-18 / AK-08).</p>
+              </div>
+            </div>
+
+            <aside class="palette-demo exam-side" aria-labelledby="ox-palette-heading">
+              <h3 id="ox-palette-heading" class="palette-head"><span>Question palette</span></h3>
+              <div class="exam-palette" id="ox-palette"></div>
+              <ul class="legend">
+                <li><span class="q a" aria-hidden="true"></span>Answered: <strong id="ox-cnt-answered">0</strong></li>
+                <li><span class="q u" aria-hidden="true"></span>Not answered: <strong id="ox-cnt-notanswered">0</strong></li>
+                <li><span class="q r" aria-hidden="true"></span>Marked for review: <strong id="ox-cnt-marked">0</strong></li>
+                <li><span class="q n" aria-hidden="true"></span>Not visited: <strong id="ox-cnt-notvisited">0</strong></li>
+              </ul>
+            </aside>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-tint" id="local-preview-intro">
+      <div class="wrap">
+        <h2>Local exam preview</h2>
+        <p class="fine">Everything from here down is the <strong>local preview</strong>: it uses a question file from your own computer, keeps answers in this page&rsquo;s memory only, and is not an attempt.</p>
+      </div>
+    </section>
+
+    <section class="section section-tint" id="gate">
+      <div class="wrap">
+        <h2>Starting an exam</h2>
+        <p class="fine">Starting from this local preview is switched off: it is not an attempt. This is what is still missing for the preview. Authenticated online attempts are the separate section above, and they refuse to start while their own approvals are missing.</p>
+        <ul class="blockers" id="exam-blockers"></ul>
+        <h3 id="mark-profile-title">Marking profile: GATE 2026 (source-reviewed reference only)</h3>
+        <p class="fine">Reference only: reviewed against the official <a href="https://gate2026.iitg.ac.in/question-paper-pattern.html" rel="noopener">GATE 2026 question paper pattern</a> and <a href="https://gate2026.iitg.ac.in/QPs-answer-keys.html" rel="noopener">answer keys</a> pages. This is not an approved scoring profile. The zero score for an unanswered question is this site&rsquo;s interpretation, not an official statement. NAT boundary inclusivity and response syntax/rounding remain unresolved. Only 2026 has a source-reviewed profile; every other year stays unverified and blocked.</p>
+        <div class="form-card form" aria-label="Inspect marking-profile status by year"><label for="mark-policy-year">Inspect profile for a year (status lookup only)</label><div class="exam-actions"><input id="mark-policy-year" type="number" min="1900" max="2100" step="1" value="2026"><button type="button" class="btn btn-outline" id="mark-policy-check">Check profile status</button></div><p class="fine">This lookup is informational only. It cannot approve a profile, enable scoring or start an online attempt.</p></div>
+        <p class="status" id="mark-policy-status" role="status" aria-live="polite">Policy status: draft, not owner-approved. Scoring and online attempts are blocked.</p>
+        <ul class="blockers" id="mark-profile-rules"></ul>
+        <p class="fine">Current policy and scoring blockers:</p>
+        <ul class="blockers" id="mark-profile-blockers"></ul>
+        <p class="status" id="exam-gate-status" role="status" aria-live="polite"></p>
+        <p><button type="button" class="btn btn-primary btn-lg" id="exam-start" aria-disabled="true">Start exam</button></p>
+        <p class="fine">Attempt policy, once the backend exists: no pause, resuming never extends the deadline, the exam service closes the attempt at the deadline and submits the responses already saved, one active attempt per mode, at most 10 starts per hour, and a 15-second technical grace only for a final submission already in flight. None of this is enforced today.</p>
+        <p class="fine">Duration is fixed by the total marks of the paper: round(total marks &times; 10800 &divide; 65) seconds. See the <a href="help.html#duration">help page</a>. You do not set the time.</p>
+      </div>
+    </section>
+
+    <section class="section" id="exam-root" aria-labelledby="preview-heading">
+      <div class="wrap">
+        <h2 id="preview-heading">Local preview of the exam window</h2>
+
+        <div class="formula" id="exam-empty" role="note" hidden>
+          <p><strong>No question bank has been imported.</strong> There is nothing to show, and this page does not make up questions. Go to <a href="practice.html#import-card">Practice</a>, select a public-safe question-bank JSON file from your computer, then choose &ldquo;Open local exam preview&rdquo;.</p>
+        </div>
+
+        <div class="formula" id="exam-error" role="alert" hidden>
+          <p><strong>The selected questions could not be opened.</strong> <span id="exam-error-text"></span></p>
+          <p>Nothing was shown instead, and the preview did not fall back to every question. Go to <a href="practice.html#import-card">Practice</a>, choose the question count and method again, then open the preview.</p>
+        </div>
+
+        <div class="form-card" id="timer-panel">
+          <h3>Timed local preview</h3>
+          <p class="fine">This is separate from the disabled production &ldquo;Start exam&rdquo; button above. The countdown runs in this browser tab only. It is not enforced by any server and can be altered or stopped by the user, so it is not an authoritative or tamper-proof exam clock. It never starts by itself, it cannot be paused, and your answers are not saved anywhere.</p>
+          <dl class="feature-grid summary-grid">
+            <div><dt>Selected questions</dt><dd id="tp-count">&mdash;</dd></div>
+            <div><dt>Total marks</dt><dd id="tp-marks">&mdash;</dd></div>
+            <div class="wide"><dt>Calculated duration</dt><dd id="tp-duration">&mdash;</dd></div>
+          </dl>
+          <p class="status" id="exam-timer-block" role="note"></p>
+          <p class="status" id="exam-timer-status" role="status" aria-live="polite"></p>
+          <p><button type="button" class="btn btn-primary btn-lg" id="exam-start-timer" disabled>Start timed local preview</button></p>
+        </div>
+
+        <div id="exam-live">
+        <p class="fine">Your choices stay in this page&rsquo;s memory only and disappear when you reload or leave. They are never written to browser storage.</p>
+        <p class="formula" id="exam-placeholder-flag" role="note" hidden>The imported file is marked as placeholder data. These are not real GATE questions.</p>
+
+        <div class="exam-bar">
+          <p class="exam-bar-title"><strong id="exam-bar-name">Local preview</strong> <span class="fine" id="exam-bar-label"></span></p>
+          <div class="exam-timer-box">
+            <span class="exam-timer-label" id="exam-timer-state">Not running (preview)</span>
+            <span class="exam-timer" id="exam-timer" role="timer" aria-live="off" aria-labelledby="exam-timer-state">--:--:--</span>
+          </div>
+        </div>
+        <p class="fine" id="exam-selection-info"></p>
+        <p class="fine" id="exam-total-marks"></p>
+        <p class="exam-state" id="exam-state" role="status" aria-live="polite"></p>
+        <div class="exam-actions exam-preview-tools">
+          <button type="button" class="btn btn-quiet" id="exam-simulate-timeup">Preview: mark time as up</button>
+          <button type="button" class="btn btn-quiet" id="exam-restart">Preview: restart (clears all responses)</button>
+        </div>
+        <p class="status" id="exam-status" role="status" aria-live="polite"></p>
+
+        <div class="exam-layout">
+          <div class="exam-main">
+            <div id="exam-window" class="form-card">
+              <h3 id="exam-qtitle" tabindex="-1">Question 1</h3>
+              <p class="fine" id="exam-qtype"></p>
+              <p class="fine" id="exam-qmarks"></p>
+              <p class="fine" id="exam-qmeta"></p>
+              <p class="exam-qtext" id="exam-qtext"></p>
+              <div class="form" id="exam-answer"></div>
+              <p class="exam-mark-state" id="exam-mark-state"></p>
+              <div class="exam-actions">
+                <button type="button" class="btn btn-outline" id="exam-clear">Clear response</button>
+                <button type="button" class="btn btn-outline" id="exam-mark" aria-pressed="false">Mark for review</button>
+              </div>
+              <div class="exam-actions exam-nav">
+                <button type="button" class="btn btn-outline" id="exam-prev">Previous</button>
+                <button type="button" class="btn btn-primary" id="exam-next">Next</button>
+                <button type="button" class="btn btn-quiet" id="exam-open-summary">Review summary</button>
+              </div>
+            </div>
+
+            <div id="exam-summary" class="form-card" hidden>
+              <h3 id="exam-summary-title" tabindex="-1">Exam summary</h3>
+              <p class="fine">Your responses and the state of each question in this preview. A question can be both answered and marked for review. Submitting here only locks this page&rsquo;s local preview; nothing is sent or scored.</p>
+              <dl class="feature-grid summary-grid">
+                <div><dt>Questions</dt><dd id="sum-total">0</dd></div>
+                <div><dt>Answered</dt><dd id="sum-answered">0</dd></div>
+                <div><dt>Not answered</dt><dd id="sum-notanswered">0</dd></div>
+                <div><dt>Not visited</dt><dd id="sum-notvisited">0</dd></div>
+                <div><dt>Marked for review</dt><dd id="sum-marked">0</dd></div>
+                <div><dt>Answered and marked</dt><dd id="sum-both">0</dd></div>
+              </dl>
+              <div class="table-scroll">
+                <table class="exam-table">
+                  <caption class="fine">Status of each question</caption>
+                  <thead><tr><th scope="col">Question</th><th scope="col">Type</th><th scope="col">Status</th><th scope="col">Your response</th><th scope="col">Marked for review</th></tr></thead>
+                  <tbody id="exam-summary-rows"></tbody>
+                </table>
+              </div>
+              <p class="status" id="exam-submit-status" role="status" aria-live="polite"></p>
+              <div class="exam-actions">
+                <button type="button" class="btn btn-outline" id="exam-back">Back to questions</button>
+                <button type="button" class="btn btn-primary" id="exam-submit">Submit exam (preview)</button>
+              </div>
+            </div>
+          </div>
+
+          <aside class="palette-demo exam-side" aria-labelledby="palette-heading">
+            <h3 id="palette-heading" class="palette-head"><span>Question palette</span></h3>
+            <div class="exam-palette" id="exam-palette"></div>
+            <ul class="legend">
+              <li><span class="q a" aria-hidden="true"></span>Answered: <strong id="cnt-answered">0</strong></li>
+              <li><span class="q u" aria-hidden="true"></span>Not answered: <strong id="cnt-notanswered">0</strong></li>
+              <li><span class="q r" aria-hidden="true"></span>Marked for review: <strong id="cnt-marked">0</strong></li>
+              <li><span class="q n" aria-hidden="true"></span>Not visited: <strong id="cnt-notvisited">0</strong></li>
+            </ul>
+          </aside>
+        </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <p class="brand footer-brand"><span class="brand-mark" aria-hidden="true"></span>GATE Prep Studio</p>
+        <p class="fine">Practice platform for GATE aspirants. Not affiliated with the organising institutes of GATE.</p>
+      </div>
+      <nav aria-label="Practice">
+        <h3>Practice</h3>
+        <ul>
+          <li><a href="practice.html?mode=year">Year-wise papers</a></li>
+          <li><a href="practice.html?mode=subject">Subject-wise tests</a></li>
+          <li><a href="practice.html?mode=topic">Topic-wise practice</a></li>
+          <li><a href="practice.html?mode=custom">Custom tests</a></li>
+          <li><a href="practice.html?mode=full">Mock exams</a></li>
+        </ul>
+      </nav>
+      <nav aria-label="Support and legal">
+        <h3>Support</h3>
+        <ul>
+          <li><a href="help.html">Help</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="security.html">Security</a></li>
+          <li><a href="privacy.html">Privacy</a></li>
+          <li><a href="terms.html">Terms</a></li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+  <script src="api.js" defer></script>
+  <script src="app.js" defer></script>
+  <script src="auth.js" defer></script>
+  <script src="exam-api.js" defer></script>
+  <script src="online-exam.js" defer></script>
+</body>
+</html>
