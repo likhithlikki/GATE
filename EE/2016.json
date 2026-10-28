@@ -1,0 +1,1995 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1516101",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The maximum value attained by the function [latex]f(x) = x(x- 1)(x - 2)[/latex] in the interval [1, 2] is _____.",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516102",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a 3 x 3 matrix with every element being equal to 1. Its only non-zero eigenvalue is ____.",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{5}{s^{2}-4s+29}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{5}{s^{2}+5}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{s-2}{s^{2}-4s+29}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{5}{s+5}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Laplace Transform of [latex]f(t)=e^{2t}sin(5t)u(t)[/latex] is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]5e^{-1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]5e^{-2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]7e^{-1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]7e^{-2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A function y(t), such that y(0)=1 and y(1)=3[latex]e^{-1}[/latex], is a solution of the differential equation [latex]\\frac{d^{2}y}{dt^{2}}+2\\frac{dy}{dt}+y=0[/latex]. Then y(2) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{24 \\pi i}{13}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{48 \\pi i}{13}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{24}{13}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{12}{13}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of the integral [latex]\\oint_{c}\\frac{2z+5}{(z-\\frac{1}{2})(z^{2}-4z+5)}dz[/latex] over the contour |z|=1, taken in the anti-clockwise direction, would be",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{\\sqrt{2}},-45^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{\\sqrt{2}},+45^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{2},-45^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sqrt{2},+45^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The transfer function of a system is [latex]\\frac{Y(s)}{R(s)}=\\frac{s}{s+2}[/latex]. The steady state output y(t) is [latex] A \\cos (2t+\\varphi)[/latex] for the input cos(2t). The values of A and [latex]\\varphi[/latex], respectively are",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sqrt{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/\\sqrt{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3\\sqrt{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The phase cross-over frequency of the transfer function [latex]G(s)=\\frac{100}{(s+3)^{3}}[/latex] in rad/s is",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "linear and time-invariant"
+        },
+        {
+          "id": "B",
+          "text": "non-linear and time-invariant"
+        },
+        {
+          "id": "C",
+          "text": "linear and time-varying"
+        },
+        {
+          "id": "D",
+          "text": "non-linear and time-varying"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a continuous-time system with input x(t) and output y(t) given by y(t) = x(t) cos(t) This system is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{2e}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2}{e}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{e^{2}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{2e^{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of [latex]\\int_{-\\infty }^{+\\infty }e^{-t}\\delta (2t-2)dt, \\; where \\; \\delta (t)[/latex] is the Dirac delta function, is",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "14"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A temperature in the range of -40[latex]^{\\circ}[/latex]C to 55[latex]^{\\circ}[/latex]C is to be measured with a resolution of 0.1[latex]^{\\circ}[/latex]C. The minimum number of ADC bits required to get a matching dynamic range of the temperature sensor is",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "increases with r."
+        },
+        {
+          "id": "B",
+          "text": "is 0."
+        },
+        {
+          "id": "C",
+          "text": "is 3."
+        },
+        {
+          "id": "D",
+          "text": "decreases with z."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In cylindrical coordinate system, the potential produced by a uniform ring charge is given by [latex]\\psi = f(r, z)[/latex] , where f is a continuous function of r and z. Let [latex]\\vec{E}[/latex] be the resulting electric field. Then the magnitude of [latex]\\bigtriangledown \\times  \\vec{E}[/latex]",
+      "topic": "Electromagnetic Theory",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516114",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A soft-iron toroid is concentric with a long straight conductor carrying a direct current I. If the relative permeability [latex]\\mu _r[/latex] of soft-iron is 100, the ratio of the magnetic flux densities at two adjacent points located just inside and just outside the toroid, is _______.",
+      "topic": "Magnetostatic Fields",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is directly proportional to the synchronous speed."
+        },
+        {
+          "id": "B",
+          "text": "remains constant with respect to the synchronous speed."
+        },
+        {
+          "id": "C",
+          "text": "has an inverse relation with the synchronous speed."
+        },
+        {
+          "id": "D",
+          "text": "has no relation with the synchronous speed."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In a constant V/f induction motor drive, the slip at the maximum torque",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the number of unknown voltage angles increases by two and the number of unknown voltage magnitudes increases by two."
+        },
+        {
+          "id": "B",
+          "text": "the number of unknown voltage angles remains unchanged and the number of unknown voltage magnitudes increases by two"
+        },
+        {
+          "id": "C",
+          "text": "the number of unknown voltage angles increases by two and the number of unknown voltage magnitudes decreases by two."
+        },
+        {
+          "id": "D",
+          "text": "the number of unknown voltage angles remains unchanged and the number of unknown voltage magnitudes decreases by two."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In a 100 bus power system, there are 10 generators. In a particular iteration of Newton Raphson\nload flow technique (in polar coordinates), two of the PV buses are converted to PQ type. In this iteration,",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The magnitude of three-phase fault currents at buses A and B of a power system are 10 pu and 8 pu,\nrespectively. Neglect all resistances in the system and consider the pre-fault system to be unloaded.\nThe pre-fault voltage at all buses in the system is 1.0 pu. The voltage magnitude at bus B during a three-phase fault at bus A is 0.8 pu. The voltage magnitude at bus A during a three-phase fault at bus B, in pu, is ________.",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Synchronous motor and synchronous generator are sources and induction generator is a sink of reactive power"
+        },
+        {
+          "id": "B",
+          "text": "Synchronous motor and induction generator are sources and synchronous generator is a sink of reactive power"
+        },
+        {
+          "id": "C",
+          "text": "Synchronous motor is a source and induction generator and synchronous generator are sinks of reactive power."
+        },
+        {
+          "id": "D",
+          "text": "All are sources of reactive power."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a system consisting of a synchronous generator working at a lagging power factor, a synchronous motor working at an overexcited condition and a directly grid-connected induction generator. Consider capacitive VAr to be a source and inductive VAr to be a sink of reactive power. Which one of the following statements is TRUE?",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516126",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Candidates were asked to come to an interview with 3 pens each. Black, blue, green and red were the permitted pen colours that the candidate could bring. The probability that a candidate comes with all 3 pens having the same colour is _____.",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516127",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]S=\\sum_{n=0}^{\\infty }n\\alpha ^{n} \\; where \\;  |\\alpha | \\lt 1[/latex]. The value of [latex]\\alpha[/latex] in the range [latex]0 \\lt \\alpha \\lt 1[/latex], such that [latex]S= 2\\alpha[/latex]  is _______.",
+      "topic": "Z-Transform",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 14; [latex]x_{1},x_{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "2, 14; [latex]x_{1}+x_{2},x_{1}-x_{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "2, 0; [latex]x_{1},x_{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "2, 0; [latex]x_{1}+x_{2},x_{1}-x_{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let the eigenvalues of a 2 x 2 matrix A be 1, -2 with eigenvectors [latex]x_1 \\; and \\; x_2[/latex] respectively. Then the eigenvalues and eigenvectors of the matrix [latex]A^{2}-3A+4l[/latex] would, respectively, be",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Rank of [latex]A^{T} A[/latex] is less than 2."
+        },
+        {
+          "id": "B",
+          "text": "Rank of [latex]A^{T} A[/latex] is equal to 2."
+        },
+        {
+          "id": "C",
+          "text": "Rank of [latex]A^{T} A[/latex] is greater than 2."
+        },
+        {
+          "id": "D",
+          "text": "Rank of [latex]A^{T} A[/latex] can be any number between 1 and 3."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let A be a 4 x 3 real matrix with rank 2. Which one of the following statement is TRUE?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516131",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the following state-space representation of a linear time-invariant system. [latex]\\dot{x}(t)=\\begin{bmatrix} 1 & 0\\\\ 0&2 \\end{bmatrix}x(t), [/latex]  [latex]y(t)=c^{T}x(t),  [/latex]  [latex]c=\\begin{bmatrix} 1\\\\ 1 \\end{bmatrix} [/latex]   and [latex]x(0)=\\begin{bmatrix} 1\\\\ 1 \\end{bmatrix}[/latex] The value of y(t) for [latex]t= log_{e}2[/latex]  is______.",
+      "topic": "Linear Time Invariant Systems",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "once in clockwise direction"
+        },
+        {
+          "id": "B",
+          "text": "twice in clockwise direction"
+        },
+        {
+          "id": "C",
+          "text": "once in anticlockwise direction"
+        },
+        {
+          "id": "D",
+          "text": "twice in anticlockwise direction"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Loop transfer function of a feedback system is [latex]G(s)H(s)=\\frac{s+3}{s^{2}(s-3)}[/latex]. Take the Nyquist contour in the clockwise direction. Then, the Nyquist plot of G(s)H(s) encircles -1+ j0",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516133",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given the following polynomial equation [latex]s^{3}+5.5s^{2}+8.5s+3=0[/latex], the number of roots of the polynomial, which have real parts strictly less than -1, is ________ .",
+      "topic": "Control Systems",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "cos(t) is an eigen-signal but sin(t) is not"
+        },
+        {
+          "id": "B",
+          "text": "cos(t) and sin(t) are both eigen-signals but with different eigenvalues"
+        },
+        {
+          "id": "C",
+          "text": "sin(t) is an eigen-signal but cos(t) is not"
+        },
+        {
+          "id": "D",
+          "text": "cos(t) and sin(t) are both eigen-signals with identical eigenvalues"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The output of a continuous-time, linear time-invariant system is denoted by T{x(t)} where x(t) is the input signal. A signal z(t) is called eigen-signal of the system T, when [latex]T\\{z(t)\\} =  \\gamma z(t)[/latex],\r\nwhere [latex]\\gamma[/latex] is a complex number, in general, and is called an eigenvalue of T. Suppose the impulse response of the system T is real and even. Which of the following statements is TRUE?",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "x = -2"
+        },
+        {
+          "id": "B",
+          "text": "y = 2"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x^{2}+y^{2}=2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](x+2)^{2}+y^{2}=16[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two electric charges q and -2q are placed at (0,0) and (6,0) on the x-y plane. The equation of the zero equipotential curve in the x-y plane is",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516140",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase cable is supplying 800 kW and 600 kVAr to an inductive load. It is intended to supply an additional resistive load of 100 kW through the same cable without increasing the heat\ndissipation in the cable, by providing a three-phase bank of capacitors connected in star across the load. Given the line voltage is 3.3 kV, 50 Hz, the capacitance per phase of the bank, expressed in microfarads, is ________.",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516141",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 30 MVA, 3-phase, 50 Hz, 13.8 kV, star-connected synchronous generator has positive, negative and zero sequence reactances, 15%, 15% and 5% respectively. A reactance ([latex]X_n[/latex]) is connected between the neutral of the generator and ground. A double line to ground fault takes place involving phases 'b' and 'c', with a fault impedance of j0.1 p.u. The value of [latex]X_n[/latex] (in p.u.) that will\nlimit the positive sequence generator current to 4270 A is _________.",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516143",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.87"
+        },
+        {
+          "id": "B",
+          "text": "0.9"
+        },
+        {
+          "id": "C",
+          "text": "0.78"
+        },
+        {
+          "id": "D",
+          "text": "0.45"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase thyristor-bridge rectifier is fed from a 230 V, 50 Hz, single-phase AC mains. If it is delivering a constant DC current of 10 A, at firing angle of 30[latex]^{\\circ}[/latex], then value of the power factor at AC mains is",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516146",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase 400 V, 50 Hz transformer has an iron loss of 5000 W at the rated condition. When operated at 200 V, 25 Hz, the iron loss is 2000 W. When operated at 416 V, 52 Hz, the value of the hysteresis loss divided by the eddy current loss is ______.",
+      "topic": "Transformers",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516147",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A DC shunt generator delivers 45 A at a terminal voltage of 220 V. The armature and the shunt\nfield resistances are 0.01 [latex]\\Omega[/latex] and 44 [latex]\\Omega[/latex] respectively. The stray losses are 375 W. The percentage efficiency of the DC generator is ____________.",
+      "topic": "Electrical Machines",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516148",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase, 50 Hz salient-pole synchronous motor has a per-phase direct-axis reactance ([latex]X_{d}[/latex]) of 0.8 pu and a per-phase quadrature-axis reactance ([latex]X_{q}[/latex]) of 0.6 pu. Resistance of the machine is negligible. It is drawing full-load current at 0.8 pf (leading). When the terminal voltage is 1 pu, per-phase induced voltage, in pu, is _________.",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516149",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "22"
+        },
+        {
+          "id": "B",
+          "text": "24.2"
+        },
+        {
+          "id": "C",
+          "text": "242"
+        },
+        {
+          "id": "D",
+          "text": "2420"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase, 22 kVA, 2200 V/ 220 V, 50 Hz, distribution transformer is to be connected as an auto-transformer to get an output voltage of 2420 V. Its maximum kVA rating as an autotransformer is",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516150",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "234"
+        },
+        {
+          "id": "B",
+          "text": "245"
+        },
+        {
+          "id": "C",
+          "text": "300"
+        },
+        {
+          "id": "D",
+          "text": "331"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase full-bridge voltage source inverter (VSI) is fed from a 300 V battery. A pulse of 120[latex]^{\\circ}[/latex] duration is used to trigger the appropriate devices in each half-cycle. The rms value of the fundamental component of the output voltage, in volts, is",
+      "topic": "Inverters",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase transmission line has two conductors each of 10 mm radius. These are fixed at a center-to-center distance of 1 m in a horizontal plane. This is now converted to a three-phase transmission line by introducing a third conductor of the same radius. This conductor is fixed at an equal distance D from the two single-phase conductors. The three-phase line is fully transposed. The positive sequence inductance per phase of the three-phase system is to be 5% more than that of the inductance per conductor of the single-phase system. The distance D, in meters, is _______.",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A dc voltage with ripple is given by [latex]v(t)=[100+10\\sin(\\omega t)-5\\sin (3\\omega t)][/latex] volts. Measurements of this voltage [latex]v(t)[/latex], made by moving-coil and moving-iron voltmeters, show readings of [latex]V_1 \\; and \\; V_2[/latex] respectively. The value of [latex]V_2 - V_1[/latex], in volts, is _________.",
+      "topic": "Galvanometers, Voltmeters and Ammeters",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516204",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]9e^{-\\frac{t}{3}}u(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]9e^{-\\frac{t}{6}}u(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]9e^{-\\frac{t}{3}}u(t)-6e^{-\\frac{t}{6}}u(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]54e^{-\\frac{t}{6}}u(t)-54e^{-\\frac{t}{3}}u(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a causal LTI system characterized by differential equation [latex]\\frac{dy(t)}{dt}+\\frac{1}{6}y(t)=3x(t)[/latex]. The response of the system to the input [latex]x(t)=3e^{-\\frac{t}{3}}u(t)[/latex]. where u(t) denotes the unit step function, is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516205",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Suppose the maximum frequency in a band-limited signal [latex]x(t)[/latex] is 5 kHz. Then, the maximum frequency in [latex]x(t)\\cos (2000\\pi t)[/latex], in kHz, is ________.",
+      "topic": "Signals and Systems",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516206",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "f(z) is both continuous and analytic"
+        },
+        {
+          "id": "B",
+          "text": "f(z) is continuous but not analytic"
+        },
+        {
+          "id": "C",
+          "text": "f(z) is not continuous but is analytic"
+        },
+        {
+          "id": "D",
+          "text": "f(z) is neither continuous nor analytic"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the function [latex]f(z)=z+z^*[/latex] where z is a complex variable and [latex]z^*[/latex] denotes its complex conjugate. Which one of the following is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516207",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 1, -1"
+        },
+        {
+          "id": "B",
+          "text": "1, 0.5 + j0.866, 0.5 - j0.866"
+        },
+        {
+          "id": "C",
+          "text": "1, -0.5 + j0.866, -0.5 - j0.866"
+        },
+        {
+          "id": "D",
+          "text": "0, 1, -1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3 x 3 matrix P is such that, [latex]P^{3} = P[/latex]. Then the eigenvalues of P are",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516208",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]te^{-t}u(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](e^{-t}-te^{-t})u(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](-e^{-t}+te^{-t})u(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{-t}u(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The solution of the differential equation, for [latex]t \\gt 0, y''(t)+2y'(t)+y(t)=0[/latex] with initial conditions y(0) = 0 and y'(0) = 1, is (u(t) denotes the unit step function),",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516209",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of the line integral [latex]\\int_{c}(2xy^{2}dx+2x^{2}ydy+dz)[/latex] along a path joining the origin (0,0,0) and the point (1,1,1) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516210",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f(x)=a_{0}+\\sum_{k=1}^{\\infty }a_{k}cos(kx)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f(x)=\\sum_{k=1}^{\\infty }b_{k}sin(kx)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f(x)=a_{0}+\\sum_{k=1}^{\\infty }a_{2k}cos(kx)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f(x)=\\sum_{k=0}^{\\infty }a_{2k+1}sin(2k+1)x[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let f(x) be a real, periodic function satisfying f(-x)=-f(x). The general form of its Fourier series representation would be",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516212",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The voltage (V) and current (A) across a load are as follows. [latex]v(t) = 100 sin(\\omega t)[/latex], [latex]i(t) = 10 sin(\\omega t - 60^{\\circ}) + 2 sin(3\\omega t) + 5 sin(5\\omega t)[/latex]. The average power consumed by the load, in W, is___________.",
+      "topic": "Steady State AC Analysis",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "189 x 189"
+        },
+        {
+          "id": "B",
+          "text": "100 x 100"
+        },
+        {
+          "id": "C",
+          "text": "90 x 90"
+        },
+        {
+          "id": "D",
+          "text": "180 x 180"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A power system has 100 buses including 10 generator buses. For the load flow analysis using Newton-Raphson method in polar coordinates, the size of the Jacobian is",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "capacitive"
+        },
+        {
+          "id": "B",
+          "text": "inductive"
+        },
+        {
+          "id": "C",
+          "text": "resistive"
+        },
+        {
+          "id": "D",
+          "text": "zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The inductance and capacitance of a 400 kV, three-phase, 50 Hz lossless transmission line are 1.6 mH/km/phase and 10 nF/km/phase respectively. The sending end voltage is maintained at 400 kV. To maintain a voltage of 400 kV at the receiving end, when the line is delivering 300 MW load, the shunt compensation required is",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516217",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 50 MVA, 10 kV, 50 Hz, star-connected, unloaded three-phase alternator has a synchronous reactance of 1 p.u. and a sub-transient reactance of 0.2 p.u. If a 3-phase short circuit occurs close to the generator terminals, the ratio of initial and final values of the sinusoidal component of the short circuit current is ________.",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516218",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a linear time-invariant system with transfer function [latex]H(s)=\\frac{1}{(s+1)}[/latex] If the input is cos(t) and the steady state output is [latex]A \\cos (t+\\alpha )[/latex], then the value of A is _________.",
+      "topic": "Laplace Transform",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516219",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase diode bridge rectifier is feeding a constant DC current of 100 A to a highly inductive load. If three-phase, 415 V, 50 Hz AC source is supplying to this bridge rectifier then the rms value of the current in each diode, in ampere, is _____________.",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516224",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2 and 5"
+        },
+        {
+          "id": "B",
+          "text": "5 and 2"
+        },
+        {
+          "id": "C",
+          "text": "3 and 4"
+        },
+        {
+          "id": "D",
+          "text": "4 and 3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The graph associated with an electrical network has 7 branches and 5 nodes. The number of independent KCL equations and the number of independent KVL equations, respectively, are",
+      "topic": "Magnetically Coupled Circuits, Network Topology and Filters",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516226",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\overline{a.b}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "a.b"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Boolean expression [latex]\\overline{(a+\\bar{b}+c+\\bar{d})+(b+\\bar{c})}[/latex] simplifies to",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516229",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of the integral [latex]2\\int_{-\\infty }^{\\infty }(\\frac{sin 2\\pi t}{\\pi t})dt[/latex] is equal to",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516230",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let y(x) be the solution of the differential equation [latex]\\frac{d^{2}y}{dx^{2}}-4\\frac{dy}{dx}+4y=0[/latex] with initial conditions y(0)=0 and [latex]\\frac{dy}{dx}|_{x=0}=1[/latex]. Then the value of y(1) is _________.",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516231",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The line integral of the vector field [latex]F = 5xz \\hat{i}+ (3x^{2} + 2y) \\hat{j} + x^{2}z\\hat{k}[/latex] along a path from (0,0,0) to (1,1,1) parametrized by (t, [latex]t^{2}[/latex], t) is _____.",
+      "topic": "Electromagnetic Theory",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516232",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "a circle of radius [latex]\\sqrt{10}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "a circle of radius [latex]\\frac{1}{\\sqrt{10}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "an ellipse with major axis along [latex]\\binom{1}{1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "an ellipse with minor axis along [latex]\\binom{1}{1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]P=\\begin{bmatrix} 3 & 1\\\\ 1&3 \\end{bmatrix}[/latex]. Consider the set S of all vectors [latex]\\binom{x}{y}[/latex] such that [latex]a^{2}+b^{2}=1[/latex] where [latex]\\binom{a}{b} =P\\binom{x}{y}[/latex]. Then S is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516233",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2,\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4,\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2,\\frac{1}{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]4,\\frac{1}{4}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let the probability density function of a random variable, X, be given as: [latex]f_X(x)=\\frac{3}{2}e^{-3x}u(x)+ae^{4x}u(-x)[/latex] where u(x) is the unit step function. Then the value of 'a' and [latex]Prob\\{X\\leq 0\\}[/latex], respectively, are",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516239",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0\\lt T \\lt\\frac{4(K+1)}{K-1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]0 \\lt K \\lt \\frac{4(T+2)}{T-2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0 \\lt K \\lt \\frac{T+2}{T-2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0 \\lt T \\lt \\frac{8(K+1)}{K-1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The open loop transfer function of a unity feedback control system is given by [latex]G(s)=\\frac{K(s+1)}{s(1+Ts)(1+2s)}, K\\gt 0,T \\gt 0[/latex] The closed loop system will be stable if,",
+      "topic": "Control Systems",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516240",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "At no load condition, a 3-phase, 50 Hz, lossless power transmission line has sending-end and\nreceiving-end voltages of 400 kV and 420 kV respectively. Assuming the velocity of traveling wave to be the velocity of light, the length of the line, in km, is ____________.",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516241",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The power consumption of an industry is 500 kVA, at 0.8 p.f. lagging. A synchronous motor is added to raise the power factor of the industry to unity. If the power intake of the motor is 100 kW, the p.f. of the motor is _____________",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516243",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The starting line current of a 415 V, 3-phase, delta connected induction motor is 120 A, when the rated voltage is applied to its stator winding. The starting line current at a reduced voltage of 110 V,\nin ampere, is _________.",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516244",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase, 2 kVA, 100/200 V transformer is reconnected as an auto-transformer such that its kVA rating is maximum. The new rating, in kVA, is ______.",
+      "topic": "Transformers",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516249",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{\\lambda _{1}t}\\alpha[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{\\lambda _{2}t}\\beta[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]e^{\\lambda _{2}t}\\alpha[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{\\lambda _{1}t}\\alpha + e^{\\lambda _{2}t}\\beta[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a linear time invariant system [latex]\\dot{x}=Ax[/latex], with initial condition [latex]x(0)[/latex] at t=0. Suppose [latex]\\alpha \\; and \\; \\beta[/latex] are eigenvectors of (2 x 2) matrix A corresponding to distinct eigenvalues [latex]\\lambda_{1} \\; and \\;  \\lambda _{2}[/latex] respectively. Then the response [latex]x(t)[/latex] of the system due to initial condition [latex]x(0)=\\alpha[/latex] is",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516250",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1.02}{s^{2}+5s+100}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{102}{s^{2}+10s+100}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{100}{s^{2}+10s+100}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{102}{s^{2}+5s+100}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A second-order real system has the following properties: a) the damping ratio [latex]\\xi[/latex] = 0.5 and undamped natural frequency [latex]\\omega _{n}[/latex]=10 rad/s, b) the steady state value of the output, to a unit step input, is 1.02. The transfer function of the system is",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516251",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 10[latex]\\sqrt{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "10[latex]\\sqrt{3}[/latex] : 1"
+        },
+        {
+          "id": "C",
+          "text": "01:10"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sqrt{3}[/latex] : 10"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Three single-phase transformers are connected to form a delta-star three-phase transformer of 110 kV/ 11 kV. The transformer supplies at 11 kV a load of 8 MW at 0.8 p.f. lagging to a nearby plant. Neglect the transformer losses. The ratio of phase currents in delta side to star side is",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516252",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The gain at the breakaway point of the root locus of a unity feedback system with open loop transfer function [latex]G(s)=\\frac{Ks}{(s-1)(s-4)}[/latex] is",
+      "topic": "Root Locus Techniques",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "1516254",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An energy meter, having meter constant of 1200 revolutions/kWh, makes 20 revolutions in 30 seconds for a constant load. The load, in kW, is _____________.",
+      "topic": "Measurement of Energy and Power",
+      "type": "NAT",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11610115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The maximum value attained by the function [latex]f(x) = x(x- 1)(x - 2)[/latex] in the interval [1, 2] is _____.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11610215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a 3 x 3 matrix with every element being equal to 1. Its only non-zero eigenvalue is ____.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11610415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]5e^{-1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]5e^{-2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]7e^{-1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]7e^{-2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A function y(t), such that y(0)=1 and y(1)=3[latex]e^{-1}[/latex], is a solution of the differential equation [latex]\\frac{d^{2}y}{dt^{2}}+2\\frac{dy}{dt}+y=0[/latex]. Then y(2) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11610515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{24 \\pi i}{13}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{48 \\pi i}{13}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{24}{13}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{12}{13}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of the integral [latex]\\oint_{c}\\frac{2z+5}{(z-\\frac{1}{2})(z^{2}-4z+5)}dz[/latex] over the contour |z|=1, taken in the anti-clockwise direction, would be",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11612615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1"
+        },
+        {
+          "id": "B",
+          "text": "0.2"
+        },
+        {
+          "id": "C",
+          "text": "0.4"
+        },
+        {
+          "id": "D",
+          "text": "0.8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Candidates were asked to come to an interview with 3 pens each. Black, blue, green and red were the permitted pen colours that the candidate could bring. The probability that a candidate comes with all 3 pens having the same colour is _____.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11612815",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 14; [latex]x_{1},x_{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "2, 14; [latex]x_{1}+x_{2},x_{1}-x_{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "2, 0; [latex]x_{1},x_{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "2, 0; [latex]x_{1}+x_{2},x_{1}-x_{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let the eigenvalues of a 2 x 2 matrix A be 1, -2 with eigenvectors [latex]x_1 \\; and \\; x_2[/latex] respectively. Then the eigenvalues and eigenvectors of the matrix [latex]A^{2}-3A+4l[/latex] would, respectively, be",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11612915",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Rank of [latex]A^{T} A[/latex] is less than 2."
+        },
+        {
+          "id": "B",
+          "text": "Rank of [latex]A^{T} A[/latex] is equal to 2."
+        },
+        {
+          "id": "C",
+          "text": "Rank of [latex]A^{T} A[/latex] is greater than 2."
+        },
+        {
+          "id": "D",
+          "text": "Rank of [latex]A^{T} A[/latex] can be any number between 1 and 3."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let A be a 4 x 3 real matrix with rank 2. Which one of the following statement is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11620615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "f(z) is both continuous and analytic"
+        },
+        {
+          "id": "B",
+          "text": "f(z) is continuous but not analytic"
+        },
+        {
+          "id": "C",
+          "text": "f(z) is not continuous but is analytic"
+        },
+        {
+          "id": "D",
+          "text": "f(z) is neither continuous nor analytic"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the function [latex]f(z)=z+z^*[/latex] where z is a complex variable and [latex]z^*[/latex] denotes its complex conjugate. Which one of the following is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11620715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 1, -1"
+        },
+        {
+          "id": "B",
+          "text": "1, 0.5 + j0.866, 0.5 - j0.866"
+        },
+        {
+          "id": "C",
+          "text": "1, -0.5 + j0.866, -0.5 - j0.866"
+        },
+        {
+          "id": "D",
+          "text": "0, 1, -1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3 x 3 matrix P is such that, [latex]P^{3} = P[/latex]. Then the eigenvalues of P are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11620815",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]te^{-t}u(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](e^{-t}-te^{-t})u(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](-e^{-t}+te^{-t})u(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{-t}u(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The solution of the differential equation, for [latex]t \\gt 0, y''(t)+2y'(t)+y(t)=0[/latex] with initial conditions y(0) = 0 and y'(0) = 1, is (u(t) denotes the unit step function),",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11620915",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of the line integral [latex]\\int_{c}(2xy^{2}dx+2x^{2}ydy+dz)[/latex] along a path joining the origin (0,0,0) and the point (1,1,1) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11623015",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5"
+        },
+        {
+          "id": "B",
+          "text": "5.65"
+        },
+        {
+          "id": "C",
+          "text": "7.38"
+        },
+        {
+          "id": "D",
+          "text": "9.36"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let y(x) be the solution of the differential equation [latex]\\frac{d^{2}y}{dx^{2}}-4\\frac{dy}{dx}+4y=0[/latex] with initial conditions y(0)=0 and [latex]\\frac{dy}{dx}|_{x=0}=1[/latex]. Then the value of y(1) is _________.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11623215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a circle of radius [latex]\\sqrt{10}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "a circle of radius [latex]\\frac{1}{\\sqrt{10}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "an ellipse with major axis along [latex]\\binom{1}{1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "an ellipse with minor axis along [latex]\\binom{1}{1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]P=\\begin{bmatrix} 3 & 1\\\\ 1&3 \\end{bmatrix}[/latex]. Consider the set S of all vectors [latex]\\binom{x}{y}[/latex] such that [latex]a^{2}+b^{2}=1[/latex] where [latex]\\binom{a}{b} =P\\binom{x}{y}[/latex]. Then S is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    },
+    {
+      "branch": "EE",
+      "id": "11623315",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2,\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4,\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2,\\frac{1}{4}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]4,\\frac{1}{4}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let the probability density function of a random variable, X, be given as: [latex]f_X(x)=\\frac{3}{2}e^{-3x}u(x)+ae^{4x}u(-x)[/latex] where u(x) is the unit step function. Then the value of 'a' and [latex]Prob\\{X\\leq 0\\}[/latex], respectively, are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2016
+    }
+  ],
+  "schema_version": 1
+}

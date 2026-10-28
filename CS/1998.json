@@ -1,0 +1,1586 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1101701",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\dfrac{1}{6}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\dfrac{3}{8}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\dfrac{1}{8}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\dfrac{1}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A die is rolled three times. The probability that exactly one odd number turns up among the three outcomes is",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101702",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "has unique solution"
+        },
+        {
+          "id": "B",
+          "text": "has no solution"
+        },
+        {
+          "id": "C",
+          "text": "has finite number of solutions"
+        },
+        {
+          "id": "D",
+          "text": "has infinite number of solutions"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following set of equations [latex]x+2y=5\\\\ 4x+8y=12\\\\ 3x+6y+3z=15[/latex] This set",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101703",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "converges within a few iterations"
+        },
+        {
+          "id": "B",
+          "text": "guaranteed to work for all continuous functions"
+        },
+        {
+          "id": "C",
+          "text": "is faster than the Newton-Raphson method"
+        },
+        {
+          "id": "D",
+          "text": "requires that there be no error in determining the sign of the function"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements applies to the bisection method used for finding roots of functions:",
+      "topic": "Numerical Method",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101704",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "continuous and differentiable"
+        },
+        {
+          "id": "B",
+          "text": "continuous but not differentiable"
+        },
+        {
+          "id": "C",
+          "text": "differentiable but not continuous"
+        },
+        {
+          "id": "D",
+          "text": "neither continuous nor differentiable"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the function y=|x| in the interval [-1, 1]. In this interval, the function is",
+      "topic": "Functions",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101705",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I stay if you go"
+        },
+        {
+          "id": "B",
+          "text": "If I stay then you go"
+        },
+        {
+          "id": "C",
+          "text": "If you do not go then I do not stay"
+        },
+        {
+          "id": "D",
+          "text": "If I do not stay then you go"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What is the converse of the following assertion? I stay only if you go",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101706",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "n"
+        },
+        {
+          "id": "B",
+          "text": "[latex]n^2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "n+1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Suppose A is a finite set with n elements. The number of elements in the largest equivalence relation of A is",
+      "topic": "Relation",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101707",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both assertions are true"
+        },
+        {
+          "id": "B",
+          "text": "Assertions (i) is true but assertions (ii) is not true"
+        },
+        {
+          "id": "C",
+          "text": "Assertions (ii) is true but assertions (i) is not true"
+        },
+        {
+          "id": "D",
+          "text": "Neither (i) nor (ii) is true"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let [latex]R_1[/latex] and [latex]R_1[/latex] be two equivalence relations on a set. Consider the following assertions: I.  [latex]R_1 \\cup R_2[/latex] is an equivalence relation II. [latex]R_1 \\cap R_2[/latex] is an equivalence relation Which of the following is correct?",
+      "topic": "Relation",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101708",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "m + n"
+        },
+        {
+          "id": "B",
+          "text": "[latex]m^n[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]n^m[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "m*n"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The number of functions from an m element set to an n element set is",
+      "topic": "Functions",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101709",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]A \\subset B[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]B \\subset A[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]A[/latex] and [latex]B[/latex] are incomparable"
+        },
+        {
+          "id": "D",
+          "text": "[latex]A=B[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If the regular set [latex]A[/latex] is represented by [latex]A = (01 + 1)^*[/latex] and the regular set [latex]B[/latex] is represented by [latex]B = \\left(\\left(01\\right)^*1^*\\right)^*[/latex], which of the following is true?",
+      "topic": "Regular Expression",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101710",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The numbers [latex]1, 2, 4, 8, \\dots 2^n, \\dots[/latex] written in binary"
+        },
+        {
+          "id": "B",
+          "text": "The numbers [latex]1, 2, 4, 8,\\dots 2^n, \\dots[/latex]  written in unary"
+        },
+        {
+          "id": "C",
+          "text": "The set of binary string in which the number of zeros is the same as the number of ones."
+        },
+        {
+          "id": "D",
+          "text": "The set [latex]\\{1, 101, 11011, 1110111, \\dots\\}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following set can be recognized by a Deterministic Finite state Automaton?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101711",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The non-deterministic finite-state automata are equivalent to deterministic finite-state automata."
+        },
+        {
+          "id": "B",
+          "text": "Non-deterministic Push-down automata are equivalent to deterministic Push-down automata."
+        },
+        {
+          "id": "C",
+          "text": "Non-deterministic Turing machines are equivalent to deterministic Turing machines."
+        },
+        {
+          "id": "D",
+          "text": "Multi-tape Turing machines are available are equivalent to Single-tape Turing machines"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Regarding the power of recognition of languages, which of the following statements is false?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101712",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]110^*(0 + 1)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1(0 + 1)^*101[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](10)^*(01)^*(00 + 11)^*[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](00 + (11)^*0)^*[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The string 1101 does not belong to the set represented by",
+      "topic": "Regular Expression",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101713",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "complements when n is even"
+        },
+        {
+          "id": "B",
+          "text": "complements when n is odd"
+        },
+        {
+          "id": "C",
+          "text": "divides by [latex]2^n[/latex] always"
+        },
+        {
+          "id": "D",
+          "text": "remains unchanged when n is even"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What happens when a bit-string is XORed with itself n-times as shown: [latex]\\left[B \\oplus (B \\oplus ( B \\oplus (B \\dots n \\text{ times}\\right][/latex]",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101714",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4:1 multiplexer"
+        },
+        {
+          "id": "B",
+          "text": "2:1 multiplexer"
+        },
+        {
+          "id": "C",
+          "text": "16:1 multiplexer"
+        },
+        {
+          "id": "D",
+          "text": "8:1 multiplexer"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A multiplexer with a 4-bit data select input is a",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101716",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2400 band"
+        },
+        {
+          "id": "B",
+          "text": "19200 band"
+        },
+        {
+          "id": "C",
+          "text": "4800 band"
+        },
+        {
+          "id": "D",
+          "text": "1200 band"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In serial communication employing 8 data bits, a parity bit and 2 stop bits, the minimum band rate required to sustain a transfer rate of 300 characters per second is",
+      "topic": "Physical Layer",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101717",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "226"
+        },
+        {
+          "id": "B",
+          "text": "-98"
+        },
+        {
+          "id": "C",
+          "text": "76"
+        },
+        {
+          "id": "D",
+          "text": "-30"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The octal representation of an integer is [latex](342)_8[/latex]. If this were to be treated as an eight-bit integer in an 8085 based computer, its decimal equivalent is",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101718",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Hard disk"
+        },
+        {
+          "id": "B",
+          "text": "Printer"
+        },
+        {
+          "id": "C",
+          "text": "Keyboard"
+        },
+        {
+          "id": "D",
+          "text": "Floppy disk"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following devices should get higher priority in assigning interrupts?",
+      "topic": "Interrupt",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101719",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Indirect addressing"
+        },
+        {
+          "id": "B",
+          "text": "Indexed addressing"
+        },
+        {
+          "id": "C",
+          "text": "Base register addressing"
+        },
+        {
+          "id": "D",
+          "text": "PC relative addressing"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following addressing modes permits relocation without any change whatsoever in the code?",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101720",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Unless enabled, a CPU will not be able to process interrupts."
+        },
+        {
+          "id": "B",
+          "text": "Loop instructions cannot be interrupted till they complete."
+        },
+        {
+          "id": "C",
+          "text": "A processor checks for interrupts before executing a new instruction."
+        },
+        {
+          "id": "D",
+          "text": "Only level triggered interrupts are possible on microprocessors."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is true?",
+      "topic": "Interrupt",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101721",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Dynamic programming"
+        },
+        {
+          "id": "B",
+          "text": "Backtracking"
+        },
+        {
+          "id": "C",
+          "text": "Greedy"
+        },
+        {
+          "id": "D",
+          "text": "Divide and Conquer"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following algorithm design techniques is used in finding all pairs of shortest distances in a graph?",
+      "topic": "Dynamic Programming",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101722",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A-R  B-P  C-Q  D-S"
+        },
+        {
+          "id": "B",
+          "text": "A-R  B-P  C-S  D-Q"
+        },
+        {
+          "id": "C",
+          "text": "A-P  B-R  C-S  D-Q"
+        },
+        {
+          "id": "D",
+          "text": "A-P  B-S  C-R  D-Q"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Give the correct matching for the following pairs: [latex]\\begin{array}{ll|ll}\\hline \\text{(A)} & \\text{$O (\\log n)$} & \\text{(P)} & \\text{Selection sort} \\\\\\hline \\text{(B)} & \\text{$O (n)$} & \\text{(Q)}& \\text{Insertion sort} \\\\\\hline \\text{(C)}& \\text{$O (n \\log n)$} & \\text{(R)} & \\text{Binary search} \\\\\\hline \\text{(D)} & \\text{$O (n^2)$} &\\text{(S)} & \\text{Merge sort} \\\\\\hline \\end{array}[/latex]",
+      "topic": "Sorting",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101723",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "n"
+        },
+        {
+          "id": "B",
+          "text": "[latex]n^2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2^n[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{n(n+1)}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "How many sub strings of different lengths (non-zero) can be formed from a character string of length n?",
+      "topic": "Discrete Mathematics",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101724",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A tree with a n nodes has (n- 1) edges"
+        },
+        {
+          "id": "B",
+          "text": "A labeled rooted binary tree can be uniquely constructed given its postorder and preorder traversal results."
+        },
+        {
+          "id": "C",
+          "text": "A complete binary tree with n internal nodes has (n + 1) leaves."
+        },
+        {
+          "id": "D",
+          "text": "The maximum number of nodes in a binary tree of height h is [latex]2^{h+1} - 1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements is false?",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101725",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Assembler"
+        },
+        {
+          "id": "B",
+          "text": "Linker"
+        },
+        {
+          "id": "C",
+          "text": "Loader"
+        },
+        {
+          "id": "D",
+          "text": "Compiler"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In a resident-OS computer, which of the following systems must reside in the main memory under all situations?",
+      "topic": "Runtime Environment",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101726",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "SLR parser is more powerful than LALR"
+        },
+        {
+          "id": "B",
+          "text": "LALR parser is more powerful than Canonical LR parser"
+        },
+        {
+          "id": "C",
+          "text": "Canonical LR parser is more powerful than LALR parser"
+        },
+        {
+          "id": "D",
+          "text": "The parsers SLR, Canonical CR, and LALR have the same power"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements is true?",
+      "topic": "Parsing",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101727",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "lexical analysis"
+        },
+        {
+          "id": "B",
+          "text": "syntax analysis"
+        },
+        {
+          "id": "C",
+          "text": "syntax directed translation"
+        },
+        {
+          "id": "D",
+          "text": "code optimization"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Type checking is normally done during",
+      "topic": "Syntax-directed Translation",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101728",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0, 200, 500, 600[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]0, 200, 1000, 1600[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]200, 500, 600, 800[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]200, 700, 1300, 2100[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A linker reads four modules whose lengths are 200, 800, 600 and 500 words, respectively. If they are loaded in that order, what are the relocation constants?",
+      "topic": "Runtime Environment",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101729",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The terminal used to enter the input data for the C program being executed"
+        },
+        {
+          "id": "B",
+          "text": "An output device used to print the output of a number of jobs"
+        },
+        {
+          "id": "C",
+          "text": "The secondary memory device in a virtual storage system"
+        },
+        {
+          "id": "D",
+          "text": "The swapping area on a disk used by the swapper"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is an example of a spooled device?",
+      "topic": "IO Interface",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101730",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "cycle stealing"
+        },
+        {
+          "id": "B",
+          "text": "race condition"
+        },
+        {
+          "id": "C",
+          "text": "a time lock"
+        },
+        {
+          "id": "D",
+          "text": "a deadlock"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "When the result of a computation depends on the speed of the processes involved, there is said to be",
+      "topic": "Process Synchronization",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101731",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A counting semaphore was initialized to 10. Then 6P (wait) operations and 4V (signal) operations were completed on this semaphore. The resulting value of the semaphore is",
+      "topic": "Process Synchronization",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101732",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A computer has six tape drives, with n processes competing for them. Each process may need two drives. What is the maximum value of n for the system to be deadlock free?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101733",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]R_1 \\cup R_2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]R_1 \\times R_2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]R_1- R_2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]R_1 \\cap R_2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Given two union compatible relations [latex]R_1(A, B)[/latex] and [latex]R_2 (C, D)[/latex], what is the result of the operation [latex]R_1 \\Join_{ A = C \\wedge B = D} R_2[/latex]?",
+      "topic": "Relational Algebra",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101734",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2NF"
+        },
+        {
+          "id": "B",
+          "text": "5NF"
+        },
+        {
+          "id": "C",
+          "text": "4NF"
+        },
+        {
+          "id": "D",
+          "text": "3NF"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which normal form is considered adequate for normal relational database design?",
+      "topic": "Normal Form",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101735",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Age"
+        },
+        {
+          "id": "B",
+          "text": "Name"
+        },
+        {
+          "id": "C",
+          "text": "Occupation"
+        },
+        {
+          "id": "D",
+          "text": "Category"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "There are five records in a database. [latex]\\begin{array}{|c|c|c|c|} \\hline \\textbf {Name} & \\textbf {Age} & \\textbf {Occupation} & \\textbf{Category } \\\\\\hline \\text{Rama} & \\text{27} & \\text{CON} & \\text{A} \\\\\\hline \\text{Abdul} & \\text{22} & \\text{ENG} & \\text{A} \\\\\\hline \\text{Jennifer} & \\text{28} & \\text{DOC} & \\text{B} \\\\\\hline \\text{Maya} & \\text{32} & \\text{SER} & \\text{D} \\\\\\hline \\text{Dev} & \\text{24} & \\text{MUS} & \\text{C} \\\\\\hline \\end{array}[/latex] There is an index file associated with this and it contains the values 1, 3, 2, 5 and 4. Which one of the fields is the index built from?",
+      "topic": "File System",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101736",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The rank of the matrix given below is: [latex]\\begin{bmatrix} 1 &4 &8 &7\\\\ 0 &0& 3 &0\\\\ 4 &2& 3 &1\\\\ 3 &12 &24 &21 \\end{bmatrix}[/latex]",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101737",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a+b"
+        },
+        {
+          "id": "B",
+          "text": "a-b"
+        },
+        {
+          "id": "C",
+          "text": "a+b+c"
+        },
+        {
+          "id": "D",
+          "text": "abc"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following determinant [latex]\\Delta = \\begin{vmatrix} 1 & a & bc \\\\ 1 & b & ca \\\\ 1 & c & ab \\end{vmatrix}[/latex] Which of the following is a factor of [latex]\\Delta[/latex]?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101738",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "reflexive, symmetric and transitive"
+        },
+        {
+          "id": "B",
+          "text": "neither reflexive, nor irreflexive but transitive"
+        },
+        {
+          "id": "C",
+          "text": "irreflexive, symmetric and transitive"
+        },
+        {
+          "id": "D",
+          "text": "irreflexive and antisymmetric"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The binary relation [latex]R = \\{(1, 1), (2, 1), (2, 2), (2, 3), (2, 4), (3, 1), (3, 2), (3, 3), (3, 4)\\}[/latex] on the set [latex]A=\\{1, 2, 3, 4\\}[/latex] is",
+      "topic": "Relation",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101739",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In a room containing 28 people, there are 18 people who speak English, 15, people who speak Hindi and 22 people who speak Kannada. 9 persons speak both English and Hindi, 11 persons speak both Hindi and Kannada whereas 13 persons speak both Kannada and English. How many speak all three languages?",
+      "topic": "Group Theory",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101740",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let L be the set of all binary strings whose last two symbols are the same. The number of states in the minimal state deterministic finite state automaton accepting L is",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101741",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Every finite subset of a non-regular set is regular"
+        },
+        {
+          "id": "B",
+          "text": "Every subset of a regular set is regular"
+        },
+        {
+          "id": "C",
+          "text": "Every finite subset of a regular set is regular"
+        },
+        {
+          "id": "D",
+          "text": "The intersection of two regular sets is regular"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements is false?",
+      "topic": "Regular Language",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101743",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "AND"
+        },
+        {
+          "id": "B",
+          "text": "OR"
+        },
+        {
+          "id": "C",
+          "text": "NAND"
+        },
+        {
+          "id": "D",
+          "text": "EXOR"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following operations is commutative but not associative?",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101744",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "arranging the data on the disk in contiguous fashion"
+        },
+        {
+          "id": "B",
+          "text": "writing the directory"
+        },
+        {
+          "id": "C",
+          "text": "erasing the system data"
+        },
+        {
+          "id": "D",
+          "text": "writing identification information on all tracks and sectors"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Formatting for a floppy disk refers to",
+      "topic": "Secondary Storage",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101746",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x(n-1)+1"
+        },
+        {
+          "id": "B",
+          "text": "xn-1"
+        },
+        {
+          "id": "C",
+          "text": "xn+1"
+        },
+        {
+          "id": "D",
+          "text": "x(n+1)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A complete n-ary tree is one in which every node has 0 or n sons. If x is the number of internal nodes of a complete n-ary tree, the number of leaves in it is given by",
+      "topic": "n-ary Tree",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101747",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "89"
+        },
+        {
+          "id": "B",
+          "text": "90"
+        },
+        {
+          "id": "C",
+          "text": "91"
+        },
+        {
+          "id": "D",
+          "text": "92"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What value would the following function return for the input x=95? Function fun (x:integer):integer;\nBegin\n    If x > 100 then fun = x- 10\n    Else fun = fun(fun (x+11))\nEnd;",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101748",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "36"
+        },
+        {
+          "id": "D",
+          "text": "42"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What is the result of the following program? program side-effect (input, output);\n    var x, result: integer;\n    function f (var x:integer):integer;\n    begin\n        x:=x+1;f:=x;\n    end\n    begin\n    x:=5;\n    result:=f(x)*f(x);\n    writeln(result);\n    end",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101749",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "15i+j+84"
+        },
+        {
+          "id": "B",
+          "text": "15j+i+84"
+        },
+        {
+          "id": "C",
+          "text": "10i+j+89"
+        },
+        {
+          "id": "D",
+          "text": "10j+i+89"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A be a two dimensional array declared as follows: A: array [1 ... 10] [1 ... 15] of integer; Assuming that each integer takes one memory location, the array is stored in row-major order and the first element of the array is stored at location 100, what is the address of the element A[i][j]?",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101750",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "stack"
+        },
+        {
+          "id": "B",
+          "text": "heap"
+        },
+        {
+          "id": "C",
+          "text": "display"
+        },
+        {
+          "id": "D",
+          "text": "activation tree"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Faster access to non-local variables is achieved using an array of pointers to activation records called a",
+      "topic": "Runtime Environment",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101752",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]q \\leq \\frac{t-ns}{n-1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]q \\geq \\frac{t-ns}{n-1}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]q \\leq \\frac{t-ns}{n+1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]q \\geq \\frac{t-ns}{n+1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider [latex]n[/latex] processes sharing the CPU in a round-robin fashion. Assuming that each process switch takes [latex]s[/latex] seconds, what must be the quantum size [latex]q[/latex] such that the overhead resulting from process switching is minimized but at the same time each process is guaranteed to get its turn at the CPU at least every [latex]t[/latex] seconds?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101753",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]i + \\dfrac{j}{k}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]i +(j\\times k)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\dfrac{i+j}{k}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]({i+j})\\times {k}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If an instruction takes [latex]i[/latex] microseconds and a page fault takes an additional [latex]j[/latex] microseconds, the effective instruction time if on the average a page fault occurs every [latex]k[/latex] instruction is:",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101754",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sigma_{C_1} \\left(\\sigma_{C_2}\\left(R_1\\right)\\right) \\to \\sigma_{C_2} \\left(\\sigma_{C_1}\\left(R_1\\right)\\right)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sigma_{C_1} \\left(\\pi_{A_1}\\left(R_1\\right)\\right) \\to \\pi_{A_1} \\left(\\sigma_{C_1}\\left(R_1\\right)\\right)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sigma_{C_1} \\left(R_1 \\cup R_2\\right) \\to \\sigma_{C_1}\\left(R_1\\right) \\cup \\sigma_{C_1} \\left(R_2\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\pi_{A_1} \\left(\\sigma_{C_1}\\left(R_1\\right)\\right) \\to \\sigma_{C_1} \\left(\\pi_{A_1}\\left(R_1\\right)\\right)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following query transformations (i.e., replacing the l.h.s. expression by the r.h.s expression) is incorrect? [latex]R_1[/latex] and [latex]R_2[/latex] are relations, [latex]C_1[/latex] and [latex]C_2[/latex] are selection conditions and [latex]A_1[/latex] and [latex]A_1[/latex] are attributes of [latex]R_1[/latex].",
+      "topic": "Relational Algebra",
+      "type": "MCQ",
+      "year": 1998
+    },
+    {
+      "branch": "CS",
+      "id": "1101755",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "80%"
+        },
+        {
+          "id": "B",
+          "text": "20%"
+        },
+        {
+          "id": "C",
+          "text": "60%"
+        },
+        {
+          "id": "D",
+          "text": "40%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Suppose the domain set of an attribute consists of signed four digit numbers. What is the percentage of reduction in storage space of this attribute if it is stored as an integer rather than in character form?",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 1998
+    }
+  ],
+  "schema_version": 1
+}

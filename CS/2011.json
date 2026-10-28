@@ -1,0 +1,1493 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1111101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "parsing of the program"
+        },
+        {
+          "id": "B",
+          "text": "the code generation"
+        },
+        {
+          "id": "C",
+          "text": "the lexical analysis of the program"
+        },
+        {
+          "id": "D",
+          "text": "dataflow analysis"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In a compiler, keywords of a language are recognized during",
+      "topic": "Lexical Analysis",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "block entire HTTP traffic during 9:00PM and 5:00AM"
+        },
+        {
+          "id": "B",
+          "text": "block all ICMP traffic"
+        },
+        {
+          "id": "C",
+          "text": "stop incoming traffic from a specific IP address but allow outgoing traffic to\nthe same IP address"
+        },
+        {
+          "id": "D",
+          "text": "block TCP traffic from a specific user on a multi-user system during 9:00PM\nand 5:00AM"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A layer-4 firewall (a device that can look at all protocol headers up to the\ntransport layer) CANNOT",
+      "topic": "Transport Layer Protocol",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/4[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2/3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If two fair coins are flipped and at least one of the outcomes is known to be a\nhead, what is the probability that both outcomes are heads?",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "m1:HTTP m2:SMTP m3:POP"
+        },
+        {
+          "id": "B",
+          "text": "m1:SMTP m2:FTP m3:HTTP"
+        },
+        {
+          "id": "C",
+          "text": "m1: SMTP m2: POP m3: HTTP"
+        },
+        {
+          "id": "D",
+          "text": "m1: POP m2: SMTP m3:IMAP"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider different activities related to email. m1: Send an email from a mail client to a mail server m2: Download an email from mailbox server to a mail client m3: Checking email in a web browser Which is the application level protocol used in each activity?",
+      "topic": "Computer Network",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]t_{1}\\gt t_{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]t_{1}=t_{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]t_{1}\\lt t_{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "Nothing can be said about the relation between t1 and t2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let the time taken to switch between user and kernel modes of execution be t1\nwhile the time taken to switch between two processes be t2. Which of the\nfollowing is TRUE?",
+      "topic": "Thread",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "234.25"
+        },
+        {
+          "id": "B",
+          "text": "932.5"
+        },
+        {
+          "id": "C",
+          "text": "287.8"
+        },
+        {
+          "id": "D",
+          "text": "122.4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A company needs to develop digital signal processing software for one of its\nnewest inventions. The software is expected to have 40000 lines of code. The\ncompany needs to determine the effort in person-months needed to develop this\nsoftware using the basic COCOMO model. The multiplicative factor for this model\nis given as 2.8 for the software development on embedded systems, while the\nexponentiation factor is given as 1.20. What is the estimated effort in personmonths?",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Deterministic finite automata (DFA) and Non-deterministic finite automata (NFA)"
+        },
+        {
+          "id": "B",
+          "text": "Deterministic push down automata (DPDA) and Non-deterministic push down\nautomata (NPDA)"
+        },
+        {
+          "id": "C",
+          "text": "Deterministic single-tape Turing machine and Non-deterministic single tape\nTuring machine"
+        },
+        {
+          "id": "D",
+          "text": "Single-tape Turing machine and multi-tape Turing machine"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following pairs have DIFFERENT expressive power?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Embed web objects from different sites into the same page"
+        },
+        {
+          "id": "B",
+          "text": "Refresh the page automatically after a specified interval"
+        },
+        {
+          "id": "C",
+          "text": "Automatically redirect to another page upon download"
+        },
+        {
+          "id": "D",
+          "text": "Display the client time as part of the page"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "HTML (Hyper Text Markup Language) has language elements which permit\ncertain actions other than describing the structure of the web document. Which\none of the following actions is NOT supported by pure HTML (without any server\nor client side scripting) pages?",
+      "topic": "Computer Network",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Functional Requirements"
+        },
+        {
+          "id": "B",
+          "text": "Non Functional Requirements"
+        },
+        {
+          "id": "C",
+          "text": "Goals of Implementation"
+        },
+        {
+          "id": "D",
+          "text": "Algorithms for Software Implementation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is NOT desired in a good Software Requirement\nSpecifications (SRS) document?",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Interrupt from Hard Disk"
+        },
+        {
+          "id": "B",
+          "text": "Interrupt from Mouse"
+        },
+        {
+          "id": "C",
+          "text": "Interrupt from Keyboard"
+        },
+        {
+          "id": "D",
+          "text": "Interrupt from CPU temp sensor"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A computer handles several interrupt sources of which the following are relevant for this question. Interrupt from CPU temperature sensor  (raises interrupt if CPU temperature is too high) Interrupt from Mouse      (raises Interrupt if the mouse is moved or a button is pressed) Interrupt from Keyboard  (raises Interrupt if a key is pressed or released) Interrupt from Hard Disk  (raises Interrupt when a disk read is completed) Which one of these will be handled at the HIGHEST priority?",
+      "topic": "Interrupt",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "BankAccount_Number is a candidate key"
+        },
+        {
+          "id": "B",
+          "text": "Registration_Number can be a primary key"
+        },
+        {
+          "id": "C",
+          "text": "UID is a candidate key if all students are from the same country"
+        },
+        {
+          "id": "D",
+          "text": "If [latex]S[/latex] is a superkey such that [latex]\\text{S}\\cap \\text{UID}[/latex] is NULL then [latex]\\text{S}\\cup \\text{UID}[/latex] is also a superkey"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a relational table with a single record for each registered student with\nthe following attributes. 1. Registration_Number: Unique registration number for each registered student 2. UID: Unique Identity number, unique at the national level for each citizen 3. BankAccount_Number: Unique account number at the bank. A student can \nhave multiple accounts or joint accounts. This attributes stores the primary\naccount number 4. Name: Name of the Student 5. Hostel_Room: Room number of the hostel Which of the following options is INCORRECT?",
+      "topic": "Relational Schema",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](\\bar{P}Q+\\bar{R})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](P+\\bar{Q}\\bar{R})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](\\bar{P}Q+R)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "(PQ+R)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The simplified SOP (Sum of Product) form of the Boolean Algebra [latex](P+\\bar{Q}+\\bar{R})\\cdot (P+\\bar{Q}+R)\\cdot (P+Q+\\bar{R})[/latex] is",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "512"
+        },
+        {
+          "id": "D",
+          "text": "258"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The minimum number of D flip-flops needed to design a mod-258 counter is",
+      "topic": "Sequential Circuit",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "On per-thread basis, the OS maintains only CPU register state"
+        },
+        {
+          "id": "B",
+          "text": "The OS does not maintain a separate stack for each thread"
+        },
+        {
+          "id": "C",
+          "text": "On per-thread basis, the OS does not maintain virtual memory state"
+        },
+        {
+          "id": "D",
+          "text": "On per thread basis, the OS maintains only scheduling and accounting information"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A thread is usually defined as a 'light weight process' because an operating\nsystem (OS) maintains smaller data structures for a thread than for a process. In\nrelation to this, which of the followings is TRUE?",
+      "topic": "Thread",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "R=0"
+        },
+        {
+          "id": "B",
+          "text": "R[latex]\\lt[/latex]0"
+        },
+        {
+          "id": "C",
+          "text": "R[latex] \\gt [/latex]0"
+        },
+        {
+          "id": "D",
+          "text": "R[latex]\\gt=[/latex]0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If the difference between the expectation of the square of random variable [latex](E[X^{2}])[/latex]  and the square of the expectation of the random variable [latex](E[X^{2}])[/latex] is denoted by R then",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Finite state automata"
+        },
+        {
+          "id": "B",
+          "text": "Deterministic pushdown automata"
+        },
+        {
+          "id": "C",
+          "text": "Non-Deterministic pushdown automata"
+        },
+        {
+          "id": "D",
+          "text": "Turing machine"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The lexical analysis for a modern computer language such as Java needs the\npower of which one of the following machine models in a necessary and sufficient\nsense?",
+      "topic": "Lexical Analysis",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "21ns"
+        },
+        {
+          "id": "B",
+          "text": "30ns"
+        },
+        {
+          "id": "C",
+          "text": "23ns"
+        },
+        {
+          "id": "D",
+          "text": "35ns"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let the page fault service time be 10ms in a computer with average memory\naccess time being 20ns. If one page fault is generated for every [latex]10^{6}[/latex] memory\naccesses, what is the effective access time for the memory?",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Immediate Addressing"
+        },
+        {
+          "id": "B",
+          "text": "Register Addressing"
+        },
+        {
+          "id": "C",
+          "text": "Register Indirect Scaled Addressing"
+        },
+        {
+          "id": "D",
+          "text": "Base Indexed Addressing"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a hypothetical processor with an instruction of type LW R1, 20(R2),\nwhich during execution reads a 32-bit word from memory and stores it in a 32-bit\nregister R1. The effective address of the memory location is obtained by the\naddition of constant 20 and the contents of register R2. Which of the following\nbest reflects the Addressing Modes implemented by this instruction for the\noperand in memory?",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "GATE2011"
+        },
+        {
+          "id": "B",
+          "text": "E2011"
+        },
+        {
+          "id": "C",
+          "text": "2011"
+        },
+        {
+          "id": "D",
+          "text": "11"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What does the following fragment of C-program print? char c []=\"GATE2011\"; char *p =c; printf (\"%s\", p + p[3]- p[ 1 ]);",
+      "topic": "C Programming",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P\\cap Q[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "P-Q"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sum *-P[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sum *-Q[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let P be a regular language and Q be a context free language such that Q [latex]\\subseteq[/latex]\n P.\n(For example, let P be the language represented by the regular expression p*q*\nand Q be [latex]\\{p^{n}q^{n}|n\\in N\\}[/latex] Then which of the following is ALWAYS regular?",
+      "topic": "Regular Language",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Push Down Automata (PDA) can be used to recognize L1 and L2"
+        },
+        {
+          "id": "B",
+          "text": "L1 is a regular language"
+        },
+        {
+          "id": "C",
+          "text": "All the three languages are context free"
+        },
+        {
+          "id": "D",
+          "text": "Turing machines can be used to recognize all the languages"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the languages L1, L2 and L3 as given below [latex]L1=\\{0^{p}1^{q}|p,q\\in N\\}[/latex] [latex] L2=\\{0^{p}1^{q}|p,q\\in N and p=q\\} [/latex] and [latex]L3=\\{0^{p}1^{q}0^{r}|p,q,r\\in N \\; and \\; p=q=r\\}[/latex] Which of the following statements is NOT TRUE?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "3.4"
+        },
+        {
+          "id": "B",
+          "text": "4.4"
+        },
+        {
+          "id": "C",
+          "text": "5.1"
+        },
+        {
+          "id": "D",
+          "text": "6.7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "On a non-pipelined sequential processor, a program segment, which is a part of\nthe interrupt service routine, is given to transfer 500 bytes from an I/O device to\nmemory. Initialize the address register Initialize the count to 500 LOOP: Load a byte from device Store in memory at address given by address register Increment the address register Decrement the count If count != 0 go to LOOP Assume that each statement in this program is equivalent to a machine\ninstruction which takes one clock cycle to execute if it is a non-load/store\ninstruction. The load-store instructions take two clock cycles to execute. The designer of the system also has an alternate approach of using the DMA\ncontroller to implement the same transfer. The DMA controller requires 20 clock\ncycles for initialization and other overheads. Each DMA transfer cycle takes two clock cycles to transfer one byte of data from the device to the memory. What is the approximate speedup when the DMA controller based design is used\nin place of the interrupt driven program based input-output?",
+      "topic": "IO Interface",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "n!"
+        },
+        {
+          "id": "D",
+          "text": "[latex] \\frac{1} {n+1} .^{2n}C_n[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "We are given a set of n distinct elements and an unlabeled binary tree with n\nnodes. In how many ways can we populate the tree with the given set so that it\nbecomes a binary search tree?",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "P(x) being true means that x is a prime number"
+        },
+        {
+          "id": "B",
+          "text": "P(x) being true means that x is a number other than 1"
+        },
+        {
+          "id": "C",
+          "text": "P(x) is always true irrespective of the value of x"
+        },
+        {
+          "id": "D",
+          "text": "P(x) being true means that x has exactly two factors other than 1 and x"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following options is CORRECT given three positive integers x, y\nand z, and a predicate [latex]P(x)=\\neg (x=1)\\wedge \\forall y(\\exists z(x=y*z))\\Rightarrow (y=x)\\vee (y=1)[/latex]",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "i"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-i[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Given [latex]i=\\sqrt{-1}[/latex], what will be the evaluation of the definite integral [latex]\\int_{0}^{\\pi /2}\\frac{cosx + i sinx}{cosx -i sinx} dx[/latex]?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "127"
+        },
+        {
+          "id": "B",
+          "text": "255"
+        },
+        {
+          "id": "C",
+          "text": "129"
+        },
+        {
+          "id": "D",
+          "text": "257"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a database table T containing two columns X and Y each of type integer.\nAfter the creation of the table, one record (X=1,Y=1) is inserted in the table. Let MX and MY denote the respective maximum values of X and Y among all\nrecords in the table at any point in time. Using MX and MY, new records are\ninserted in the table 128 times with X and Y values being MX+1, 2*MY+1\nrespectively. It may be noted that each time after the insertion, values of MX and\nMY change. What will be the output of the following SQL query after the steps mentioned\nabove are carried out? SELECT Y FROM T WHERE X=7;",
+      "topic": "SQL",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Index position of mode of X in X is the same as the index position of mode of Y\nin Y."
+        },
+        {
+          "id": "B",
+          "text": "Index position of median of X in X is the same as the index position of median\nof Y in Y."
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\mu _{y}=a\\mu _{x}+b[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sigma _{y }=a\\sigma _{x}+b[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a finite sequence of random values [latex]X=[x_{1},x_{2},...,x_{n}][/latex]. Let [latex]\\mu _{x}[/latex]\n be the mean\nand  [latex]\\sigma _{x}[/latex]\n be the standard deviation of X .Let another finite sequence Y of equal\nlength be derived from this as [latex]y_{i}=a*x_{i}+b[/latex], where a and b are positive\nconstants. Let Let [latex]\\mu _{y}[/latex]  be the mean and [latex]\\sigma _{y}[/latex] be the standard deviation of this\nsequence. Which one of the following statements is INCORRECT?",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/5[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4/25[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/45[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2/5[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A deck of 5 cards (each carrying a distinct number from 1 to 5) is shuffled\nthoroughly. Two cards are then removed one at a time from the deck. What is\nthe probability that the two cards are selected with the number on the first card\nbeing one higher than the number on the second card?",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f_3, f_2, f_4, f_1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f_3, f_2, f_1, f_4[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f_2, f_3, f_1, f_4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f_2, f_3, f_4, f_1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the given options provides the increasing order of asymptotic\ncomplexityoffunctions f1, f2, f3 and f4? [latex]f_{1}(n)=2^{n};[/latex] [latex]f_{2}(n)=n^{3/2}; [/latex] [latex] f_{3}(n)=nlog_{2}n; [/latex] [latex] f_{4}(n)=n^{log_{2}n}[/latex]",
+      "topic": "Asymptotic Notation",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "248000"
+        },
+        {
+          "id": "B",
+          "text": "44000"
+        },
+        {
+          "id": "C",
+          "text": "19000"
+        },
+        {
+          "id": "D",
+          "text": "25000"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Four matrices M1, M2, M3 and M4 are dimensions p x q, q x r, r x s and s x t\nrespectively can be multiplied in several ways with different number of total\nscalar multiplications. For example When multiplied as [latex]((M_{1} \\times  M_{2})\\times (M_{3}\\times M_{4})[/latex] the total number of scalar multiplications is pqr+rst+prt. When multiplied as [latex](((M_{1}\\times M_{2})\\times M_{3})\\times M_{4})[/latex] , the total number of scalar multiplications is pqr+prs+pst.\nIf p=10, q=100, r=20, s=5 and t=80, then the minimum number of scalar\nmultiplications needed is",
+      "topic": "Dynamic Programming",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111139",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Ordered indexing will always outperform hashing for both queries"
+        },
+        {
+          "id": "B",
+          "text": "Hashing will always outperform ordered indexing for both queries"
+        },
+        {
+          "id": "C",
+          "text": "Hashing will outperform ordered indexing on Q1, but not on Q2"
+        },
+        {
+          "id": "D",
+          "text": "Hashing will outperform ordered indexing on Q2, but not on Q1."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a relational table r with sufficient number of records, having attributes\n[latex]A_{1}, A_{2},..., A_{n}[/latex] and let [latex]1\\leq p\\leq n[/latex]\n. Two queries Q1 and Q2 are given below. [latex]Q1:\\pi _{A_{1}....A_{n}}(\\sigma _{A_{p}=c}(r)) [/latex] where c is a constant [latex]Q2:\\pi _{A1....A_{n}}(\\sigma _{c_{1}\\leq A_{p}\\leq c_{2}}(r)) [/latex] where [latex]c_{1}[/latex] and [latex]c_{2}[/latex] are constants The database can be configured to do ordered indexing on [latex]A_{p}[/latex] or hashing on  [latex]A_{p}[/latex]. Which of the following statements is TRUE?",
+      "topic": "Relational Algebra",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111140",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1,4,3"
+        },
+        {
+          "id": "B",
+          "text": "3,7,3"
+        },
+        {
+          "id": "C",
+          "text": "7,3,2"
+        },
+        {
+          "id": "D",
+          "text": "1,2,3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the matrix as given below. [latex]\\begin{bmatrix} 1 & 2&3 \\\\ 0& 4 & 7\\\\ 0&0 & 3 \\end{bmatrix}[/latex] Which one of the following provides the CORRECT values of eigenvalues of the matrix?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "k+1"
+        },
+        {
+          "id": "B",
+          "text": "n+1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2^{n+1}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2^{k+1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Definition of a language L with alphabet {a} is given as following\nL={[latex]a^{nk}[/latex] |k > 0, and n is a positive integer constant} What is the minimum number of states needed in a DFA to recognize L?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111143",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "4864 bits"
+        },
+        {
+          "id": "B",
+          "text": "6144bits"
+        },
+        {
+          "id": "C",
+          "text": "6656bits"
+        },
+        {
+          "id": "D",
+          "text": "5376bits"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "An 8KB direct mapped write-back cache is organized as multiple blocks, each of\nsize 32-bytes. The processor generates 32-bit addresses. The cache controller\nmaintains the tag information for each cache block comprising of the following.\n1 Valid bit\n1 Modified bit\nAs many bits as the minimum needed to identify the memory block mapped in\nthe cache.\nWhat is the total size of memory needed at the cache controller to store metadata\n(tags) for the cache?",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111144",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5s"
+        },
+        {
+          "id": "B",
+          "text": "1.5s"
+        },
+        {
+          "id": "C",
+          "text": "1.25s"
+        },
+        {
+          "id": "D",
+          "text": "1s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "An application loads 100 libraries at startup. Loading each library requires exactly\none disk access. The seek time of the disk to a random location is given as 10ms.\nRotational speed of disk is 6000rpm. If all 100 libraries are loaded from random\nlocations on the disk, how long does it take to load all libraries? (The time to\ntransfer data from the disk block once the head has been positioned at the start\nof the block may be neglected)",
+      "topic": "Secondary Storage",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111148",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "345"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following recursive C function that takes two arguments unsigned int foo(unsigned int n, unsigned int r) {\n  if (n  > 0) return (n%r +  foo (n/r, r ));\n  else return 0;\n} What is the return value of the function foo when it is called as foo (345, 10) ?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111149",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following recursive C function that takes two arguments unsigned int foo(unsigned int n, unsigned int r) {\n  if (n  > 0) return (n%r +  foo (n/r, r ));\n  else return 0;\n} What is the return value of the function foo when it is called as foo (513, 2)?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Incomprehensible"
+        },
+        {
+          "id": "B",
+          "text": "Indelible"
+        },
+        {
+          "id": "C",
+          "text": "Inextricable"
+        },
+        {
+          "id": "D",
+          "text": "Infallible"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following options is the closest in the meaning to the word below: Inexplicable",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\text{P}^2 = \\text{Q}^3\\text{R}^2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\text{Q}^2 = \\text{PR}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\text{Q}^2 = \\text{R}^3\\text{P}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\text{R} = \\text{P}^2\\text{Q}^2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If [latex]\\log (\\text{P}) = (1/2)\\log (\\text{Q}) = (1/3)\\log (\\text{R})[/latex], then which of the following options is TRUE?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "to visit"
+        },
+        {
+          "id": "B",
+          "text": "having to visit"
+        },
+        {
+          "id": "C",
+          "text": "visiting"
+        },
+        {
+          "id": "D",
+          "text": "for a visit"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the most appropriate word(s) from the options given below to complete the following sentence. I contemplated _________ Singapore for my vacation but decided against it.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "hyperbolic"
+        },
+        {
+          "id": "B",
+          "text": "restrained"
+        },
+        {
+          "id": "C",
+          "text": "argumentative"
+        },
+        {
+          "id": "D",
+          "text": "indifferent"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the most appropriate word from the options given below to complete the following sentence. If you are trying to make a strong impression on your audience, you cannot do so by being understated, tentative or ________.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "merge"
+        },
+        {
+          "id": "B",
+          "text": "split"
+        },
+        {
+          "id": "C",
+          "text": "collect"
+        },
+        {
+          "id": "D",
+          "text": "separate"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the word from the options given below that is most nearly opposite in the meaning to the given word Amalgamate",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "how to write a letter of condolence"
+        },
+        {
+          "id": "B",
+          "text": "what emotional stages are passed through in the healing process"
+        },
+        {
+          "id": "C",
+          "text": "what the leading causes of death are"
+        },
+        {
+          "id": "D",
+          "text": "how to give support to a grieving friend"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Few school curricula include a unit on how to deal with bereavement and grief, and\nyet all students at some point in their lives suffer from losses through death and parting. Based on the above passage which topic would not be included in a unit on bereavement?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The variable cost [latex](V)[/latex] of manufacturing a product varies according to the equation [latex]V=4q[/latex], where [latex]q[/latex] is the quantity produced. The fixed cost ([latex]F[/latex]) of production of same product reduces with q according to the equation [latex]F=\\frac{100}{q}[/latex]. How many units should be produced to minimize the total cost [latex](V+F)[/latex]?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A transporter receives the same number of orders each day. Currently, he has some pending orders (backlog) to be shipped. If he uses 7 trucks, then at the end of the 4th day he can clear all the orders. Alternatively, if he uses only 3 trucks, then all the orders are cleared at the end of the 10th day. What is the minimum number of trucks required so that there will be no pending order at the end of 5th day?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "1111165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "7.58  litres"
+        },
+        {
+          "id": "B",
+          "text": "7.84  litres"
+        },
+        {
+          "id": "C",
+          "text": "7  litres"
+        },
+        {
+          "id": "D",
+          "text": "7.29  litres"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A container originally contains 10 litres of pure spirit. From this container, 1 litre of spirit replaced with 1 litre of water. Subsequently, 1 litre of the mixture is again replaced with 1 litre of water and this process is repeated one more time. How much spirit is now left in the container?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "11113111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "i"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-i[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Given [latex]i=\\sqrt{-1}[/latex], what will be the evaluation of the definite integral [latex]\\int_{0}^{\\pi /2}\\frac{cosx + i sinx}{cosx -i sinx} dx[/latex]?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    },
+    {
+      "branch": "CS",
+      "id": "11114011",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1,4,3"
+        },
+        {
+          "id": "B",
+          "text": "3,7,3"
+        },
+        {
+          "id": "C",
+          "text": "7,3,2"
+        },
+        {
+          "id": "D",
+          "text": "1,2,3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the matrix as given below. [latex]\\begin{bmatrix} 1 & 2&3 \\\\ 0& 4 & 7\\\\ 0&0 & 3 \\end{bmatrix}[/latex] Which one of the following provides the CORRECT values of eigenvalues of the matrix?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2011
+    }
+  ],
+  "schema_version": 1
+}

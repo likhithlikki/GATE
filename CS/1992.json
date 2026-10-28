@@ -1,0 +1,718 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1100901",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](\\forall (x)) P(x) \\vee (\\forall(x))Q(x) \\implies (\\forall (x)) (P(x) \\vee Q(x))[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](\\exists (x)) P(x) \\wedge (\\exists (x))Q(x) \\implies (\\exists (x)) (P(x) \\wedge Q(x))[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](\\forall (x)) (P(x) \\vee Q(x)) \\implies (\\forall (x)) P(x) \\vee (\\forall (x)) Q(x)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](\\exists (x)) (P(x) \\vee Q(x)) \\implies \\sim (\\forall (x)) P(x) \\vee (\\exists (x)) Q(x)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following predicate calculus statements is/are valid?",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100902",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "AND"
+        },
+        {
+          "id": "B",
+          "text": "OR"
+        },
+        {
+          "id": "C",
+          "text": "EX-OR"
+        },
+        {
+          "id": "D",
+          "text": "NAND"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: The operation which is commutative but not associative is:",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100903",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Ex-OR gates"
+        },
+        {
+          "id": "B",
+          "text": "Multiplexers"
+        },
+        {
+          "id": "C",
+          "text": "Half adders"
+        },
+        {
+          "id": "D",
+          "text": "OR gates"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: All digital circuits can be realized using only",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100906",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Heap sort"
+        },
+        {
+          "id": "B",
+          "text": "Quick sort"
+        },
+        {
+          "id": "C",
+          "text": "Merge sort"
+        },
+        {
+          "id": "D",
+          "text": "Radix sort"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Following algorithm(s) can be used to sort n in the range [latex][1\\ldots n^3][/latex] in O(n) time",
+      "topic": "Sorting",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100907",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Error detection"
+        },
+        {
+          "id": "B",
+          "text": "Error correction"
+        },
+        {
+          "id": "C",
+          "text": "Synchronization"
+        },
+        {
+          "id": "D",
+          "text": "Slowing down the communications"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Start and stop bits do not contain any 'information' but are used in serial communication",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100908",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Hamiltonian circuit problem"
+        },
+        {
+          "id": "B",
+          "text": "The 0/1 Knapsack problem"
+        },
+        {
+          "id": "C",
+          "text": "Finding bi-connected components of a graph"
+        },
+        {
+          "id": "D",
+          "text": "The graph coloring problem"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Which of the following problems is not NP-hard?",
+      "topic": "P-NP Theory",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100909",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: A 2-3 tree is such that a. All internal nodes have either 2 or 3 children b. All paths from root to the leaves have the same length. The number of internal nodes of a 2-3 tree having 9 leaves could be",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100910",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "9 edges, 6 vertices"
+        },
+        {
+          "id": "B",
+          "text": "6 edges, 4 vertices"
+        },
+        {
+          "id": "C",
+          "text": "10 edges, 5 vertices"
+        },
+        {
+          "id": "D",
+          "text": "9 edges, 5 vertices"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives ( more than one may be correct) and write the corresponding letters only: A non-planar graph with minimum number of vertices has",
+      "topic": "Planar Graph",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100911",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "42"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: At a particular time of computation, the value of a counting semaphore is 7. Then 20 P operations and 15 V operations were completed on this semaphore. The resulting value of the semaphore is :",
+      "topic": "Process Synchronization",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100912",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: A computer system has 6 tape devices, with n processes competing for them. Each process may need 3 tape drives. The maximum value of n for which the system is guaranteed to be deadlock-free is:",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100913",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The terminal used to input data for a program being executed."
+        },
+        {
+          "id": "B",
+          "text": "The secondary memory device in a virtual memory system"
+        },
+        {
+          "id": "C",
+          "text": "A line printer used to print the output of a number of jobs."
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Which of the following is an example of a spooled device?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100914",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "FOLLOW(A) and LFOLLOW(A) may be different."
+        },
+        {
+          "id": "B",
+          "text": "FOLLOW(A) and RFOLLOW(A) are always the same."
+        },
+        {
+          "id": "C",
+          "text": "All the three sets are identical."
+        },
+        {
+          "id": "D",
+          "text": "All the three sets are different."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: For a context free grammar, FOLLOW(A) is the set of terminals that can appear immediately to the right of non-terminal A in some \"sentential\" form. We define two sets LFOLLOW(A) and RFOLLOW(A) by replacing the word \"sentential\" by \"left sentential\" and \"right most sentential\" respectively in the definition of FOLLOW (A).",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100915",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The goto part of both tables may be different."
+        },
+        {
+          "id": "B",
+          "text": "The shift entries are identical in both the tables."
+        },
+        {
+          "id": "C",
+          "text": "The reduce entries in the tables may be different."
+        },
+        {
+          "id": "D",
+          "text": "The error entries in tables may be different"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct ) and write the corresponding letters only: Consider the SLR(1) and LALR (1)  parsing tables for a context free grammar. Which of the following statement is/are true?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100916",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "closed under union"
+        },
+        {
+          "id": "B",
+          "text": "closed under complementation"
+        },
+        {
+          "id": "C",
+          "text": "closed under intersection"
+        },
+        {
+          "id": "D",
+          "text": "closed under Kleene closure"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Context-free languages are:",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100917",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a \\vee b \\to b \\wedge c[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]a \\wedge b \\to b \\vee c[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]a \\vee b \\to \\left(b \\to c \\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]a \\to b \\to \\left(b \\to c \\right)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Which of the following is/are a tautology?",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100918",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]r^{(^*)} =r^*[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](r^*s^*)=(r+s)^*[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](r+s)^* = r^* + s^*[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]r^*s^* = r^*+s^*[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Which of the following regular expression identities is/are TRUE?",
+      "topic": "Regular Expression",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100919",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2l"
+        },
+        {
+          "id": "B",
+          "text": "2l+1"
+        },
+        {
+          "id": "C",
+          "text": "2l-1"
+        },
+        {
+          "id": "D",
+          "text": "l"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: If G is a context free grammar and w is a string of length l in L(G), how long is a derivation of w in G, if G is in Chomsky normal form?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100920",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]M_{1}[/latex] is non-deterministic finite automaton."
+        },
+        {
+          "id": "B",
+          "text": "[latex]M_{1}[/latex] is non-deterministic PDA."
+        },
+        {
+          "id": "C",
+          "text": "[latex]M_{1}[/latex] is a non-deterministic Turing machine."
+        },
+        {
+          "id": "D",
+          "text": "For no machines [latex]M_{1}[/latex] and [latex]M_{2}[/latex],  the above statement true."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: In which of the cases stated below is the following statement true? \"For every non-deterministic machine [latex]M_{1}[/latex] there exists an equivalent deterministic machine [latex]M_{2}[/latex]recognizing the same language\".",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100921",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2 1 2 1"
+        },
+        {
+          "id": "B",
+          "text": "1 1 1 2"
+        },
+        {
+          "id": "C",
+          "text": "1 2 2 2"
+        },
+        {
+          "id": "D",
+          "text": "1 2 1 2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Mention the pass number for each of the following activities that occur in a two pass assembler: A. object code generation B. literals added to literal table C. listing printed D. address resolution of local symbols",
+      "topic": "Intermediate Code Generation",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100922",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "call-by-value"
+        },
+        {
+          "id": "B",
+          "text": "call-by-reference"
+        },
+        {
+          "id": "C",
+          "text": "call-by-name"
+        },
+        {
+          "id": "D",
+          "text": "call-by-value result"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What type of parameter passing mechanism (call-by-value, call-by-reference, call-by-name, or-by-value result) is the following sequence of actions trying to implement for a procedure call P(A[i]) where P (i:integer) is a procedure and A is an integer array? Is the implementation correct? Explain and correct it if necessary. You are supposed to make only small changes Create a new local variable, say z. Assign to z the value of A[i]. Execute the body of P using z for A[i] Set A[i] to z.?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100923",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The goto part of both tables may be different."
+        },
+        {
+          "id": "B",
+          "text": "The shift entries are identical in both the tables."
+        },
+        {
+          "id": "C",
+          "text": "The reduce entries in the tables may be different."
+        },
+        {
+          "id": "D",
+          "text": "The error entries in tables may be different"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct ) and write the corresponding letters only: Consider the SLR(1) and LALR(1)  parsing tables for a context free grammar. Which of the following statement is/are true?",
+      "topic": "Parsing",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100924",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "group"
+        },
+        {
+          "id": "B",
+          "text": "ring"
+        },
+        {
+          "id": "C",
+          "text": "field"
+        },
+        {
+          "id": "D",
+          "text": "lattice"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the set of integers {1,2,3,4,6,8,12,24} together with the two binary operations LCM (lowest common multiple) and GCD (greatest common divisor). Which of the following algebraic structures does this represent?",
+      "topic": "Set Theory",
+      "type": "MCQ",
+      "year": 1992
+    },
+    {
+      "branch": "CS",
+      "id": "1100925",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Error detection"
+        },
+        {
+          "id": "B",
+          "text": "Error correction"
+        },
+        {
+          "id": "C",
+          "text": "Synchronization"
+        },
+        {
+          "id": "D",
+          "text": "Slowing down the communications."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Start and stop bits do not contain any \"information\" but are used in serial communication for",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 1992
+    }
+  ],
+  "schema_version": 1
+}

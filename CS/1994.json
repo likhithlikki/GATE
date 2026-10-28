@@ -1,0 +1,656 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1101302",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]AA'=I[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]A=A^{-1}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]AB=BA[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](AB)'=BA[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A and B be real symmetric matrices of size [latex]n \\times n[/latex]. Then which one of the following is true?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101303",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y_{n+1}=y_n+hf(x_n, y_n)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y_{n+1}=y_n+hf(x_{n+1}, y_{n+1})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y_{n+1}=y_{n-1}+2hf(x_n, y_n)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y_{n+1}= (1+h)f(x_{n+1}, y_{n+1})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Backward Euler method for solving the differential equation [latex]\\frac{dy}{dx}=f(x, y)[/latex] is specified by, (choose one of the following).",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101304",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P (A \\cap B) = P(A)P(B)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]P (A \\cup B) = P(A)+P(B)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]P (A \\mid B) = P(A \\cap B)P(B)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]P (A \\cup B) \\leq P(A) + P(B)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A and B be any two arbitrary events, then, which one of the following is TRUE?",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101305",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "it makes it more difficult to verify programs"
+        },
+        {
+          "id": "B",
+          "text": "it increases the running time of the programs"
+        },
+        {
+          "id": "C",
+          "text": "it increases the memory required for the programs"
+        },
+        {
+          "id": "D",
+          "text": "it results in the compiler generating longer machine code"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "An unrestricted use of the \"goto\" statement is harmful because",
+      "topic": "Conditional Statement",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101306",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The number of distinct simple graphs with up to three nodes is",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101307",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]T(n) = 2T\\left(\\frac{n}{2}\\right)+k, \\text{ k is a constant }[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]T(n) = T\\left(\\frac{n}{2}\\right)+k, \\text{ k is a constant }[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]T(n) = T\\left(\\frac{n}{2}\\right)+\\log n[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]T(n) = T\\left(\\frac{n}{2}\\right)+n[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The recurrence relation that arises in relation with the complexity of binary search is:",
+      "topic": "Recurrence Relation",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101309",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The rank of matrix [latex]\\begin{bmatrix} 0 & 0 & -3 \\\\ 9 & 3 & 5 \\\\ 3 & 1 & 1 \\end{bmatrix}[/latex]is:",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101310",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]g=g^{-1} \\text{ for every } g \\in G[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]g=g^2 \\text{ for every }g \\in G[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](goh)^2 = g^2oh^2 \\text{ for every } g, h \\in G[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "G is of finite order"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Some group (G, o) is known to be abelian. Then, which one of the following is true for G?",
+      "topic": "Group Theory",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101311",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]i+j[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]i+j-1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](j-1)+\\frac{i(i-1)}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]i+\\frac{j(j-1)}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In a compact single dimensional array representation for lower triangular matrices (i.e all the elements above the diagonal are zero) of size [latex]n \\times n[/latex], non-zero elements, (i.e elements of lower triangle) of each row are stored one after another, starting from the first row, the index of the [latex](i, j)^{th}[/latex] element of the lower triangular matrix in this new representation is:",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101312",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "it makes implementation of lexical analysis and syntax analysis easier"
+        },
+        {
+          "id": "B",
+          "text": "syntax-directed translations can be written for intermediate code generation"
+        },
+        {
+          "id": "C",
+          "text": "it enhances the portability of the front end of the compiler"
+        },
+        {
+          "id": "D",
+          "text": "it is not possible to generate code for real machines directly from high level language programs"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Generation of intermediate code based on an abstract machine model is useful in compilers because",
+      "topic": "Intermediate Code Generation",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101313",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "LRU page replacement algorithm is used"
+        },
+        {
+          "id": "B",
+          "text": "FIFO page replacement algorithm is used"
+        },
+        {
+          "id": "C",
+          "text": "LFU page replacement algorithm is used"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A memory page containing a heavily used variable that was initialized very early and is in constant use is removed then",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101314",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 4, 5, 1, 2"
+        },
+        {
+          "id": "B",
+          "text": "3, 4, 5, 2, 1"
+        },
+        {
+          "id": "C",
+          "text": "1, 5, 2, 3, 4"
+        },
+        {
+          "id": "D",
+          "text": "5, 4, 3, 1, 2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following permutations can be obtained in the output (in the same order) using a stack assuming that the input is the sequence 1, 2, 3, 4, 5 in that order?",
+      "topic": "Stack",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101315",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]n[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]n^2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{n(n-1)}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{n(n+1)}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The number of substrings (of all lengths inclusive) that can be formed from a character string of length n is",
+      "topic": "Discrete Mathematics",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101316",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Regular grammar to context free grammar"
+        },
+        {
+          "id": "B",
+          "text": "Non-deterministic FSA to deterministic FSA"
+        },
+        {
+          "id": "C",
+          "text": "Non-deterministic PDA to deterministic PDA"
+        },
+        {
+          "id": "D",
+          "text": "Non-deterministic Turing machine to deterministic Turing machine"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following conversions is not possible (algorithmically)?",
+      "topic": "Push-down Automata",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101317",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Insertion sort"
+        },
+        {
+          "id": "B",
+          "text": "Binary search"
+        },
+        {
+          "id": "C",
+          "text": "Radix sort"
+        },
+        {
+          "id": "D",
+          "text": "Polynomial manipulation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Linked lists are not suitable data structures for which one of the following problems?",
+      "topic": "Link List",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101318",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Syntax of if-then-else statements"
+        },
+        {
+          "id": "B",
+          "text": "Syntax of recursive procedures"
+        },
+        {
+          "id": "C",
+          "text": "Whether a variable has been declared before its use"
+        },
+        {
+          "id": "D",
+          "text": "Variable names of arbitrary length"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following features cannot be captured by context-free grammars?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101319",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Dynamic programming"
+        },
+        {
+          "id": "B",
+          "text": "Backtracking"
+        },
+        {
+          "id": "C",
+          "text": "Divide and conquer"
+        },
+        {
+          "id": "D",
+          "text": "Greedy method"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Algorithm design technique used in quicksort algorithm is?",
+      "topic": "Sorting",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101320",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Passing a constant value as a parameter"
+        },
+        {
+          "id": "B",
+          "text": "Passing the address of an array as a parameter"
+        },
+        {
+          "id": "C",
+          "text": "Passing an array element as a parameter"
+        },
+        {
+          "id": "D",
+          "text": "Passing an array"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In which of the following cases is it possible to obtain different results for call-by-reference and call-by-name parameter passing methods?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101321",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Macro definitions cannot appear within other macro definitions in assembly language programs"
+        },
+        {
+          "id": "B",
+          "text": "Overlaying is used to run a program which is longer than the address space of a computer"
+        },
+        {
+          "id": "C",
+          "text": "Virtual memory can be used to accommodate a program which is longer than the address space of a computer"
+        },
+        {
+          "id": "D",
+          "text": "It is not possible to write interrupt service routines in a high level language"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following statements is true?",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101322",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Optimal binary search tree construction can be performed efficiently using dynamic programming"
+        },
+        {
+          "id": "B",
+          "text": "Breadth-first search cannot be used to find connected components of a graph"
+        },
+        {
+          "id": "C",
+          "text": "Given the prefix and postfix walks over a binary tree, the binary tree cannot be uniquely constructed."
+        },
+        {
+          "id": "D",
+          "text": "Depth-first search can be used to find connected components of a graph"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements is false?",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 1994
+    },
+    {
+      "branch": "CS",
+      "id": "1101323",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]g_1(n) \\text{ is } O(g_2(n))[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]g_1(n) \\text{ is } O(n^3)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]g_2(n) \\text{ is } O(g_1(n))[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]g_2(n) \\text{ is } O(n)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following two functions: [latex]g_1(n) = \\begin{cases} n^3 \\text{ for } 0 \\leq n \\leq 10,000 \\\\ n^2 \\text{ for } n \\geq 10,000 \\end{cases}[/latex] [latex]g_2(n) = \\begin{cases} n \\text{ for } 0 \\leq n \\leq 100 \\\\ n^3 \\text{ for } n > 100 \\end{cases}[/latex] Which of the following is true?",
+      "topic": "Asymptotic Notation",
+      "type": "MCQ",
+      "year": 1994
+    }
+  ],
+  "schema_version": 1
+}

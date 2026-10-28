@@ -1,0 +1,1834 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1506101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A finite signal is always time bounded"
+        },
+        {
+          "id": "B",
+          "text": "A time bounded signal always possesses finite energy"
+        },
+        {
+          "id": "C",
+          "text": "A bounded signal is always zero outside the interval [[latex]-t_0,t_0[/latex]\n] for some [latex]t_0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "A time bounded signal is always finite"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which of the following is true?",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x(t)=-x(t-T)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x(t)=x(T-t)=-x(-t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x(t)=x(T-t)=-x(t-T/2)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x(t)=x(t-T)=x(t-T/2)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "x(t) is a real valued function of a real variable with period T. Its trigonometric\r\nFourier Series expansion contains no terms of frequency [latex]\\omega = 2\\pi[/latex](2k)/T;  k=1,2...  Also, no sine terms are present. Then x(t) satisfies the equation",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both are zero"
+        },
+        {
+          "id": "B",
+          "text": "These are zero for static densities but non zero for time varying densities."
+        },
+        {
+          "id": "C",
+          "text": "It is zero for the electric flux density"
+        },
+        {
+          "id": "D",
+          "text": "It is zero for the magnetic flux density"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which of the following statement holds for the divergence of electric and magnetic flux densities ?",
+      "topic": "Magnetostatic Fields",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "In an open circuit test, copper losses are obtained while in short circuit\ntest, core losses are obtained"
+        },
+        {
+          "id": "B",
+          "text": "In an open circuit test, current is drawn at high power factor"
+        },
+        {
+          "id": "C",
+          "text": "In a short circuit test, current is drawn at zero power factor"
+        },
+        {
+          "id": "D",
+          "text": "In an open circuit test, current is drawn at low power factor"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In transformers, which of the following statements is valid ?",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Compensating winding is used for neutralizing armature reaction while\ninterpole winding is used for producing residual flux"
+        },
+        {
+          "id": "B",
+          "text": "Compensating winding is used for neutralizing armature reaction while\ninterpole winding is used for improving commutation"
+        },
+        {
+          "id": "C",
+          "text": "Compensating winding is used for improving commutation while interpole\nwinding is used for neutralizing armature reaction"
+        },
+        {
+          "id": "D",
+          "text": "Compensation winding is used for improving commutation while interpole\nwinding is used for producing residual flux"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In a DC machine, which of the following statements is true ?",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "nominal voltage of the line"
+        },
+        {
+          "id": "B",
+          "text": "physical length of the line"
+        },
+        {
+          "id": "C",
+          "text": "wavelength of the line"
+        },
+        {
+          "id": "D",
+          "text": "power transmitted over the line"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The concept of an electrically short, medium and long line is primarily based on\nthe",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "vacuum"
+        },
+        {
+          "id": "B",
+          "text": "air blast"
+        },
+        {
+          "id": "C",
+          "text": "[latex]SF_{6}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "oil"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Keeping in view the cost and overall effectiveness, the following circuit breaker is best suited for capacitor bank switching",
+      "topic": "Switch Gear and Protection",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "number of turns of restraining and operating coil"
+        },
+        {
+          "id": "B",
+          "text": "operating coil current and restraining coil current"
+        },
+        {
+          "id": "C",
+          "text": "fault current and operating coil current"
+        },
+        {
+          "id": "D",
+          "text": "fault current and restraining coil current"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In a biased differential relay the bias is defined as a ratio of",
+      "topic": "Switch Gear and Protection",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The transmission line produces/ supplies reactive power"
+        },
+        {
+          "id": "B",
+          "text": "The rectifier consumes reactive power and the inverter supplies reactive\npower from/ to the respective connected AC systems"
+        },
+        {
+          "id": "C",
+          "text": "Rectifier supplies reactive power and the inverted consumers reactive power to/ from the respective connected AC systems"
+        },
+        {
+          "id": "D",
+          "text": "Both the converters (rectifier and inverter) consume reactive power from\nthe respective connected AC systems"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An HVDC link consist of rectifier, inverter transmission line and other equipments. Which one of the following is true for this link ?",
+      "topic": "High Voltage DC Transmission",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} 1 & 0&0 \\\\ 0& 1& 0\\\\ -1 &2 & -4 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} 0 & 1&0 \\\\ 0& 0&1\\\\ -1 &2 & -4 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} 0 & 1&0 \\\\ 3& -2& 1\\\\ 1 &-2 & 4 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 1 & 0&0 \\\\ 0& 0& 1\\\\ -1 &2 & -4 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For a system with the transfer function [latex]H(S)=\\frac{3(s-2)}{4s^{2}-2s+1}[/latex], the matrix A in the state space form X=AX+Bu is equal to",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "also has a pole at [latex]\\frac{1}{2}\\angle 30^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "has a constant phase response over the z -plane: arg [latex]\\left | H\\left ( z \\right ) \\right |[/latex] = constant"
+        },
+        {
+          "id": "C",
+          "text": "has a constant phase response over the unit circle: arg |H([latex]e^{i\\Omega }[/latex])| = constant"
+        },
+        {
+          "id": "D",
+          "text": "is stable only if it is anti-causal"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A discrete real all pass system has a pole at z = 2[latex]\\angle[/latex]30[latex]^{\\circ}[/latex]: it, therefore",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]h[n] = 0;n  \\lt  0,n  \\gt  2[/latex], [latex]h[0] = 1,h[1] = h[2] =- 1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]h[n] = 0;n  \\lt  - 1,n  \\gt  1[/latex], [latex]h[- 1] = 1,h[0] = h[1] = 2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]h[n] = 0;n  \\lt  0,n  \\gt  3[/latex], [latex]h[0] =- 1,h[1] = 2,h[2] = 1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]h[n] = 0;n  \\lt  - 2,n  \\gt  1[/latex], [latex]h[- 2] = h[1] = h[- 1] =- h[0] = 3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]x[n]=0;n \\lt -1, n \\gt 0[/latex], [latex]x[-1]=-1,x[0]=2[/latex] is the input and [latex]y[n]=0;n \\lt -1, n \\gt 2[/latex], [latex]y[-1]=-1=y[1],y[0]=3,y[2]=-2[/latex] is the output of a\r\ndiscrete-time LTI system. The system impulse response h[n] will be",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\int_{0}^{R}\\pi R^{2}(1-h/H)^{2}dr[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\int_{0}^{R}\\pi R^{2}(1-h/H)^{2}dh[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\int_{0}^{H}2 \\pi rH(1-r/R)dh[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int_{0}^{R}2 \\pi rH(1-r/R)^{2}dr[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The expression [latex]V=\\int_{0}^{H}\\pi R^{2}(1-h/H)^{2}dh[/latex] for the volume of a cone is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y_{1}[n]\\leftrightarrow Y_{1}(z)=\\sum_{n=0}^{\\infty }(\\frac{2}{3})^{n}z^{-n}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y_{2}[n]\\leftrightarrow Y_{2}(z)=\\sum_{n=0}^{\\infty }(5^{n}-n) z^{-(2n+1)}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y_{3}[n]\\leftrightarrow Y_{3}(z)=\\sum_{n=0}^{\\infty }2^{-|n|} z^{-n}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y_{4}[n]\\leftrightarrow Y_{4}(z)=2z^{-4}+3z^{-2}+1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The discrete-time signal [latex]x[n]\\leftrightarrow X(z)=\\sum_{n=0}^{\\infty }\\frac{3^{n}}{2+n}z^{2n},[/latex] where [latex]\\leftrightarrow[/latex] denotes a\ntransform-pair relationship, is orthogonal to the signal",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]17\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]17/\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{2}/17[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A surface S(x,y)=2x+5y-3 is integrated once over a path consisting of the\npoints that satisfy [latex](x+1)^2+(y-1)^2=\\sqrt{2}[/latex] . The integral evaluates to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "only when x(t) is bounded"
+        },
+        {
+          "id": "B",
+          "text": "only when x(t) is non-negative"
+        },
+        {
+          "id": "C",
+          "text": "only for t[latex]\\geq[/latex]0 if x(t) is bounded for t [latex]\\geq[/latex] 0"
+        },
+        {
+          "id": "D",
+          "text": "even when x(t) is not bounded"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A continuous-time system is described by [latex]y(t)=e^{-|x(t)|}[/latex], where y(t) is the output and x(t) is the input. y(t) is bounded",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "has no finite singularities in its double sided Laplace Transform Y(s)"
+        },
+        {
+          "id": "B",
+          "text": "produces a bounded output for every causal bounded input"
+        },
+        {
+          "id": "C",
+          "text": "produces a bounded output for every anticausal bounded input"
+        },
+        {
+          "id": "D",
+          "text": "has no finite zeroes in its double sided Laplace Transform Y(s)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The running integration, given by [latex]y(t)=\\int_{-\\infty }^{t}x(t)dt[/latex]",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Pr(r\\gt 6)=\\frac{1}{6}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "Pr (r/3 is an integer)=[latex]\\frac{5}{6}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "Pr (r = 8 | r/4 is an integer)=[latex]\\frac{5}{9}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "Pr (r = 6 |r/5 is an integer)=[latex]\\frac{1}{18}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two fair dice are rolled and the sum r of the numbers turned up is considered",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only 2 and 4 are true"
+        },
+        {
+          "id": "B",
+          "text": "1, 2 and 3 are true"
+        },
+        {
+          "id": "C",
+          "text": "2, 3 and 4 are true"
+        },
+        {
+          "id": "D",
+          "text": "1, 2 and 4 are true"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the following statements with reference to the equation [latex]\\frac{\\delta p}{\\delta t}[/latex] (1) This is a point form of the continuity equation. (2) Divergence of current density is equal to the decrease of charge per unit\r\nvolume per unit at every point. (3) This is Max well's divergence equation (4) This represents the conservation of charge Select the correct answer.",
+      "topic": "Electromagnetic Theory",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]V_{0}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]V_{0}\\cos (\\omega _{0}t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]V_{0}\\sin (\\omega _{0}t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]V_{0}e^{-\\omega _{0}t} \\cos (\\omega _{0}t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An ideal capacitor is charged to a voltage [latex]V_{0}[/latex] and connected at t=0 across an\nideal inductor L. (The circuit now consists of a capacitor and inductor alone). If\nwe let [latex]\\omega _{0}=\\frac{1}{\\sqrt{LC}}[/latex], the voltage across the capacitor at time [latex]t \\gt 0[/latex] is given by",
+      "topic": "Transients and Steady State Response",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "28.78"
+        },
+        {
+          "id": "B",
+          "text": "21.6"
+        },
+        {
+          "id": "C",
+          "text": "16.6"
+        },
+        {
+          "id": "D",
+          "text": "12.47"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 400 V, 50 Hz, three phase balanced source supplies power to a star connected\nload whose rating is 12[latex]\\sqrt{3}[/latex] kVA, 0.8 pf (lag). The rating (in kVAR) of the delta connected (capacitive) reactive power bank necessary to bring the pf to unity is",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3.478"
+        },
+        {
+          "id": "B",
+          "text": "1.739"
+        },
+        {
+          "id": "C",
+          "text": "1.54"
+        },
+        {
+          "id": "D",
+          "text": "0.87"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An energy meter connected to an immersion heater (resistive) operating on an\r\nAC 230 V, 50 Hz, AC single phase source reads 2.3 units (kWh) in 1 hour. The\r\nheater is removed from the supply and now connected to a 400 V peak to peak square\r\nwave source of 150 Hz. The power in kW dissipated by the heater will be",
+      "topic": "Steady State AC Analysis",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.87"
+        },
+        {
+          "id": "B",
+          "text": "0.95"
+        },
+        {
+          "id": "C",
+          "text": "0.96"
+        },
+        {
+          "id": "D",
+          "text": "1.06"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 220 V DC machine supplies 20 A at 200 V as a generator. The armature\nresistance is 0.2 ohm. If the machine is now operated as a motor at same terminal\nvoltage and current but with the flux increased by 10%, the ratio of motor speed\nto generator speed is",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "magnetizing"
+        },
+        {
+          "id": "B",
+          "text": "demagnetizing"
+        },
+        {
+          "id": "C",
+          "text": "cross-magnetizing"
+        },
+        {
+          "id": "D",
+          "text": "ineffective"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A synchronous generator is feeding a zero power factor (lagging) load at rated\ncurrent. The armature reaction is",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.2"
+        },
+        {
+          "id": "B",
+          "text": "0.1"
+        },
+        {
+          "id": "C",
+          "text": "0.05"
+        },
+        {
+          "id": "D",
+          "text": "0.025"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two transformers are to be operated in parallel such that they share load in\r\nproportion to their kVA ratings. The rating of the first transformer is 500 kVA and its pu leakage\r\nimpedance is 0.05 pu. If the rating of second transformer is 250 kVA, its pu\r\nleakage impedance is",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "882rpm"
+        },
+        {
+          "id": "B",
+          "text": "864rpm"
+        },
+        {
+          "id": "C",
+          "text": "840rpm"
+        },
+        {
+          "id": "D",
+          "text": "828rpm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The speed of a 4-pole induction motor is controlled by varying the supply\nfrequency while maintaining the ratio of supply voltage to supply frequency (V/f) constant. At rated frequency of 50 Hz and rated voltage of 400 V its speed is\n1440 rpm. Find the speed at 30 Hz, if the load torque is constant",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "63.6Nm"
+        },
+        {
+          "id": "B",
+          "text": "74.3Nm"
+        },
+        {
+          "id": "C",
+          "text": "190.8Nm"
+        },
+        {
+          "id": "D",
+          "text": "222.9Nm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase, 4-pole, 400 V, 50 Hz, star connected induction motor has following\r\ncircuit parameters [latex]r_{1}=1.0\\Omega ,r'_{2}=0.5 \\Omega ,x_{1}=x'_{2}=1.2 \\Omega, x_{m}=35 \\Omega[/latex] The starting torque when the motor is started direct-on-line is (use approximate equivalent circuit model)",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "67.90%"
+        },
+        {
+          "id": "B",
+          "text": "56.90%"
+        },
+        {
+          "id": "C",
+          "text": "51%"
+        },
+        {
+          "id": "D",
+          "text": "50%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase, 400 V, 5 kW, star connected synchronous motor having an internal\r\nreactance of 10 [latex]\\Omega[/latex] is operating at 50% load, unity p.f. Now, the excitation is increased by 1%. What will be the new load in percent, if the power factor is to be kept same? Neglect all losses and consider linear magnetic circuit.",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "9"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "21"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The A, B, C , D constants of a 220 kV line are : [latex]A=D=0.94\\angle 1^{\\circ}[/latex], [latex]B=130\\angle 73^{\\circ}[/latex], [latex]C=0.001\\angle 90^{\\circ}[/latex]. If the sending end voltage of the line for a given load delivered at nominal voltage\nis 240 kV, the % voltage regulation of the line is",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4.81"
+        },
+        {
+          "id": "B",
+          "text": "3.56"
+        },
+        {
+          "id": "C",
+          "text": "2.29"
+        },
+        {
+          "id": "D",
+          "text": "1.27"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single phase transmission line and a telephone line are both symmetrically\nstrung one below the other, in horizontal configurations, on a common tower, The\nshortest and longest distances between the phase and telephone conductors are\n2.5 m and 3 m respectively.\nThe voltage (volt/km) induced in the telephone circuit, due to 50 Hz current of\n100 amps in the power circuit is",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]V_{an1}=X\\angle (\\theta _{1}+30^{\\circ}),[/latex] [latex]V_{an2}=Y (\\theta _{2}-30^{\\circ})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]V_{an1}= X\\angle (\\theta _{1}-30^{\\circ}),[/latex] [latex]V_{an2}=Y (\\theta _{2}+30^{\\circ})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]V_{an1}=\\frac{1}{\\sqrt{3}} X\\angle (\\theta _{1}-30^{\\circ}),[/latex] [latex]V_{an2}=\\frac{1}{\\sqrt{3}}Y (\\theta _{2}-30^{\\circ})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]V_{an1}=\\frac{1}{\\sqrt{3}} X\\angle (\\theta _{1}-60^{\\circ}),[/latex] [latex]V_{an2}=\\frac{1}{\\sqrt{3}}Y (\\theta _{2}-60^{\\circ})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Three identical star connected resistors of 1.0 pu are connected to an unbalanced\r\n3-phase supply. The load neutral is isolated. The symmetrical components of the\r\nline voltages in pu. are: [latex]V_{ab1}=X\\angle \\theta _{1},V_{ab2}=Y\\angle \\theta _{2}[/latex]. If all the pu calculations are with the respective base values, the phase to neutral sequence voltages are",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "36"
+        },
+        {
+          "id": "B",
+          "text": "1.44"
+        },
+        {
+          "id": "C",
+          "text": "0.72"
+        },
+        {
+          "id": "D",
+          "text": "0.18"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A generator is connected through a 20 MVA, 13.8/138 kV step down transformer,\nto a transmission line. At the receiving end of the line a load is supplied through\na step down transformer of 10 MVA, 138/69 kV rating. A 0.72 pu. load, evaluated\non load side transformer ratings as base values , is supplied from the above\nsystem. For system base values of 10 MVA and 69 kV in load circuit, the value of\nthe load (in per unit) in generator will be",
+      "topic": "Per Unit System",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Unreliable convergence"
+        },
+        {
+          "id": "B",
+          "text": "Slow convergence"
+        },
+        {
+          "id": "C",
+          "text": "Choice of slack bus affects convergence"
+        },
+        {
+          "id": "D",
+          "text": "A good initial guess for voltages is essential for convergence"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Gauss Seidel load flow method has following disadvantages.\nTick the incorrect statement",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506150",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "causal"
+        },
+        {
+          "id": "B",
+          "text": "unbounded"
+        },
+        {
+          "id": "C",
+          "text": "periodic"
+        },
+        {
+          "id": "D",
+          "text": "non-negative"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "y[n] denotes the output and x[n] denotes the input of a discrete-time system given\nby the difference equation y[n]-0.8y[n-1]=x[n]+1.25x[n+1]. Its right-sided\nimpulse response is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506151",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a single complex root with the remaining roots being real"
+        },
+        {
+          "id": "B",
+          "text": "one positive real root and four complex roots, all with positive real parts"
+        },
+        {
+          "id": "C",
+          "text": "one negative real root, two imaginary roots, and two roots with positive real parts"
+        },
+        {
+          "id": "D",
+          "text": "one positive real root, two imaginary roots, and two roots with negative real parts"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The algebraic equation [latex]F(s)=s^{5}-3s^{4}+5s^{3}-7s^{2}+4s+20[/latex] is given. F(s) = 0 has",
+      "topic": "Control Systems",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506153",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8, 6, 10"
+        },
+        {
+          "id": "B",
+          "text": "8, 6, 8"
+        },
+        {
+          "id": "C",
+          "text": "-8, 10, 10"
+        },
+        {
+          "id": "D",
+          "text": "-8, 2, 2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A current of [latex]-8+6\\sqrt{2} (\\sin \\omega t + 30^{\\circ})[/latex]A is passed through three meters. They are a centre zero PMMC meter, a true rms meter and a moving iron instrument. The respective reading (in A) will be",
+      "topic": "Galvanometers, Voltmeters and Ammeters",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506154",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\pm 0.5[/latex]% rdg"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\pm 5.5[/latex]% rdg"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\pm 6.7[/latex]% rdg"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\pm 7.0[/latex]% rdg"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A variable w is related to three other variables x, y, z as w=xy/z. The variables\r\nare measured with meters of accuracy [latex]\\pm[/latex]0.5% reading, [latex]\\pm[/latex]1% of full scale value and [latex]\\pm[/latex]1.5% reading. The actual readings of the three meters are 80, 20 and 50 with 100 being the full scale value for all three. The maximum uncertainty in the measurement of w will be",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.0, 30"
+        },
+        {
+          "id": "B",
+          "text": "-0.5, 35"
+        },
+        {
+          "id": "C",
+          "text": "-1.0, 30"
+        },
+        {
+          "id": "D",
+          "text": "-1.0, 25"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 200/1 Current transformer (CT) is wound with 200 turns on the secondary\non a toroidal core. When it carries a current of 160 A on the primary, the ratio\nand phase errors of the CT are found to be -0.5% and 30 minutes respectively.\nIf the number of secondary turns is reduced by 1 new ratio-error(%) and phaseerror(\nmin) will be respectively",
+      "topic": "Instrument Transformers",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]R_1 =R_3R_4/R_2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]R_1 =R_2R_3/R_4[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]R_1 =R_2R_4/R_3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]R_1 =R_2+R_3+R_4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]R_1 \\; and \\; R_4[/latex] are the opposite arms of a Wheatstone bridge as are [latex]R_3 \\; and \\; R_2[/latex]. The\nsource voltage is applied across [latex]R_1 \\; and \\; R_3[/latex]. Under balanced conditions which one\nof the following is true",
+      "topic": "Measurement of Resistance and Potentiometers",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506163",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "255"
+        },
+        {
+          "id": "B",
+          "text": "510"
+        },
+        {
+          "id": "C",
+          "text": "65025"
+        },
+        {
+          "id": "D",
+          "text": "65279"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A software delay subroutine is written as given below : DELAY : MVI H, 255D MVI L, 255D LOOP : DCR L JNZ LOOP DCR H JNZ LOOP How many times DCR L instruction will be executed ?",
+      "topic": "Microprocessors",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506164",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "XCHG INR M"
+        },
+        {
+          "id": "B",
+          "text": "XCHG INX H"
+        },
+        {
+          "id": "C",
+          "text": "INX D XCHG"
+        },
+        {
+          "id": "D",
+          "text": "INR M XCHG"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In an 8085 A microprocessor based system, it is desired to increment the contents\nof memory location whose address is available in (D,E) register pair and store the\nresult in same location. The sequence of instruction is",
+      "topic": "Microprocessors",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506166",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "IDF = 0.867; IPF = 0.828"
+        },
+        {
+          "id": "B",
+          "text": "IDF = 0.867; IPF = 0.552"
+        },
+        {
+          "id": "C",
+          "text": "IDF = 0.5; IPF = 0.478"
+        },
+        {
+          "id": "D",
+          "text": "IDF = 0.5; IPF = 0.318"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase fully controlled bridge converter with free wheeling diode is fed from\r\n400 V, 50 Hz AC source and is operating at a firing angle of 60[latex]^{\\circ}[/latex]. The load current\r\nis assumed constant at 10 A due to high load inductance. The input displacement\r\nfactor (IDF) and the input power factor (IPF) of the converter will be",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506168",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "125[latex]^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "120[latex]^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "60[latex]^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "55[latex]^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A solar cell of 350 V is feeding power to an ac supply of 440 V, 50 Hz through a\r\n3-phase fully controlled bridge converter. A large inductance is connected in the\r\ndc circuit to maintain the dc current at 20 A. If the solar cell resistance is 0.5 [latex]\\Omega[/latex], then each thyristor will be reverse biased for a period of",
+      "topic": "Power Electronics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506171",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "808"
+        },
+        {
+          "id": "B",
+          "text": "888"
+        },
+        {
+          "id": "C",
+          "text": "1400"
+        },
+        {
+          "id": "D",
+          "text": "1538"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 4 pole, 50 Hz, synchronous generator has 48 slots in which a double layer winding is housed. Each coil has 10 turns and is short pitched by an angle to 36[latex]^\\circ[/latex] electrical. The fundamental flux per pole is 0.025 Wb. The line-to-line induced emf(in volts), for a three phase star connection is\r\napproximately",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506172",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1143"
+        },
+        {
+          "id": "B",
+          "text": "1332"
+        },
+        {
+          "id": "C",
+          "text": "1617"
+        },
+        {
+          "id": "D",
+          "text": "1791"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 4 pole, 50 Hz, synchronous generator has 48 slots in which a double layer winding is housed. Each coil has 10 turns and is short pitched by an angle to 36[latex]^\\circ[/latex] electrical. The fundamental flux per pole is 0.025 Wb. The line-to-line induced emf(in volts), for a three phase connection is approximately",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506173",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "269"
+        },
+        {
+          "id": "C",
+          "text": "281"
+        },
+        {
+          "id": "D",
+          "text": "808"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 4 pole, 50 Hz, synchronous generator has 48 slots in which a double layer winding is housed. Each coil has 10 turns and is short pitched by an angle to 36[latex]^\\circ[/latex] electrical. The fundamental flux per pole is 0.025 Wb. The fifth harmonic component of phase emf(in volts), for a three phase star\r\nconnection is",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506174",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "0.6"
+        },
+        {
+          "id": "C",
+          "text": "0.56"
+        },
+        {
+          "id": "D",
+          "text": "0.4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A generator feeds power to an infinite bus through a double circuit transmission line. A 3-phase fault occurs at the middle point of one of the lines. The infinite bus voltage of the generator is 1.1 pu and the equivalent transfer admittance during fault is 0.8 pu. The 100 MVA generator has an inertia constant of 5 MJ/MVA and it was delivering 1.0 pu power prior of the fault with rotor power angle of 30[latex]^\\circ[/latex]. The system frequency is 50 Hz. The initial accelerating power (in pu) will be",
+      "topic": "Power System Stability",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506175",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "31.4X, 18"
+        },
+        {
+          "id": "B",
+          "text": "1800X, 0.056"
+        },
+        {
+          "id": "C",
+          "text": "X/1800, 0.056"
+        },
+        {
+          "id": "D",
+          "text": "X/31.4, 18"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A generator feeds power to an infinite bus through a double circuit transmission line. A 3-phase fault occurs at the middle point of one of the lines. The infinite bus voltage of the generator is 1.1 pu and the equivalent transfer admittance during fault is 0.8 pu. The 100 MVA generator has an inertia constant of 5 MJ/MVA and it was delivering 1.0 pu power prior of the fault with rotor power angle of 30[latex]^\\circ[/latex]. The system frequency is 50 Hz. If the initial accelerating power is X pu, the initial acceleration in elect [latex]deg/sec^2[/latex],\r\nand the inertia constant in MJ-sec/elect deg respectively will be",
+      "topic": "Power System Stability",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506176",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex][-6 \\; \\; -3 \\; \\; 6]^T,[4 \\; \\; -2 \\; \\; 3]^T [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex][-4 \\; \\; 2 \\; \\; 4]^T,[5 \\; \\; 7 \\; \\; -11]^T,[8 \\; \\; 2 \\; \\; -3]^T [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex][6 \\; \\; 7 \\; \\; -1]^T,[-3 \\; \\; 12 \\; \\; -2]^T,[3 \\; \\; 9 \\; \\; -4]^T [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex][4 \\; \\; 3 \\; \\; 11]^T,[1 \\; \\; 31 \\; \\; 3]^T,[5 \\; \\; 3 \\; \\; 4]^T [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]p=\\begin{bmatrix} -10\\; \\; 1\\; \\; 3 \\end{bmatrix}^{T},[/latex] [latex]q=\\begin{bmatrix} -2\\; \\; -5\\; \\; 9 \\end{bmatrix}^{T},[/latex] [latex]r=\\begin{bmatrix} 2\\; \\; -7\\; \\; 12 \\end{bmatrix}^{T}[/latex] are three Vectors. An orthogonal set of vectors having a span that contains p, q, r is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506177",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex][8 \\; \\; 9 \\; \\; 3]^T [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex][-2 \\; \\; -17 \\; \\; 30]^T [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex][4 \\; \\; 4 \\; \\; 5]^T [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex][13 \\; \\; 2 \\; \\; -3]^T [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]p=\\begin{bmatrix} -10\\; \\; 1\\; \\; 3 \\end{bmatrix}^{T},[/latex] [latex]q=\\begin{bmatrix} -2\\; \\; -5\\; \\; 9 \\end{bmatrix}^{T},[/latex] [latex]r=\\begin{bmatrix} 2\\; \\; -7\\; \\; 12 \\end{bmatrix}^{T}[/latex] are three Vectors. The following vector is linearly dependent upon the orthogonal set of vectors having a span that contains p, q, r is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506180",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P_{c}[/latex]= 4.12, [latex]P_{i}[/latex]= 8.51"
+        },
+        {
+          "id": "B",
+          "text": "[latex]P_{c}[/latex]= 6.59, [latex]P_{i}[/latex]= 9.21"
+        },
+        {
+          "id": "C",
+          "text": "[latex]P_{c}[/latex]= 8.51, [latex]P_{i}[/latex]= 4.12"
+        },
+        {
+          "id": "D",
+          "text": "[latex]P_{c}[/latex]= 12.72, [latex]P_{i}[/latex]= 3.07"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 300 kVA transformer has 95% efficiency at full load 0.8 pf lagging and 96% efficiency at half load, unity pf. The iron loss [latex]\\left ( P_{i} \\right )[/latex] and copper loss[latex]\\left ( P_{c} \\right )[/latex] in kW, under full load operation are",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506181",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "95.1"
+        },
+        {
+          "id": "B",
+          "text": "96.2"
+        },
+        {
+          "id": "C",
+          "text": "96.4"
+        },
+        {
+          "id": "D",
+          "text": "98.1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 300 kVA transformer has 95% efficiency at full load 0.8 pf lagging and 96% efficiency at half load, unity pf. What is maximum efficiency(in %) at unity pf load?",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506182",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.24, 0.63"
+        },
+        {
+          "id": "B",
+          "text": "0.31, 0.76"
+        },
+        {
+          "id": "C",
+          "text": "0.33, 0.67"
+        },
+        {
+          "id": "D",
+          "text": "0.67, 0.33"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For a power system the admittance and impedance matrices for the fault studies are as fallows [latex]Y_{bus}=\\begin{bmatrix} -j8.75 & j1.25 & j2.50\\\\ j1.25& -j6.25 & j2.50\\\\ j2.50 & -j2.50 & -j5.00 \\end{bmatrix}[/latex] [latex]Z_{bus}=\\begin{bmatrix} j0.16 & j0.08 & j0.12\\\\ j0.08 & j0.24 & j0.16\\\\ j0.12 & j0.16 & j0.34 \\end{bmatrix}[/latex] The pre-fault voltages are 1.0 pu. at all the buses. The system was unloaded prior to the fault. A solid 3-phase fault takes place at bus 2. The post fault voltages at buses 1 and 3 in per unit respectively are",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "1506183",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.20, 2.51"
+        },
+        {
+          "id": "B",
+          "text": "1.55, 2.61"
+        },
+        {
+          "id": "C",
+          "text": "1.66, 2.50"
+        },
+        {
+          "id": "D",
+          "text": "5.00, 2.50"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For a power System the admittance and impedance matrices for the fault studies are as fallows [latex]Y_{bus}=\\begin{bmatrix} -j8.75 & j1.25 & j2.50\\\\ j1.25& -j6.25 & j2.50\\\\ j2.50 & -j2.50 & -j5.00 \\end{bmatrix}[/latex] [latex]Z_{bus}=\\begin{bmatrix} j0.16 & j0.08 & j0.12\\\\ j0.08 & j0.24 & j0.16\\\\ j0.12 & j0.16 & j0.34 \\end{bmatrix}[/latex] The pre-fault voltages are 1.0 pu. at all the buses. The system was unloaded prior to the fault. A solid 3-phase fault takes place at bus 2. The per unit fault feeds from generators connected to buses 1 and 2 respectively are",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "10612215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\int_{0}^{R}\\pi R^{2}(1-h/H)^{2}dr[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\int_{0}^{R}\\pi R^{2}(1-h/H)^{2}dh[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\int_{0}^{H}2 \\pi rH(1-r/R)dh[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int_{0}^{R}2 \\pi rH(1-r/R)^{2}dr[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The expression [latex]V=\\int_{0}^{H}\\pi R^{2}(1-h/H)^{2}dh[/latex] for the volume of a cone is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "10612415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]17\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]17/\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{2}/17[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A surface S(x,y)=2x+5y-3 is integrated once over a path consisting of the\npoints that satisfy [latex](x+1)^2+(y-1)^2=\\sqrt{2}[/latex] . The integral evaluates to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "10612715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Pr(r\\gt 6)=\\frac{1}{6}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "Pr (r/3 is an integer)=[latex]\\frac{5}{6}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "Pr (r = 8 | r/4 is an integer)=[latex]\\frac{5}{9}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "Pr (r = 6 |r/5 is an integer)=[latex]\\frac{1}{18}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two fair dice are rolled and the sum r of the numbers turned up is considered",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "10617615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex][-6 \\; \\; -3 \\; \\; 6]^T,[4 \\; \\; -2 \\; \\; 3]^T [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex][-4 \\; \\; 2 \\; \\; 4]^T,[5 \\; \\; 7 \\; \\; -11]^T,[8 \\; \\; 2 \\; \\; -3]^T [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex][6 \\; \\; 7 \\; \\; -1]^T,[-3 \\; \\; 12 \\; \\; -2]^T,[3 \\; \\; 9 \\; \\; -4]^T [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex][4 \\; \\; 3 \\; \\; 11]^T,[1 \\; \\; 31 \\; \\; 3]^T,[5 \\; \\; 3 \\; \\; 4]^T [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]p=\\begin{bmatrix} -10\\; \\; 1\\; \\; 3 \\end{bmatrix}^{T},[/latex] [latex]q=\\begin{bmatrix} -2\\; \\; -5\\; \\; 9 \\end{bmatrix}^{T},[/latex] [latex]r=\\begin{bmatrix} 2\\; \\; -7\\; \\; 12 \\end{bmatrix}^{T}[/latex] are three Vectors. An orthogonal set of vectors having a span that contains p, q, r is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    },
+    {
+      "branch": "EE",
+      "id": "10617715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex][8 \\; \\; 9 \\; \\; 3]^T [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex][-2 \\; \\; -17 \\; \\; 30]^T [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex][4 \\; \\; 4 \\; \\; 5]^T [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex][13 \\; \\; 2 \\; \\; -3]^T [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]p=\\begin{bmatrix} -10\\; \\; 1\\; \\; 3 \\end{bmatrix}^{T},[/latex] [latex]q=\\begin{bmatrix} -2\\; \\; -5\\; \\; 9 \\end{bmatrix}^{T},[/latex] [latex]r=\\begin{bmatrix} 2\\; \\; -7\\; \\; 12 \\end{bmatrix}^{T}[/latex] are three Vectors. The following vector is linearly dependent upon the orthogonal set of vectors having a span that contains p, q, r is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2006
+    }
+  ],
+  "schema_version": 1
+}

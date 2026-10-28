@@ -1,0 +1,1369 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1101501",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]A \\cup B[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]A^c \\cup B^c[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]A \\cap B[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]A^c \\cap B^c[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A and B be sets and let [latex]A^c[/latex] and [latex]B^c[/latex] denote the complements of the sets A and B. The set [latex](A-B) \\cup (B-A) \\cup (A \\cap B)[/latex] is equal to",
+      "topic": "Set Theory",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101502",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let [latex]X = \\{2, 3, 6, 12, 24\\}[/latex], Let [latex]\\leq[/latex] be the partial order defined by [latex]X \\leq Y[/latex] if x divides y. Number of edges in the Hasse diagram of [latex](X, \\leq)[/latex] is",
+      "topic": "Set Theory",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101503",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "|X| =1, |Y| =97"
+        },
+        {
+          "id": "B",
+          "text": "|X| =97, |Y| =1"
+        },
+        {
+          "id": "C",
+          "text": "|X| =97, |Y| =97"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Suppose X and Y are sets and |X| and |Y| are their respective cardinality. It is given that there are exactly 97 functions from X to Y. From this one can conclude that",
+      "topic": "Functions",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101504",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The set of rational numbers is an abelian group under addition"
+        },
+        {
+          "id": "B",
+          "text": "The set of integers in an abelian group under addition"
+        },
+        {
+          "id": "C",
+          "text": "The set of rational numbers form an abelian group under multiplication"
+        },
+        {
+          "id": "D",
+          "text": "The set of real numbers excluding zero is an abelian group under multiplication"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements is FALSE?",
+      "topic": "Group Theory",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101505",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{36}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{25}{36}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{11}{36}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Two dice are thrown simultaneously. The probability that at least one of them will have 6 facing up is",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101506",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\dfrac{f(x_0 +h) + f(x_0 - h)}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\dfrac{f(x_0 +h) - f(x_0 - h)}{2h}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\dfrac{f(x_0 +h) + 2f(x_0) + f(x_0 - h)}{h^2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\dfrac{f(x_0 +h) - 2f(x_0) + f(x_0 - h)}{h^2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The formula used to compute an approximation for the second derivative of a function [latex]f[/latex] at a point [latex]x_0[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101507",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The system has a solution if and only if, both A and the augmented matrix [Ab] have the same rank."
+        },
+        {
+          "id": "B",
+          "text": "If m < n and b is the zero vector, then the system has infinitely many solutions."
+        },
+        {
+          "id": "C",
+          "text": "If m=n and b is a non-zero vector, then the system has a unique solution."
+        },
+        {
+          "id": "D",
+          "text": "The system will have only a trivial solution when m=n, b is the zero vector and rank (A) =n."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let AX = b be a system of linear equations where A is an [latex]m \\times n[/latex] matrix and b is a [latex]m \\times 1[/latex] column vector and X is an [latex]n \\times 1[/latex] column vector of unknowns. Which of the following is false?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101508",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) and (ii)"
+        },
+        {
+          "id": "B",
+          "text": "(ii) and (iii)"
+        },
+        {
+          "id": "C",
+          "text": "(i) and (iii)"
+        },
+        {
+          "id": "D",
+          "text": "(iii) and (iv)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which two of the following four regular expressions are equivalent? ([latex]\\varepsilon[/latex] is the empty string). (i).   [latex](00)^ * (\\varepsilon +0)[/latex] (ii).  [latex](00)^*[/latex] (iii). [latex]0^*[/latex] (iv).  [latex]0(00)^*[/latex]",
+      "topic": "Regular Expression",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101509",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The Halting Problem of Turing machines is undecidable"
+        },
+        {
+          "id": "B",
+          "text": "Determining whether a context-free grammar is ambiguous is undecidable"
+        },
+        {
+          "id": "C",
+          "text": "Given two arbitrary context-free grammars [latex]G_1[/latex] and [latex]G_2[/latex]it is undecidable whether [latex]L(G_1) = L(G_2)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "Given two regular grammars [latex]G_1[/latex] and [latex]G_2[/latex] it is undecidable whether [latex]L(G_1) = L(G_2)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements is false?",
+      "topic": "Undecidability",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101510",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]L = \\left\\{x \\mid x \\text{ has an equal number of } a\\text{'s and }b\\text{'s}\\right \\}[/latex] is regular"
+        },
+        {
+          "id": "B",
+          "text": "[latex]L = \\left\\{a^nb^n \\mid n \\geq 1\\right \\}[/latex] is regular"
+        },
+        {
+          "id": "C",
+          "text": "[latex]L = \\left\\{x \\mid x \\text{ has more number of }a\\text{'s than }b\\text{'s}\\right \\}[/latex] is regular"
+        },
+        {
+          "id": "D",
+          "text": "[latex]L = \\left\\{a^mb^n \\mid m \\geq 1, n \\geq 1 \\right \\}[/latex] is regular"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let [latex]L \\subseteq \\Sigma^*[/latex] where [latex]\\Sigma = \\left\\{a,b \\right\\}[/latex]. Which of the following is true?",
+      "topic": "Regular Language",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101511",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]100n \\log n=O(\\frac{n\\log n}{100})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{\\log n} = O(\\log\\log n)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\text{If  } \\; 0 \\lt x \\lt y \\text{ then } n^x = O\\left(n^y\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2^n \\neq O\\left(nk\\right)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is false?",
+      "topic": "Asymptotic Notation",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101512",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(ii) and (iii) are true"
+        },
+        {
+          "id": "B",
+          "text": "(i) and (ii) are true"
+        },
+        {
+          "id": "C",
+          "text": "(iii) and (iv) are true"
+        },
+        {
+          "id": "D",
+          "text": "(ii) and (iv) are true"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements: (i). First-in-first out types of computations are efficiently supported by STACKS. (ii). Implementing LISTS on linked lists is more efficient than implementing LISTS on an array for almost all the basic LIST operations. (iii). Implementing QUEUES on a circular array is more efficient than implementing QUEUES on a linear array with two indices. (iv). Last-in-first-out type of computations are efficiently supported by QUEUES.",
+      "topic": "Queue",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101513",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Worst case complexity of search operations is less"
+        },
+        {
+          "id": "B",
+          "text": "Space used is less"
+        },
+        {
+          "id": "C",
+          "text": "Deletion is easier"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "An advantage of chained hash table (external hashing) over the open addressing scheme is",
+      "topic": "Hashing",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101516",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Co - routines"
+        },
+        {
+          "id": "B",
+          "text": "Position - independent code"
+        },
+        {
+          "id": "C",
+          "text": "Shareable code"
+        },
+        {
+          "id": "D",
+          "text": "Interrupt Handlers"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Relative mode of addressing is most relevant to writing:",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101517",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2, 1, 2"
+        },
+        {
+          "id": "B",
+          "text": "2, 1, 2, 1"
+        },
+        {
+          "id": "C",
+          "text": "2, 1, 1, 2"
+        },
+        {
+          "id": "D",
+          "text": "1, 2, 2, 2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The pass numbers for each of the following activities i.   object code generation ii.  literals added to literal table iii. listing printed iv.  address resolution of local symbols that occur in a two pass assembler respectively are",
+      "topic": "Lexical Analysis",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101519",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "which should run in a certain amount of time"
+        },
+        {
+          "id": "B",
+          "text": "which avoids deadlocks"
+        },
+        {
+          "id": "C",
+          "text": "where shared resources are accessed"
+        },
+        {
+          "id": "D",
+          "text": "which must be enclosed by a pair of semaphore operations, P and V"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A critical section is a program segment",
+      "topic": "Process Synchronization",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101520",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A line printer used to print the output of a number of jobs"
+        },
+        {
+          "id": "B",
+          "text": "A terminal used to enter input data to a running program"
+        },
+        {
+          "id": "C",
+          "text": "A secondary storage device in a virtual memory system"
+        },
+        {
+          "id": "D",
+          "text": "A graphic display device"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is an example of spooled device?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101521",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]256 \\times 16[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]64 K \\times 8[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]4 K \\times 16[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]64 K \\times 16[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A ROM is used to store the table for multiplication of two 8-bit unsigned integers. The size of ROM required is",
+      "topic": "Memory Chip Design",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101522",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Number of machine cycles required for RET instruction in 8085 microprocessor is",
+      "topic": "Machine Instruction",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101523",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "101010 ... 1010"
+        },
+        {
+          "id": "B",
+          "text": "100000 ... 0001"
+        },
+        {
+          "id": "C",
+          "text": "111111 ... 1111"
+        },
+        {
+          "id": "D",
+          "text": "011111 ... 1110"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Booth's algorithm for integer multiplication gives worst performance when the multiplier pattern is",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101524",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It gives non-uniform priority to various devices"
+        },
+        {
+          "id": "B",
+          "text": "It gives uniform priority to all devices"
+        },
+        {
+          "id": "C",
+          "text": "It is only useful for connecting slow devices to a processor device"
+        },
+        {
+          "id": "D",
+          "text": "It requires a separate interrupt pin on the processor for each device"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "For the daisy chain scheme of connecting I/O devices, which of the following statements is true?",
+      "topic": "IO Interface",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101525",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0 to 1"
+        },
+        {
+          "id": "B",
+          "text": "0.5 to 1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2^{-23}[/latex] to 0.5"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0.5 \\text{to }\\left(1-2^{-23}\\right)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following floating-point number representation. [latex]\\begin{array}{c|c} \\begin{array}{cc}31\\;\\;\\hspace{15pt}&\\hspace{15pt}24\\end{array} & \\begin{array}{cc}23\\hspace{15pt}&\\hspace{15pt}0\\end{array} \\\\\\hline \\text{Exponent}&\\text{Mantissa}\\\\ \\hline \\end{array}[/latex] The exponent is in 2's complement representation and the mantissa is in the sign-magnitude representation. The range of the magnitude of the normalized numbers in this representation is",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101526",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f^{-1} (x,y) = \\left( \\frac {1}{x+y}, \\frac{1}{x-y}\\right)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f^{ -1} (x,y) = (x-y , x+y)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f^{-1} (x,y) = \\left( \\frac {x+y}{2}, \\frac{x-y}{2}\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f^{-1}(x,y)=\\left [ 2\\left(x-y\\right),2\\left(x+y\\right) \\right ][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let R denote the set of real numbers. Let [latex]f:R\\times R \\rightarrow R \\times R[/latex] be a bijective function defined by [latex]f(x,y) = (x+y, x-y)[/latex]. The inverse function of [latex]f[/latex] is given by",
+      "topic": "Functions",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101527",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A is reflexive and transitive"
+        },
+        {
+          "id": "B",
+          "text": "R is symmetric and not transitive"
+        },
+        {
+          "id": "C",
+          "text": "R is an equivalence relation"
+        },
+        {
+          "id": "D",
+          "text": "R is not reflexive and not symmetric"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let R be a non-empty relation on a collection of sets defined by [latex]_{A}R_ B[/latex] if and only if [latex]A \\cap B = \\phi[/latex]. Then, (pick the true statement)",
+      "topic": "Relation",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101528",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]((x \\rightarrow y) \\wedge x) \\rightarrow y[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]((\\neg x \\rightarrow y) \\wedge (\\neg x \\rightarrow \\neg y)) \\rightarrow x[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](x \\rightarrow (x \\vee y))[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]((x \\vee y) \\leftrightarrow (\\neg x \\rightarrow \\neg y))[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is false? Read [latex]\\wedge[/latex] as AND, [latex]\\vee[/latex] as OR, [latex]\\neg[/latex] as NOT,  [latex]\\rightarrow[/latex] as one way implication and [latex]\\leftrightarrow[/latex] as two way implication",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101529",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The set of all bijective functions on a finite set forms a group under function composition."
+        },
+        {
+          "id": "B",
+          "text": "The set [latex]\\{1, 2, \\dots p-1\\}[/latex] forms a group under multiplication mod p, where p is a prime number."
+        },
+        {
+          "id": "C",
+          "text": "The set of all strings over a finite alphabet forms a group under concatenation."
+        },
+        {
+          "id": "D",
+          "text": "A subset [latex]S \\neq \\emptyset[/latex] of G is a subgroup of the group [latex]\\langle G, * \\rangle[/latex]  if and only if for any pair of elements [latex]a, b \\in S, a * b^{-1} \\in S[/latex]."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following is false?",
+      "topic": "Group Theory",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101530",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x_{n+1}=\\frac{2x_n^3 + \\sqrt[3]{c}}{3x_n^2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x_{n+1}=\\frac{2x_n^3 - \\sqrt[3]{c}}{3x_n^2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x_{n+1}=\\frac{2x_n^3 + c}{3x_n^2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x_{n+1}=\\frac{2x_n^3 - c}{3x_n^2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Newton-Raphson iteration formula for finding [latex]\\sqrt[3]{c}[/latex], where c > 0 is",
+      "topic": "Numerical Method",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101531",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "if [latex]a=b \\text{ or } \\theta = n\\pi[/latex], n is an integer"
+        },
+        {
+          "id": "B",
+          "text": "always"
+        },
+        {
+          "id": "C",
+          "text": "never"
+        },
+        {
+          "id": "D",
+          "text": "if [latex]a \\cos\\theta = b \\sin\\theta[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The matrices [latex]\\begin{bmatrix} \\cos\\theta && -\\sin\\theta \\\\ \\sin\\theta && \\cos\\theta \\end{bmatrix}[/latex] and [latex]\\begin{bmatrix} a && 0\\\\ 0&& b \\end{bmatrix}[/latex] commute under multiplication",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101532",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{4}{52} \\times \\frac{4}{52}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{4}{52} \\times \\frac{3}{52}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{4}{52} \\times \\frac{3}{51}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{4}{52} \\times \\frac{4}{51}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The probability that top and bottom cards of a randomly shuffled deck are both aces is",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101533",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]L_1.L_2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]L_1 \\cap L_2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]L_1 \\cap R[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]L_1 \\cup L_2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If [latex]L_1[/latex] and [latex]L_2[/latex] are context free languages and R a regular set, one of the languages below is not necessarily a context free language. Which one?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101534",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the set of all binary strings with unequal number of 0's and 1's"
+        },
+        {
+          "id": "B",
+          "text": "the set of all binary strings including null string"
+        },
+        {
+          "id": "C",
+          "text": "the set of all binary strings with exactly one more 0 than the number of 1's or one more 1 than the number of 0's"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Define a context free languages [latex]L \\in \\{0, 1\\}^*, \\text{init} (L) = \\{u \\mid uv \\in L[/latex] for some v in [latex]\\{0, 1\\}^*\\}[/latex] ( in other words, [latex]\\text{init}(L)[/latex] is the set of prefixes of L) Let  [latex]L = \\{w \\mid w \\text{ is nonempty and has an equal number of $0$'s and $1$'s}\\}[/latex]\nThen [latex]\\text{init}(L)[/latex] is:",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101535",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the sentence [latex]\\text{\n if a then if b then c:= d } [/latex] has more than two parse trees"
+        },
+        {
+          "id": "B",
+          "text": "the left most and right most derivations of the sentence [latex]\\text{\n if a then if b then c:= d } [/latex] give rise to different parse trees"
+        },
+        {
+          "id": "C",
+          "text": "the sentence [latex]\\text{\nif a then if b then c:= d else c:= f} [/latex] has more than two parse trees"
+        },
+        {
+          "id": "D",
+          "text": "the sentence [latex]\\text{\nif a then if b then c:= d else c:= f} [/latex] has two parse trees"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The grammar whose productions are [latex]\\langle\\text{stmt}\\rangle \\to\\text{ if id then } \\langle\\text{stmt}\\rangle[/latex] [latex]\\langle\\text{stmt}\\rangle\\to\\text{ if id then } \\langle\\text{stmt}\\rangle\\text{ else } \\langle \\text{stmt}\\rangle[/latex] [latex]\\langle\\text{stmt}\\rangle \\to\\text{ id }:=\\text{ id}[/latex] is ambiguous because",
+      "topic": "Parsing",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101536",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The minimum number of interchanges needed to convert the array into a max-heap is 89, 19, 40, 17, 12, 10, 2, 5, 7, 11, 6, 9, 70",
+      "topic": "Heap Tree",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101537",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]O(n)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]O (\\log n)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]O\\left(n^\\frac{3}{4}\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The recurrence relation [latex]T(1) = 2[/latex] [latex]T(n) = 3T (\\frac{n}{4}) +n[/latex] has the solution [latex]T(n)[/latex] equal to",
+      "topic": "Recurrence Relation",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101538",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{n}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{n-1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{n+1}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The average number of key comparisons required for a successful search for sequential search on n items is",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101539",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(4,7)"
+        },
+        {
+          "id": "B",
+          "text": "(7,4)"
+        },
+        {
+          "id": "C",
+          "text": "(8,3)"
+        },
+        {
+          "id": "D",
+          "text": "(3,8)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A binary search tree is generated by inserting in order the following integers: 50,15,62,5,20,58,91,3,8,37,60,24 The number of nodes in the left subtree and right subtree of the root respectively is",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101540",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]C_1 \\lt C_2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]C_1 = C_2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]C_1 \\gt C_2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "we cannot say anything for arbitrary n"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Quick-sort is run on two inputs shown below to sort in ascending order taking first element as pivot (i).  [latex]1, 2, 3, \\dots n[/latex] (ii). [latex]n, n-1, n-2, \\dots, 2, 1[/latex] Let [latex]C_1[/latex] and [latex]C_2[/latex] be the number of comparisons made for the inputs (i) and (ii) respectively. Then,",
+      "topic": "Sorting",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101541",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "II only"
+        },
+        {
+          "id": "B",
+          "text": "I only"
+        },
+        {
+          "id": "C",
+          "text": "both I and II"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following macros can put a macro assembler into an infinite loop? I. .MACRO M1, X\n.IF EQ, X   ;if X=0 then\nM1 X + 1\n.ENDC\n.IF NE, X   ;if X ≠ 0 then\n.WORD X  ;address (X) is stored here\n.ENDC\n.ENDM II. .MACRO M2, X\n.IF EQ, X\nM2 X\n.ENDC\n.IF NE, X\n.WORD X + 1\n.ENDC\n.ENDM",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101542",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A-3 B-4 C-1 D-2"
+        },
+        {
+          "id": "B",
+          "text": "A-4 B-3 C-1 D-2"
+        },
+        {
+          "id": "C",
+          "text": "A-4 B-3 C-2 D-1"
+        },
+        {
+          "id": "D",
+          "text": "A-3 B-4 C-2 D-1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The correct matching for the following pairs is [latex]\\begin{array}{ll|ll} \\text{(A)}&\\text{Activation record} & \\text{(1)} &\\text{Linking loader} \\\\ \\text{(B)} &\\text{Location counter} & \\text{(2)} &\\text{Garbage collection} \\\\ \\text{(C)}& \\text{Reference counts} & \\text{(3)} &\\text{Subroutine call} \\\\ \\text{(D)}& \\text{Address relocation} & \\text{(4)}& \\text{Assembler} \\\\ \\end{array}[/latex]",
+      "topic": "Matching",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101543",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "151"
+        },
+        {
+          "id": "B",
+          "text": "181"
+        },
+        {
+          "id": "C",
+          "text": "231"
+        },
+        {
+          "id": "D",
+          "text": "541"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A 1000 Kbyte memory is managed using variable partitions but no compaction. It currently has two partitions of sizes 200 Kbyte and 260 Kbyte respectively. The smallest allocation request in Kbyte that could be denied is for",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101544",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "ensure that all philosophers pick up the left fork before the right fork"
+        },
+        {
+          "id": "B",
+          "text": "ensure that all philosophers pick up the right fork before the left fork"
+        },
+        {
+          "id": "C",
+          "text": "ensure that one particular philosopher picks up the left fork before the right fork, and that all other philosophers pick up the right fork before the left fork"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A solution to the Dining Philosophers Problem which avoids deadlock is to",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101545",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Four jobs to be executed on a single processor system arrive at time 0 in the order A, B, C, D. Their burst CPU time requirements are 4, 1, 8, 1 time units respectively. The completion time of A under round robin scheduling with time slice of one time unit is",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101548",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following state table shown in figure for a sequential machine. The number of states in the minimized machine will be [latex]\\begin{array}{|l|l|ll|}\\hline \\text{} & \\text{} & \\textbf{Input}\\\\\\hline && \\text{0} & \\text{1} \\\\\\hline  \\textbf{Present State} & \\textbf{A} & \\text{D,0} & \\text{B,1} \\\\   \\text{} & \\textbf{B} & \\text{A,0} & \\text{C,1}\\\\   & \\textbf{C} & \\text{A,0} & \\text{B,1} \\\\  \\text{} & \\textbf{D} & \\text{A,1} & \\text{C,1} \\\\\\hline \\text{} & \\text{} & \\textbf{Next state, Output}\\\\\\hline \\end{array}[/latex]",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1996
+    },
+    {
+      "branch": "CS",
+      "id": "1101550",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "2.5"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A micro program control unit is required to generate a total of 25 control signals. Assume that during any micro instruction, at most two control signals are active. Minimum number of bits required in the control word to generate the required control signals will be:",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 1996
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,965 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1524101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] \\left[\\begin{array}{ccc}1 & 4 & 8 \\\\ 0 & 4 & 2 \\\\ 0.5 & 2 & 4\\end{array}\\right] [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\left[\\begin{array}{lll}1 & 2 & 3 \\\\ 2 & 4 & 6 \\\\ 3 & 2 & 9\\end{array}\\right] [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] \\left[\\begin{array}{lll}1 & 4 & 8 \\\\ 0 & 4 & 2 \\\\ 1 & 2 & 4\\end{array}\\right] [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] \\left[\\begin{array}{ccc}1 & 4 & 8 \\\\ 0 & 4 & 2 \\\\ 3 & 12 & 24\\end{array}\\right] [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which one of the following matrices has an inverse?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It is an even signal."
+        },
+        {
+          "id": "B",
+          "text": "It is an odd signal."
+        },
+        {
+          "id": "C",
+          "text": "It is a causal signal."
+        },
+        {
+          "id": "D",
+          "text": "It is an anti-causal signal."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Suppose signal [latex] y(t) [/latex] is obtained by the time-reversal of signal [latex] x(t) [/latex], i.e., [latex] y(t)=x(-t) [/latex], [latex] -\\infty  \\\\lt t \\\\lt \\infty [/latex]. Which one of the following options is always true for the convolution of [latex] x(t) [/latex] and [latex] y(t) [/latex] ?",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] -\\infty \\lt \\operatorname{Re}(s) \\lt \\infty [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\operatorname{Re}(s) \\geq 10 [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] \\operatorname{Re}(s) \\leq 1 [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] 1 \\leq \\operatorname{Re}(s) \\leq 10 [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex] u(t) [/latex] is the unit step function, then the region of convergence (ROC) of the Laplace transform of the signal [latex]\nx(t)=e^{t^{2}}[u(t-1)-u(t-10)]\n [/latex] is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "92"
+        },
+        {
+          "id": "B",
+          "text": "94"
+        },
+        {
+          "id": "C",
+          "text": "96"
+        },
+        {
+          "id": "D",
+          "text": "98"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three phase, [latex] 50 \\mathrm{~Hz}, 6 [/latex] pole induction motor runs at [latex] 960 \\mathrm{rpm} [/latex]. The stator copper loss, core loss, and the rotational loss of the motor can be neglected. the percentage efficiency of the motor is",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] X [/latex] matches with [latex] P [/latex] and [latex] Q ; Y [/latex] matches with [latex] R [/latex] and [latex] S [/latex]."
+        },
+        {
+          "id": "B",
+          "text": "[latex] X [/latex] matches with [latex] P [/latex] and [latex] R ; Y [/latex] matches with [latex] Q [/latex] and [latex] S [/latex]."
+        },
+        {
+          "id": "C",
+          "text": "[latex] X [/latex] matches with [latex] Q [/latex] and [latex] R ; Y [/latex] matches with [latex] P [/latex] and [latex] S [/latex]."
+        },
+        {
+          "id": "D",
+          "text": "[latex] X [/latex] matches with [latex] Q [/latex] and [latex] S ; Y [/latex] matches with [latex] P [/latex] and [latex] R [/latex]."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The table lists two instrument transformers and their features: [latex]\n\\begin{array}{|l|l|}\n\\hline\n\\text{Instrument Transformers} & \\text{Features} \\\\\n\\hline\n & \\text{(P) Primary is connected in parallel to the grid} \\\\\n\\hline\n\\text{(X) Current Transformer} (CT)  & \\text{(Q) Open circuited secondary is not desirable} \\\\\n\\hline\n\\text{(Y) Potential Transformer} (PT)  & \\text{(R) Primary current is the line current} \\\\\n\\hline\n & \\text{(S) Secondary burden affects the primary current}   \\\\\n\\hline\n \\end{array}\n[/latex] The correct matching of the two column is",
+      "topic": "Instrument Transformers",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] \\bar{P} S+\\bar{Q} \\bar{S} [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\bar{P} \\bar{Q}+\\bar{Q} \\bar{S} [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] \\bar{P} Q+R \\bar{S} [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] P \\bar{S}+Q \\bar{R} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Simplified form of the Boolean function: [latex]\nF(P, Q, R, S)=\\bar{P} \\bar{Q}+\\bar{P} Q S+P \\bar{Q} \\bar{R} \\bar{S}+P \\bar{Q} R \\bar{S}\n [/latex] is",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "SCR"
+        },
+        {
+          "id": "B",
+          "text": "GTO"
+        },
+        {
+          "id": "C",
+          "text": "IGBT"
+        },
+        {
+          "id": "D",
+          "text": "Power MOSFET"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If the following switching devices have similar power ratings, which one of them is the fastest?",
+      "topic": "Power Semiconductor Devices and Commutation Techniques",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] 15^{\\circ} [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] 30^{\\circ} [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] 45^{\\circ} [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] 60^{\\circ} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase triac based [latex] A C [/latex] voltage controller feeds a series [latex] R L [/latex] load. The input [latex] A C [/latex] supply is [latex] 230 \\mathrm{~V}, 50 \\mathrm{~Hz} [/latex]. The values of [latex] \\mathrm{R} [/latex] and [latex] \\mathrm{L} [/latex] are [latex] 10 \\Omega [/latex] and [latex] 18.37 \\mathrm{mH} [/latex], respectively. The minimum triggering angle of the triac to obtain controllable output voltage is",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] X^{2} [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] X^{3} [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] (X-5)^{2} [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] (X+10)^{2} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex] X [/latex] be a discrete random variable that is uniformly distributed over the set [latex] \\{-10,-9, \\ldots, 0, \\ldots, 9,10\\} [/latex]. Which of the following random variables is/are uniformly distributed?",
+      "topic": "Probability and Statistics",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] f(z)=j \\operatorname{Re}(z) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] f(z)=\\operatorname{Im}(z) [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] f(z)=e^{|z|} [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] f(z)=z^{2}-z [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which of the following complex functions is/are analytic on the complex plane?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the complex function [latex] f(z)=\\cos z+e^{z^{2}} [/latex]. The coefficient of [latex] z^{5} [/latex] in the Taylor series expansion of [latex] f(z) [/latex] about the origin is _____ (rounded off to 1 decimal place).",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The sum of the eigenvalues of the matrix [latex] A=\\left[\\begin{array}{ll}1 & 2 \\\\ 3 & 4\\end{array}\\right]^{2} [/latex] is _____ (rounded off to the nearest integer).",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex] X(\\omega) [/latex] be the Fourier transform of the signal, [latex] x(t)=e^{-t^{4}} \\cos t,-\\infty \\lt  t \\lt \\infty [/latex]. The value of the derivative of [latex] X(\\omega) [/latex] at [latex] \\omega=0 [/latex] at is _____ (rounded off to 1 decimal place)",
+      "topic": "Signals and Systems",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\frac{7}{5 \\sqrt{2}} [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "21"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a vector [latex] \\bar{u}=2 \\hat{x}+\\hat{y}+2 \\hat{z} [/latex], where [latex] \\hat{x}, \\hat{y}, \\hat{z} [/latex] represent unit vector along the coordinate axes [latex] x, y, z [/latex] respectively. The directional derivative of the function [latex] f(x, y, z)=2 \\ln (x y)+\\ln (y z)+3 \\ln (x z) [/latex] at the point [latex] (x, y, z)=(1,1,1) [/latex] in the direction of [latex] \\bar{u} [/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "nonlinear"
+        },
+        {
+          "id": "B",
+          "text": "linear and time-invariant"
+        },
+        {
+          "id": "C",
+          "text": "linear but not time-invariant"
+        },
+        {
+          "id": "D",
+          "text": "noncasual"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The input [latex] x(t) [/latex] and the output [latex] y(t) [/latex] of a system are related as [latex]\ny(t)=e^{-t} \\int_{-\\infty}^{t} e^{\\tau} x(\\tau) d \\tau, \\quad-\\infty \\lt t \\lt \\infty\n [/latex] The system is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] T_{1} [/latex] and [latex] T_{2} [/latex] are BIBO stable."
+        },
+        {
+          "id": "B",
+          "text": "[latex] T_{1} [/latex] and [latex] T_{2} [/latex] are not BIBO stable."
+        },
+        {
+          "id": "C",
+          "text": "[latex] T_{1} [/latex] is BIBO stable but [latex] T_{2} [/latex] is not BIBO stable."
+        },
+        {
+          "id": "D",
+          "text": "[latex] T_{1} [/latex] is not BIBO stable but [latex] T_{2} [/latex] is BIBO stable."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the discrete-time system [latex] T_{1} [/latex] and [latex] T_{2} [/latex] defined as follows: [latex]\n\\begin{aligned}\n& \\left\\{T_{1} x\\right\\}[n]=x[0]+x[1]+\\ldots+x[n] \\\\\n& \\left\\{T_{2} x\\right\\}[n]=x[0]+\\frac{1}{2} x[1]+\\cdots+\\frac{1}{2^{n}} x[n]\n\\end{aligned}\n [/latex] Which one of the following statement is true?",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] Y(z)=X\\left(z^{2}\\right) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] Y(z)=\\frac{1}{2}\\left[X\\left(z^{-1 / 2}\\right)+X\\left(-z^{-1 / 2}\\right)\\right] [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] Y(z)=\\frac{1}{2}\\left[X\\left(z^{1 / 2}\\right)+X\\left(-z^{1 / 2}\\right)\\right] [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] Y(z)=\\frac{1}{2}\\left[X\\left(z^{2}\\right)+X\\left(-z^{2}\\right)\\right] [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If the Z-transform of a finite-duration discrete-time signal [latex] x[n] [/latex] is [latex] X(z) [/latex], then the [latex] Z [/latex]-transform of the signal [latex] y[n]=x[2 n] [/latex] is",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.63 lagging"
+        },
+        {
+          "id": "B",
+          "text": "0.87 lagging"
+        },
+        {
+          "id": "C",
+          "text": "0.63 leading"
+        },
+        {
+          "id": "D",
+          "text": "0.87 leading"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase. [latex] 11 \\mathrm{kV} .10 [/latex] MVA synchronous generator is connected to an inductive load of power factor [latex] (\\sqrt{3} / 2) [/latex] via a lossless line with a per-phase inductive reactance of [latex] 5 \\Omega [/latex]. The per-phase synchronous reactance of the generator is [latex] 30 \\Omega [/latex] with negligible armature resistance. If the generator is producing the rated current at the rated voltage, then the power factor at the terminal of the generator is",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] f(t) [/latex] has at least one local minimum."
+        },
+        {
+          "id": "B",
+          "text": "[latex] f(t) [/latex] cannot have two distinct local minima."
+        },
+        {
+          "id": "C",
+          "text": "[latex] f(t) [/latex] has at least one local maximum."
+        },
+        {
+          "id": "D",
+          "text": "The minimum value of [latex] f(t) [/latex] cannot be negative."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex] f(t) [/latex] be a real-valued function whose second derivative is positive for [latex] -\\infty \\\\lt t \\\\lt\\infty [/latex]. Which of the following statements is/are always true?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] f(t) [/latex] is not differentiable."
+        },
+        {
+          "id": "B",
+          "text": "[latex] f(t) [/latex] is differentiable and its derivative is continuous."
+        },
+        {
+          "id": "C",
+          "text": "[latex] f(t) [/latex] is differentiable but its derivative is not continuous."
+        },
+        {
+          "id": "D",
+          "text": "[latex] f(t) [/latex] and its derivative are differentiable."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the function [latex] f(t)=(\\max (0, t))^{2} [/latex] for [latex] -\\infty\\\\ltt\\\\lt\\infty [/latex], where [latex] \\max (a, b) [/latex] denotes the maximum of [latex] a [/latex] and [latex] b [/latex]. Which of the following statements is/are true?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] t x(t)+\\left(\\frac{d x(t)}{d t}\\right)=t^{2} e^{t}, x(0)=0 [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\frac{1}{2} e^{t}+x(t)\\left(\\frac{d x(t)}{d t}\\right)=0, x(0)=0 [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] x(t) \\cos t-\\frac{d x(t)}{d t} \\sin t=1, x(0)=0 [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] x(t)+e^{\\left(\\frac{d x(t)}{d t}\\right)}=1, x(0)=0 [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which of the following differential equations is/are nonlinear?",
+      "topic": "Engineering Mathematics",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524136",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] \\left[\\begin{array}{cc}1 & 1 \\\\ 1 & -1\\end{array}\\right] [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\left[\\begin{array}{ll}1 & 1 \\\\ 1 & 1\\end{array}\\right] [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] \\left[\\begin{array}{ll}1 & 1 \\\\ 1 & 0\\end{array}\\right] [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] \\left[\\begin{array}{cc}-1 & 1 \\\\ 1 & 1\\end{array}\\right] [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For a two-phase network, the phase voltages [latex] V_{p} [/latex] and [latex] V_{q} [/latex] are to be expressed in terms of sequence voltages [latex] V_{\\alpha} [/latex] and [latex] V_{\\beta} [/latex] as [latex] \\left[\\begin{array}{l}V_{p} \\\\ V_{q}\\end{array}\\right]=S\\left[\\begin{array}{l}V_{\\alpha} \\\\ V_{\\beta}\\end{array}\\right] [/latex]. The possible option(s) for matrix [latex] S [/latex] is/are",
+      "topic": "Three-Phase Circuits",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "AGC response has a local effect on frequency while AVR response lias a global effect on voltage."
+        },
+        {
+          "id": "B",
+          "text": "AGC response has a global effect on frequency while AVR response has a local effect on voltage."
+        },
+        {
+          "id": "C",
+          "text": "AGC regulates the field current of the synchronous generator while AVR regulates the generator's mechanical power input."
+        },
+        {
+          "id": "D",
+          "text": "AGC regulates the generator's mechanical power input while AVR regulates the field current of the synchronous generator."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which of the following option is/are correct for the Automatic Generation Control (AGC) and Automatic Voltage Regulator (AVR) installed with synchronous generators?",
+      "topic": "Synchronous Machines",
+      "type": "MSQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524141",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the [latex] (x, y, z) [/latex] coordinate system, three point-charges [latex] Q, Q [/latex] and [latex] \\alpha Q [/latex] are located in free space at [latex] (-1,0,0),(1,0,0) [/latex] and [latex] (0,-1,0) [/latex] respectively. The value of [latex] \\alpha [/latex] for the electric field to be zero at [latex] (0,0.5,0) [/latex] is _____ (rounded off to 1 decimal places).",
+      "topic": "Electromagnetic Theory",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524142",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The given equation represents a magnetic field strength [latex] \\bar{H}(r, \\theta, \\phi) [/latex] in the spherical coordinate system, in free space. Here, [latex] \\hat{r} [/latex] and [latex] \\hat{\\theta} [/latex] represent the unit vectors along [latex] r [/latex] and [latex] \\theta [/latex], respectively. The value of [latex] P [/latex] in the equation should be _____ (rounded off to the nearest integer). [latex]\n\\bar{H}(r, \\theta, \\phi)=\\frac{1}{r^{3}}(\\hat{r} P \\cos \\theta+\\hat{\\theta} \\sin \\theta)\n [/latex]",
+      "topic": "Magnetostatic Fields",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524143",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If the energy of a continuous-time signal [latex] x(t) [/latex] is [latex] E [/latex] and the energy of the signal [latex] 2 x(2 t-1) [/latex] is [latex] c E [/latex], then [latex] c [/latex] is ______ (rounded off to 1 decimal place).",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524144",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase star connected slip ring induction motor has the following parameters referred to the stator: [latex]\nR_{s}=3 \\Omega,  X_{s}=2 \\Omega, X_{r}^{\\prime}=2 \\Omega,  R_{r}^{\\prime}=2.5 \\Omega,\n [/latex] The per phase stator to rotor effective turns ratio is [latex] 3: 1 [/latex]. The rotor winding is also star connected. The magnetizing reactance and core loss of the motor can be neglected. To have maximum torque at starting, the value of the extra resistance in ohms (referred to the rotor side) to be connected in series with each phase of the rotor winding is _____ (rounded off to 2 decimal places).",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A [latex] 5 \\mathrm{~kW} [/latex]. [latex] 220 \\mathrm{~V} [/latex] DC shunt motor has [latex] 0.5 \\Omega [/latex] armature resistance including brushes. The motor draws a no-load current of [latex] 3 \\mathrm{~A} [/latex]. The field current is constant at [latex] 1 \\mathrm{~A} [/latex]. Assuming that the core and rotational losses are constant and independent of the load, the current (in amperes) drawn by the motor while delivering the rated load, for the best possible efficiency, is _____ (rounded off to 2 decimal places).",
+      "topic": "Electrical Machines",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase half-controlled bridge converter supplies an inductive load with ripple free load current. The triggering angle of the converter is [latex] 60^{\\circ} [/latex]. The ratio of the rms value of the fundamental component of the input current to the rms value of the total input current of the bridge is ______ (rounded off to 3 decimal places).",
+      "topic": "Inverters",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase full bridge voltage source inverter (VSI) feeds a purely inductive load. The inverter output voltage is a square wave in [latex] 180^{\\circ} [/latex] conduction mode. The fundamental frequency of the output voltage is [latex] 50 \\mathrm{~Hz} [/latex]. If the DC input voltage of the inverter is [latex] 100 \\mathrm{~V} [/latex] and the value of the load inductance is [latex] 20 \\mathrm{mH} [/latex], the peak-to-peak load current in amperes is ______ (rounded off to the nearest integer).",
+      "topic": "Inverters",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase full-controlled thyristor converter bridge is used for regenerative braking of a separately excited DC motor with the following specifications: [latex]\n\\begin{array}{|l|l|}\n\\hline\n\\text{Rated armature voltage} &  210 \\mathrm{~V}  \\\\\n\\hline\n\\text{Rated armature current} &  10 \\mathrm{~A}  \\\\\n\\hline\n\\text{Rated speed} &  1200 \\mathrm{rpm} \\\\\n\\hline\n\\text{Armature resistance} &  1 \\Omega  \\\\\n\\hline\n\\text{Input to the converter bridge} &  240 \\mathrm{~V}  at  50 \\mathrm{~Hz}  \\\\\n\\hline\n\\begin{array}{l}\n\\text{The armature of the DC motor is fed from the} \\\\\n\\text{full-controlled bridge and the field current is kept} \\\\\n\\text{constant.} \\\\\n\\end{array} &  \\\\\n\\hline\n\\end{array}\n [/latex] Assume that the motor is running at [latex] 600 \\mathrm{rpm} [/latex] and the armature terminals of the motor are suitably reversed for regenerative braking. If the armature current of the motor is to be maintained at the rated value, the triggering angle of the converter bridge in degrees should be _____ (rounded off to 2 decimal places).",
+      "topic": "Power Electronics",
+      "type": "NAT",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "flatter"
+        },
+        {
+          "id": "B",
+          "text": "flutter"
+        },
+        {
+          "id": "C",
+          "text": "fritter"
+        },
+        {
+          "id": "D",
+          "text": "frizzle"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]\\rightarrow [/latex]’ denotes increasing order of intensity, then the meaning of the words\n[talk [latex]\\rightarrow [/latex] shout [latex]\\rightarrow [/latex] scream] is analogous to [please [latex]\\rightarrow [/latex] ________ [latex]\\rightarrow [/latex] pander]. Which one of the given options is appropriate to fill the blank?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "168"
+        },
+        {
+          "id": "B",
+          "text": "108"
+        },
+        {
+          "id": "C",
+          "text": "150"
+        },
+        {
+          "id": "D",
+          "text": "154"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The decimal number system uses the characters [latex] 0,1,2, \\ldots ., 8,9 [/latex], and the octal number system uses the characters [latex] 0,1,2, \\ldots , 6,7 [/latex]. For example, the decimal number [latex] 12\\left(=1 \\times 10^{1}+2 \\times 10^{0}\\right) [/latex] is expressed as [latex] 14\\left(=1 \\times 8^{1}+4 \\times 8^{0}\\right) [/latex] in the octal number system. The decimal number 108 in the octal number system is",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2,500.00"
+        },
+        {
+          "id": "B",
+          "text": "1,975.40"
+        },
+        {
+          "id": "C",
+          "text": "2,250.00"
+        },
+        {
+          "id": "D",
+          "text": "2,548.80"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A shopkeeper buys shirts from a producer and sells them at [latex] 20 \\% [/latex] profit. A customer has to pay ₹ [latex] 3,186.00 [/latex] including [latex] 18 \\% [/latex] taxes, per shirt. At what price did the shopkeeper buy each shirt from the producer?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] 2 a:\\left(a^2+1\\right) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] a:\\left(a^2+1\\right) [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] 2 a:\\left(a^2-1\\right) [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] a:\\left(a^2-1\\right) [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If, for non-zero real variables [latex] x, y [/latex] and real parameter [latex] a>1 [/latex], [latex]\nx: y=(a+1):(a-1),\n [/latex] then, the ratio [latex] \\left(x^2-y^2\\right):\\left(x^2+y^2\\right) [/latex] is",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) with; (ii) over; (iii) at; (iv) with"
+        },
+        {
+          "id": "B",
+          "text": "(i) at; (ii) over; (iii) over; (iv) in"
+        },
+        {
+          "id": "C",
+          "text": "(i) with; (ii) over; (iii) in; (iv) at"
+        },
+        {
+          "id": "D",
+          "text": "(i) over; (ii) with; (iii) over; (iv) at"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the given text, the blanks are numbered (i)-(iv). Select the best match for all the blanks. Following a row __(i)__ the shopkeeper __(ii)__ the price of a frying pan, the cook stood __(iii)__ a row to withdraw cash __(iv)__ the ATM booth.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2024
+    },
+    {
+      "branch": "EE",
+      "id": "1524165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "2603"
+        },
+        {
+          "id": "B",
+          "text": "2606"
+        },
+        {
+          "id": "C",
+          "text": "2306"
+        },
+        {
+          "id": "D",
+          "text": "2063"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A surveyor has to measure the horizontal distance from her position to a distant reference point C. Using her position as the center, a [latex] 200 \\mathrm{~m} [/latex] horizontal line segment is drawn with the two endpoints [latex] A [/latex] and [latex] B [/latex]. Points [latex] A, B [/latex] and [latex] C [/latex] are not collinear. Each of the angles [latex] \\angle C A B [/latex] and [latex] \\angle \\mathrm{CBA} [/latex] are measured as [latex] 87.8^{\\circ} [/latex]. The distance (in [latex] \\mathrm{m} [/latex] ) of the reference point [latex] \\mathrm{C} [/latex] from her position is nearest to",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2024
+    }
+  ],
+  "schema_version": 1
+}

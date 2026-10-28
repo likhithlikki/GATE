@@ -1,0 +1,1404 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1118101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{3}{(1-x)^{2}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{3x}{(1-x)^{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2-x}{(1-x)^{2}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{3-x}{(1-x)^{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following is a closed form expression for the generating function of the sequence [latex]\\left \\{ a_{n} \\right \\}[/latex], where [latex]a_{n}=2n+3[/latex] for all n = 0, 1, 2,...?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0, c"
+        },
+        {
+          "id": "B",
+          "text": "0, a+2"
+        },
+        {
+          "id": "C",
+          "text": "'0', 'a+2'"
+        },
+        {
+          "id": "D",
+          "text": "'0', 'c'"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C program. #include <stdio.h>\nstruct Ournode{\nchar x,y,z;\n};\nint main(){\nstruct Ournode p = {'1', '0','a'+2};  \nstruct Ournode *q = &p;\nprintf(\"%c,%c\",*((char*)q+1),*((char*)q+2));\nreturn 0;\n} The output of this program is:",
+      "topic": "C Programming",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\overline{P \\bigoplus Q}=P\\bigodot Q[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\overline{P} \\bigoplus Q=P\\bigodot Q[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\overline{P} \\bigoplus \\overline{Q}=P\\bigoplus Q[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](P \\bigoplus \\overline{P})\\bigoplus  Q=(P\\bigodot\\overline{P})\\bigodot  \\overline{Q}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let [latex]\\bigoplus[/latex] and [latex]\\bigodot[/latex] denote the Exclusive OR and Exclusive NOR operations, respectively. Which one of the following is NOT CORRECT?",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I and II only"
+        },
+        {
+          "id": "B",
+          "text": "II and III only"
+        },
+        {
+          "id": "C",
+          "text": "I and III only"
+        },
+        {
+          "id": "D",
+          "text": "I, II and III"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following processor design characteristics. I. Register-to-register arithmetic operations only II. Fixed-length instruction format III. Hardwired control unit Which of the characteristics above are used in the design of a RISC processor?",
+      "topic": "Machine Instruction",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]k\\geqslant 2^{n}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]k\\geqslant n[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]k\\leqslant n^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]k\\leqslant 2^{n}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let N be an NFA with n states. Let k be the number of states of a minimal DFA which is equivalent to N. Which one of the following is necessarily true?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "closed under complementation"
+        },
+        {
+          "id": "B",
+          "text": "closed under intersection."
+        },
+        {
+          "id": "C",
+          "text": "a subset of the set of all recursive languages."
+        },
+        {
+          "id": "D",
+          "text": "an uncountable set"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The set of all recursively enumerable languages is",
+      "topic": "Recursive Language",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Context-free grammar can be used to specify both lexical and syntax rules."
+        },
+        {
+          "id": "B",
+          "text": "Type checking is done before parsing."
+        },
+        {
+          "id": "C",
+          "text": "High-level language programs can be translated to different Intermediate Representations."
+        },
+        {
+          "id": "D",
+          "text": "Arguments to a function can be passed using the program stack."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following statements is FALSE?",
+      "topic": "Syntax-directed Translation",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "QPTRS"
+        },
+        {
+          "id": "B",
+          "text": "PTRSQ"
+        },
+        {
+          "id": "C",
+          "text": "TRPQS"
+        },
+        {
+          "id": "D",
+          "text": "QTPRS"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The following are some events that occur after a device controller issues an interrupt while process L is under execution. (P) The processor pushes the process status of L onto the control stack. (Q) The processor finishes the execution of the current instruction. (R) The processor executes the interrupt service routine. (S) The processor pops the process status of L from the control stack. (T) The processor loads the new PC value based on the interrupt. Which one of the following is the correct order in which the events above occur?",
+      "topic": "Interrupt",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(D - M) / (X - M)"
+        },
+        {
+          "id": "B",
+          "text": "(X - M) / (D - M)"
+        },
+        {
+          "id": "C",
+          "text": "(D - X) / (D - M)"
+        },
+        {
+          "id": "D",
+          "text": "(X - M) / (D - X)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a process executing on an operating system that uses demand paging. The average time for a memory access in the system is M units if the corresponding memory page is available in memory, and D units if the memory access causes a page fault. It has been experimentally measured that the average time taken for a memory access in the process is X units. Which one of the following is the correct expression for the page fault rate experienced by the process?",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Every entity in E1 is associated with exactly one entity in E2."
+        },
+        {
+          "id": "B",
+          "text": "Some entity in E1 is associated with more than one entity in E2."
+        },
+        {
+          "id": "C",
+          "text": "Every entity in E2 is associated with exactly one entity in E1."
+        },
+        {
+          "id": "D",
+          "text": "Every entity in E2 is associated with at most one entity in E1."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In an Entity-Relationship (ER) model, suppose R is a many-to-one relationship from entity set E1 to entity set E2. Assume that E1 and E2 participate totally in R and that the cardinality of E1 is greater than the cardinality of E2. Which one of the following is true about R?",
+      "topic": "ER Model",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only (ii) and (iii) are true"
+        },
+        {
+          "id": "B",
+          "text": "Only (i) and (iii) are true"
+        },
+        {
+          "id": "C",
+          "text": "Only (iv) is true"
+        },
+        {
+          "id": "D",
+          "text": "Only (i) and (iv) are true"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements regarding the slow start phase of the TCP congestion control algorithm. Note that [latex]cwnd[/latex] stands for the TCP congestion window and MSS denotes the Maximum Segment Size. (i) The cwnd increases by 2 MSS on every successful acknowledgment. (ii) The cwnd approximately doubles on every successful acknowledgement. (iii) The cwnd increases by 1 MSS every round trip time. (iv) The cwnd approximately doubles every round trip time. Which one of the following is correct?",
+      "topic": "Transport Layer Protocol",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118115",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Two people, P and Q, decide to independently roll two identical dice, each with 6 faces, numbered 1 to 6. The person with the lower number wins. In case of a tie, they roll the dice repeatedly until there is no tie. Define a trial as a throw of the dice by P and Q. Assume that all 6 numbers on each dice are equi-probable and that all trials are independent. The probability (rounded to 3 decimal places) that one of them wins on the third trial is",
+      "topic": "Probability Theory",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118116",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The value of [latex]\\int_{0}^{\\frac{\\pi }{4}}x\\cos (x^{2})dx[/latex] correct to three decimal places\n(assuming that [latex]\\pi[/latex]  = 3.14 ) is",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118117",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a matrix [latex]A=uv^{T}\\; where \\; u=\\begin{bmatrix} 1\\\\ 2 \\end{bmatrix},v=\\begin{bmatrix} 1\\\\ 1 \\end{bmatrix}[/latex]  Note that [latex]v^{T}[/latex]  denotes the transpose of v. The largest eigenvalue of A is _____.",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118119",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let G be a finite group on 84 elements. The size of a largest possible proper subgroup of G is ________.",
+      "topic": "Group Theory",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The postorder traversal of a binary tree is 8,9,6,7,4,5,2,3,1. The inorder traversal of the same tree is 8,6,9,4,7,2,5,1,3. The height of a tree is the length of the longest path from the root to any leaf. The height of the binary tree above is ______.",
+      "topic": "Data Structure",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C program: #include <stdio.h>\nint counter = 0;\nint calc (int a, int b) {\n    int c;\n    counter++;\n    if (b==3) return (a*a*a);\n    else {\n       c = calc(a, b/3);\n       return (c*c*c);\n           }\n}\nint main (){\ncalc(4, 81);\nprintf (\"%d\", counter);\n} The output of this program is _____.",
+      "topic": "Function",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A 32-bit wide main memory unit with a capacity of 1 GB is built using 256M x 4-bit DRAM chips. The number of rows of memory cells in the DRAM chip is [latex]2^{14}[/latex]. The time taken to perform one refresh operation is 50 nanoseconds. The refresh period is 2 milliseconds. The percentage (rounded to the closest integer) of the time available for performing the memory read/write operations in the main memory unit is __________.",
+      "topic": "Memory Chip Design",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a system with 3 processes that share 4 instances of the same resource type. Each process can request a maximum of K instances. Resource instances can be requested and released only one at a time. The largest value of K that will always avoid deadlock is ____.",
+      "topic": "Operating System",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a long-lived TCP session with an end-to-end bandwidth of 1 Gbps (= [latex]10^{9} [/latex] bits-per-second). The session starts with a sequence number of 1234. The minimum time (in seconds, rounded to the closest integer) before this sequence number can be used again is _______.",
+      "topic": "Transport Layer Protocol",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I and III are necessarily true"
+        },
+        {
+          "id": "B",
+          "text": "Only II is necessarily true"
+        },
+        {
+          "id": "C",
+          "text": "Only I and II are necessarily true"
+        },
+        {
+          "id": "D",
+          "text": "Only II and III are necessarily true"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a matrix P whose only eigenvectors are the multiples of [latex]\\begin{bmatrix} 1\\\\ 4 \\end{bmatrix}[/latex]. Consider the following statements. (I) P does not have an inverse (II) P has a repeated eigenvalue (III) P cannot be diagonalized Which one of the following options is correct?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Q and S only"
+        },
+        {
+          "id": "B",
+          "text": "P and S only"
+        },
+        {
+          "id": "C",
+          "text": "P and R only"
+        },
+        {
+          "id": "D",
+          "text": "P, Q and S only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let N be the set of natural numbers. Consider the following sets. P: Set of Rational numbers (positive and negative) Q: Set of functions from {0, 1} to N R: Set of functions from N to {0, 1} S: Set of finite subsets of N. Which of the sets above are countable?",
+      "topic": "Set Theory",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "There exists at least one model of [latex]\\varphi[/latex] with universe of size less than or equal to 3."
+        },
+        {
+          "id": "B",
+          "text": "There exists no model of [latex]\\varphi[/latex] with universe of size less than or equal to 3."
+        },
+        {
+          "id": "C",
+          "text": "There exists no model of [latex]\\varphi[/latex] with universe of size greater than 7."
+        },
+        {
+          "id": "D",
+          "text": "Every model of [latex]\\varphi[/latex] has a universe of size equal to 7."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the first-order logic sentence [latex]\\varphi \\equiv \\exists s\\exists t\\exists u\\forall v\\forall w\\forall x\\forall y\\varphi (s,t,u,v,w,x,y)[/latex] where [latex]\\varphi (s,t,u,v,w,x,y)[/latex] is a quantifier-free first-order logic formula using only predicate\nsymbols, and possibly equality, but no function symbols. Suppose [latex]\\varphi [/latex] has a model with a universe containing 7 elements.\nWhich one of the following statements is necessarily true?",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Hi Bye Bye Hi"
+        },
+        {
+          "id": "B",
+          "text": "Hi Bye Hi Bye"
+        },
+        {
+          "id": "C",
+          "text": "Bye Hi Hi Bye"
+        },
+        {
+          "id": "D",
+          "text": "Bye Hi Bye Hi"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C program: #include <stdio.h>\nvoid fun1(char *s1, char *s2){\nchar *tmp;\ntmp = s1;\ns1 = s2;\ns2 = tmp;\n}\nvoid fun2(char **s1, char **s2){\nchar *tmp;\ntmp = *s1;\n*s1 = *s2;\n*s2 = tmp;\n}\nint main(){\nchar *str1 = \"Hi\", *str2 = \"Bye\";\nfun1(str1, str2); \nprintf(\"%s %s \", str1, str2); \nfun2(&str1, &str2); \nprintf(\"%s %s\", str1, str2);\nreturn 0;\n} The output of the program above is",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "I only"
+        },
+        {
+          "id": "B",
+          "text": "II only"
+        },
+        {
+          "id": "C",
+          "text": "Both I and II"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let G be a simple undirected graph. Let TD be a depth first search tree of G. Let TB be a breadth first search tree of G. Consider the following statements. (I) No edge of G is a cross edge with respect to TD. (A cross edge in G is between two\nnodes neither of which is an ancestor of the other in TD.) (II) For every edge (u,v) of G, if u is at depth i and v is at depth j in TB, then |i-j|=1. Which of the statements above must necessarily be true?",
+      "topic": "Graph Traversal",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "F1F2 and F3F4 only"
+        },
+        {
+          "id": "B",
+          "text": "F2F3 only"
+        },
+        {
+          "id": "C",
+          "text": "F3F4 only"
+        },
+        {
+          "id": "D",
+          "text": "F1F2 and F4F5 only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Assume that multiplying a matrix G1 of dimension pxq with another matrix G2 of\ndimension pxq requires pqr scalar multiplications. Computing the product of n  matrices G1G2G3...Gn can be done by parenthesizing in different ways. Define Gi Gi+1 as an explicitly computed pair for a given paranthesization if they are directly multiplied. For example, in the matrix multiplication chain G1G2G3G4G5G6 using parenthesization (G1(G2G3))(G4(G5G6)), G2G3 and G5G6 are the only explicitly computed pairs. Consider a matrix multiplication chain F1F2F3F4F5, where matrices F1, F2, F3, F4 and F5 are of dimensions 2x25, 25x3, 3x16, 16x1 and 1x1000, respectively. In the parenthesization of F1F2F3F4F5 that minimizes the total number of scalar multiplications, the explicitly computed pairs is/are",
+      "topic": "Dynamic Programming",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "40"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C code. Assume that unsigned long int type length is 64\nbits. unsigned long int fun(unsigned long int n){\nunsigned long int i, j = 0, sum = 0;\nfor (i = n; i > 1; i = i/2) j++;\nfor ( ; j > 1; j = j/2) sum++;\nreturn(sum);\n} The value returned when we call fun with the input [latex]2^{40}[/latex] is",
+      "topic": "Loop",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "None of (i), (ii), (iii), (iv) can be exactly represented"
+        },
+        {
+          "id": "B",
+          "text": "Only (ii) cannot be exactly represented"
+        },
+        {
+          "id": "C",
+          "text": "Only (iii) and (iv) cannot be exactly represented"
+        },
+        {
+          "id": "D",
+          "text": "Only (i) and (ii) cannot be exactly represented"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the unsigned 8-bit fixed point binary Number System below, [latex]b_7  b_6  b_5  b_4  b_3 .  b_2  b_1  b_0[/latex] where the position of the binary point is between [latex]b_3 \\; and \\; b_2[/latex]. Assume [latex]b_7[/latex] is the most significant bit. Some of the decimal numbers listed below cannot be represented exactly in the above representation: (i) 31.500 (ii) 0.875 (iii) 12.100 (iv) 3.001 Which one of the following statements is true?",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P-N-log_{2}K[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]P-N+log_{2}K[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]P-N-M-W-log_{2}K[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]P-N-M-W+log_{2}K[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The size of the physical address space of a processor is [latex]2^{P}[/latex] bytes. The word length is [latex]2^{W}[/latex] bytes. The capacity of cache memory is [latex]2^{N}[/latex] Bytes. The size of each cache block is [latex]2^{M}[/latex] words. For a K-way set-associative cache memory, the length (in number of bits) of the\ntag field is",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "I and IV only"
+        },
+        {
+          "id": "B",
+          "text": "I and II only"
+        },
+        {
+          "id": "C",
+          "text": "II and III only"
+        },
+        {
+          "id": "D",
+          "text": "II and IV only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following languages: I. [latex] \\{a^{m}b^{n}c^{p}d^{q}|m+p=n+q, \\; where \\;  m,n,p,q \\geq 0 \\}[/latex] II. [latex]\\{a^{m}b^{n}c^{p}d^{q}|m=n \\; and \\; p=q, \\; where \\;  m,n,p,q\\geq 0 \\}  [/latex] III. [latex] \\{a^{m}b^{n}c^{p}d^{q}|m=n=p \\; and \\; p\\neq q, \\; where \\; m,n,p,q\\geq 0 \\} [/latex] IV. [latex]\\{a^{m}b^{n}c^{p}d^{q}|mn=p+q, \\; where\\;  m,n,p,q\\geq 0\\}[/latex] Which of the languages above are context-free?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118136",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I and II are undecidable"
+        },
+        {
+          "id": "B",
+          "text": "Only III is undecidable"
+        },
+        {
+          "id": "C",
+          "text": "Only II and IV are undecidable"
+        },
+        {
+          "id": "D",
+          "text": "Only I, II and III are undecidable"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following problems. L(G) denotes the language generated by a grammar G. L(M) denotes the language accepted by a machine M. (I) For an unrestricted grammar G and a string w, whether w[latex]\\in [/latex]L(G) (II) Given a Turing machine M, whether L(M) is regular (III) Given two grammars G1 and G2, whether L(G1) = L(G2) (IV) Given an NFA N, whether there is a deterministic PDA P such that N and P\naccept the same language. Which one of the following statements is correct?",
+      "topic": "Turing Machine",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]T_{1}T_{2}T_{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]T_{1}T_{1}T_{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]T_{2}T_{1}T_{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]T_{3}T_{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A lexical analyzer uses the following patterns to recognize three tokens  [latex]T_{1}, T_{2}, \\; and \\; T_{3} [/latex] over the alphabet {a,b,c}. [latex]T_{1}:a?(b|c)^* a [/latex] [latex]T_{2}:b?(a|c)^* b [/latex] [latex] T_{3}:c?(b|a)^* c[/latex] Note that 'x?' means 0 or 1 occurrence of the symbol x. Note also that the analyzer outputs the token that matches the longest possible prefix. If the string bbaacabc is processed by the analyzer, which one of the following is the\nsequence of tokens it outputs?",
+      "topic": "Lexical Analysis",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118141",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sigma _{B \\lt 5}(r\\Join s)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sigma _{B\\lt 5}(r LOJ s)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]r LOJ(\\sigma _{B\\lt 5}(s))[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sigma _{B\\lt 5}(r) LOJ s[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the relations r(A, B) and s(B, C), where s.B is a primary key and r.B is a foreign key referencing s.B. Consider the query [latex]Q:r \\Join (\\sigma _{B\\lt 5}(s))[/latex] Let LOJ denote the natural left outer-join operation. Assume that r and s contain no null values. Which one of the following queries is NOT equivalent to Q?",
+      "topic": "Relational Algebra",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118143",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let G be a graph with 100! vertices, with each vertex labelled by a distinct permutation of the numbers 1,2,...,100. There is an edge between vertices u and v if and only if the label of u can be obtained by swapping two adjacent numbers in the label of v. Let y denote the degree of a vertex in G, and z denote the number of connected components in G. Then, y+ 10z = _____.",
+      "topic": "Graph Theory",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following program written in pseudo-code. Assume that x and y are integers. Count(x,y) {\n     if (y != 1){\n        if (x != 1) {\n                  print(\"*\");\n                  Count(x/2, y);\n                  }\n            else {\n                     y = y-1;\n                    Count(1024, y);\n                  }\n      }\n} The number of times that the print statement is executed by the call\nCount(1024,1024) is _____.",
+      "topic": "Function",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118146",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The number of possible min-heaps containing each value from {1, 2, 3, 4, 5, 6, 7} exactly once is _____.",
+      "topic": "Heap Tree",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the minterm list form of a Boolean function F given below. [latex]F(P,Q,R,S)=\\sum m(0,2,5,7,9,11)+d(3,8,10,12,14)[/latex] Here, m denotes a minterm and d denotes a don't care term. The number of essential prime\nimplicants of the function F  is ______.",
+      "topic": "Digital Logic",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The instruction pipeline of a RISC processor has the following stages: Instruction Fetch (IF), Instruction Decode (ID), Operand Fetch (OF), Perform Operation (PO) and Writeback (WB). The IF, ID, OF and WB stages take 1 clock cycle each for every instruction. Consider a sequence of 100 instructions. In the PO stage, 40 instructions take 3 clock cycles each, 35 instructions take 2 clock cycles each, and the remaining 25 instructions take 1 clock cycle each. Assume that there are no data hazards and no control hazards. The number of clock cycles required for completion of execution of the sequence of instructions is ______.",
+      "topic": "Pipeline Processor",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A processor has 16 integer registers (R0, R1,...,R15) and 64 floating point registers (F0, F1,...,F63). It uses a 2-byte instruction format. There are four categories of instructions: Type-1, Type-2, Type-3, and Type-4. Type-1 category consists of four instructions, each with 3 integer register operands (3Rs). Type-2 category consists of eight instructions, each with 2 floating point register operands (2Fs). Type-3 category consists of fourteen instructions, each with one integer register operand and one floating point register operand (1R+1F). Type-4 category consists of N instructions, each with a floating point register operand (1F). The maximum value of N is __________.",
+      "topic": "Machine Instruction",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a storage disk with 4 platters (numbered as 0, 1, 2 and 3), 200 cylinders (numbered as 0, 1, ... , 199), and 256 sectors per track (numbered as 0, 1, ... , 255). The following 6 disk requests of the form [sector number, cylinder number, platter number] are received by the disk controller at the same time: [120, 72, 2] , [180, 134, 1] , [60, 20, 0] , [212, 86, 3] , [56, 116, 2] , [118, 16, 1] Currently the head is positioned at sector number 100 of cylinder 80, and is moving towards higher cylinder numbers. The average power dissipation in moving the head over 100 cylinders is 20 milliwatts and for reversing the direction of the head movement once is 15 milliwatts. Power dissipation associated with rotational latency and switching of head between different platters is negligible. The total power consumption in milliwatts to satisfy all of the above disk requests using the Shortest Seek Time First disk scheduling algorithm is _______.",
+      "topic": "Operating System",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider an IP packet with a length of 4,500 bytes that includes a 20-byte IPv4 header and a 40-byte TCP header. The packet is forwarded to an IPv4 router that supports a Maximum Transmission Unit (MTU) of 600 bytes. Assume that the length of the IP header in all the outgoing fragments of this packet is 20 bytes. Assume that the fragmentation offset value stored in the first fragment is 0. The fragmentation offset value stored in the third fragment is _______.",
+      "topic": "Network Layer Protocol",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a simple communication system where multiple nodes are connected by a shared broadcast medium (like Ethernet or wireless). The nodes in the system use the following carrier-sense based medium access protocol. A node that receives a packet to transmit will carrier-sense the medium for 5 units of time. If the node does not detect any other transmission in this duration, it starts transmitting its packet in the next time unit. If the node detects another transmission, it waits until this other transmission finishes, and then begins to carrier-sense for 5 time units again. Once they start to transmit, nodes do not perform any collision detection and continue transmission even if a collision occurs. All transmissions last for 20 units of time. Assume that the transmission signal travels at the speed of 10 meters per unit time in the medium. Assume that the system has two nodes P and Q, located at a distance d meters from each other. P starts transmitting a packet at time t=0 after successfully completing its carrier-sense phase. Node Q has a packet to transmit at time t=0 and begins to carrier-sense the medium. The maximum distance d (in meters, rounded to the closest integer) that allows Q to\nsuccessfully avoid a collision between its proposed transmission and P's ongoing\ntransmission is _____.",
+      "topic": "Data Link Layer",
+      "type": "NAT",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Their, they're, there"
+        },
+        {
+          "id": "B",
+          "text": "They're, their, there"
+        },
+        {
+          "id": "C",
+          "text": "There, their, they're"
+        },
+        {
+          "id": "D",
+          "text": "They're, there,there"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "\"From where are they bringing their books? _______ bringing _______ books from ________\" The words that best fill the blanks in the above sentence are",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "meandering"
+        },
+        {
+          "id": "B",
+          "text": "timely"
+        },
+        {
+          "id": "C",
+          "text": "consistent"
+        },
+        {
+          "id": "D",
+          "text": "systematic"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A ________ investigation can sometimes yield new facts, but typically organized ones are more successful. The word that best fills the blank in the above sentence is",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\pi d[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\pi d^2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{4} \\pi d^2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{2} \\pi d[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The area of a square is [latex]d[/latex]. What is the area of the circle which has the diagonal of the square as its diameter?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3047"
+        },
+        {
+          "id": "B",
+          "text": "6047"
+        },
+        {
+          "id": "C",
+          "text": "7987"
+        },
+        {
+          "id": "D",
+          "text": "63847"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What would be the smallest natural number which when divided either by 20 or by 42\nor by 76 leaves a remainder of 7 in each case?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2880"
+        },
+        {
+          "id": "B",
+          "text": "1440"
+        },
+        {
+          "id": "C",
+          "text": "720"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What is the missing number in the following sequence? 2, 12, 60, 240, 720, 1440,  _____ ,0",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1,50,000"
+        },
+        {
+          "id": "B",
+          "text": "2,00,000"
+        },
+        {
+          "id": "C",
+          "text": "1,75,000"
+        },
+        {
+          "id": "D",
+          "text": "1,51,000"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In appreciation of the social improvements completed in a town, a wealthy philanthropist \ndecided to gift Rs. 750 to each male senior citizen in the town and Rs. 1000 to each\nfemale senior citizen.  Altogether, there were 300 senior citizens eligible for this gift. However,\nonly [latex]{\\frac{8}{9}}^{th}[/latex] of the eligible men and [latex]{\\frac{2}{3}}^{rd}[/latex] of the eligible women claimed the gift. How much\nmoney (in Rupees) did the philanthropist give away in total?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118162",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{pqr}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]pqr[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If [latex]pqr\\neq 0[/latex] and [latex]p^{-x}=\\dfrac{1}{q},q^{-y}=\\dfrac{1}{r},r^{-z}=\\dfrac{1}{p},[/latex]  what is the value\n of the product [latex]xyz[/latex] ?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "02:03"
+        },
+        {
+          "id": "B",
+          "text": "01:01"
+        },
+        {
+          "id": "C",
+          "text": "03:02"
+        },
+        {
+          "id": "D",
+          "text": "02:01"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In a party, 60% of the invited guests are male and 40% are female. If 80% of the invited guests attended the party and if all the invited female guests attended, what would be the ratio of males to females among the attendees in the party?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "1118165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Three green faces and four red faces."
+        },
+        {
+          "id": "B",
+          "text": "Four green faces and three red faces."
+        },
+        {
+          "id": "C",
+          "text": "Five green faces and two red faces."
+        },
+        {
+          "id": "D",
+          "text": "Six green faces and one red face"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A six sided unbiased die with four green faces and two red faces is rolled seven times. Which of the following combinations is the most likely outcome of the experiment?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "11810111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{3}{(1-x)^{2}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{3x}{(1-x)^{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2-x}{(1-x)^{2}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{3-x}{(1-x)^{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following is a closed form expression for the generating function of the sequence [latex]\\left \\{ a_{n} \\right \\}[/latex], where [latex]a_{n}=2n+3[/latex] for all n = 0, 1, 2,...?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "11811611",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.3"
+        },
+        {
+          "id": "B",
+          "text": "0.2"
+        },
+        {
+          "id": "C",
+          "text": "0.25"
+        },
+        {
+          "id": "D",
+          "text": "0.4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The value of [latex]\\int_{0}^{\\frac{\\pi }{4}}x\\cos (x^{2})dx[/latex] correct to three decimal places\n(assuming that [latex]\\pi[/latex]  = 3.14 ) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "11811711",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a matrix [latex]A=uv^{T}\\; where \\; u=\\begin{bmatrix} 1\\\\ 2 \\end{bmatrix},v=\\begin{bmatrix} 1\\\\ 1 \\end{bmatrix}[/latex]  Note that [latex]v^{T}[/latex]  denotes the transpose of v. The largest eigenvalue of A is _____.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    },
+    {
+      "branch": "CS",
+      "id": "11812611",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I and III are necessarily true"
+        },
+        {
+          "id": "B",
+          "text": "Only II is necessarily true"
+        },
+        {
+          "id": "C",
+          "text": "Only I and II are necessarily true"
+        },
+        {
+          "id": "D",
+          "text": "Only II and III are necessarily true"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a matrix P whose only eigenvectors are the multiples of [latex]\\begin{bmatrix} 1\\\\ 4 \\end{bmatrix}[/latex]. Consider the following statements. (I) P does not have an inverse (II) P has a repeated eigenvalue (III) P cannot be diagonalized Which one of the following options is correct?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2018
+    }
+  ],
+  "schema_version": 1
+}

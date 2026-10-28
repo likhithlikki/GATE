@@ -1,0 +1,2330 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1104102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "call swap (x, y)"
+        },
+        {
+          "id": "B",
+          "text": "call swap (&x, &y)"
+        },
+        {
+          "id": "C",
+          "text": "swap (x,y) cannot be used as it does not return any value"
+        },
+        {
+          "id": "D",
+          "text": "swap (x,y) cannot be used as the parameters are passed by value"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C function void swap (int a, int b)\n{\n   int temp;\n   temp = a;\n   a = b;\n   b = temp;\n} In order to exchange the values of two variables x and y.",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(top1 = MAXSIZE/2) and (top2 = MAXSIZE/2+1)"
+        },
+        {
+          "id": "B",
+          "text": "(top1 + top2 = MAXSIZE"
+        },
+        {
+          "id": "C",
+          "text": "(top1 = MAXSIZE/2) or (top2 = MAXSIZE)"
+        },
+        {
+          "id": "D",
+          "text": "top1 = top2 -1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A single array A[1...MAXSIZE] is used to implement two stacks. The two stacks grow from opposite\nends of the array. Variables top1 and top 2 (top1 [latex]\\lt[/latex] top 2) point to the location of the topmost\nelement in each of the stacks. If the space is to be used efficiently, the condition for \"stack full\" is",
+      "topic": "Stack",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The following numbers are inserted into an empty binary search tree in the given order: 10, 1, 3, 5,\n15, 12, 16. What is the height of the binary search tree (the height is the maximum distance of a leaf\nnode from the root)?",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "queue"
+        },
+        {
+          "id": "B",
+          "text": "stack"
+        },
+        {
+          "id": "C",
+          "text": "tree"
+        },
+        {
+          "id": "D",
+          "text": "list"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The best data structure to check whether an arithmetic expression has balanced parentheses is a",
+      "topic": "Stack",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "preorder traversal"
+        },
+        {
+          "id": "B",
+          "text": "in-order traversal"
+        },
+        {
+          "id": "C",
+          "text": "depth first search"
+        },
+        {
+          "id": "D",
+          "text": "breadth first search"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Level order traversal of a rooted tree can be done by starting from the root and performing",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "i only"
+        },
+        {
+          "id": "B",
+          "text": "ii only"
+        },
+        {
+          "id": "C",
+          "text": "i and ii only"
+        },
+        {
+          "id": "D",
+          "text": "iii or iv"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Given the following input (4322, 1334, 1471, 9679, 1989, 6171, 6173, 4199) and the hash function x\nmod 10, which of the following statements are true? i)   9679, 1989, 4199 hash to the same value ii)  1471, 6171 has to the same value iii) All elements hash to the same value iv) Each element hashes to a different value",
+      "topic": "Hashing",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) only"
+        },
+        {
+          "id": "B",
+          "text": "(i) and (iii) only"
+        },
+        {
+          "id": "C",
+          "text": "(ii) and (iii) only"
+        },
+        {
+          "id": "D",
+          "text": "(iii) and (iv) only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following grammar rules violate the requirements of an operator grammar? P, Q, R are\nnonterminals, and r,s,t are terminals. [latex](i)P\\rightarrow QR [/latex] [latex] (ii)P\\rightarrow QsR [/latex] [latex] (iii)P\\rightarrow \\varepsilon [/latex] [latex] (iv)P\\rightarrow QtRr [/latex]",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Edit time"
+        },
+        {
+          "id": "B",
+          "text": "Compile time"
+        },
+        {
+          "id": "C",
+          "text": "Link time"
+        },
+        {
+          "id": "D",
+          "text": "Load time"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a program P that consists of two source modules M1 and M2 contained in two different files. If M1 contains a reference to a function defined in M2 the reference will be resolved at",
+      "topic": "Runtime Environment",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "E1 should be evaluated first"
+        },
+        {
+          "id": "B",
+          "text": "E2 should be evaluated first"
+        },
+        {
+          "id": "C",
+          "text": "Evaluation of E1 and E2 should necessarily be interleaved"
+        },
+        {
+          "id": "D",
+          "text": "Order to evaluation of E1 and E2 is of no consequence"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the grammar rule  [latex]E \\rightarrow E1 - E2 [/latex] for arithmetic expressions. The code generated is targeted to a CPU having a single user register. The subtraction operation requires the first operand to be in the register. If E1 and E2 do not have nay-common sub-expression, in order to get the shortest possible code",
+      "topic": "Parsing",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(ii), (iii) and (iv) only"
+        },
+        {
+          "id": "B",
+          "text": "(ii) and (iii) only"
+        },
+        {
+          "id": "C",
+          "text": "(i) and (iii) only"
+        },
+        {
+          "id": "D",
+          "text": "(i) and (ii) only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements with respect to user-level threads and kernel-supported threads (i) context switch is faster with kernel-supported threads (ii) for user-level threads, a system call can block the entire process (iii) Kernel supported threads can be scheduled independently (iv) User level threads are transparent to the kernel Which of the above statements are true?",
+      "topic": "Thread",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "50%"
+        },
+        {
+          "id": "B",
+          "text": "40%"
+        },
+        {
+          "id": "C",
+          "text": "25%"
+        },
+        {
+          "id": "D",
+          "text": "0%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider an operating system capable of loading and executing a single sequential user process at a\ntime. The disk head scheduling algorithm used is First Come First Served (FCFS). If FCFS is replaced\nby Shortest Seek Time First (SSTF), claimed by the vendor to give 50% better benchmark results,\nwhat is the expected improvement in the I/O performance of user programs?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Pi _{D}(r2)-\\Pi _{C}(r1)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Pi _{C}(r1)-\\Pi _{D}(r2)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Pi _{D}(r1\\Join _{C\\neq D}r2 )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Pi _{C}(r1\\Join _{C=D}r2 )[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let R1([latex]\\underline{A}[/latex],B,(C)) and R2([latex]\\underline{D}[/latex],E) be two relation schema, where the primary keys are shown\nunderlined, and let C be a foreign key in R1 referring to R2 . Suppose there is no violation of the\nabove referential integrity constraint in the corresponding relation instances r1 and r2 . Which one of\nthe following relational algebra expressions would necessarily produce an empty relation?",
+      "topic": "Relational Algebra",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8,8"
+        },
+        {
+          "id": "B",
+          "text": "120,8"
+        },
+        {
+          "id": "C",
+          "text": "960,8"
+        },
+        {
+          "id": "D",
+          "text": "960,120"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following relation schema pertaining to a students database: Students  ([latex]\\underline{rollno}[/latex], name, address) Enroll ([latex]\\underline{rollno}[/latex] ,[latex]\\underline{courseno}[/latex], coursename) Where the primary keys are shown underlined. The number of tuples in the student and Enroll tables\nare 120 and 8 respectively. What are the maximum and minimum number of tuples that can be\npresent in (Student * Enroll), where '*' denotes natural join?",
+      "topic": "SQL",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P - 1, Q - 4, R - 3"
+        },
+        {
+          "id": "B",
+          "text": "P- 2, Q - 4, R - 1"
+        },
+        {
+          "id": "C",
+          "text": "P - 2, Q - 3, R - 1"
+        },
+        {
+          "id": "D",
+          "text": "P-1, Q - 3, R - 2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the best matching between Group 1 and Group 2 [latex]\\begin{array}{|l|l|}\\hline \\textbf{Group-1} & \\textbf{Group-2} \\\\\\hline \\text{P. Data link layer} & \\text{1. Ensures reliable transport of data over a physical point-}\\\\ & \\text{to-point link} \\\\\\hline \\text{Q. Network layer} & \\text{2. Encodes/decodes data for physical transmission} \\\\\\hline \\text{R. Transport layer} & \\text{3. Allows end-to-end communication between two }\\\\ & \\text{processes} \\\\\\hline \\text{} & \\text{4. Routes data from one network node to the next} \\\\\\hline \\end{array}[/latex]",
+      "topic": "OSI Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both bridge and router selectively forward data packets"
+        },
+        {
+          "id": "B",
+          "text": "A bridge uses IP addresses while a router uses MAC addresses"
+        },
+        {
+          "id": "C",
+          "text": "A bridge builds up its routing table by inspecting incoming packets"
+        },
+        {
+          "id": "D",
+          "text": "A router can connect between a LAN and a WAN"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is NOT true with respect to a transparent bridge and a router?",
+      "topic": "Network Layer Protocol",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x'+y'"
+        },
+        {
+          "id": "B",
+          "text": "x+y"
+        },
+        {
+          "id": "C",
+          "text": "x+y'"
+        },
+        {
+          "id": "D",
+          "text": "x'+y"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A Boolean function x'y' + xy + x'y is equivalent",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Q = 0, Q' = 1"
+        },
+        {
+          "id": "B",
+          "text": "Q = 1, Q' = 0"
+        },
+        {
+          "id": "C",
+          "text": "Q = 1, Q' = 1"
+        },
+        {
+          "id": "D",
+          "text": "Indeterminate states"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In an SR latch made by cross-coupling two NAND gates, if both S and R inputs are set to 0, then it\nwill result in",
+      "topic": "Sequential Circuit",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8,16"
+        },
+        {
+          "id": "B",
+          "text": "10,12"
+        },
+        {
+          "id": "C",
+          "text": "9,13"
+        },
+        {
+          "id": "D",
+          "text": "8,11"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If [latex]73_{x}[/latex] (in base-x number system) is equal to [latex]54_{y}[/latex] (in base y-number system), the possible values of x\nand y are",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) and (iv)"
+        },
+        {
+          "id": "B",
+          "text": "(i) and (ii)"
+        },
+        {
+          "id": "C",
+          "text": "(ii) and (iii)"
+        },
+        {
+          "id": "D",
+          "text": "(i), (ii) and (iv)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following Addressing Modess are suitable for program relocation at run time? (i) Absolute addressing (ii) Based addressing (iii) Relative addressing (iv) Indirect addressing",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the instruction set architecture"
+        },
+        {
+          "id": "B",
+          "text": "page size"
+        },
+        {
+          "id": "C",
+          "text": "physical memory size"
+        },
+        {
+          "id": "D",
+          "text": "number of processes in memory"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The minimum number of page frames that must be allocated to a running process in a virtual\nmemory environment is determined by",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "600"
+        },
+        {
+          "id": "B",
+          "text": "800"
+        },
+        {
+          "id": "C",
+          "text": "876"
+        },
+        {
+          "id": "D",
+          "text": "1200"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "How many 8-bit characters can be transmitted per second over a 9600 baud serial communication\nlink using asynchronous mode of transmission with one start bit, eight data bits, two stop bits, and\none parity bit?",
+      "topic": "Physical Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](\\exists x)(boy(x)\\rightarrow \\forall (y)(girl(y)\\wedge taller(x,y)))[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](\\exists x)(boy(x)\\wedge \\forall (y)(girl(y)\\wedge taller(x,y)))[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](\\exists x)(boy(x)\\rightarrow \\forall (y)(girl(y)\\rightarrow taller(x,y)))[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](\\exists x)(boy(x)\\wedge \\forall (y)(girl(y)\\rightarrow taller(x,y)))[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Identify the correct translation into logical notation of the following assertion. Some boys in the class\nare taller than all the girls Note: taller (x, y) is true if x is taller than y.",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "{(x, y)|y [latex]\\gt[/latex] x and x, y [latex]\\in[/latex] {0, 1, 2,...}}"
+        },
+        {
+          "id": "B",
+          "text": "{(x, y)|y [latex]\\geq[/latex] x and x, y [latex]\\in[/latex] {0, 1, 2,...}}"
+        },
+        {
+          "id": "C",
+          "text": "{(x, y)|y [latex]\\lt[/latex] x and x, y [latex]\\in[/latex] {0, 1, 2,...}}"
+        },
+        {
+          "id": "D",
+          "text": "{(x, y)|y [latex]\\leq[/latex] x and x, y [latex]\\in[/latex] {0, 1, 2,...}}"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the binary relation: S = {(x, y)|y = x + 1 and x, y [latex]\\in[/latex] {0, 1, 2,...}} The reflexive transitive closure of S is",
+      "topic": "Relation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3/8"
+        },
+        {
+          "id": "B",
+          "text": "1/2"
+        },
+        {
+          "id": "C",
+          "text": "5/8"
+        },
+        {
+          "id": "D",
+          "text": "2/4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If a fair coin is tossed four times. What is the probability that two heads and two tails will result?",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "power (2,n)"
+        },
+        {
+          "id": "B",
+          "text": "power (2,[latex]n^{2}[/latex])"
+        },
+        {
+          "id": "C",
+          "text": "power (2,[latex](n^{2}+n)/2[/latex])"
+        },
+        {
+          "id": "D",
+          "text": "power (2,[latex](n^{2}-n)/2[/latex])"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The number of different n x n symmetric matrices with each element being either 0 or 1 is : (Note:\npower (2,x) is same as [latex]2^{x}[/latex])",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]D^{-1}C^{-1}A^{-1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "CDA"
+        },
+        {
+          "id": "C",
+          "text": "ADC"
+        },
+        {
+          "id": "D",
+          "text": "Does not necessarily exist"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A,B,C,D be n x n matrices, each with non-zero determinant. If ABCD=I, then [latex]B^{-1}[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "9.51 and 10.0 respectively"
+        },
+        {
+          "id": "B",
+          "text": "10.0 and 9.51 respectively"
+        },
+        {
+          "id": "C",
+          "text": "9.51 and 9.51 respectively"
+        },
+        {
+          "id": "D",
+          "text": "10.0 and 10.0 respectively"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What is the result of evaluating the following two expressions using three-digit floating point\narithmetic with rounding? (113. + - 111.) + 7.51 113. + (- 111. + 7.51)",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "n"
+        },
+        {
+          "id": "B",
+          "text": "[latex]n^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "nlogn"
+        },
+        {
+          "id": "D",
+          "text": "[latex]nlog^{2}n[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The tightest lower bound on the number of comparisons, in the worst case, for comparison-based\nsorting is of the order of",
+      "topic": "Sorting",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "both in P"
+        },
+        {
+          "id": "B",
+          "text": "both NP complete"
+        },
+        {
+          "id": "C",
+          "text": "NP-complete and in P respectively"
+        },
+        {
+          "id": "D",
+          "text": "undecidable and NP-complete respectively"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The problem 3-SAT and 2-SAT are",
+      "topic": "P-NP Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C function: int f(int n)\n{\n   static int i = 1;\n   if (n >= 5)\n      return n;\n   n = n+i;\n   i++;\n   return f(n);\n} The value returned by f(1) is",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]n=d_{1}d_{2}...d_{m-i}[/latex] and [latex]rev=d_{m}d_{m-1}...d_{m-i+1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]d_{m-i+1}...d_{m-1}d_{m}[/latex] or [latex]rev=d_{m-i}...d_{2}d_{1}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "n [latex]\\neq[/latex]rev"
+        },
+        {
+          "id": "D",
+          "text": "[latex]n=d_{1}d_{2}...d_{m}[/latex]  or [latex]rev=d_{m}...d_{2}d_{1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following program fragment for reversing the digits in a given integer to obtain a new\ninteger. Let [latex]n=d_{1}d_{2}...d_{m}[/latex]. int n, rev;\nrev = 0;\nwhile (n  >  0)\n{\n   rev = rev*10 + n%10;\n   n = n/10;\n} The loop invariant condition at the end of the [latex]i^{th}[/latex] iteration is:",
+      "topic": "Loop",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "gnirts"
+        },
+        {
+          "id": "B",
+          "text": "string"
+        },
+        {
+          "id": "C",
+          "text": "gnirts"
+        },
+        {
+          "id": "D",
+          "text": "no output is printed"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C program segment: char p[20];\nchar *s = \"string\";\nint length = strlen(s);\nint i;\nfor (i = 0; i < length; i++)\n     p[i] = s[length - i];\nprintf(\"%s\",p); The output of the program is",
+      "topic": "C Programming",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(i) only"
+        },
+        {
+          "id": "B",
+          "text": "(iii) only"
+        },
+        {
+          "id": "C",
+          "text": "(iv) only"
+        },
+        {
+          "id": "D",
+          "text": "(ii), (iii)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the label sequences obtained by the following pairs of traversals on a labeled binary tree.\nWhich of these pairs identify a tree uniquely? (i) preorder and postorder (ii) inorder and postorder (iii) preorder and inorder (iv) level order and postorder",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "abcx+def^^-"
+        },
+        {
+          "id": "B",
+          "text": "abcx+de^f^-"
+        },
+        {
+          "id": "C",
+          "text": "ab+cxd-e^f^"
+        },
+        {
+          "id": "D",
+          "text": "axbc^^def"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Assume that the operators +, -, x , are left associative and ^ is right associative. the order of\nprecedence (from highest to lowest) is ^, x , +, -. The postfix expression corresponding to the infix\nexpression a + b x c-d^e^f is",
+      "topic": "Stack",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "best if A is in row-major, and B is in column major order"
+        },
+        {
+          "id": "B",
+          "text": "best if both are in row-major order"
+        },
+        {
+          "id": "C",
+          "text": "best if both are in column-major order"
+        },
+        {
+          "id": "D",
+          "text": "independent of the storage scheme"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Two matrices M1 and M2 are to be stored in arrays A and B respectively. Each array can be stored\neither in row-major or column-major order in contiguous memory locations. The time complexity of\nan algorithm to compute M1 x M2 will be",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "union only"
+        },
+        {
+          "id": "B",
+          "text": "intersection, membership"
+        },
+        {
+          "id": "C",
+          "text": "membership, cardinality"
+        },
+        {
+          "id": "D",
+          "text": "union, intersection"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Suppose each set is represented as a linked list with elements in arbitray order. Which of the\noperations among union, intersection, membership, cardinality will be the slowest?",
+      "topic": "Link List",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x + y using repeated subtraction"
+        },
+        {
+          "id": "B",
+          "text": "x mod y using repeated subtraction"
+        },
+        {
+          "id": "C",
+          "text": "the greatest common divisor of x and y"
+        },
+        {
+          "id": "D",
+          "text": "the least common multiple of x and y"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C program main()\n{\n    int x, y, m, n;\n    scanf (\"%d %d\", &x, &y);\n    /* Assume x  >  0 and y  >  0  */\n    m = x;\n    n = y;\n    while (m != n)\n    {\n        if (m  >  n)\n            m = m - n;\n        else\n            n = n - m;\n    }\n    printf (\"%d\", n);\n} The program computes",
+      "topic": "Loop",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "logm"
+        },
+        {
+          "id": "B",
+          "text": "[latex]m^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]m^{1/2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]m^{1/3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What does the following algorithm approximate? (Assume [latex]m \\gt 1, e \\gt 0[/latex]). x = m;\ny = 1;\nwhile (x - y > e)\n{\n    x = (x + y)/2;\n    y = m/x;\n}\nprint(x);",
+      "topic": "Loop",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The number of leaf nodes in the tree"
+        },
+        {
+          "id": "B",
+          "text": "The number of nodes in the tree"
+        },
+        {
+          "id": "C",
+          "text": "The number of internal nodes in the tree"
+        },
+        {
+          "id": "D",
+          "text": "The height of the tree"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C program segment struct CellNode\n{\n  struct CelINode *leftchild;\n  int element;\n  struct CelINode *rightChild;\n}\n \nint Dosomething(struct CelINode *ptr)\n{\n    int value = 0;\n    if (ptr != NULL)\n    {\n      if (ptr->leftChild != NULL)\n        value = 1 + DoSomething(ptr->leftChild);\n      if (ptr->rightChild != NULL)\n        value = max(value, 1 + DoSomething(ptr->rightChild));\n    }\n    return (value);\n} The value returned by the function DoSomething when a pointer to the root of a non-empty tree is\npassed as argument is",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "645 nanoseconds"
+        },
+        {
+          "id": "B",
+          "text": "1050 nanoseconds"
+        },
+        {
+          "id": "C",
+          "text": "1215 nanoseconds"
+        },
+        {
+          "id": "D",
+          "text": "1230 nanoseconds"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a system with a two-level paging scheme in which a regular memory access takes 150\nnanoseconds, and servicing a page fault takes 8 milliseconds. An average instruction takes 100\nnanoseconds of CPU time, and two memory accesses. The TLB hit ratio is 90%, and the page fault\nrate is one in every 10,000 instructions. What is the effective average instruction execution time?",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P(Sy), P(Sx); P(Sx), P(Sy)"
+        },
+        {
+          "id": "B",
+          "text": "P(Sx), P(Sy); P(Sy), P(Sx)"
+        },
+        {
+          "id": "C",
+          "text": "P(Sx), P(Sx); P(Sy), P(Sy)"
+        },
+        {
+          "id": "D",
+          "text": "P(Sx), P(Sy); P(Sx), P(Sy)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider two processes P1 and P2 accessing the shared variables X and Y protected by two binary\nsemaphores Sx and Sy respectively, both initialized to 1. P and V denote the usual semaphore\noperators, where P decrements the semaphore value, and V increments the semaphore value. The\npseudo-code of P1 and P2 is as follows: P1 While true do {\n   L1 : ................\n   L2 : ................\n   X = X + 1;\n   Y = Y - 1;\n   V(Sx);\n   V(Sy);             \n } P2 While true do {\n   L3 : ................   \n   L4 : ................\n   Y = Y + 1;\n   X = Y - 1;\n   V(Sy);\n   V(Sx);            \n} In order to avoid deadlock, the correct operators at L1 , L2 , L3 and L4 are respectively.",
+      "topic": "Process Synchronization",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104149",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2^{24}[/latex]bytes"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2^{32}[/latex]bytes"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2^{34}[/latex]bytes"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2^{48}[/latex]bytes"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A unix-style I-node has 10 direct pointers and one single, one double and one triple indirect pointers.\nDisk block size is 1 Kbyte, disk block address is 32 bits, and 48-bit integers are used. What is the\nmaximum possible file size?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104150",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2NF"
+        },
+        {
+          "id": "B",
+          "text": "3NF"
+        },
+        {
+          "id": "C",
+          "text": "BCNF"
+        },
+        {
+          "id": "D",
+          "text": "4NF"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The relation scheme Student Performance (name, courseNo, rollNo, grade) has the following\nfunctional dependencies: name, courseNo, [latex]\\rightarrow[/latex] grade rollNo, courseNo [latex]\\rightarrow[/latex] grade name [latex]\\rightarrow[/latex] rollNo rollNo [latex]\\rightarrow[/latex] name The highest normal form of this relation scheme is",
+      "topic": "Normal Form",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104152",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "24"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "26"
+        },
+        {
+          "id": "D",
+          "text": "27"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The order of an internal node in a B+ tree index is the maximum number of children it can have.\nSuppose that a child pointer takes 6 bytes, the search field value takes 14 bytes, and the block size is\n512 bytes. What is the order of the internal node?",
+      "topic": "File System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104153",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the average salary is more than the average salary in the company"
+        },
+        {
+          "id": "B",
+          "text": "the average salary of male employees is more than the average salary of all male employees in the company"
+        },
+        {
+          "id": "C",
+          "text": "the average salary of male employees is more than the average salary of employees in the same department."
+        },
+        {
+          "id": "D",
+          "text": "the average salary of male employees is more than the average salary in the company"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The employee information in a company is stored in the relation Employee ([latex]\\underline{name}[/latex], sex, salary, deptName) Consider the following SQL query select deptName\n       from Employee\n       where sex = 'M'\n       group by deptName\n       having avg (salary) > (select avg (salary) from Employee) It returns the names of the department in which",
+      "topic": "SQL",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104154",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5"
+        },
+        {
+          "id": "B",
+          "text": "0.625"
+        },
+        {
+          "id": "C",
+          "text": "0.75"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A and B are the only two stations on an Ethernet. Each has a steady queue of frames to send. Both A\nand B attempt to transmit a frame, collide, and A wins the first backoff race. At the end of this\nsuccessful transmission by A, both A and B attempt to transmit and collide. The probability that A\nwins the second backoff race is",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A circuit outputs a digit in the form of 4 bits. 0 is represented by 0000, 1 by 0001,..., 9 by 1001. A\ncombinational circuit is to be designed which takes these 4 bits as input and outputs 1 if the digit [latex]\\geq[/latex]5, and 0 otherwise. If only AND, OR and NOT gates may be used, what is the minimum number of gates required?",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a'c and ac'"
+        },
+        {
+          "id": "B",
+          "text": "a'c and b'c"
+        },
+        {
+          "id": "C",
+          "text": "a'c only"
+        },
+        {
+          "id": "D",
+          "text": "ac' and bc'"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which are the essential prime implicants of the following Boolean function? f(a, b, c) = a'c + ac' + b'c",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "R to X, 1 to Y, T to Z"
+        },
+        {
+          "id": "B",
+          "text": "T to X, R to Y, T to Z"
+        },
+        {
+          "id": "C",
+          "text": "T to X, R to Y, 0 to Z"
+        },
+        {
+          "id": "D",
+          "text": "R to X, 0 to Y, T to Z"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a multiplexer with X and Y as data inputs and Z as control input. Z = 0 selects input X, and\nZ = 1 selects input Y. What are the connections required to realize the 2-variable Boolean function f=T+R, without using any additional hardware?",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104162",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4 time units"
+        },
+        {
+          "id": "B",
+          "text": "6 time units"
+        },
+        {
+          "id": "C",
+          "text": "10 time units"
+        },
+        {
+          "id": "D",
+          "text": "12 time units"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A 4-bit carry look ahead Combinational Circuit, which adds two 4-bit numbers, is designed using AND, OR, NOT, NAND, NOR gates only. Assuming that all the inputs are available in both complemented and uncomplemented  forms and the delay of each gate is one time unit, what is the overall propagation delay of the Combinational Circuit? Assume that the carry network has been implemented using two-level AND-OR logic.",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104165",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a small two-way set-associative cache memory, consisting of four blocks. For choosing the\nblock to be replaced, use the least recently used (LRU) scheme. The number of cache misses for the\nfollowing sequence of block addresses is 8, 12, 0, 12,8",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104166",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1100 0100"
+        },
+        {
+          "id": "B",
+          "text": "1001 1100"
+        },
+        {
+          "id": "C",
+          "text": "1000 0101"
+        },
+        {
+          "id": "D",
+          "text": "1101 0101"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A = 1111 1010 and B = 0000 1010 be two 8-bit 2's complement numbers.\nTheir product in 2's complement is",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104168",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5%"
+        },
+        {
+          "id": "B",
+          "text": "1%"
+        },
+        {
+          "id": "C",
+          "text": "0.50%"
+        },
+        {
+          "id": "D",
+          "text": "0.10%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A hard disk with a transfer rate of 10 Mbytes/second is constantly transferring data to memory using\nDMA. The processor runs at 600 MHz, and takes 300 and 900 clock cycles to initiate and complete\nDMA transfer respectively. If the size of the transfer is 20 Kbytes, what is the percentage of processor\ntime consumed for the transfer operation?",
+      "topic": "IO Interface",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104169",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "120.4 microseconds"
+        },
+        {
+          "id": "B",
+          "text": "160.5 microseconds"
+        },
+        {
+          "id": "C",
+          "text": "165.5 microseconds"
+        },
+        {
+          "id": "D",
+          "text": "590 microseconds"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A 4-stage pipeline has the stage delays as 150, 120, 160 and 140 nanoseconds respectively. Registers\nthat are used between the stages have a delay of 5 nanoseconds each. Assuming constant clocking\nrate, the total time taken to process 1000 data items on this pipeline will be",
+      "topic": "Pipeline Processor",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104170",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "satisfiable but not valid"
+        },
+        {
+          "id": "B",
+          "text": "valid"
+        },
+        {
+          "id": "C",
+          "text": "a contradiction"
+        },
+        {
+          "id": "D",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The following propositional statement is [latex](P\\rightarrow (Q\\vee R))\\rightarrow ((P\\vee Q)\\rightarrow R)[/latex]",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104171",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "infinitely many"
+        },
+        {
+          "id": "B",
+          "text": "two distinct solutions"
+        },
+        {
+          "id": "C",
+          "text": "unique"
+        },
+        {
+          "id": "D",
+          "text": "none"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "How many solutions does the following system of linear equations have? -x + 5y = -1 x - y = 2 x + 3y = 3",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104173",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "{1}"
+        },
+        {
+          "id": "B",
+          "text": "{1}, {2, 3}"
+        },
+        {
+          "id": "C",
+          "text": "{1}, {1, 3}"
+        },
+        {
+          "id": "D",
+          "text": "{1}, {1, 3}, {1, 2, 3, 4}, {1, 2, 3, 5}"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The inclusion of which of the following sets into S = {{1, 2}, {1, 2, 3}, {1, 3, 5}, {1, 2, 4}, {1, 2, 3, 4, 5}} is necessary and sufficient to make S a complete lattice under the partial order defined by set\ncontainment?",
+      "topic": "Lattice",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104174",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "2550"
+        },
+        {
+          "id": "C",
+          "text": "7525"
+        },
+        {
+          "id": "D",
+          "text": "9375"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "An examination paper has 150 multiple choice questions of one mark each, with each question having\nfour choices. Each incorrect answer fetches -0.25 marks. Suppose 1000 students choose all their\nanswers randomly with uniform probability. The sum total of the expected marks obtained by all\nthese students is",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104175",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Mala has a colouring book in which each English letter is drawn two times. She wants to paint each of\nthese 52 prints with one of k colours, such that he colour pairs used to colour any two letters are\ndifferent. Both prints of a letter can also be coloured with the same colour. What is the minimum\nvalue of k that satisfies this requirement?",
+      "topic": "Discrete Mathematics",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104176",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\leq[/latex] a+b"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\leq[/latex] max{a,b}"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\leq[/latex] min{M-a,N-b}"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\leq[/latex] min{a,b}"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In an M x N matrix such that all non-zero entries are covered in a rows and b columns. Then the\nmaximum number of non-zero entries, such that no two are on the same row or column, is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104178",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]^nC_d/2^{n}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]^nC_d/2^{d}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]d/2^{n}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/2^{d}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Two n bit binary strings, S1 and S2, are chosen randomly with uniform probability. The probability that the Hamming distance between these strings (the number of bit positions where the two strings differ) is equal to d is",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104179",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]^{(n^{2}-n)/2}C_{(n^{2}-3n)/2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sum_{k=0}^{(n^{2}-3n)/2}(n^{2}-3n)/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]^{(n^{2}-n)/2}C_{n}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sum_{k=0}^{n} {^{(n^{2}-n)/2}C_{k}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "How many graphs on n labeled vertices exist which have at least [latex]\\frac{(n^{2}-3n)}{2}[/latex] edges ?",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104180",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2/3"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "4/3"
+        },
+        {
+          "id": "D",
+          "text": "5/3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A point is randomly selected with uniform probability in the X-Y plane within the rectangle with corners at (0,0), (1,0), (1,2) and (0,2). If p is the length of the position vector of the point, the expected value of [latex]p^{2}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104181",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "cannot have a cut vertex"
+        },
+        {
+          "id": "B",
+          "text": "must have a cycle"
+        },
+        {
+          "id": "C",
+          "text": "must have a cut-edge (bridge)"
+        },
+        {
+          "id": "D",
+          "text": "has chromatic number strictly greater than those of G1 and G2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let G1=(V, E1) and G2=(V, E2) be connected graphs on the same vertex set V with more than two vertices. If G1[latex]\\cap[/latex]G2 = (V, E1[latex]\\cap[/latex]E2) is not a connected graph, then the graph G1[latex]\\cup[/latex]G2 = (V, E1[latex]\\cup[/latex]E2)",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104182",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Omega (n^{2})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Omega (n log n)[/latex] and [latex]O (n^{2})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\theta[/latex](n)"
+        },
+        {
+          "id": "D",
+          "text": "o(n)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A[1,..., n] be an array storing a bit (1 or 0) at each location, and f(m) is a function whose Asymptotic Notation is [latex]\\theta[/latex](m). Consider the following program fragment written in a C like language: counter = 0;\nfor (i = 1; i < = n; i++)\n{ \n      if (A[i] == 1) \n         counter++;\n      else {\n         f(counter); \n         counter = 0;\n      }\n} The complexity of this program fragment is",
+      "topic": "Asymptotic Notation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104183",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "O([latex](n^{2})[/latex])"
+        },
+        {
+          "id": "B",
+          "text": "O(nlog n)"
+        },
+        {
+          "id": "C",
+          "text": "O(n)"
+        },
+        {
+          "id": "D",
+          "text": "O([latex](2^{n})[/latex])"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The Asymptotic Notation of the following C function is (assume n [latex]\\gt[/latex] 0) int recursive (int n) {\n   if (n == 1)\n      return (1);\n   else\n      return (recursive (n - 1) + recursive (n - 1));\n}",
+      "topic": "Asymptotic Notation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104184",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2^{n+1}-n-2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2^{n}-n[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2^{n+1}-2n-2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2^{n}+n[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The recurrence equation T(1) = 1 T(n) = 2T(n - 1) + n, n [latex]\\geq[/latex] 2 evaluates to",
+      "topic": "Recurrence Relation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104185",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Theta (n)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Theta (nlog n)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Theta (n^{2})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Theta (n^{2}log n)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A program takes as input a balanced binary search tree with n leaf nodes and computes the value of a function g(x) for each node x. If the cost of computing g(x) is min{no. of leaf-nodes in left-subtree of x, no. of leaf-nodes in right-subtree of x} then the worst-case time complexity of the program is",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104187",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "regular"
+        },
+        {
+          "id": "B",
+          "text": "context-free but not regular"
+        },
+        {
+          "id": "C",
+          "text": "context sensitive but not context free"
+        },
+        {
+          "id": "D",
+          "text": "type-0 but not context sensitive"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The language {[latex]a^{m}b^{n}c^{m+n}|m,n\\geq 1[/latex]} is",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "1104189",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both S1 and S2 are true"
+        },
+        {
+          "id": "B",
+          "text": "S1 is true but S2 is not necessarily true"
+        },
+        {
+          "id": "C",
+          "text": "S2 is true but S1 is not necessarily true"
+        },
+        {
+          "id": "D",
+          "text": "Neither is necessarily true"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "L1 is a recursively enumerable language over [latex]\\Sigma[/latex]. An algorithm A effectively enumerates its words as w1, w2, w3, ... define another language L2 over [latex]\\Sigma[/latex]U{#} as {wi # wj : wi, wj [latex]\\in[/latex] L1, i [latex]\\lt[/latex] j}. Here # is a new symbol. Consider the following assertions. S1 :  L1 is recursive implies L2 is recursive\nS2 : L2 is recursive implies L1 is recursive Which of the following statements is true ?",
+      "topic": "Recursive Language",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "10412611",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "power (2,n)"
+        },
+        {
+          "id": "B",
+          "text": "power (2,[latex]n^{2}[/latex])"
+        },
+        {
+          "id": "C",
+          "text": "power (2,[latex](n^{2}+n)/2[/latex])"
+        },
+        {
+          "id": "D",
+          "text": "power (2,[latex](n^{2}-n)/2[/latex])"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The number of different n x n symmetric matrices with each element being either 0 or 1 is : (Note:\npower (2,x) is same as [latex]2^{x}[/latex])",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "10412711",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]D^{-1}C^{-1}A^{-1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "CDA"
+        },
+        {
+          "id": "C",
+          "text": "ADC"
+        },
+        {
+          "id": "D",
+          "text": "Does not necessarily exist"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A,B,C,D be n x n matrices, each with non-zero determinant. If ABCD=I, then [latex]B^{-1}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "10417111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "infinitely many"
+        },
+        {
+          "id": "B",
+          "text": "two distinct solutions"
+        },
+        {
+          "id": "C",
+          "text": "unique"
+        },
+        {
+          "id": "D",
+          "text": "none"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "How many solutions does the following system of linear equations have? -x + 5y = -1 x - y = 2 x + 3y = 3",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "10417611",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\leq[/latex] a+b"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\leq[/latex] max{a,b}"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\leq[/latex] min{M-a,N-b}"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\leq[/latex] min{a,b}"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In an M x N matrix such that all non-zero entries are covered in a rows and b columns. Then the\nmaximum number of non-zero entries, such that no two are on the same row or column, is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "CS",
+      "id": "10418011",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3-Feb"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "3-Apr"
+        },
+        {
+          "id": "D",
+          "text": "3-May"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A point is randomly selected with uniform probability in the X-Y plane within the rectangle with corners at (0,0), (1,0), (1,2) and (0,2). If p is the length of the position vector of the point, the expected value of [latex]p^{2}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2004
+    }
+  ],
+  "schema_version": 1
+}

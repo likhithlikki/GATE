@@ -1,0 +1,1896 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1505102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sqrt{17}[/latex] V"
+        },
+        {
+          "id": "B",
+          "text": "5V"
+        },
+        {
+          "id": "C",
+          "text": "7V"
+        },
+        {
+          "id": "D",
+          "text": "(3+2[latex]\\sqrt{2}[/latex])V"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The RMS value of the voltage u(t)= 3 + 4 cos (3t) is",
+      "topic": "Steady State AC Analysis",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\vec{E}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "|[latex]\\vec{E}[/latex]|"
+        },
+        {
+          "id": "C",
+          "text": "null vector"
+        },
+        {
+          "id": "D",
+          "text": "Zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]\\vec{E}[/latex] is the electric intensity, [latex]\\triangledown \\cdot (\\triangledown \\times \\vec{E})[/latex] is equal to",
+      "topic": "Electromagnetic Theory",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5 rad/sec"
+        },
+        {
+          "id": "B",
+          "text": "1 rad/sec"
+        },
+        {
+          "id": "C",
+          "text": "2 rad/sec"
+        },
+        {
+          "id": "D",
+          "text": "4 rad/sec"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A system with zero initial conditions has the closed loop transfer function [latex]T(s)=\\frac{s^{2}+4}{(s+1)(s+4)}[/latex]. The system output is zero at the frequency",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{\\sqrt{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The gain margin of a unity feed back control system with the open loop transfer\nfunction [latex]G(s)=\\frac{(s+1)}{s^{2}}[/latex] is",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Augmented matrix [Pq] must have the same rank as matrix P"
+        },
+        {
+          "id": "B",
+          "text": "Vector q must have only non-zero elements"
+        },
+        {
+          "id": "C",
+          "text": "Matrix P must be singular"
+        },
+        {
+          "id": "D",
+          "text": "Matrix P must be square"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the matrix equation Px=q, which of the following is a necessary condition\r\nfor the existence of at least on solution for the unknown vector x:",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Independence of P and Q implies that probability (P[latex]\\cap[/latex]Q)=0"
+        },
+        {
+          "id": "B",
+          "text": "Probability (P [latex]\\cup[/latex] Q) [latex]\\geq[/latex] Probability (P) + Probability (Q)"
+        },
+        {
+          "id": "C",
+          "text": "If P and Q are mutually exclusive, then they must be independent"
+        },
+        {
+          "id": "D",
+          "text": "Probability (P [latex]\\cap[/latex] Q) [latex]\\leq[/latex] Probability (P)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If P and Q are two random events, then the following is TRUE",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-\\frac{1}{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{4}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]S=\\int_{1}^{\\infty }x^{-3}dx[/latex], then S has the value",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x(t)=x_{0}e^{-3t}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x(t)=x_{0}e^{-3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x(t)=x_{0}e^{-t/3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x(t)=x_{0}e^{-t}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The solution of the first order differential equation [latex]\\dot{x} (t) =- 3x(t), x(0) = x_0[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]X_{1}\\gt \\gt {X}'_{2}\\gt \\gt X_{M}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]X_{1}\\lt \\lt{X}'_{2}\\lt \\lt X_{M}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]X_{1}\\approx {X}'_{2}\\gt \\gt  X_{M}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]X_{1}\\approx {X}'_{2}\\lt \\lt X_{M}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The equivalent circuit of a transformer has leakage reactance [latex]X_{1},{X}'_{2}[/latex] and\r\nmagnetizing reactance [latex]X_{M}[/latex]. Their magnitudes satisfy",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Star-Star"
+        },
+        {
+          "id": "B",
+          "text": "Star-Delta"
+        },
+        {
+          "id": "C",
+          "text": "Delta-Delta"
+        },
+        {
+          "id": "D",
+          "text": "Delta-Zigzag"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which three-phase connection can be used in a transformer to introduce a\r\nphase difference of 30[latex]^\\circ[/latex] between its output and corresponding input line voltages",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](1-s)^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](1-s)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{(1-s)}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](1-\\sqrt{s})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For an induction motor, operation at a slip [latex]s[/latex], the ration of gross power output\r\nto air gap power is equal to",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4, 0.4"
+        },
+        {
+          "id": "B",
+          "text": "100, 10"
+        },
+        {
+          "id": "C",
+          "text": "4, 10"
+        },
+        {
+          "id": "D",
+          "text": "100, 0.4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The p.u. parameter for a 500 MVA machine on its own base are: inertia M = 20 p.u.;  reactance X = 2 p.u. The p.u. values of inertia and reactance on 100 MVA common base, respectively, are",
+      "topic": "Per Unit System",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P"
+        },
+        {
+          "id": "B",
+          "text": "2P"
+        },
+        {
+          "id": "C",
+          "text": "P/2"
+        },
+        {
+          "id": "D",
+          "text": "P/4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An 800 kV transmission line has a maximum power transfer capacity of P. If it\nis operated at 400 kV with the series reactance unchanged, the new maximum\npower transfer capacity is approximately",
+      "topic": "Power System Stability",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "load power factor"
+        },
+        {
+          "id": "B",
+          "text": "switching over-voltages"
+        },
+        {
+          "id": "C",
+          "text": "harmonics"
+        },
+        {
+          "id": "D",
+          "text": "corona"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The insulation strength of an EHV transmission line is mainly governed by",
+      "topic": "power System Transients",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "bulk power transmission over very long distances"
+        },
+        {
+          "id": "B",
+          "text": "inter-connecting two systems with same nominal frequency"
+        },
+        {
+          "id": "C",
+          "text": "eliminating reactive power requirement in the operation"
+        },
+        {
+          "id": "D",
+          "text": "minimizing harmonics at the converter stations"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "High Voltage DC (HVDC) transmission is mainly used for",
+      "topic": "High Voltage DC Transmission",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "mutual inductance"
+        },
+        {
+          "id": "B",
+          "text": "self inductance"
+        },
+        {
+          "id": "C",
+          "text": "series resonance"
+        },
+        {
+          "id": "D",
+          "text": "parallel resonance"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Q-meter works on the principle of",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2V"
+        },
+        {
+          "id": "B",
+          "text": "5V"
+        },
+        {
+          "id": "C",
+          "text": "[latex](2+\\sqrt{3}/2)[/latex]V"
+        },
+        {
+          "id": "D",
+          "text": "[latex](\\sqrt{17}/2)[/latex]V"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A PMMC voltmeter is connected across a series combination of DC voltage\r\nsource [latex]V_1 = 2 V[/latex] and AC voltage source [latex]V_2 (t) = 3 sin(4t) V[/latex]. The meter reads",
+      "topic": "Galvanometers, Voltmeters and Ammeters",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "SPHL [latex]2050_{H}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "SPHL [latex]2051_{H}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "SHLD [latex]2050_{H}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "STAX [latex]2051_{H}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The 8085 assembly language instruction that stores the content of H and L\r\nregister into the memory locations [latex]2050_{H}[/latex] and [latex]2051_{H}[/latex], respectively, is:",
+      "topic": "Microprocessors",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "32"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A digital-to-analog converter with a full-scale output voltage of 3.5 V has a\nresolution close to 14 mV. Its bit size is",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a parabola"
+        },
+        {
+          "id": "B",
+          "text": "a straight line"
+        },
+        {
+          "id": "C",
+          "text": "a rectangular hyperbola"
+        },
+        {
+          "id": "D",
+          "text": "an exponentially decaying function"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The conduction loss versus device current characteristic of a power MOSFET is\nbest approximated by",
+      "topic": "Power Semiconductor Devices and Commutation Techniques",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "400 V"
+        },
+        {
+          "id": "B",
+          "text": "400[latex]\\sqrt{2}[/latex] V"
+        },
+        {
+          "id": "C",
+          "text": "400[latex]\\sqrt{\\frac{2}{3}}[/latex] V"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{400}{\\sqrt{3}}[/latex] V"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase diode bridge rectifier is fed from a 400 V RMS, 50 Hz, threephase\nAC source. If the load is purely resistive, then peak instantaneous output\nvoltage is equal to",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "only even harmonics"
+        },
+        {
+          "id": "B",
+          "text": "both odd and even harmonic"
+        },
+        {
+          "id": "C",
+          "text": "only odd harmonics"
+        },
+        {
+          "id": "D",
+          "text": "only triple harmonics"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The output voltage waveform of a three-phase square-wave inverter contains",
+      "topic": "Inverters",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]|K|\\gt 1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]K \\gt 1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]|K|\\lt 1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]K\\lt -1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A unity feedback system, having an open loop gain [latex]G(s)H(s)=\\frac{K(1-s)}{(1+s)}[/latex], becomes stable when",
+      "topic": "Control Systems",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(-0.25, j0)"
+        },
+        {
+          "id": "B",
+          "text": "(-0.5, j0)"
+        },
+        {
+          "id": "C",
+          "text": "(-1, j0)"
+        },
+        {
+          "id": "D",
+          "text": "(-2, j0)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the G(s)H(s)-plane, the Nyquist plot of the loop transfer function\nG(s)H(s) = [latex]\\frac{\\pi e^{-0.25s}}{S}[/latex] passes through the negative real axis at the point",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} 3\\\\ -2\\\\ 1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} -3\\\\ 2\\\\ -1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} 1\\\\ -2\\\\ 3 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 2\\\\ 5\\\\ 0 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the matrix [latex]p=\\begin{bmatrix} 3 & -2&2 \\\\ 0& -2 & 1\\\\ 0 &0 & 1 \\end{bmatrix}[/latex] one of the eigen values is equal to -2. Which of the following is an eigen vector ?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[5   6   4]"
+        },
+        {
+          "id": "B",
+          "text": "[5   -3    1]"
+        },
+        {
+          "id": "C",
+          "text": "[2   0   -1]"
+        },
+        {
+          "id": "D",
+          "text": "[2   1    1/2]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]R=\\begin{bmatrix} 1 & 0&-1 \\\\ 2& 1 & -1\\\\ 2&3 & 2 \\end{bmatrix}[/latex], then top row of [latex]R^{-1}[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{8}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{3}{8}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{3}{4}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A fair coin is tossed three times in succession. If the first toss produces a head,\nthen the probability of getting exactly two heads in three tosses is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the function [latex]f (x) = x^{2}e^{x}[/latex], the maximum occurs when [latex]x[/latex] is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sqrt{\\frac{13}{9}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{\\frac{9}{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{5}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{9}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the scalar field [latex]u=\\frac{x^{2}}{2}+\\frac{y^{2}}{3}[/latex], magnitude of the gradient at the point (1, 3) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{5}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the equation [latex]\\ddot{x}(t) + 3\\dot{x}(t) + 2x(t) = 5[/latex], the solution [latex]x(t)[/latex] approaches which of\r\nthe following values as [latex]t \\rightarrow \\infty[/latex] ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{17}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\infty[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Laplace transform of a function f(t) is [latex]F(s)=\\frac{5s^{2}+23s+6}{s(s^{2}+2s+2)}. \\; As \\; t\\rightarrow \\infty[/latex], f(t) approaches",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sin x + \\sin 2x[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1 - \\cos 2x[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sin 2x + \\cos 2x[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0.5 - 0.5 \\cos 2x[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Fourier series for the function [latex] f (x) =  \\sin ^{2}x[/latex] is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505149",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](-1)^{k}\\delta (k)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\delta(k)-(-1)^k[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](-1)^{k}u (k)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]u(k)-(-1)^k[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If u(t) is the unit step and [latex]\\delta \\left ( t \\right )[/latex] is the unit impulse function, the inverse z-transform of F(z)=[latex]\\frac{1}{z+1}[/latex] for [latex]k\\gt 0[/latex] is",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505151",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "25 kW in (i) and 75 kW in (ii)"
+        },
+        {
+          "id": "B",
+          "text": "25 kW in (i) and 50 kW in (ii)"
+        },
+        {
+          "id": "C",
+          "text": "50 kW in (i) and 75 kW in (ii)"
+        },
+        {
+          "id": "D",
+          "text": "50 kW in (i) and 50 kW in (ii)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 50 kW dc shunt is loaded to draw rated armature current at any given speed.\nWhen driven\n(i) at half the rated speed by armature voltage control and\n(ii) at 1.5 times the rated speed by field control, the respective output powers\ndelivered by the motor are approximately.",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505153",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "In salient pole machines, the direct-axis synchronous reactance is greater\nthan the quadrature-axis synchronous reactance."
+        },
+        {
+          "id": "B",
+          "text": "The damper bars help the synchronous motor self start."
+        },
+        {
+          "id": "C",
+          "text": "Short circuit ratio is the ratio of the field current required to produces  the rated voltage on open circuit to the rated armature current."
+        },
+        {
+          "id": "D",
+          "text": "The V-cure of a synchronous motor represents the variation in the armature current with field excitation, at a given output power."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In relation to the synchronous machines, which on of the following statements is false ?",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505154",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the speed decreases and the stator current increases"
+        },
+        {
+          "id": "B",
+          "text": "both the speed and the stator current decreases"
+        },
+        {
+          "id": "C",
+          "text": "the speed and the stator current remain practically constant"
+        },
+        {
+          "id": "D",
+          "text": "there is negligible change in the speed but the stator current decreases"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Under no load condition, if the applied voltage to an induction motor is reduced from the rated voltage to half the rated value,",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.24"
+        },
+        {
+          "id": "B",
+          "text": "1.44"
+        },
+        {
+          "id": "C",
+          "text": "2.4"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase cage induction motor is started by direct-on-line (DOL) switching\nat the rated voltage. If the starting current drawn is 6 times the full load\ncurrent, and the full load slip is 4%, then ratio of the starting developed torque\nto the full load torque is approximately equal to",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both [A] and [R] are true and [R] is the correct reason for [A]"
+        },
+        {
+          "id": "B",
+          "text": "Both [A] and [R] are true and but [R] is not the correct reason for [A]"
+        },
+        {
+          "id": "C",
+          "text": "Both [A] and [R] are false"
+        },
+        {
+          "id": "D",
+          "text": "[A] is true but [R] is false"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Determine the correctness or otherwise of the following assertion[A] and the\r\nreason[R]. Assertion [A] : Under V/f control of induction motor, the maximum value of\r\nthe developed torque remains constant over a wide range of speed in the subsynchronous region. Reason [R] : The magnetic flux is maintained almost constant at the rated value\r\nby keeping the ration V/f constant over the considered speed range.",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.3, 0.2"
+        },
+        {
+          "id": "B",
+          "text": "0.5, 0.2"
+        },
+        {
+          "id": "C",
+          "text": "0.5, 0.6"
+        },
+        {
+          "id": "D",
+          "text": "0.3, 0.6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The parameters of a transposed overhead transmission line are given as : Self reactance [latex]X_{s}=0.5\\Omega[/latex]/km and Mutual reactance [latex]X_{m}=0.1\\Omega[/latex]/km The positive sequence reactance [latex]X_1[/latex] and zero sequence reactance [latex]X_0[/latex], respectively in [latex]\\Omega[/latex]/km are",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.85 lag"
+        },
+        {
+          "id": "B",
+          "text": "1 lag"
+        },
+        {
+          "id": "C",
+          "text": "0.80 lag"
+        },
+        {
+          "id": "D",
+          "text": "0.90 lag"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "At an industrial sub-station with a 4 MW load, a capacitor of 2 MVAR is\ninstalled to maintain the load power factor at 0.97 lagging. If the capacitor goes\nout of service, the load power factor becomes",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505164",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Q\\sin \\left ( 4t -30^{\\circ} \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Q\\sin \\left ( 2t +15^{\\circ} \\right )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]Q\\sin \\left ( 8t +60^{\\circ} \\right )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]Q\\sin \\left ( 4t +30^{\\circ} \\right )[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The simultaneous application of signals x(t) and y(t) to the horizontal and vertical plates, respectively, of an oscilloscope, produces a vertical figure of 8 display. If P and Q are constants and X(t)=[latex]P\\sin \\left ( 4t +30^{\\circ} \\right )[/latex], then y(t) is equal to",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505165",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.010[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "0.011[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "0.025[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1.0[latex]\\Omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A DC ammeter has a resistance of 0.1 [latex]\\Omega[/latex] and its current range is 0-100 A. If the range is to be extended to 0-500 A, then meter required the following shunt resistance",
+      "topic": "Galvanometers, Voltmeters and Ammeters",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505168",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "13.0 kW, 0.334"
+        },
+        {
+          "id": "B",
+          "text": "13.0 kW, 0.684"
+        },
+        {
+          "id": "C",
+          "text": "8.0 kW, 0.52"
+        },
+        {
+          "id": "D",
+          "text": "8.0 kW, 0.334"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two wattmeters, which are connected to measure the total power on a\nthree-phase system supplying a balanced load, read 10.5 kW and -2.5 kW,\nrespectively. The total power and the power factor, respectively, are",
+      "topic": "Measurement of Energy and Power",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505179",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.25 kg[latex]m^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "0.25 N[latex]m^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "4 kg[latex]m^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "4 N[latex]m^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An electric motor, developing a starting torque of 15 Nm, starts with a load\ntorque of 7 Nm on its shaft. If the acceleration at start is 2 rad/[latex]sec^{2}[/latex] , the moment of inertia of the system must be (neglecting viscous and coulomb friction)",
+      "topic": "Power Electronics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505182",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.10 sec"
+        },
+        {
+          "id": "B",
+          "text": "0.15 sec"
+        },
+        {
+          "id": "C",
+          "text": "0.50 sec"
+        },
+        {
+          "id": "D",
+          "text": "1.0 sec"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A coil of inductance 10 H and resistance 40 [latex]\\Omega[/latex]  is connected as shown in the figure. After the switch S has been in contact ith point 1 for a very long time, it is moved to point 2 at, t=0. For the value of R=40[latex]\\Omega[/latex], the time taken for 95% of the stored energy to\r\nbe dissipated is close to",
+      "topic": "Transients and Steady State Response",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505183",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} 1 & \\frac{1}{3}\\left ( 1-e^{-3t} \\right )\\\\ 0 & e^{-3t} \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} 1 & \\frac{1}{3}\\left ( e^{-t}-e^{-3t} \\right )\\\\ 0 & e^{-t} \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} 1 & \\frac{1}{3}\\left ( e^{3-t}-e^{-3t} \\right )\\\\ 0 & e^{-3t} \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 1 & \\left ( 1-e^{-t} \\right )\\\\ 0 & e^{-t} \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A state variable system [latex]\\dot{X}\\left ( t \\right )=\\begin{bmatrix} 0 & 1\\\\ 0 & -3 \\end{bmatrix}X\\left ( t \\right )+ \\begin{bmatrix} 1\\\\ 0 \\end{bmatrix}u\\left ( t \\right )[/latex], with the initial condition [latex]X\\left ( 0 \\right )=\\begin{bmatrix} -1, &3 \\end{bmatrix}^{T}[/latex] and the unit step input [latex]u\\left ( t \\right )[/latex] has The state transition matrix",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505184",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]X\\left ( t \\right )=\\begin{bmatrix} t-e^{-t}\\\\ e^{-t} \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]X\\left ( t \\right )=\\begin{bmatrix} 1-e^{-t}\\\\ 3e^{-3t} \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]X\\left ( t \\right )=\\begin{bmatrix} t-e^{3t}\\\\ 3e^{-3t} \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]X\\left ( t \\right )=\\begin{bmatrix} t-e^{-3t}\\\\ e^{-t} \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A state variable system [latex]\\dot{X}\\left ( t \\right )=\\begin{bmatrix} 0 & 1\\\\ 0 & -3 \\end{bmatrix}X\\left ( t \\right )+ \\begin{bmatrix} 1\\\\ 0 \\end{bmatrix}u\\left ( t \\right )[/latex], with the initial condition [latex]X\\left ( 0 \\right )=\\begin{bmatrix} -1, &3 \\end{bmatrix}^{T}[/latex] and the unit step input [latex]u\\left ( t \\right )[/latex] has the state transition equation",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505185",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5.5 kV"
+        },
+        {
+          "id": "B",
+          "text": "7.2 kV"
+        },
+        {
+          "id": "C",
+          "text": "9.6 kV"
+        },
+        {
+          "id": "D",
+          "text": "12.5 kV"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 1000 kVA , 6.6 kV, 3-phase star connected cylindrical pole synchronous generator has a synchronous reactance of 20[latex]\\Omega[/latex]. Neglect the armature resistance and consider operation at full load and unity power factor. The induced emf (line-to-line) is close to",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505186",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]13.9^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]18.3^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]24.6^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]33.0^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 1000 kVA , 6.6 kV, 3-phase star connected cylindrical pole synchronous generator has a synchronous reactance of 20[latex]\\Omega[/latex]. Neglect the armature resistance and consider operation at full load and unity power factor. The power (or torque) angle is close to",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505187",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "4.033 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "5.5 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "12.1 [latex]\\Omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "At a 220 kV substation of a power system, it is given that the three-phase fault level is 4000 MVA and single-line to ground fault level is 5000 MVA Neglecting the resistance and the shunt suspectances of the system. The positive sequence driving point reactance at the bus is",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "1505188",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.2 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "4.84 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "18.18 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "22.72 [latex]\\Omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "At a 220 kV substation of a power system, it is given that the three-phase fault level is 4000 MVA and single-line to ground fault level is 5000 MVA Neglecting the resistance and the shunt suspectances of the system. The zero sequence driving point reactance at the bus is",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "10510915",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Augmented matrix [Pq] must have the same rank as matrix P"
+        },
+        {
+          "id": "B",
+          "text": "Vector q must have only non-zero elements"
+        },
+        {
+          "id": "C",
+          "text": "Matrix P must be singular"
+        },
+        {
+          "id": "D",
+          "text": "Matrix P must be square"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the matrix equation Px=q, which of the following is a necessary condition\r\nfor the existence of at least on solution for the unknown vector x:",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "10511015",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Independence of P and Q implies that probability (P[latex]\\cap[/latex]Q)=0"
+        },
+        {
+          "id": "B",
+          "text": "Probability (P [latex]\\cup[/latex] Q) [latex]\\geq[/latex] Probability (P) + Probability (Q)"
+        },
+        {
+          "id": "C",
+          "text": "If P and Q are mutually exclusive, then they must be independent"
+        },
+        {
+          "id": "D",
+          "text": "Probability (P [latex]\\cap[/latex] Q) [latex]\\leq[/latex] Probability (P)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If P and Q are two random events, then the following is TRUE",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "10511115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-\\frac{1}{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{4}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]S=\\int_{1}^{\\infty }x^{-3}dx[/latex], then S has the value",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "10511215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x(t)=x_{0}e^{-3t}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x(t)=x_{0}e^{-3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x(t)=x_{0}e^{-t/3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x(t)=x_{0}e^{-t}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The solution of the first order differential equation [latex]\\dot{x} (t) =- 3x(t), x(0) = x_0[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "10514115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} 3\\\\ -2\\\\ 1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} -3\\\\ 2\\\\ -1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} 1\\\\ -2\\\\ 3 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 2\\\\ 5\\\\ 0 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the matrix [latex]p=\\begin{bmatrix} 3 & -2&2 \\\\ 0& -2 & 1\\\\ 0 &0 & 1 \\end{bmatrix}[/latex] one of the eigen values is equal to -2. Which of the following is an eigen vector ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "10514215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[5   6   4]"
+        },
+        {
+          "id": "B",
+          "text": "[5   -3    1]"
+        },
+        {
+          "id": "C",
+          "text": "[2   0   -1]"
+        },
+        {
+          "id": "D",
+          "text": "[2   1    1/2]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]R=\\begin{bmatrix} 1 & 0&-1 \\\\ 2& 1 & -1\\\\ 2&3 & 2 \\end{bmatrix}[/latex], then top row of [latex]R^{-1}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "10514315",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{8}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{3}{8}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{3}{4}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A fair coin is tossed three times in succession. If the first toss produces a head,\nthen the probability of getting exactly two heads in three tosses is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "10514415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the function [latex]f (x) = x^{2}e^{x}[/latex], the maximum occurs when [latex]x[/latex] is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "10514515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sqrt{\\frac{13}{9}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{\\frac{9}{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{5}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{9}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the scalar field [latex]u=\\frac{x^{2}}{2}+\\frac{y^{2}}{3}[/latex], magnitude of the gradient at the point (1, 3) is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    },
+    {
+      "branch": "EE",
+      "id": "10514615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{5}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the equation [latex]\\ddot{x}(t) + 3\\dot{x}(t) + 2x(t) = 5[/latex], the solution [latex]x(t)[/latex] approaches which of\r\nthe following values as [latex]t \\rightarrow \\infty[/latex] ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2005
+    }
+  ],
+  "schema_version": 1
+}

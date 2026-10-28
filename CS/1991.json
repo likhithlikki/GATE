@@ -1,0 +1,456 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1100801",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "lower power dissipation"
+        },
+        {
+          "id": "B",
+          "text": "greater speed"
+        },
+        {
+          "id": "C",
+          "text": "smaller chip size"
+        },
+        {
+          "id": "D",
+          "text": "fewer masks for fabrication"
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: The advantages of CMOS technology over a MOS is:",
+      "topic": "Memory Chip Design",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100802",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "faster operation"
+        },
+        {
+          "id": "B",
+          "text": "ease of avoiding problems due to hazards"
+        },
+        {
+          "id": "C",
+          "text": "lower hardware requirement"
+        },
+        {
+          "id": "D",
+          "text": "better noise immunity"
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Advantage of synchronous sequential circuits over asynchronous ones is:",
+      "topic": "Sequential Circuit",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100803",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the length of MAR"
+        },
+        {
+          "id": "B",
+          "text": "the available secondary storage"
+        },
+        {
+          "id": "C",
+          "text": "the available main memory"
+        },
+        {
+          "id": "D",
+          "text": "all of the above"
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: The total size of address space in a virtual memory system is limited by:",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100804",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "executes an RST by hardware"
+        },
+        {
+          "id": "B",
+          "text": "executes an instruction supplied by an external device through the INTA signal"
+        },
+        {
+          "id": "C",
+          "text": "executes an instruction from memory location 20H"
+        },
+        {
+          "id": "D",
+          "text": "executes a NOP"
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: The TRAP interrupts mechanism of the 8085 microprocessor:",
+      "topic": "Interrupt",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100805",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "matches the parameters of the macro-definition with locations of the parameters of the macro call"
+        },
+        {
+          "id": "B",
+          "text": "matches external names of one program with their location in other programs"
+        },
+        {
+          "id": "C",
+          "text": "matches the parameters of subroutine definition with the location of parameters of subroutine call."
+        },
+        {
+          "id": "D",
+          "text": "acts as a link between text editor and the user"
+        },
+        {
+          "id": "E",
+          "text": "acts as a link between compiler and the user program"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct ) and write the corresponding letters only A \"link editor\" is a program that:",
+      "topic": "Runtime Environment",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100807",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]O(n^{2})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "O(mn)"
+        },
+        {
+          "id": "C",
+          "text": "O(m+n)"
+        },
+        {
+          "id": "D",
+          "text": "[latex]O(m \\log n)[/latex]"
+        },
+        {
+          "id": "E",
+          "text": "[latex]O(m^2)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Kruskal's algorithm for finding a minimum spanning tree of a weighted graph G with n vertices and m edges has the time complexity of:",
+      "topic": "Minimum Spanning Tree",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100808",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "20,10,20,10,20"
+        },
+        {
+          "id": "B",
+          "text": "20,20,10,10,20"
+        },
+        {
+          "id": "C",
+          "text": "10,20,20,10,20"
+        },
+        {
+          "id": "D",
+          "text": "20,20,10,20,10"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: The following sequence of operations is performed on a stack: PUSH  (10), PUSH (20), POP, PUSH (10), PUSH (20), POP, POP, POP, PUSH (20), POP The sequence of values popped out is",
+      "topic": "Stack",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100809",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\lfloor\\sqrt N \\rfloor[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\lfloor\\sqrt N \\rfloor[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\lceil \\sqrt N \\rceil[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\lceil \\sqrt N \\rceil +1[/latex]"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Consider the following Pascal function: Function X(M:integer):integer;\nVar i:integer;\nBegin\n    i := 0;\n    while i*i < M\n    do i:= i+1\n    X := i\n end The function call X(N), if N is positive, will return",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100810",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It could be undecidable"
+        },
+        {
+          "id": "B",
+          "text": "It is Turing-machine recognizable"
+        },
+        {
+          "id": "C",
+          "text": "It is a context sensitive language."
+        },
+        {
+          "id": "D",
+          "text": "It is a regular language."
+        },
+        {
+          "id": "E",
+          "text": "None of the above,"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Which of the following is the strongest correct statement about a finite language over some finite alphabet [latex]\\Sigma[/latex]?",
+      "topic": "Regular Language",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100811",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Recursive descent parsing cannot be used for grammar with left recursion."
+        },
+        {
+          "id": "B",
+          "text": "The intermediate form for representing expressions which is best suited for code optimization is the postfix form."
+        },
+        {
+          "id": "C",
+          "text": "A programming language not supporting either recursion or pointer type does not need the support of dynamic memory allocation."
+        },
+        {
+          "id": "D",
+          "text": "Although C does not support call-by-name parameter passing, the effect can be correctly simulated in C"
+        },
+        {
+          "id": "E",
+          "text": "No feature of Pascal typing violates strong typing in Pascal."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: Indicate all the true statements from the following:",
+      "topic": "Intermediate Code Generation",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100812",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The amount of virtual memory available is limited by the availability of the secondary memory"
+        },
+        {
+          "id": "B",
+          "text": "Any implementation of a critical section requires the use of an indivisible machine- instruction ,such as test-and-set."
+        },
+        {
+          "id": "C",
+          "text": "The use of monitors ensure that no dead-locks will be caused ."
+        },
+        {
+          "id": "D",
+          "text": "The LRU page-replacement policy may cause thrashing for some type of programs."
+        },
+        {
+          "id": "E",
+          "text": "The best fit techniques for memory allocation ensures that memory will never be fragmented."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one can be correct) and write the corresponding letters only: Indicate all the false statements from the statements given below:",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100813",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both[latex]F_1[/latex] and [latex]F_2[/latex] are tautologies"
+        },
+        {
+          "id": "B",
+          "text": "The conjunction [latex]F_1 \\land F_2[/latex] is not satisfiable"
+        },
+        {
+          "id": "C",
+          "text": "Neither is tautologous"
+        },
+        {
+          "id": "D",
+          "text": "Neither is satisfiable"
+        },
+        {
+          "id": "E",
+          "text": "None of the above."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only: If [latex]F_1[/latex], [latex]F_2[/latex] and [latex]F_3[/latex] are propositional formulae such that [latex]F_1 \\land F_2 \\rightarrow F_3[/latex] and [latex]F_1 \\land F_2 \\rightarrow \\sim F_3[/latex] are both tautologies, then which of the following is true:",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 1991
+    },
+    {
+      "branch": "CS",
+      "id": "1100814",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]L(s) \\subseteq L(r) \\text{ and } L(s) \\subseteq L(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]L(r) \\subseteq L(s) \\text{ and }  L(s) \\subseteq L(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]L(s) \\subseteq L(t) \\text{ and }  L(s) \\subseteq L(r)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]L(t) \\subseteq L(s)\\text{ and }  L(s) \\subseteq L(r)[/latex]"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (more than one may be correct) and write the corresponding letters only. Let [latex]r=1(1+0)^*, s=11^*0 \\text{ and } t=1^*0[/latex] be three regular expressions. Which one of the following is true?",
+      "topic": "Regular Expression",
+      "type": "MCQ",
+      "year": 1991
+    }
+  ],
+  "schema_version": 1
+}

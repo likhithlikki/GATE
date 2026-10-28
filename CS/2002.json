@@ -1,0 +1,1462 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1102101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The rank of the matrix [latex]\\begin{bmatrix} 1 & 1\\\\ 0& 0 \\end{bmatrix}[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0 but not 1"
+        },
+        {
+          "id": "B",
+          "text": "1 but not 0"
+        },
+        {
+          "id": "C",
+          "text": "0 or 1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The trapezoidal rule for integration gives exact result when the integrand is a polynomial of degree",
+      "topic": "Numerical Method",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2^{k}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{3^{k+1}-1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]3^{log_{2}^{k}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2^{log_{3}^{k}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The solution to the recurrence equation [latex]T(2^{k})=3T(2^{k-1})+1,T(1)=1[/latex] is",
+      "topic": "Recurrence Relation",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "[latex]n-2[\\frac{n}{2}]+2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The minimum number of colours required to colour the vertices of a cycle with n\nnodes in such a way that no two adjacent nodes have same colour is.",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "log n"
+        },
+        {
+          "id": "B",
+          "text": "n/2"
+        },
+        {
+          "id": "C",
+          "text": "[latex]log_{2}^{n}-1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "n"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In the worst case, the number of comparisons needed to search a single linked list\nof length n for a given element is",
+      "topic": "Link List",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The set of all rational negative numbers forms a group under multiplication."
+        },
+        {
+          "id": "B",
+          "text": "The set of all non-singular matrices forms a group under multiplication."
+        },
+        {
+          "id": "C",
+          "text": "The set of all matrices forms a group under multiplication."
+        },
+        {
+          "id": "D",
+          "text": "Both B and C are true."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is true?",
+      "topic": "Group Theory",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Context free"
+        },
+        {
+          "id": "B",
+          "text": "Regular"
+        },
+        {
+          "id": "C",
+          "text": "Deterministic context"
+        },
+        {
+          "id": "D",
+          "text": "Recursive"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The language accepted by a Pushdown Automaton in which the stack is limited\nto 10 items is best described as",
+      "topic": "Push-down Automata",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](X\\wedge \\neg Z)\\rightarrow Y[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](X\\wedge Y)\\rightarrow \\neg Z[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]X\\rightarrow (Y \\wedge \\neg Z)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](X\\rightarrow Y )\\wedge \\neg Z[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "\"If X then Y unless Z\" is represented by which of the following formulas in prepositional logic? ([latex]\"\\neg\"[/latex], is negation, [latex]\"\\wedge \"[/latex]\n is conjunction, and [latex]\"\\rightarrow \"[/latex]  is implication)",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\overline{INTA}[/latex] is active"
+        },
+        {
+          "id": "B",
+          "text": "HOLD is active"
+        },
+        {
+          "id": "C",
+          "text": "READY is active"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A device employing INTR line for device interrupt puts the CALL instruction on\nthe data bus while",
+      "topic": "Interrupt",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only PCHL instruction"
+        },
+        {
+          "id": "B",
+          "text": "Only ADD instructions"
+        },
+        {
+          "id": "C",
+          "text": "Only JMP and CALL instructions"
+        },
+        {
+          "id": "D",
+          "text": "All instructions"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In 8085 which of the following modifies the program counter ?",
+      "topic": "Machine Instruction",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Receiver is to be synchronized for byte reception"
+        },
+        {
+          "id": "B",
+          "text": "Receiver recovers lost '0's and '1' from these padded bits"
+        },
+        {
+          "id": "C",
+          "text": "Padded bits are useful in parity computation."
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In serial data transmission, every byte of data is padded with a '0' in the beginning\nand one or two '1's at the end of byte because",
+      "topic": "Physical Layer",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Instruction cache"
+        },
+        {
+          "id": "B",
+          "text": "Instruction register"
+        },
+        {
+          "id": "C",
+          "text": "Instruction opcode"
+        },
+        {
+          "id": "D",
+          "text": "Translation-a-side buffer"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is not a form of memory ?",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is equivalent to the binary value 0.1"
+        },
+        {
+          "id": "B",
+          "text": "is equivalent to the binary value 0.01"
+        },
+        {
+          "id": "C",
+          "text": "is equivalent to the binary value 0.00111....."
+        },
+        {
+          "id": "D",
+          "text": "cannot be represented precisely in binary."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The decimal value of 0.25",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1111"
+        },
+        {
+          "id": "B",
+          "text": "11111"
+        },
+        {
+          "id": "C",
+          "text": "111111"
+        },
+        {
+          "id": "D",
+          "text": "10001"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The 2's complement represent representation of the decimal value -15 is",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "floating point multiplication"
+        },
+        {
+          "id": "B",
+          "text": "signed 16 bit integer addition"
+        },
+        {
+          "id": "C",
+          "text": "arithmetic left shift"
+        },
+        {
+          "id": "D",
+          "text": "converting a signed integer from one size to another."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Sign extension is a step in",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "At most one activation record exists between the current activation record\nand the activation record for the main."
+        },
+        {
+          "id": "B",
+          "text": "The number of activation records between the current activation record and\nthe activation record for the main depends on the actual function calling\nsequence."
+        },
+        {
+          "id": "C",
+          "text": "The visibility of global variables depends on the actual function calling\nsequence."
+        },
+        {
+          "id": "D",
+          "text": "Recursion requires the activation record for the recursive function to be\nsaved on a different stack before the recursive fraction can be called."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In the C language",
+      "topic": "Runtime Environment",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Do not differ"
+        },
+        {
+          "id": "B",
+          "text": "Differ in the presence of loops"
+        },
+        {
+          "id": "C",
+          "text": "Differ in all cases"
+        },
+        {
+          "id": "D",
+          "text": "May differ in the presence of exception"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The results returned by function under value-result and reference parameter\npassing conventions",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Zero"
+        },
+        {
+          "id": "B",
+          "text": "More than zero but less than that of an equivalent 3NF decomposition"
+        },
+        {
+          "id": "C",
+          "text": "Proportional to the size of F+"
+        },
+        {
+          "id": "D",
+          "text": "Indetermine."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Relation R with an associated set of functional dependencies, F , is decomposed\ninto BCNF. The redundancy (arising out of functional dependencies) in the\nresulting set of relations is.",
+      "topic": "Normal Form",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Relational algebra is more powerful than relational calculus."
+        },
+        {
+          "id": "B",
+          "text": "Relational algebra has the same power as relational calculus."
+        },
+        {
+          "id": "C",
+          "text": "Relational algebra has the same power as safe relational calculus."
+        },
+        {
+          "id": "D",
+          "text": "None of the above."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "With regard to the expressive power of the formal relational query languages,\nwhich of the following statements is true ?",
+      "topic": "Relational Algebra",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is flagged whenever there is carry from sign bit addition"
+        },
+        {
+          "id": "B",
+          "text": "cannot occur when a positive value is added to a negative value"
+        },
+        {
+          "id": "C",
+          "text": "is flagged when the carries from sign bit and previous bit match"
+        },
+        {
+          "id": "D",
+          "text": "None of the above."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In 2's complement addition, overflow",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Round Robin"
+        },
+        {
+          "id": "B",
+          "text": "First-In First-Out"
+        },
+        {
+          "id": "C",
+          "text": "Multilevel Queue Scheduling"
+        },
+        {
+          "id": "D",
+          "text": "Multilevel Queue Scheduling with Feedback"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following scheduling algorithms is non-preemptive ?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Has not been used for the longest time in the past."
+        },
+        {
+          "id": "B",
+          "text": "Will not be used for the longest time in the future."
+        },
+        {
+          "id": "C",
+          "text": "Has been used least number of times."
+        },
+        {
+          "id": "D",
+          "text": "Has been used most number of times"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The optimal page replacement algorithm will select the page that",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The operand is inside the instruction"
+        },
+        {
+          "id": "B",
+          "text": "The address of the operand is inside the instruction"
+        },
+        {
+          "id": "C",
+          "text": "The register containing the address of the operand is specified inside the\ninstruction"
+        },
+        {
+          "id": "D",
+          "text": "The location of the operand is implicit"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In the absolute the Addressing Modes :",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]{n}^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{n(n-1)}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "(n-1)"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{(n+1)(n)}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Maximum number of edges in a n-node undirected graph without self loops is",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x' + z"
+        },
+        {
+          "id": "B",
+          "text": "xyz"
+        },
+        {
+          "id": "C",
+          "text": "xy' + z"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let f(A,B) = A' + B. Simplified expression for function f(f(x+y,y),z) is",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "AC = 0 and CY = 0"
+        },
+        {
+          "id": "B",
+          "text": "AC = 1 and CY = 1"
+        },
+        {
+          "id": "C",
+          "text": "AC = 1 and CY = 0"
+        },
+        {
+          "id": "D",
+          "text": "AC = 0 and CY = 1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What are the states of the Auxiliary Carry (AC) and Carry Flag (CY) after\nexecuting the following 8085 program ? MIV H, 5DH MIV L, 6BH MOV A, H ADD L",
+      "topic": "Machine Instruction",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The pipelined stages have different delays"
+        },
+        {
+          "id": "B",
+          "text": "Consecutive instructions are dependent on each other"
+        },
+        {
+          "id": "C",
+          "text": "The pipeline stages share hardware resources"
+        },
+        {
+          "id": "D",
+          "text": "All the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The performance of a pipelined processor suffers if",
+      "topic": "Pipeline Processor",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Does not require use of signal decoders"
+        },
+        {
+          "id": "B",
+          "text": "Results in larger sized microinstructions than vertical microprogramming"
+        },
+        {
+          "id": "C",
+          "text": "Uses one bit for each control signal"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Horizontal microprogramming",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4040"
+        },
+        {
+          "id": "B",
+          "text": "4050"
+        },
+        {
+          "id": "C",
+          "text": "5040"
+        },
+        {
+          "id": "D",
+          "text": "5040"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following declaration of a two-dimensional array in C : Char a[100][100] Assuming that the main memory is byte-addressable and that array is stored\nstarting form memory address 0, the address of a [40] [50] is",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "n/2"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{(n-1)}{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{(n-1)}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{(2n+1)}{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The number of leaf nodes in a rooted tree of n nodes, with each node having 0\nor 3 children is",
+      "topic": "n-ary Tree",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "n"
+        },
+        {
+          "id": "B",
+          "text": "n-1"
+        },
+        {
+          "id": "C",
+          "text": "2n"
+        },
+        {
+          "id": "D",
+          "text": "n/2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following algorithm for searching for a given number x in an unsorted\r\narray A[1.....n] having n distinct values : (1) Choose an i uniformly at random from [1....n] (2) If A[i] = x then stop else Goto 1; Assuming that x is present A, What is the expected number of comparisons made\r\nby the algorithm before it terminates?",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "O(n)"
+        },
+        {
+          "id": "B",
+          "text": "O(log n)"
+        },
+        {
+          "id": "C",
+          "text": "O(loglogn)"
+        },
+        {
+          "id": "D",
+          "text": "O(1)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The running time of the following algorithm Procedure A(n) If n [latex]\\leq[/latex] 2 return (1) else return (A([latex]\\sqrt{n}[/latex])); is best discribed by",
+      "topic": "Recurrence Relation",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]log_{2}n[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]log_{4/3}n[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]log_{3}n[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]log_{3/2}n[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A weight-balanced tree is a binary tree in which for each node, the number of\nnodes in the let sub tree is at least half and at most twice the number of nodes in\nthe right sub tree. The maximum possible height (number of nodes on the path\nfrom the root to the furthest leaf) of such a tree on n nodes is best described by\nwhich of the following ?",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2 states"
+        },
+        {
+          "id": "B",
+          "text": "3 states"
+        },
+        {
+          "id": "C",
+          "text": "4 states"
+        },
+        {
+          "id": "D",
+          "text": "5 states"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The smallest finite automaton which accepts the language {x length of x is\ndivisible by 3} has",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The complement of a recursive language is recursive."
+        },
+        {
+          "id": "B",
+          "text": "The complement of a recursively enumerable language is recursively\nenumerable."
+        },
+        {
+          "id": "C",
+          "text": "The complement of a recursive language is either recursive or recursively\nenumerable."
+        },
+        {
+          "id": "D",
+          "text": "The complement of a context-free language is context-free."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is true ?",
+      "topic": "Recursive Language",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]X^{2}=3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]X^{3}=3[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]X^{2}=2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]X^{3}=2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The Newton-Raphson iteration [latex]X_{n+1}=(X_{n}/2)+(3/(2X_{n}))[/latex]\n can be used to solve the equation",
+      "topic": "Numerical Method",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/16[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/8[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]7/8[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]15/16[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Four fair coins are tossed simultaneously. The probability that at least one head and one tail turn up is",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A context free language"
+        },
+        {
+          "id": "B",
+          "text": "A context sensitive language"
+        },
+        {
+          "id": "C",
+          "text": "A regular language"
+        },
+        {
+          "id": "D",
+          "text": "Parsable fully only by a Turing machine"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The C language is :",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "One stack is enough"
+        },
+        {
+          "id": "B",
+          "text": "Two stack are needed"
+        },
+        {
+          "id": "C",
+          "text": "As many stacks as the height of the expression tree are needed"
+        },
+        {
+          "id": "D",
+          "text": "A Turning machine is needed in the general case"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "To evaluate an expression without any embedded function calls",
+      "topic": "Stack",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Security is dynamic"
+        },
+        {
+          "id": "B",
+          "text": "The path for searching dynamic libraries is not known till run time."
+        },
+        {
+          "id": "C",
+          "text": "Linking is insecure"
+        },
+        {
+          "id": "D",
+          "text": "Cryptographic procedures are not available for dynamic linking"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Dynamic linking can cause security concerns because",
+      "topic": "Runtime Environment",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A"
+        },
+        {
+          "id": "B",
+          "text": "A and B"
+        },
+        {
+          "id": "C",
+          "text": "A and C"
+        },
+        {
+          "id": "D",
+          "text": "A,B and C"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which combination of the following features will suffice to characterize an OS\nas a multi-programmed OS ? (A)More than one program may be loaded into main\nmemory at the same time for execution. (B) If a program waits for certain events\nsuch as I/O, another program is immediately scheduled for execution. (C) If the\nexecution of a program terminates, another program is immediately scheduled for\nexecution.",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The size of the blocks, and the size of the address of the blocks"
+        },
+        {
+          "id": "B",
+          "text": "The number of blocks used for the index, and the size of the blocks."
+        },
+        {
+          "id": "C",
+          "text": "The size of the blocks, the number of blocks used for the index, and the size\nof the address of the blocks."
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In the index allocation scheme of blocks to a file, the maximum possible size of\nthe file depends on",
+      "topic": "File System",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "42"
+        },
+        {
+          "id": "C",
+          "text": "43"
+        },
+        {
+          "id": "D",
+          "text": "44"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A B+-tree index is to be built on the Name attribute of the relation STUDENT. Assume that all student names are of length 8 bytes, disk blocks are of size 512\nbytes, and index pointers are of size 4 bytes. Given this scenario, what would be\nthe best choice of the degree (i.e. the number of pointers per node) of the B+-tree",
+      "topic": "File System",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "1102149",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Dependency-preservation"
+        },
+        {
+          "id": "B",
+          "text": "Lossless-join"
+        },
+        {
+          "id": "C",
+          "text": "BCNF definition"
+        },
+        {
+          "id": "D",
+          "text": "3NF definition"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Relation R is decomposed using a set of functional dependencies, F ,and relation S\nis decomposed using another set of functional dependencies, G. One decomposition\nis definitely BCNF , the other is definitely. 3NF , but it is not known which is\nwhich. To make a guaranteed identification, which one of the following tests\nshould be used on the decompositions ? (Assume that the closures of F and G\nare available).",
+      "topic": "Normal Form",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "10210111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The rank of the matrix [latex]\\begin{bmatrix} 1 & 1\\\\ 0& 0 \\end{bmatrix}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "10210211",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0 but not 1"
+        },
+        {
+          "id": "B",
+          "text": "1 but not 0"
+        },
+        {
+          "id": "C",
+          "text": "0 or 1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The trapezoidal rule for integration gives exact result when the integrand is a polynomial of degree",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "CS",
+      "id": "10214011",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]X^{2}=3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]X^{3}=3[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]X^{2}=2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]X^{3}=2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The Newton-Raphson iteration [latex]X_{n+1}=(X_{n}/2)+(3/(2X_{n}))[/latex]\n can be used to solve the equation",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2002
+    }
+  ],
+  "schema_version": 1
+}

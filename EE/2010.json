@@ -1,0 +1,749 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1510101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "e"
+        },
+        {
+          "id": "D",
+          "text": "1/e"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of the quantity P, where [latex]P=\\int_{0}^{1}xe^{x}dx[/latex], is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "1/r"
+        },
+        {
+          "id": "C",
+          "text": "[latex](\\hat{i}+\\hat{j}+\\hat{k})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3(\\hat{i}+\\hat{j}+\\hat{k})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Divergence of the three-dimensional radial vector field [latex]\\vec{r}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.4 [latex]\\pi[/latex] s"
+        },
+        {
+          "id": "B",
+          "text": "0.8 [latex]\\pi[/latex] s"
+        },
+        {
+          "id": "C",
+          "text": "1.25 s"
+        },
+        {
+          "id": "D",
+          "text": "2.5 s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The period of the signal [latex]x(t)=8 sin(0.8 \\pi t+ \\pi/4)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Linear and causal"
+        },
+        {
+          "id": "B",
+          "text": "Linear but not causal"
+        },
+        {
+          "id": "C",
+          "text": "Causal but not linear"
+        },
+        {
+          "id": "D",
+          "text": "Neither liner nor causal"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The system represented by the input-output relationship [latex]y(t)=\\int_{-\\infty }^{5t}x(\\tau )d\\tau , \\; t\\gt0[/latex]",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.8 [latex]\\Omega[/latex] in series with the meter"
+        },
+        {
+          "id": "B",
+          "text": "1.0 [latex]\\Omega[/latex] in series with the meter"
+        },
+        {
+          "id": "C",
+          "text": "0.04 [latex]\\Omega[/latex] in parallel with the meter"
+        },
+        {
+          "id": "D",
+          "text": "0.05 [latex]\\Omega[/latex] in parallel with the meter"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An ammeter has a current range of 0-5 A, and its internal resistance is 0.2 [latex]\\Omega[/latex]. In\norder to change the range to 0-25 A, we need to add a resistance of",
+      "topic": "Galvanometers, Voltmeters and Ammeters",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1s"
+        },
+        {
+          "id": "B",
+          "text": "2s"
+        },
+        {
+          "id": "C",
+          "text": "4s"
+        },
+        {
+          "id": "D",
+          "text": "8s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the system 2/(s+1), the approximate time taken for a step response to reach\r\n98% of the final value is",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{V}{\\sqrt{(r_{s}+r_{r})^{2}+(X_{s}+X_{r})^{2}}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{V}{\\sqrt{r_{s}^{2}+(X_{s}+X_{m})^{2}}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{V}{\\sqrt{(r_{s}+r_{r})^{2}+(X_{m}+X_{r})^{2}}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{V}{\\sqrt{r_{s}^{2}+(X_{m}+X_{r})^{2}}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A balanced three-phase voltage is applied to a star-connected induction motor,\nthe phase to neutral voltage being V. The stator resistance, rotor resistance\nreferred to the stator, stator leakage reactance, rotor leakage reactance referred\nto the stator, and the magnetizing reactance are denoted by [latex]r_s,r_r,X_s,X_r \\; and \\; X_m[/latex], respectively. The magnitude of the starting current of the motor",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1000 W, 268 VAr"
+        },
+        {
+          "id": "B",
+          "text": "-1000 W, -134 VAr"
+        },
+        {
+          "id": "C",
+          "text": "276.9 W, -56.7 VAr"
+        },
+        {
+          "id": "D",
+          "text": "-276.9 W, 56.7 VAr"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider two buses connected by an impedence of [latex](0+j5)\\Omega[/latex]. The bus 1 voltage\nis 100[latex]\\angle 30^{\\circ}[/latex] V, and bus 2 voltage is 100[latex]\\angle 0^{\\circ}[/latex] V. The real and reactive power supplied by bus 1 respectively are",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1200A"
+        },
+        {
+          "id": "B",
+          "text": "3600A"
+        },
+        {
+          "id": "C",
+          "text": "35 ka"
+        },
+        {
+          "id": "D",
+          "text": "104.8 kA"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase, 33 kV oil circuit breaker is rated 1200 A, 2000 MVA, 3s. The\nsymmetrical breaking current is",
+      "topic": "Switch Gear and Protection",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a minimum"
+        },
+        {
+          "id": "B",
+          "text": "a discontinuity"
+        },
+        {
+          "id": "C",
+          "text": "a point of inflection"
+        },
+        {
+          "id": "D",
+          "text": "a maximum"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "At t = 0, the function [latex]f(t)=\\frac{\\sin t}{t}[/latex] has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3"
+        },
+        {
+          "id": "B",
+          "text": "3/7"
+        },
+        {
+          "id": "C",
+          "text": "1/2"
+        },
+        {
+          "id": "D",
+          "text": "4/7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A box contains 4 white balls and 3 red balls. In succession, two balls are randomly\nand removed form the box. Given that the first removed ball is white, the\nprobability that the second removed ball is red is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} -1 &1 &1 \\end{bmatrix}^{T}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} 1 &2 &1 \\end{bmatrix}^{T}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} 1 &-1 &2 \\end{bmatrix}^{T}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 2 &1 &-1 \\end{bmatrix}^{T}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An eigenvector of [latex]P=\\begin{pmatrix} 1 & 1&0 \\\\ 0& 2 & 2\\\\ 0&0 & 3 \\end{pmatrix}[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x(t)=2e^{-6t}-e^{-2t}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x(t)=2e^{-2t}-e^{-4t}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x(t)=-e^{-6t}+2e^{-4t}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x(t)=e^{-2t}-e^{-4t}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the differential equation [latex]\\frac{d^{2}x}{dt^{2}}+6\\frac{dx}{dt}+8x=0[/latex] with initial conditions x(0) = 1 and [latex]\\frac{dx}{dt}|_{t=0}=0[/latex], the solution is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the trivial solution [latex]x_{1}=x_{2}=x_{3}=x_{4}=0[/latex] exists"
+        },
+        {
+          "id": "B",
+          "text": "There are no solutions"
+        },
+        {
+          "id": "C",
+          "text": "A unique non-trivial solution exists"
+        },
+        {
+          "id": "D",
+          "text": "Multiple non-trivial solutions exist"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the set of equations, [latex]x_{1}+2x_{2}+x_{3}+4x_{4}=2[/latex] and [latex]3x_{1}+6x_{2}+3x_{3}+12x_{4}=6[/latex]. The following statement is true.",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Stable and controllable"
+        },
+        {
+          "id": "B",
+          "text": "Stable but uncontrollable"
+        },
+        {
+          "id": "C",
+          "text": "Unstable but controllable"
+        },
+        {
+          "id": "D",
+          "text": "Unstable and uncontrollable"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The system [latex]\\dot{x}=Ax+Bu[/latex] with [latex]A=\\begin{bmatrix} -1 &2 \\\\ 0&2 \\end{bmatrix},B=\\begin{bmatrix} 0\\\\ 1 \\end{bmatrix}[/latex] is",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "1510138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Its root are always real"
+        },
+        {
+          "id": "B",
+          "text": "It cannot have a breakaway point in the range[latex]-1 \\lt Re[s] \\lt 0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "Two of its roots tend to infinity along the asymptotes Re[s] =-1"
+        },
+        {
+          "id": "D",
+          "text": "It may have complex roots in the right half plane."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The characteristic equation of a closed-loop system is s(s+1)(s+3)k(s+2)=0, [latex]k \\gt 0[/latex]. Which of the following statements is true ?",
+      "topic": "Root Locus Techniques",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "11010115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "e"
+        },
+        {
+          "id": "D",
+          "text": "1/e"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of the quantity P, where [latex]P=\\int_{0}^{1}xe^{x}dx[/latex], is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "11010215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "1/r"
+        },
+        {
+          "id": "C",
+          "text": "[latex](\\hat{i}+\\hat{j}+\\hat{k})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3(\\hat{i}+\\hat{j}+\\hat{k})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Divergence of the three-dimensional radial vector field [latex]\\vec{r}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "11010315",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.4 [latex]\\pi[/latex] s"
+        },
+        {
+          "id": "B",
+          "text": "0.8 [latex]\\pi[/latex] s"
+        },
+        {
+          "id": "C",
+          "text": "1.25 s"
+        },
+        {
+          "id": "D",
+          "text": "2.5 s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The period of the signal [latex]x(t)=8 sin(0.8 \\pi t+ \\pi/4)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "11012615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a minimum"
+        },
+        {
+          "id": "B",
+          "text": "a discontinuity"
+        },
+        {
+          "id": "C",
+          "text": "a point of inflection"
+        },
+        {
+          "id": "D",
+          "text": "a maximum"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "At t = 0, the function [latex]f(t)=\\frac{\\sin t}{t}[/latex] has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "11012715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3"
+        },
+        {
+          "id": "B",
+          "text": "3/7"
+        },
+        {
+          "id": "C",
+          "text": "1/2"
+        },
+        {
+          "id": "D",
+          "text": "4/7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A box contains 4 white balls and 3 red balls. In succession, two balls are randomly\nand removed form the box. Given that the first removed ball is white, the\nprobability that the second removed ball is red is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "11012815",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} -1 &1 &1 \\end{bmatrix}^{T}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} 1 &2 &1 \\end{bmatrix}^{T}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} 1 &-1 &2 \\end{bmatrix}^{T}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 2 &1 &-1 \\end{bmatrix}^{T}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An eigenvector of [latex]P=\\begin{pmatrix} 1 & 1&0 \\\\ 0& 2 & 2\\\\ 0&0 & 3 \\end{pmatrix}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "11012915",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x(t)=2e^{-6t}-e^{-2t}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x(t)=2e^{-2t}-e^{-4t}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x(t)=-e^{-6t}+2e^{-4t}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x(t)=e^{-2t}-e^{-4t}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the differential equation [latex]\\frac{d^{2}x}{dt^{2}}+6\\frac{dx}{dt}+8x=0[/latex] with initial conditions x(0) = 1 and [latex]\\frac{dx}{dt}|_{t=0}=0[/latex], the solution is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    },
+    {
+      "branch": "EE",
+      "id": "11013015",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the trivial solution [latex]x_{1}=x_{2}=x_{3}=x_{4}=0[/latex] exists"
+        },
+        {
+          "id": "B",
+          "text": "There are no solutions"
+        },
+        {
+          "id": "C",
+          "text": "A unique non-trivial solution exists"
+        },
+        {
+          "id": "D",
+          "text": "Multiple non-trivial solutions exist"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the set of equations, [latex]x_{1}+2x_{2}+x_{3}+4x_{4}=2[/latex] and [latex]3x_{1}+6x_{2}+3x_{3}+12x_{4}=6[/latex]. The following statement is true.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2010
+    }
+  ],
+  "schema_version": 1
+}

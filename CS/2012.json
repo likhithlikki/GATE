@@ -1,0 +1,1741 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1112101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both I1 and I2 are correct inferences"
+        },
+        {
+          "id": "B",
+          "text": "I1 is correct but I2 is not a correct inference"
+        },
+        {
+          "id": "C",
+          "text": "I1 is not correct but I2 is a correct inference"
+        },
+        {
+          "id": "D",
+          "text": "Both I1 and I2 are not correct inferences"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following logical inferences. I1: If it rains then the cricket match will not be played. The cricket match was played. Inference: There was no rain. I2: If it rains then the cricket match will not be played. It did not rain. Inference: The cricket match was played. Which of the following is TRUE?",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Every relation in 3NF is also in BCNF"
+        },
+        {
+          "id": "B",
+          "text": "A relation R is in 3NF if every non-prime attribute of R is fully functionally dependent on every key of R"
+        },
+        {
+          "id": "C",
+          "text": "Every relation in BCNF is also in 3NF"
+        },
+        {
+          "id": "D",
+          "text": "No relation can be in both BCNF and 3NF"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following is TRUE?",
+      "topic": "Normal Form",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "No Choice"
+        },
+        {
+          "id": "B",
+          "text": "Choice A"
+        },
+        {
+          "id": "C",
+          "text": "Choice A Choice B  No Choice"
+        },
+        {
+          "id": "D",
+          "text": "Program gives no output as it is erroneous"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What will be the output of the following C program segment? char inChar = 'A' ;\nswitch ( inChar ) {\ncase 'A' : printf (\"Choice A\\n\") ;\ncase 'B' :\ncase 'C' : printf (\"Choice B\") ;\ncase 'D' :\ncase 'E' :\ndefault : printf ( \" No Choice\" ) ; }",
+      "topic": "Conditional Statement",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "NP-complete = NP"
+        },
+        {
+          "id": "B",
+          "text": "NP-complete [latex]\\cap[/latex] P = [latex]\\phi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "NP-hard = NP"
+        },
+        {
+          "id": "D",
+          "text": "P = NP-complete"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Assuming P [latex]\\neq[/latex] NP, which of the following is TRUE?",
+      "topic": "P-NP Theory",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Theta (n log n)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Theta n2^{n}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Theta (n)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Theta (log n)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The worst case running time to search for an element in a balanced binary search tree with [latex]n2^{n}[/latex] elements is",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "fraction bits of 000...000 and exponent value of 0"
+        },
+        {
+          "id": "B",
+          "text": "fraction bits of 000...000 and exponent value of -1"
+        },
+        {
+          "id": "C",
+          "text": "fraction bits of 100...000 and exponent value of 0"
+        },
+        {
+          "id": "D",
+          "text": "no exact representation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The decimal value 0.5 in IEEE single precision floating point representation has",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A process executes the code fork(); fork(); fork(); The total number of child processes created is",
+      "topic": "System Call",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "One, at [latex]\\pi[/latex]/2"
+        },
+        {
+          "id": "B",
+          "text": "One, at 3[latex]\\pi[/latex]/2"
+        },
+        {
+          "id": "C",
+          "text": "Two, at [latex]\\pi[/latex]/2 and 3[latex]\\pi[/latex]/2"
+        },
+        {
+          "id": "D",
+          "text": "Two, at [latex]\\pi[/latex]/4 and 3[latex]\\pi[/latex]/2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the function f(x)=sin(x) in the interval x [latex]\\in [\\pi/4, 7\\pi/4][/latex]. The number and location(s) of the local minima of this function are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Segment"
+        },
+        {
+          "id": "B",
+          "text": "Datagram"
+        },
+        {
+          "id": "C",
+          "text": "Message"
+        },
+        {
+          "id": "D",
+          "text": "Frame"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The protocol data unit (PDU) for the application layer in the Internet stack is",
+      "topic": "Computer Network",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1024 and -1024"
+        },
+        {
+          "id": "B",
+          "text": "1024[latex]\\sqrt{2}[/latex] and -1024[latex]\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "4[latex]\\sqrt{2}[/latex] and -4[latex]\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "512[latex]\\sqrt{2}[/latex] and -512[latex]\\sqrt{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A be the 2x2 matrix with elements [latex]a_{11}=a_{12}=a_{21}=+1[/latex] and [latex]a_{22}=-1[/latex]. Then the eigenvalues of\nthe matrix [latex]A^{19}[/latex] are",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\exists x (real(x) \\vee rational(x))[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\forall x (real(x) \\rightarrow  rational(x)) [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\exists x (real(x) \\wedge rational(x))[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\exists x (rational(x) \\rightarrow real(x))[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What is the correct translation of the following statement into mathematical logic? \"Some real numbers are rational\"",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "An attribute of an entity can have more than one value"
+        },
+        {
+          "id": "B",
+          "text": "An attribute of an entity can be composite"
+        },
+        {
+          "id": "C",
+          "text": "In a row of a relational table, an attribute can have more than one value"
+        },
+        {
+          "id": "D",
+          "text": "In a row of a relational table, an attribute can have exactly one value or a NULL value"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Given the basic ER and relational models, which of the following is INCORRECT?",
+      "topic": "ER Model",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P and R"
+        },
+        {
+          "id": "B",
+          "text": "P and S"
+        },
+        {
+          "id": "C",
+          "text": "Q and R"
+        },
+        {
+          "id": "D",
+          "text": "Q and S"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements are TRUE about an SQL query? P : An SQL query can contain a HAVING clause even if it does not have a GROUP BY clause Q : An SQL query can contain a HAVING clause only if it has a GROUP BY clause R : All attributes used in the GROUP BY clause must appear in the SELECT clause S : Not all attributes used in the GROUP BY clause need to appear in the SELECT clause",
+      "topic": "SQL",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "T(n) = 2T(n - 2) + 2"
+        },
+        {
+          "id": "B",
+          "text": "T(n) = 2T(n - 1) + n"
+        },
+        {
+          "id": "C",
+          "text": "T(n) = 2T(n/2) + 1"
+        },
+        {
+          "id": "D",
+          "text": "T(n) = 2T(n - 1) + 1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The recurrence relation capturing the optimal execution time of the Towers of Hanoi problem with n discs is",
+      "topic": "Recurrence Relation",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let G be a simple undirected planar graph on 10 vertices with 15 edges. If G is a connected graph,\nthen the number of bounded faces in any embedding of G on the plane is equal to",
+      "topic": "Planar Graph",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A(n)=[latex]\\Omega[/latex](W(n))"
+        },
+        {
+          "id": "B",
+          "text": "A(n) =[latex]\\Theta[/latex](W(n))"
+        },
+        {
+          "id": "C",
+          "text": "A(n) =O(W(n))"
+        },
+        {
+          "id": "D",
+          "text": "A(n) = o(W(n))"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let W(n) and A(n) denote respectively, the worst case and average case running time of an\nalgorithm executed on an input of size n. Which of the following is ALWAYS TRUE?",
+      "topic": "Asymptotic Notation",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "64 bits"
+        },
+        {
+          "id": "B",
+          "text": "128 bits"
+        },
+        {
+          "id": "C",
+          "text": "1 Kbits"
+        },
+        {
+          "id": "D",
+          "text": "2 Kbits"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The amount of ROM needed to implement a 4 bit multiplier is",
+      "topic": "Memory Chip Design",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "as an alternative to register allocation at compile time"
+        },
+        {
+          "id": "B",
+          "text": "for efficient access to function parameters and local variables"
+        },
+        {
+          "id": "C",
+          "text": "to handle certain kinds of hazards"
+        },
+        {
+          "id": "D",
+          "text": "as part of address translation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Register renaming is done in pipelined processors",
+      "topic": "Pipeline Processor",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0 and 0.5"
+        },
+        {
+          "id": "B",
+          "text": "0 and 1"
+        },
+        {
+          "id": "C",
+          "text": "0.5 and 1"
+        },
+        {
+          "id": "D",
+          "text": "0.25 and 0.75"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a random variable X that takes values +1 and -1 with probability 0.5 each. The values of\nthe cumulative distribution function F(x) at x = -1 and +1 are",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "SMTP"
+        },
+        {
+          "id": "B",
+          "text": "IP"
+        },
+        {
+          "id": "C",
+          "text": "TCP"
+        },
+        {
+          "id": "D",
+          "text": "UDP"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following transport layer protocols is used to support electronic mail?",
+      "topic": "Transport Layer Protocol",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2^{14}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2^{7}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2^{21}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2^{24}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In the IPv4 addressing format, the number of networks allowed under Class C addresses is",
+      "topic": "Network Layer Protocol",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2, 3, 4"
+        },
+        {
+          "id": "B",
+          "text": "1,2"
+        },
+        {
+          "id": "C",
+          "text": "2,3,4"
+        },
+        {
+          "id": "D",
+          "text": "3,4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following problems are decidable? 1) Does a given program ever produce an output? 2) If L is a context-free language, then, is [latex]\\bar{L}[/latex] also context-free? 3) If L is a regular language, then, is [latex]\\bar{L}[/latex] also regular? 4) If L is a recursive language, then, is [latex]\\bar{L}[/latex] also recursive?",
+      "topic": "Undecidability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "B",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "C",
+          "text": "1, 3 and 4"
+        },
+        {
+          "id": "D",
+          "text": "1, 2 and 4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Given the language L = {ab, aa, baa}, which of the following strings are in L*? 1) abaabaaabaa 2) aaaabaaaa 3) baaaaabaaaab 4) baaaaabaa",
+      "topic": "Regular Language",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "a serializable schedule"
+        },
+        {
+          "id": "B",
+          "text": "a schedule that is not conflict serializable"
+        },
+        {
+          "id": "C",
+          "text": "a conflict serializable schedule"
+        },
+        {
+          "id": "D",
+          "text": "a schedule for which a precedence graph cannot be drawn"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following transactions with data items P and Q initialized to zero: T1 :read (P);\n       read (Q);\n       if P = 0 then Q := Q + 1 ; \n       write (Q).\nT2 : read (Q);\n        read (P);\n        if Q = 0 then P := P + 1 ;\n        write (P). Any non-serial interleaving of T1 and T2 for concurrent execution leads to",
+      "topic": "Transaction",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The bisection method is applied to compute a zero of the function  [latex]f(x) = x^{4}-x^{3}-x^{2}-4[/latex] in the interval [1,9]. The method converges to a solution after _____iterations.",
+      "topic": "Numerical Method",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "T' = T with total weight  [latex]t' = t^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "T' = T with total weight  [latex]t' \\lt  t^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "T' [latex]\\neq[/latex] T but total weight  [latex]t' = t^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let G be a weighted graph with edge weights greater than one and G' be the graph constructed by\nsquaring the weights of edges in G. Let T and T' be the minimum spanning trees of G and G',\nrespectively, with total weights t and t'. Which of the following statements is TRUE?",
+      "topic": "Minimum Spanning Tree",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "fails as L can overflow"
+        },
+        {
+          "id": "B",
+          "text": "fails as L can take on a non-zero value when the lock is actually available"
+        },
+        {
+          "id": "C",
+          "text": "works correctly but may starve some processes"
+        },
+        {
+          "id": "D",
+          "text": "works correctly without starvation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Fetch_And_Add(X,i) is an atomic Read-Modify-Write instruction that reads the value of\nmemory location X, increments it by the value i, and returns the old value of X. It is used in the\npseudocode shown below to implement a busy-wait lock. L is an unsigned integer shared variable\ninitialized to 0. The value of 0 corresponds to lock being available, while any non-zero value\ncorresponds to the lock being not available. AcquireLock(L){\n   while (Fetch_And_Add(L,1))\n        L = 1;\n}\nReleaseLock(L){\n     L = 0;\n} This implementation",
+      "topic": "Process Synchronization",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]10/20[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]5/12[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2/3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/6[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Suppose a fair six-sided die is rolled once. If the value on the die is 1, 2, or 3, the die is rolled a\nsecond time. What is the probability that the sum total of values that turn up is at least 6?",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "245.248.136.0/21 and 245.248.128.0/22"
+        },
+        {
+          "id": "B",
+          "text": "245.248.128.0/21 and 245.248.128.0/22"
+        },
+        {
+          "id": "C",
+          "text": "245.248.132.0/22 and 245.248.132.0/21"
+        },
+        {
+          "id": "D",
+          "text": "245.248.136.0/24 and 245.248.132.0/21"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "An Internet Service Provider (ISP) has the following chunk of CIDR-based IP addresses available\nwith it: 245.248.128.0/20. The ISP wants to give half of this chunk of addresses to Organization A,\nand a quarter to Organization B, while retaining the remaining with itself. Which of the following is\na valid allocation of addresses to A and B?",
+      "topic": "Network Layer Protocol",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "full: (REAR+1) mod n == FRONT empty: REAR == FRONT"
+        },
+        {
+          "id": "B",
+          "text": "full: (REAR+1) mod n == FRONT empty: (FRONT+1) mod n == REAR"
+        },
+        {
+          "id": "C",
+          "text": "full: REAR == FRONT empty: (REAR+1) mod n == FRONT"
+        },
+        {
+          "id": "D",
+          "text": "full: (FRONT+1) mod n == REAR empty: REAR == FRONT"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Suppose a circular queue of capacity (n-1) elements is implemented with an array of n elements.\nAssume that the insertion and deletion operations are carried out using REAR and FRONT as array\nindex variables, respectively. Initially, REAR = FRONT = 0. The conditions to detect queue full\nand queue empty are",
+      "topic": "Queue",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2^{n}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2^{n}-1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2^{n}-2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2(2^{n}-2)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "How many onto (or surjective) functions are there from an n-element ( [latex]n \\geq 2[/latex] ) set to a 2-element set?",
+      "topic": "Functions",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "45"
+        },
+        {
+          "id": "C",
+          "text": "90"
+        },
+        {
+          "id": "D",
+          "text": "360"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let G be a complete undirected graph on 6 vertices. If vertices of G are labeled, then the number of\ndistinct cycles of length 4 in G is equal to",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112139",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "O (n log n)"
+        },
+        {
+          "id": "B",
+          "text": "O ([latex]n^{2} log n[/latex])"
+        },
+        {
+          "id": "C",
+          "text": "O ([latex]n^{2}+ log n[/latex])"
+        },
+        {
+          "id": "D",
+          "text": "O ([latex]n^{2}[/latex])"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A list of n strings, each of length n, is sorted into lexicographic order using the merge-sort\nalgorithm. The worst case running time of this computation is",
+      "topic": "Sorting",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112141",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "3 KBytes"
+        },
+        {
+          "id": "B",
+          "text": "35 KBytes"
+        },
+        {
+          "id": "C",
+          "text": "280 KBytes"
+        },
+        {
+          "id": "D",
+          "text": "dependent on the size of the disk"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A file system with 300 GByte disk uses a file descriptor with 8 direct block addresses, 1 indirect\nblock address and 1 doubly indirect block address. The size of each disk block is 128 Bytes and the\nsize of each disk block address is 8 Bytes. The maximum possible file size in this file system is",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]OPTIMAL \\lt LRU \\lt FIFO[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]OPTIMAL \\lt FIFO \\lt LRU[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "OPTIMAL = LRU"
+        },
+        {
+          "id": "D",
+          "text": "OPTIMAL = FIFO"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the virtual page reference string 1, 2, 3, 2, 4, 1, 3, 2, 4, 1 on a demand paged virtual memory system running on a computer system that has main memory\nsize of 3 page frames which are initially empty. Let LRU, FIFO and OPTIMAL denote the number\nof page faults under the corresponding page replacement policy. Then",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112143",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Pi_{B}(r_{1})- \\Pi_{C}(r_{2}) =\\phi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Pi_{C}(r_{1})- \\Pi_{B}(r_{2}) =\\phi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Pi_{B}(r_{1})= \\Pi_{C}(r_{2})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Pi_{B}(r_{1})- \\Pi_{C}(r_{2}) \\neq \\phi[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Suppose R1(A, B) and R2(C, D) are two relation schemas. Let r1 and r2 be the corresponding\nrelation instances. B is a foreign key that refers to C in R2. If data in r1 and r2 satisfy referential\nintegrity constraints, which of the following is ALWAYS TRUE?",
+      "topic": "Relational Algebra",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112144",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1005 ms"
+        },
+        {
+          "id": "B",
+          "text": "1010 ms"
+        },
+        {
+          "id": "C",
+          "text": "3000 ms"
+        },
+        {
+          "id": "D",
+          "text": "3003 ms"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a source computer (S) transmitting a file of size [latex]10^{6}[/latex] bits to a destination computer (D)\nover a network of two routers (R1 and R2) and three links (L1, L2, and L3). L1 connects S to R1; L2\nconnects R1 to R2; and L3 connects R2 to D. Let each link be of length 100 km. Assume signals\ntravel over each link at a speed of [latex]10^{8}[/latex] meters per second. Assume that the link bandwidth on each\nlink is 1Mbps. Let the file be broken down into 1000 packets each of size 1000 bits. Find the total\nsum of transmission and propagation delays in transmitting the file from S to D?",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112145",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "8 MSS"
+        },
+        {
+          "id": "B",
+          "text": "14 MSS"
+        },
+        {
+          "id": "C",
+          "text": "7 MSS"
+        },
+        {
+          "id": "D",
+          "text": "12 MSS"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider an instance of TCP's Additive Increase Multiplicative Decrease (AIMD) algorithm where\nthe window size at the start of the slow start phase is 2 MSS and the threshold at the start of the first\ntransmission is 8 MSS. Assume that a timeout occurs during the fifth transmission. Find the\ncongestion window size at the end of the tenth transmission.",
+      "topic": "Transport Layer Protocol",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112147",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "B1: (1+height(n [latex]\\rightarrow[/latex] right)) B2: (1+max(h1, h2))"
+        },
+        {
+          "id": "B",
+          "text": "B1: (height(n [latex]\\rightarrow[/latex] right)) B2: (1+max(h1,h2))"
+        },
+        {
+          "id": "C",
+          "text": "B1: height(n [latex]\\rightarrow[/latex] right) B2: max(h1, h2)"
+        },
+        {
+          "id": "D",
+          "text": "B1: (1+ height(n [latex]\\rightarrow[/latex] right)) B2: max(h1, h2)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The height of a tree is defined as the number of edges on the longest path in the tree. The function\nshown in the pseudocode below is invoked as height(root) to compute the height of a binary\ntree rooted at the tree pointer root. int height (treeptr n)\n{ if (n == NULL) return -1;\n   if (n -> left == NULL)\n            if (n -> right == NULL) return 0;\n            else return B1 ;\n   else { h1 = height (n -> left);\n   if (n -> right == NULL) return (1+h1);\n   else { h2 = height (n -> right);\n   return B2 ; \n    }\n  }   \n} The appropriate expressions for the two boxes B1 and B2 are",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112148",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "3 1 4 1 4 2"
+        },
+        {
+          "id": "B",
+          "text": "4 2 6 1 6 1"
+        },
+        {
+          "id": "C",
+          "text": "4 2 6 2 2 0"
+        },
+        {
+          "id": "D",
+          "text": "3 1 5 2 5 2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C code segment. int a, b, c = 0;\nvoid prtFun(void);\nmain( )\n{ static int a = 1; /* Line 1 */\n   prtFun( );\n   a += 1;\n   prtFun( );\n   printf(\" \\n %d %d \", a, b);\n}\nvoid prtFun(void)\n{ static int a = 2; /* Line 2 */\n   int b = 1;\n   a += ++b;\n   printf(\" \\n %d %d \", a, b);\n} What output will be generated by the given code segment?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112149",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "3 1 4 1 4 2"
+        },
+        {
+          "id": "B",
+          "text": "4 2 6 1 6 1"
+        },
+        {
+          "id": "C",
+          "text": "4 2 6 2 2 0"
+        },
+        {
+          "id": "D",
+          "text": "4 2 4 2 2 0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C code segment. int a, b, c = 0;\nvoid prtFun(void);\nmain( )\n{ static int a = 1; /* Line 1 */\n   prtFun( );\n   a += 1;\n   prtFun( );\n   printf(\" \\n %d %d \", a, b);\n}\nvoid prtFun(void)\n{ static int a = 2; /* Line 2 */\n   int b = 1;\n   a += ++b;\n   printf(\" \\n %d %d \", a, b);\n} What output will be generated by the given code segment if: Line 1 is replaced by auto int a = 1; Line 2 is replaced by register int a = 2;",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112154",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "11"
+        },
+        {
+          "id": "B",
+          "text": "14"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "27"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A computer has a 256 KByte, 4-way set associative, write back data cache with block size of 32 Bytes. The\nprocessor sends 32 bit addresses to the cache controller. Each cache tag directory entry contains, in addition to address tag, 2 valid bits, 1 modified bit and 1 replacement bit. The number of bits in the tag field of an address is",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112155",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "160 Kbits"
+        },
+        {
+          "id": "B",
+          "text": "136 Kbits"
+        },
+        {
+          "id": "C",
+          "text": "40 Kbits"
+        },
+        {
+          "id": "D",
+          "text": "32 Kbits"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A computer has a 256 KByte, 4-way set associative, write back data cache with block size of 32 Bytes. The\nprocessor sends 32 bit addresses to the cache controller. Each cache tag directory entry contains, in addition to address tag, 2 valid bits, 1 modified bit and 1 replacement bit. The size of the cache tag directory is",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "25"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The cost function for a product in a firm is given by [latex]5q^2[/latex], where [latex]q[/latex] is the amount of production. The firm can sell the product at a market price of Rs. 50 per unit. The number of units to be produced by the firm such that the profit is maximized is",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "attempts"
+        },
+        {
+          "id": "B",
+          "text": "setbacks"
+        },
+        {
+          "id": "C",
+          "text": "meetings"
+        },
+        {
+          "id": "D",
+          "text": "delegations"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the most appropriate alternative from the options given below to complete the following sentence: Despite several _________ the mission succeeded in its attempt to resolve the conflict.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Diminish"
+        },
+        {
+          "id": "B",
+          "text": "Divulge"
+        },
+        {
+          "id": "C",
+          "text": "Dedicate"
+        },
+        {
+          "id": "D",
+          "text": "Denote"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following options is the closest in meaning to the word given below? Mitigate",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "They gave us the money back less the service charges of Three Hundred rupees."
+        },
+        {
+          "id": "B",
+          "text": "This country's expenditure is not less than that of Bangladesh."
+        },
+        {
+          "id": "C",
+          "text": "The committee initially asked for a funding of Fifty Lakh rupees, but later settled for a lesser sum."
+        },
+        {
+          "id": "D",
+          "text": "This country's expenditure on educational reforms is very less."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the grammatically INCORRECT sentence:",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "that"
+        },
+        {
+          "id": "B",
+          "text": "which"
+        },
+        {
+          "id": "C",
+          "text": "who"
+        },
+        {
+          "id": "D",
+          "text": "whom"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the most appropriate alternative from the options given below to complete the following sentence: Suresh's dog is the one ________ was hurt in the stampede.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Gender-discriminatory"
+        },
+        {
+          "id": "B",
+          "text": "Xenophobic"
+        },
+        {
+          "id": "C",
+          "text": "Not designed to make the post attractive"
+        },
+        {
+          "id": "D",
+          "text": "Not gender-discriminatory"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Wanted Temporary, Part-time persons for the post of Field Interviewer to conduct personal interviews to collect and collate economic data. Requirements: High School-pass, must be available for Day, Evening and Saturday work. Transportation paid, expenses reimbursed. Which one of the following is the best inference from the above advertisement?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112162",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "8 meters"
+        },
+        {
+          "id": "B",
+          "text": "10 meters"
+        },
+        {
+          "id": "C",
+          "text": "12 meters"
+        },
+        {
+          "id": "D",
+          "text": "14 meters"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A political party orders an arch for the entrance to the ground in which the annual convention is being held. The profile of the arch follows the equation  [latex] y=2x-0.1x^2 [/latex]where [latex]y[/latex] is the height of the arch in meters. The maximum possible height of the arch is",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.288"
+        },
+        {
+          "id": "B",
+          "text": "0.334"
+        },
+        {
+          "id": "C",
+          "text": "0.667"
+        },
+        {
+          "id": "D",
+          "text": "0.72"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "An automobile plant contracted to buy shock absorbers from two suppliers X and Y. X supplies 60% and Y supplies 40% of the shock absorbers. All shock absorbers are subjected to a quality test. The ones that pass the quality test are considered reliable. Of X's shock absorbers, 96% are reliable. Of Y's shock absorbers, 72% are reliable. The probability that a randomly chosen shock absorber, which is found to be reliable, is made by Y is",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "P, Q"
+        },
+        {
+          "id": "B",
+          "text": "Q, R"
+        },
+        {
+          "id": "C",
+          "text": "P, R"
+        },
+        {
+          "id": "D",
+          "text": "R, S"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following assertions are CORRECT? P: Adding 7 to each entry in a list adds 7 to the mean of the list Q: Adding 7 to each entry in a list adds 7 to the standard deviation of the list R: Doubling each entry in a list doubles the mean of the list S: Doubling each entry in a list leaves the standard deviation of the list unchanged",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "1112165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "OV"
+        },
+        {
+          "id": "B",
+          "text": "OW"
+        },
+        {
+          "id": "C",
+          "text": "PV"
+        },
+        {
+          "id": "D",
+          "text": "PW"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Given the sequence of terms, AD CG FK JP, the next term is",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "11210911",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "One, at [latex]\\pi[/latex]/2"
+        },
+        {
+          "id": "B",
+          "text": "One, at 3[latex]\\pi[/latex]/2"
+        },
+        {
+          "id": "C",
+          "text": "Two, at [latex]\\pi[/latex]/2 and 3[latex]\\pi[/latex]/2"
+        },
+        {
+          "id": "D",
+          "text": "Two, at [latex]\\pi[/latex]/4 and 3[latex]\\pi[/latex]/2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the function f(x)=sin(x) in the interval x [latex]\\in [\\pi/4, 7\\pi/4][/latex]. The number and location(s) of the local minima of this function are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "11211111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1024 and -1024"
+        },
+        {
+          "id": "B",
+          "text": "1024[latex]\\sqrt{2}[/latex] and -1024[latex]\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "4[latex]\\sqrt{2}[/latex] and -4[latex]\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "512[latex]\\sqrt{2}[/latex] and -512[latex]\\sqrt{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A be the 2x2 matrix with elements [latex]a_{11}=a_{12}=a_{21}=+1[/latex] and [latex]a_{22}=-1[/latex]. Then the eigenvalues of\nthe matrix [latex]A^{19}[/latex] are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "CS",
+      "id": "11212811",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The bisection method is applied to compute a zero of the function  [latex]f(x) = x^{4}-x^{3}-x^{2}-4[/latex] in the interval [1,9]. The method converges to a solution after _____iterations.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    }
+  ],
+  "schema_version": 1
+}

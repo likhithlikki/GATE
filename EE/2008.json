@@ -1,0 +1,1648 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1508102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "resistor and a capacitor and an inductor"
+        },
+        {
+          "id": "B",
+          "text": "resistor and a capacitor"
+        },
+        {
+          "id": "C",
+          "text": "resistor and an inductor"
+        },
+        {
+          "id": "D",
+          "text": "capacitor and an inductor"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Thevenin's equivalent of a circuit operation at [latex]\\omega[/latex]=5 rads/s, has [latex]V_{oc}=3.71\\angle -15.9^{\\circ}[/latex] V and [latex]Z_0=2.38-j0.667\\Omega[/latex]. At this frequency, the minimal realization of the Thevenin's impedance will have a",
+      "topic": "Network Theorems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\beta[/latex] need not be equal to [latex]\\alpha[/latex] but v equal to [latex]\\omega[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "v need not be equal to [latex]\\omega[/latex] but [latex]\\beta[/latex] equal to [latex]\\alpha[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\beta[/latex] equal to [latex]\\alpha[/latex] and v equal to [latex]\\omega[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\beta[/latex] need not be equal to [latex]\\alpha[/latex] and v need not be equal to [latex]\\omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A signal [latex]e^{-\\alpha t}sin(\\omega t)[/latex] is the input to a real Linear Time Invariant system. Given K and [latex]\\phi[/latex] are constants, the output of the system will be of the form [latex]Ke^{-\\beta t}sin(vt+\\phi )[/latex] where",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/8[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "X is a uniformly distributed random variable that takes values between 0 and 1.\nThe value of E{[latex]X^{3}[/latex]} will be",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](P^{2}+P+2I)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](P^{2}+P+I)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-(P^{2}+P+I)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-(P^{2}+P+2I)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The characteristic equation of a (3x3) matrix P is defined as [latex]a(\\lambda )|\\lambda I-P|= \\lambda ^{3}+ \\lambda ^{2}+ 2\\lambda +1=0[/latex] If [latex]I[/latex] denotes identity matrix, then the inverse of matrix [latex]P[/latex] will be",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Q[/latex] will have four linearly independent rows and four linearly independent columns"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Q[/latex] will have four linearly independent rows and five linearly independent columns"
+        },
+        {
+          "id": "C",
+          "text": "[latex]QQ^{T}[/latex]will be invertible"
+        },
+        {
+          "id": "D",
+          "text": "[latex]Q^{T}Q[/latex] will be invertible"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If the rank of a (5x6) matrix [latex]Q[/latex] is 4, then which one of the following statement\r\nis correct ?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{t}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{-t}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]e^{t}[/latex] u(t)"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{-t}[/latex] u(t)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A function y(t) satisfies the following differential equation : [latex]\\frac{dy(t)}{dt}+y(t)=\\delta (t)[/latex] where [latex]\\delta[/latex](t) is the delta function. Assuming zero initial condition, and denoting the unit step function by u(t), y(t) can be of the form",
+      "topic": "Mathematical Models of Physical Systems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]T_{A},T_{B}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]T_{A}/2,T_{B}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]T_{A},T_{B}/2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]T_{A}/2,T_{B}/2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two 8-bit ADCs, one of single slope integrating type and other of successive\napproximate type, take [latex]T_A \\; and \\; T_B[/latex] times to convert 5 V analog input signal to\nequivalent digital output. If the input analog signal is reduced to 2.5 V, the\napproximate time taken by the two ADCs will respectively, be",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "LXI H, 2500H MOV A, M"
+        },
+        {
+          "id": "B",
+          "text": "LXI H, 2500H MOV M, A"
+        },
+        {
+          "id": "C",
+          "text": "LHLD 2500H MOV A, M"
+        },
+        {
+          "id": "D",
+          "text": "LHLD 2500H MOV M, A"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An input device is interfaced with Intel 8085A microprocessor as memory mapped\nI/O. The address of the device is 2500H. In order to input data from the device\nto accumulator, the sequence of instructions will be",
+      "topic": "Microprocessors",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "increase in emf and reduction in harmonics"
+        },
+        {
+          "id": "B",
+          "text": "reduction in emf and increase in harmonics"
+        },
+        {
+          "id": "C",
+          "text": "increase in both emf and harmonics"
+        },
+        {
+          "id": "D",
+          "text": "reduction in both emf and harmonics"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Distributed winding and short chording employed in AC machines will result in",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "24.24%"
+        },
+        {
+          "id": "B",
+          "text": "12.12%"
+        },
+        {
+          "id": "C",
+          "text": "19.05%"
+        },
+        {
+          "id": "D",
+          "text": "6.06%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An extra high voltage transmission line of length 300 km can be approximate by\na lossless line having propagation constant [latex]\\beta[/latex] = 0.00127 radians per km. Then the percentage ratio of line length to wavelength will be given by",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both pole-voltage and line-voltage will have [latex]3^{rd}[/latex] harmonic components"
+        },
+        {
+          "id": "B",
+          "text": "Pole-voltage will have [latex]3^{rd}[/latex] harmonic component but line-voltage will be free from [latex]3^{rd}[/latex] harmonic"
+        },
+        {
+          "id": "C",
+          "text": "Line-voltage will have [latex]3^{rd}[/latex] harmonic component but pole-voltage will be free from [latex]3^{rd}[/latex] harmonic"
+        },
+        {
+          "id": "D",
+          "text": "Both pole-voltage and line-voltage will be free from [latex]3^{rd}[/latex] harmonic\r\ncomponents"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase voltage source inverter is operated in 180[latex]^{\\circ}[/latex] conduction mode. Which one of the following statements is true ?",
+      "topic": "Inverters",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statements (I) is correct and statement (II) is wrong"
+        },
+        {
+          "id": "B",
+          "text": "Statements (II) is correct and statement (I) is wrong"
+        },
+        {
+          "id": "C",
+          "text": "Both Statement (I) and Statement (II) are wrong"
+        },
+        {
+          "id": "D",
+          "text": "Both Statement (I) and Statement (II) are correct"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The impulse response of a causal linear time-invariant system is given as h(t).\r\nNow consider the following two statements : Statement (I): Principle of superposition holds Statement (II): h(t)=0 for [latex]t \\lt 0[/latex] Which one of the following statements is correct ?",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "W1 and W2"
+        },
+        {
+          "id": "B",
+          "text": "W2 and W4"
+        },
+        {
+          "id": "C",
+          "text": "W1 and W4"
+        },
+        {
+          "id": "D",
+          "text": "W2 and W3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "It is desired to measure parameters of 230 V/115 V, 2 kVA,\r\nsingle-phase transformer. The following wattmeters are available in a laboratory: W1 : 250 V, 10 A, Low Power Factor W2 : 250 V, 5 A, Low Power Factor W3 : 150 V, 10 A, High Power Factor W4 : 150 V, 5 A, High Power Factor The Wattmeters used in open circuit test and short circuit test of the transformer\r\nwill respectively be",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "983.3 pF"
+        },
+        {
+          "id": "B",
+          "text": "1475 pF"
+        },
+        {
+          "id": "C",
+          "text": "6637.5 pF"
+        },
+        {
+          "id": "D",
+          "text": "9956.25 pF"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A capacitor consists of two metal plates each 500x500 [latex]mm^{2}[/latex] and spaced 6 mm apart. The space between the metal plates is filled with a glass plate of 4 mm thickness and a layer of paper of 2 mm thickness. The relative primitivities of the glass and paper are 8 and 2 respectively. Neglecting the fringing effect, the\ncapacitance will be (Given that [latex]\\varepsilon _{0}=8.85 \\times 10^{-12}[/latex] F/m )",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "37.68 [latex]\\mu[/latex]H"
+        },
+        {
+          "id": "B",
+          "text": "113.04 [latex]\\mu[/latex]H"
+        },
+        {
+          "id": "C",
+          "text": "37.68 [latex]\\mu[/latex]H"
+        },
+        {
+          "id": "D",
+          "text": "113.04 [latex]\\mu[/latex]H"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A coil of 300 turns is wound on a non-magnetic core having a mean circumference\nof 300 mm and a cross-sectional area of 300  [latex]mm^{2}[/latex] . The inductance of the coil\ncorresponding to a magnetizing current of 3 A will be (Given that [latex]\\mu _{0}=4\\pi \\times 10^{-7} H/m[/latex])",
+      "topic": "Magnetostatic Fields",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "7.5 [latex]\\mu[/latex]C"
+        },
+        {
+          "id": "B",
+          "text": "13.5 [latex]\\mu[/latex]C"
+        },
+        {
+          "id": "C",
+          "text": "15.0 [latex]\\mu[/latex]C"
+        },
+        {
+          "id": "D",
+          "text": "22.5 [latex]\\mu[/latex]C"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two point charges [latex]Q1 = 10\\mu[/latex]C and [latex]Q2 = 20 \\mu[/latex]C are placed at coordinates (1,1,0) and (-1,-1,0) respectively. The total electric flux passing through a plane z = 20 will be",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "First delay x[n] by 3 samples to generate [latex]z_{1}[n][/latex], then pick every [latex]4^{th}[/latex] sample of [latex]z_{1}[n][/latex] to generate [latex]z_{2}[n][/latex], and than finally time reverse [latex]z_{2}[n][/latex] to obtain y[n]."
+        },
+        {
+          "id": "B",
+          "text": "First advance x[n] by 3 samples to generate [latex]z_{1}[n][/latex], then pick every [latex]4^{th}[/latex] sample of [latex]z_{1}[n][/latex] to generate [latex]z_{2}[n][/latex], and then finally time reverse [latex]z_{2}[n][/latex] to obtain y[n]"
+        },
+        {
+          "id": "C",
+          "text": "First pick every fourth sample of x[n] to generate [latex]v_{1}[n][/latex], time-reverse [latex]v_{1}[n][/latex] to obtain [latex]v_{2}[n][/latex], and finally advance [latex]v_{2}[n][/latex] by 3 samples to obtain y[n]"
+        },
+        {
+          "id": "D",
+          "text": "First pick every fourth sample of x[n] to generate [latex]v_{1}[n][/latex], time-reverse [latex]v_{1}[n][/latex] to obtain [latex]v_{2}[n][/latex], and finally delay [latex]v_{2}[n][/latex] by 3 samples to obtain y[n]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given a sequence x[n], to generate the sequence y[n]=x[3-4n], which one of the\r\nfollowing procedures would be correct ?",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Casual, time-invariant and unstable"
+        },
+        {
+          "id": "B",
+          "text": "Casual, time-invariant and stable"
+        },
+        {
+          "id": "C",
+          "text": "non-casual, time-invariant and unstable"
+        },
+        {
+          "id": "D",
+          "text": "non-casual, time-variant and unstable"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A system with x(t) and output y(t) is defined by the input-output relation : [latex]y(t)=\\int_{-\\infty }^{-2t}x(\\tau)d\\tau[/latex] The system will be",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It will be of the form Ksinc([latex]\\gamma[/latex]t) where [latex]\\gamma[/latex] = min[latex](\\alpha ,\\beta )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "It will be of the form Ksinc([latex]\\gamma[/latex]t) where [latex]\\gamma[/latex] = max[latex](\\alpha ,\\beta )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "It will be of the form Ksinc([latex]\\alpha[/latex]t)"
+        },
+        {
+          "id": "D",
+          "text": "It can not be a sinc type of signal"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A signal [latex]x(t)=sinc(\\alpha t)[/latex] where [latex]\\alpha[/latex] is a real constant [latex](sinc(x)=\\frac{sin (\\pi x)}{\\pi x})[/latex] is the input to a Linear Time Invariant system whose impulse response [latex]h(t)=sinc(\\beta t)[/latex], where [latex]\\beta[/latex] is a real constant. If min[latex](\\alpha ,\\beta )[/latex] denotes the minimum of [latex]\\alpha \\;and \\; \\beta [/latex] and similarly, max[latex](\\alpha ,\\beta )[/latex] denotes the maximum of [latex]\\alpha \\; and \\; \\beta [/latex], and K is a constant, which one of the following statements is true about the output of the system ?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "T/8"
+        },
+        {
+          "id": "B",
+          "text": "T/4"
+        },
+        {
+          "id": "C",
+          "text": "T/2"
+        },
+        {
+          "id": "D",
+          "text": "2T"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let x(t) be a periodic signal with time period T, Let [latex]y(t)=x(t-t_0)+x(t+t_0)[/latex]\r\nfor some [latex]t_0[/latex]. The Fourier Series coefficients of y(t) are denoted by [latex]b_k[/latex]. If [latex]b_k=0[/latex] for\r\nall odd k , then [latex]t_0[/latex] can be equal to",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "one pole and one zero"
+        },
+        {
+          "id": "B",
+          "text": "one pole and two zeros"
+        },
+        {
+          "id": "C",
+          "text": "two poles and one zero"
+        },
+        {
+          "id": "D",
+          "text": "two poles and two zeros"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "H(z) is a transfer function of a real system. When a signal [latex]x[n] =(1+j)^{n}[/latex] is the input to such a system, the output is zero. Further, the Region of convergence (ROC) of [latex](1-\\frac{1}{2}z^{-1})[/latex]H(z) is the entire Z-plane (except z = 0). It can then be inferred that H(z) can have a minimum of",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a^{n-1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]a^{n}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]na^{n}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]na^{n-1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given [latex]X(z)=\\frac{z}{(z-a)^2}[/latex] with [latex]|z| \\gt a[/latex], the residue of [latex]X(z)z^{n-1}[/latex] at z=a for [latex]n\\geq 0[/latex] will be",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "only one minimum"
+        },
+        {
+          "id": "B",
+          "text": "only tw0 minima"
+        },
+        {
+          "id": "C",
+          "text": "three minima"
+        },
+        {
+          "id": "D",
+          "text": "three maxima"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider function  [latex]f (x) =(x^{2}-4)^{2}[/latex] where x is a real number. Then the function has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.71828"
+        },
+        {
+          "id": "B",
+          "text": "0.36784"
+        },
+        {
+          "id": "C",
+          "text": "0.20587"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Equation [latex]e^{x} - 1 = 0[/latex] is required to be solved using Newton's method with an initial guess [latex]x_0=-1[/latex]. Then, after one step of Newton's method, estimate [latex]x_1[/latex] of the solution will be given by",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]AA^+A=A[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](AA^+)^{2}=AA^+[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]A^+A=I[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]AA^+A=A^+[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A is [latex]m \\times n[/latex] full rank matrix with [latex]m \\gt n[/latex] and I is identity matrix. Let matrix\r\n[latex]A^{+} = (A^{T}A)^{-1}A^{T}[/latex]. Then, which one of the following statement is FALSE ?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.00099"
+        },
+        {
+          "id": "B",
+          "text": "0.00495"
+        },
+        {
+          "id": "C",
+          "text": "0.0099"
+        },
+        {
+          "id": "D",
+          "text": "0.0198"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A differential equation [latex]\\frac{dx}{dt} = e^{-2t}[/latex]u(t), has to be solved using trapezoidal rule of integration with a step size h=0.01s. Function u(t) indicates a unit step function. If x(0-)=0, then value of x at t=0.01s will be given by",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]|P{\\vec{x}}|\\leq |\\vec{x}|[/latex] where at least one vector satisfies [latex]|P{\\vec{x}}|\\lt|\\vec{x}|[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]|P{\\vec{x}}|= |\\vec{x}|[/latex] for all vector  [latex]\\vec{x}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]|P{\\vec{x}}|\\geq |\\vec{x}|[/latex] where at least one vector satisfies [latex]|P{\\vec{x}}|\\gt |\\vec{x}|[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "No relationship can be established between [latex]|{\\vec{x}}| \\; and \\; |P\\vec{x}|[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let P be a 2x2 real orthogonal matrix and [latex]\\vec{x}[/latex] is a real vector [latex][x_{1},x_{2}]^{T}[/latex] with length [latex]|\\vec{x}|=(x_{1}^{2}+x_{2}^{2})^{1/2}[/latex]. Then, which one of the following statements is correct?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]sinc(\\frac{\\omega }{2\\pi })[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2sinc(\\frac{\\omega }{2\\pi })[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2sinc(\\frac{\\omega }{2\\pi })cos(\\frac{\\omega }{2})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]sinc(\\frac{\\omega }{2\\pi })sin(\\frac{\\omega }{2})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]x(t)= rect(t-\\frac{1}{2}[/latex]) (where [latex]rect(x) = 1[/latex] for [latex]-\\frac{1}{2}\\leq x\\leq \\frac{1}{2}[/latex] and zero otherwise. Then if [latex]sinc(x)=\\frac{sin(\\pi x)}{\\pi x}[/latex], the Fourier Transform of [latex]x(t) + x(-t)[/latex] will be given by",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "23.06 kW"
+        },
+        {
+          "id": "B",
+          "text": "24.11 kW"
+        },
+        {
+          "id": "C",
+          "text": "25.01 kW"
+        },
+        {
+          "id": "D",
+          "text": "26.21 kW"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 400 V, 50 Hz 30 hp, three-phase induction motor is drawing\n50 A current at 0.8 power factor lagging. The stator and rotor copper losses are\n1.5 kW and 900 W respectively. The friction and windage losses are 1050 W and\nthe core losses are 1200 W. The air-gap power of the motor will be",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508150",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Distance protection using ohm relay with zoen-1 set to 80% of the line\nimpedance."
+        },
+        {
+          "id": "B",
+          "text": "Directional over current protection set to pick up at 1.25 times the\nmaximum load current"
+        },
+        {
+          "id": "C",
+          "text": "Pilot relaying system with directional comparison scheme"
+        },
+        {
+          "id": "D",
+          "text": "Pilot relaying system with segregated phase comparison scheme"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Voltages phasors at the two terminals of a transmission line of length 70 km have\r\na magnitude of 1.0 per unit but are 180 degree out of phase. Assuming that the\r\nmaximum load current in the line is [latex]1/5^{th}[/latex] of minimum 3-phase fault current, Which one of the following transmission line protection schemes will not pick up for this condition ?",
+      "topic": "Switch Gear and Protection",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508151",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1835 MW"
+        },
+        {
+          "id": "B",
+          "text": "2280 MW"
+        },
+        {
+          "id": "C",
+          "text": "2725 MW"
+        },
+        {
+          "id": "D",
+          "text": "3257 MW"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A loss less transmission line having Surge Impedance Loading (SIL) of 2280 MW\nis provided with a uniformly distributed series capacitive compensation of 30%.\nThen, SIL of the compensated transmission line will be",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508152",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P_{G1}=250MW;P_{G2}=0MW[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]P_{G1}=150MW;P_{G2}=100MW[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]P_{G1}=100MW;P_{G2}=150MW[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]P_{G1}=0MW;P_{G2}=250MW[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A loss less power system has to serve a load of 250 MW. There are tow generation\r\n(G1 and G2) in the system with cost curves [latex]C_1 \\; and \\; C_2[/latex] respectively defined as\r\nfollows: [latex]C_{1}(P_{G1})=P_{G1}+0.055\\times P^{2}_{G1} [/latex] [latex]C_{2}(P_{G1})=3 P_{G2}+0.03 \\times P^{2}_{G2}[/latex] where [latex]P_{G1} \\; and \\; P_{G2}[/latex] are the MW injections from generator G1 and G2 respectively.\r\nThus, the minimum cost dispatch will be",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.65"
+        },
+        {
+          "id": "B",
+          "text": "0.78"
+        },
+        {
+          "id": "C",
+          "text": "0.85"
+        },
+        {
+          "id": "D",
+          "text": "0.866"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single phase fully controlled bridge converter supplies a load drawing constant\nand ripple free load current, if the triggering angle is 30[latex]^{\\circ}[/latex], the input power factor\nwill be",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.518"
+        },
+        {
+          "id": "B",
+          "text": "0.608"
+        },
+        {
+          "id": "C",
+          "text": "0.852"
+        },
+        {
+          "id": "D",
+          "text": "0.902"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 220 V 20 A, 1000 rpm, separately excited dc motor has an armature resistance of\n2.5 [latex]\\Omega[/latex]. The motor is controlled by a step down chopper with a frequency of 1 kHz. The input dc voltage to the chopper is 250 V. The duty cycle of the chopper for\nthe motor to operate at a speed of 600 rpm delivering the rated torque will be",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]43^{\\circ},137^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]43^{\\circ},47^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]39^{\\circ},141^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]39^{\\circ},51^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 220 V, 1400 rpm, 40 A separately excited dc motor has an armature resistance\nof 0.4 [latex]\\Omega[/latex]. The motor is fed from a single phase circulating current dual converter\nwith an input ac line voltage of 220 V (rms). The approximate firing angles of\nthe dual converter for motoring operating at 50% of rated torque and 1000 rpm\nwill be",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "20.6 V, 2.7 Hz"
+        },
+        {
+          "id": "B",
+          "text": "133.3 V, 16.7 Hz"
+        },
+        {
+          "id": "C",
+          "text": "266.6 V, 33.3 Hz"
+        },
+        {
+          "id": "D",
+          "text": "323.3 V, 40.3 Hz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 400 V, 50 Hz, 4-pole, 1400 rpm, star connected squirrel cage induction motor\nhas the following parameters referred to the stator: [latex]R'_{r}=1.0\\Omega , X_{s}=X'_{r}=1.5\\Omega[/latex] Neglect stator resistance and core and rotational losses of the motor. The motor\nis controlled from a 3-phase voltage source inverter with constant V/f control.\nThe stator line-to-line voltage(rms) and frequency to obtain the maximum torque\nat starting will be :",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508162",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "31% and 6.8A"
+        },
+        {
+          "id": "B",
+          "text": "31% and 7.8A"
+        },
+        {
+          "id": "C",
+          "text": "66% and 6.8A"
+        },
+        {
+          "id": "D",
+          "text": "66% and 7.8A"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three phase fully controlled bridge converter is feeding a load drawing a constant and ripple free load current of 10 A at a firing angle of 30[latex]^{\\circ}[/latex]. The approximate Total harmonic Distortion (%THD) and the rms value of fundamental component of input current will respectively be",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508164",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The transfer function of a linear time invariant system is given as [latex]G(s)=\\frac{1}{s^{2}+3s+2}[/latex] The steady state value of the output of the system for a unit impulse input applied at time instant t=1 will be",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508165",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]C_{1}[/latex] is a lead compensator and [latex]C_{2}[/latex] is a lag compensator"
+        },
+        {
+          "id": "B",
+          "text": "[latex]C_{1}[/latex] is a lag compensator and [latex]C_{2}[/latex] is a lead compensator"
+        },
+        {
+          "id": "C",
+          "text": "Both [latex]C_{1}\\; and \\; C_2[/latex] are lead compensator"
+        },
+        {
+          "id": "D",
+          "text": "Both [latex]C_{1}\\; and \\; C_2[/latex] are lag compensator"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The transfer functions of two compensators are given below : [latex]C_{1}=\\frac{10(s+1)}{(s+10)},C_{2}=\\frac{s+10}{10(s+1)}[/latex] Which one of the following statements is correct ?",
+      "topic": "Design of Control Systems",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508168",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "An over damped system"
+        },
+        {
+          "id": "B",
+          "text": "An under damped system"
+        },
+        {
+          "id": "C",
+          "text": "A critically damped system"
+        },
+        {
+          "id": "D",
+          "text": "An unstable system"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The transfer function of a system is given as [latex]\\frac{100}{s^{2}+20s+100}[/latex]. This system is",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508178",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{s}{(s+2)}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{s+1}{(s+2)}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{s}{(s-2)}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{s(s+2)}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The state space equation of a system is described by [latex]\\dot{x}=Ax+Bu[/latex], [latex]y=Cx[/latex] where [latex]x[/latex] is state vector, u is input, y is output and [latex]A=\\begin{bmatrix} 0 &1 \\\\ 0 &-2 \\end{bmatrix}[/latex], [latex]B=\\begin{bmatrix} 0\\\\ 1 \\end{bmatrix}[/latex], [latex]C=[1 \\; \\; 0][/latex] The transfer function G(s) of this system will be",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508182",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "6 V"
+        },
+        {
+          "id": "B",
+          "text": "234 V"
+        },
+        {
+          "id": "C",
+          "text": "240 V"
+        },
+        {
+          "id": "D",
+          "text": "474 V"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 240 V, dc shunt motor draws 15 A while supplying the rated load at a speed\r\nof 80 rad/s. The armature resistance is 0.5 [latex]\\Omega[/latex] and the field winding resistance is\r\n80 [latex]\\Omega[/latex]. The net voltage across the armature resistance at the time of plugging will be",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508183",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "31.1[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "31.9[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "15.1[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "15.9[latex]\\Omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 240 V, dc shunt motor draws 15 A while supplying the rated load at a speed\r\nof 80 rad/s. The armature resistance is 0.5 [latex]\\Omega[/latex] and the field winding resistance is\r\n80 [latex]\\Omega[/latex]. The external resistance to be added in the armature circuit to limit the armature\r\ncurrent to 125% of its rated value is",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508184",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.8 pu and 36.86[latex]^{\\circ}[/latex] lag"
+        },
+        {
+          "id": "B",
+          "text": "0.8 pu and 36.86[latex]^{\\circ}[/latex] lead"
+        },
+        {
+          "id": "C",
+          "text": "1.17 pu and 30.96[latex]^{\\circ}[/latex] lead"
+        },
+        {
+          "id": "D",
+          "text": "1.17 pu and 30.96[latex]^{\\circ}[/latex] lag"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A synchronous motor is connected to an infinite bus at 1.0 pu voltage and draws\n0.6 pu current at unity power factor. Its synchronous reactance is 1.0 pu resistance\nis negligible. The excitation voltage (E) and load angle ([latex]\\delta[/latex]) will respectively be",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "1508185",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.995 lagging"
+        },
+        {
+          "id": "B",
+          "text": "0.995 leading"
+        },
+        {
+          "id": "C",
+          "text": "0.791 lagging"
+        },
+        {
+          "id": "D",
+          "text": "0.848 leading"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A synchronous motor is connected to an infinite bus at 1.0 pu voltage and draws\n0.6 pu current at unity power factor. Its synchronous reactance is 1.0 pu resistance\nis negligible. Keeping the excitation voltage same, the load on the motor is increased such that\nthe motor current increases by 20%. The operating power factor will become",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "10810415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/8[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "X is a uniformly distributed random variable that takes values between 0 and 1.\nThe value of E{[latex]X^{3}[/latex]} will be",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "10810515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](P^{2}+P+2I)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](P^{2}+P+I)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-(P^{2}+P+I)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-(P^{2}+P+2I)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The characteristic equation of a (3x3) matrix P is defined as [latex]a(\\lambda )|\\lambda I-P|= \\lambda ^{3}+ \\lambda ^{2}+ 2\\lambda +1=0[/latex] If [latex]I[/latex] denotes identity matrix, then the inverse of matrix [latex]P[/latex] will be",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "10810615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Q[/latex] will have four linearly independent rows and four linearly independent columns"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Q[/latex] will have four linearly independent rows and five linearly independent columns"
+        },
+        {
+          "id": "C",
+          "text": "[latex]QQ^{T}[/latex]will be invertible"
+        },
+        {
+          "id": "D",
+          "text": "[latex]Q^{T}Q[/latex] will be invertible"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If the rank of a (5x6) matrix [latex]Q[/latex] is 4, then which one of the following statement\r\nis correct ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "10813415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "only one minimum"
+        },
+        {
+          "id": "B",
+          "text": "only tw0 minima"
+        },
+        {
+          "id": "C",
+          "text": "three minima"
+        },
+        {
+          "id": "D",
+          "text": "three maxima"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider function  [latex]f (x) =(x^{2}-4)^{2}[/latex] where x is a real number. Then the function has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "10813515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.71828"
+        },
+        {
+          "id": "B",
+          "text": "0.36784"
+        },
+        {
+          "id": "C",
+          "text": "0.20587"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Equation [latex]e^{x} - 1 = 0[/latex] is required to be solved using Newton's method with an initial guess [latex]x_0=-1[/latex]. Then, after one step of Newton's method, estimate [latex]x_1[/latex] of the solution will be given by",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "10813615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]AA^+A=A[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](AA^+)^{2}=AA^+[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]A^+A=I[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]AA^+A=A^+[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A is [latex]m \\times n[/latex] full rank matrix with [latex]m \\gt n[/latex] and I is identity matrix. Let matrix\r\n[latex]A^{+} = (A^{T}A)^{-1}A^{T}[/latex]. Then, which one of the following statement is FALSE ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "10813715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.00099"
+        },
+        {
+          "id": "B",
+          "text": "0.00495"
+        },
+        {
+          "id": "C",
+          "text": "0.0099"
+        },
+        {
+          "id": "D",
+          "text": "0.0198"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A differential equation [latex]\\frac{dx}{dt} = e^{-2t}[/latex]u(t), has to be solved using trapezoidal rule of integration with a step size h=0.01s. Function u(t) indicates a unit step function. If x(0-)=0, then value of x at t=0.01s will be given by",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    },
+    {
+      "branch": "EE",
+      "id": "10813815",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]|P{\\vec{x}}|\\leq |\\vec{x}|[/latex] where at least one vector satisfies [latex]|P{\\vec{x}}|\\lt|\\vec{x}|[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]|P{\\vec{x}}|= |\\vec{x}|[/latex] for all vector  [latex]\\vec{x}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]|P{\\vec{x}}|\\geq |\\vec{x}|[/latex] where at least one vector satisfies [latex]|P{\\vec{x}}|\\gt |\\vec{x}|[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "No relationship can be established between [latex]|{\\vec{x}}| \\; and \\; |P\\vec{x}|[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let P be a 2x2 real orthogonal matrix and [latex]\\vec{x}[/latex] is a real vector [latex][x_{1},x_{2}]^{T}[/latex] with length [latex]|\\vec{x}|=(x_{1}^{2}+x_{2}^{2})^{1/2}[/latex]. Then, which one of the following statements is correct?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2008
+    }
+  ],
+  "schema_version": 1
+}

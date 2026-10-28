@@ -1,0 +1,1245 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1512101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3/4[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]9/16[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2/3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two independent random variables X and Y are uniformly distributed in the\ninterval [-1,1]. The probability that max [X,Y] is less than 1/2 is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{-\\pi/2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{\\pi/2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]x = \\sqrt{-1}[/latex], then the value of [latex]x^{x}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2"
+        },
+        {
+          "id": "B",
+          "text": "-1"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given [latex]f(z)=\\frac{1}{z+1}-\\frac{2}{z+3}[/latex]. If C is a counter clockwise path in the z-plane such that |z+1|=1, the value of [latex]\\frac{1}{2 \\pi j}\\oint_{C}f(z)dz[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\omega[/latex]\n = 1 rad/s"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\omega[/latex]\n= 2 rad/s"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\omega[/latex]\n = 3 rad/s"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\omega[/latex]\n = 4 rad/s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A system with transfer function [latex]G(s)=\\frac{(s^{2}+9)(s+2)}{(s+1)(s+3)(s+4)}[/latex] is excited by [latex]sin(\\omega t)[/latex]\r\n. The steady-state output of the system is zero at",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\bar{X}Y,X\\bar{Y}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\bar{X}Y,X\\bar{Y}\\bar{Z},X\\bar{Y}Z[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\bar{X}Y\\bar{Z},\\bar{X}YZ,X\\bar{Y}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\bar{X}Y\\bar{Z},\\bar{X}YZ,X\\bar{Y}\\bar{Z},X\\bar{Y}Z[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the sum of products function f(X,Y,Z)=[latex]\\sum[/latex](2,3,4,5), the prime implicants are",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{3} \\lt |z| \\lt 3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{3} \\lt |z| \\lt 1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2} \\lt |z| \\lt 3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{3} \\lt |z|[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]x[n] = (1/3)^{|n|}-(1/2)^{n} u[n][/latex], then the region of convergence (ROC) of its Z-transform in the Z-plane will be",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The bus admittance matrix of a three-bus three-line system is [latex]Y=j\\begin{bmatrix} -13 & 10 & 5\\\\ 10& -18 & 10\\\\ 5 & 10 & -13 \\end{bmatrix}[/latex] If each transmission line between the two buses is represented by an equivalent [latex]\\pi[/latex]-network, the magnitude of the shunt susceptance of the line connecting bus 1 and 2 is",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "rotor speed"
+        },
+        {
+          "id": "B",
+          "text": "synchronous speed"
+        },
+        {
+          "id": "C",
+          "text": "shaft torque"
+        },
+        {
+          "id": "D",
+          "text": "core-loss component"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The slip of an induction motor normally does not depend on",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-\\phi _{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\phi _{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](\\pi/2-\\phi _{2})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](\\pi/2+\\phi _{2})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A two-phase load draws the following phase currents : [latex]i_{1}(t)=I_{m}sin(\\omega t-\\phi _{1})[/latex], [latex]i_{2}(t)=I_{m}cos(\\omega t-\\phi _{2})[/latex]. These currents are balanced if [latex]\\phi _{1}[/latex] is equal to.",
+      "topic": "Three-Phase Circuits",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Heaviside Campbell bridge"
+        },
+        {
+          "id": "B",
+          "text": "Schering bridge"
+        },
+        {
+          "id": "C",
+          "text": "De Sauty bridge"
+        },
+        {
+          "id": "D",
+          "text": "Wien bridge"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The bridge method commonly used for finding mutual inductance is",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x=t-\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x=t^{2}-\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x=\\frac{t^{2}}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x=\\frac{t}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "With initial condition x(1)=0.5, the solution of the differential equation [latex]t\\frac{dx}{dt}+x=t[/latex], is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-\\frac{s}{(s^{2}+s+1)^{2}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-\\frac{2s+1}{(s^{2}+s+1)^{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{s}{(s^{2}+s+1)^{2}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{2s+1}{(s^{2}+s+1)^{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The unilateral Laplace transform of [latex]f(t)[/latex] is [latex]\\frac{1}{s^{2}+s+1}[/latex]. The unilateral Laplace transform of [latex]tf(t)[/latex] is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "44.2 W"
+        },
+        {
+          "id": "B",
+          "text": "50 W"
+        },
+        {
+          "id": "C",
+          "text": "62.5 W"
+        },
+        {
+          "id": "D",
+          "text": "125 W"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The average power delivered to an impedance [latex](4-j3)\\Omega[/latex] by a current\r\n5cos(100[latex]\\pi[/latex]t+100)A is",
+      "topic": "Steady State AC Analysis",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The output Y of a 2-bit comparator is logic 1 whenever the 2-bit input A is\ngreater than the 2-bit input B. The number of combinations for which the output\nis logic 1, is",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "LG"
+        },
+        {
+          "id": "B",
+          "text": "LL"
+        },
+        {
+          "id": "C",
+          "text": "LLG"
+        },
+        {
+          "id": "D",
+          "text": "LLLG"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The sequence components of the fault current are as follows : [latex]I_{positive}=j1.5[/latex] pu,\r\n[latex]I_{negative}=-j0.5[/latex] pu, [latex]I_{zero}=-j1[/latex] pu. The type of fault in the system is",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](1-\\alpha /\\pi)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\alpha /2\\pi[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\alpha /\\pi[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A half-controlled single-phase bridge rectifier is supplying an R-L load. It is\noperated at a firing angle [latex]\\alpha[/latex] and the load current is continuous. The fraction of\ncycle that the freewheeling diode conducts is",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "0.5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The typical ratio of latching current to holding current in a 20 A thyristor is",
+      "topic": "Power Semiconductor Devices and Commutation Techniques",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]15A+12I[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]19A+30I[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]17A+15I[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]17A+21I[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given that [latex]A=\\begin{bmatrix} -5 &-3 \\\\ 2&0 \\end{bmatrix} \\; and \\; I=\\begin{bmatrix} 1 & 0\\\\ 0&1 \\end{bmatrix}[/latex], the value of [latex]A^{3}[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "21"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "41"
+        },
+        {
+          "id": "D",
+          "text": "46"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The maximum value of [latex]f(x)=x^{3}-9x^{2}+24x+5[/latex] in the interval [1,6] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3/2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let y[n] denote the convolution of h[n] and g[n], where h[n]=[latex](1/2)^{n}[/latex]u[n] and g[n] is a causal sequence. If y[0]=1 and y[1]=1/2, then g[1] equals",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "53.5"
+        },
+        {
+          "id": "B",
+          "text": "60.2"
+        },
+        {
+          "id": "C",
+          "text": "70.8"
+        },
+        {
+          "id": "D",
+          "text": "79.6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A cylinder rotor generator delivers 0.5 pu power in the steady-state to an infinite\nbus through a transmission line of reactance 0.5 pu. The generator no-load voltage\nis 1.5 pu and the infinite bus voltage is 1 pu. The inertia constant of the generator\nis 5MW-s/MVA and the generator reactance is 1 pu. The critical clearing angle,\nin degrees, for a three-phase dead short circuit fault at the generator terminal is",
+      "topic": "Power System Stability",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "18.18% increase"
+        },
+        {
+          "id": "B",
+          "text": "18.18% decrease"
+        },
+        {
+          "id": "C",
+          "text": "36.36% increase"
+        },
+        {
+          "id": "D",
+          "text": "36.36% decrease"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 220 V, 15 kW, 100 rpm shunt motor with armature resistance of 0.25 [latex]\\Omega[/latex], has a\nrated line current of 68 A and a rated field current of 2.2 A. The change in field\nflux required to obtain a speed of 1600 rpm while drawing a line current of 52.8 A\nand a field current of 1.8 A is",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2/3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3/4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A fair coin is tossed till a head appears for the first time. The probability that the\nnumber of required tosses is odd, is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The direction of vector A is radially outward from the origin, with [latex]|A|=kr^{n}[/latex], where [latex]r^{2}=x^{2}+y^{2}+z^{2}[/latex] and k is a constant. The value of n for which [latex]\\bigtriangledown \\cdot A= 0[/latex] is",
+      "topic": "Electromagnetic Theory",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2"
+        },
+        {
+          "id": "B",
+          "text": "-1"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the differential equation [latex]\\frac{d^{2}y(t)}{dt^{2}}+2\\frac{dy(t)}{dt}+y(t)=\\delta (t)[/latex] with [latex]y(t)|_{t=0^{-}}=-2[/latex] and [latex]\\frac{dy}{dt}|_{t=0^{-}}=0[/latex] The numerical value of [latex]\\frac{dy}{dt}|_{t=0^{+}}[/latex], is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a_{1}\\neq 0,a_{2}=0,a_{3} \\neq 0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]a_{1}= 0,a_{2} \\neq 0,a_{3} \\neq 0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]a_{1}= 0,a_{2}\\neq 0,a_{3} = 0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]a_{1}\\neq 0,a_{2}\\neq 0,a_{3} = 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The state variable description of an LTI system is given by [latex]\\begin{pmatrix} \\dot{x_{1}}\\\\ \\dot{x_{2}}\\\\ \\dot{x_{3}} \\end{pmatrix}=\\begin{pmatrix} 0 & a_{1}&0 \\\\ 0& 0& a_{2}\\\\ a_{3}& 0& 0 \\end{pmatrix}\\begin{pmatrix} x_{1}\\\\ x_{2}\\\\ x_{3} \\end{pmatrix}+\\begin{pmatrix} 0\\\\ 0\\\\ 1 \\end{pmatrix}u[/latex] [latex] y=(1 \\;\\;0\\;\\; 0)\\begin{pmatrix} x_{1}\\\\ x_{2}\\\\ x_{3} \\end{pmatrix}[/latex] where y is the output and u is the input. The system is controllable for",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/4[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Fourier transform of a signal h(t) is [latex]H(j \\omega)=(2\\cos\\omega)(\\sin 2 \\omega)/\\omega[/latex]. The value of h(0) is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "time-invariant and stable"
+        },
+        {
+          "id": "B",
+          "text": "stable and not time-invariant"
+        },
+        {
+          "id": "C",
+          "text": "time-invariant and not stable"
+        },
+        {
+          "id": "D",
+          "text": "not time-invariant and not stable"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The input x(t) and output y(t) of a system are related as [latex]y(t)=\\int^{t}_{-\\infty }x(\\tau ) cos (3\\tau )d\\tau[/latex]. The system is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "371V"
+        },
+        {
+          "id": "B",
+          "text": "383V"
+        },
+        {
+          "id": "C",
+          "text": "394V"
+        },
+        {
+          "id": "D",
+          "text": "406V"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An analog voltmeter uses external multiplier settings. With a multiplier setting of\n20 k[latex]\\Omega[/latex], it reads 440 V and with a multiplier setting of 80 k[latex]\\Omega[/latex], it reads 352 V. For a multiplier setting of 40 k[latex]\\Omega[/latex], the voltmeter reads",
+      "topic": "Galvanometers, Voltmeters and Ammeters",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "58.5A"
+        },
+        {
+          "id": "B",
+          "text": "45.0A"
+        },
+        {
+          "id": "C",
+          "text": "42.7A"
+        },
+        {
+          "id": "D",
+          "text": "55.6A"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The locked rotor current in a 3-phase, star connected 15 kW, 4 pole, 230 V, 50 Hz\ninduction motor at rated conditions is 50 A. Neglecting losses and magnetizing\ncurrent, the approximate locked rotor line current drawn when the motor is\nconnected to a 236 V, 57 Hz supply is",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.7 A, 77.8 A"
+        },
+        {
+          "id": "B",
+          "text": "0.7 A, 155.6W"
+        },
+        {
+          "id": "C",
+          "text": "1A, 110W"
+        },
+        {
+          "id": "D",
+          "text": "1A, 220W"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single phase 10 kVA, 50 Hz transformer with 1 kV primary winding draws\n0.5 A and 55W, at rated voltage and frequency, on no load. A second transformer\nhas a core with all its linear dimensions [latex]\\sqrt{2}[/latex] times the corresponding dimensions\nof the first transformer. The core material and lamination thickness are the same\nin both transformer. The primary winding of both the transformers have the save\nnumber of turns. If a rate voltage of 2 kV at 50 Hz is applied to the primary of\nthe second transformer, then the no load current and power, respectively, are",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512154",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a = 1, b = 2"
+        },
+        {
+          "id": "B",
+          "text": "a = 3, b = 2"
+        },
+        {
+          "id": "C",
+          "text": "a =- 3, b =- 1"
+        },
+        {
+          "id": "D",
+          "text": "a = 3, b = 1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The transfer function of a compensator is given as [latex]G_c(s)=\\frac{s+a}{s+b}[/latex] [latex]G_c(s)[/latex] is a lead compensator if",
+      "topic": "Design of Control Systems",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "1512155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sqrt{2} [/latex] rad/s"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{3} [/latex] rad/s"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{6} [/latex] rad/s"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/ \\sqrt{3} [/latex] rad/s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The transfer function of a compensator is given as [latex]G_c(s)=\\frac{s+a}{s+b}[/latex] The phase of the above lead compensator is maximum at",
+      "topic": "Design of Control Systems",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "11210115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3/4[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]9/16[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2/3[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two independent random variables X and Y are uniformly distributed in the\ninterval [-1,1]. The probability that max [X,Y] is less than 1/2 is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "11210215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{-\\pi/2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{\\pi/2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]x = \\sqrt{-1}[/latex], then the value of [latex]x^{x}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "11210315",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2"
+        },
+        {
+          "id": "B",
+          "text": "-1"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given [latex]f(z)=\\frac{1}{z+1}-\\frac{2}{z+3}[/latex]. If C is a counter clockwise path in the z-plane such that |z+1|=1, the value of [latex]\\frac{1}{2 \\pi j}\\oint_{C}f(z)dz[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "11211415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x=t-\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x=t^{2}-\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x=\\frac{t^{2}}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x=\\frac{t}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "With initial condition x(1)=0.5, the solution of the differential equation [latex]t\\frac{dx}{dt}+x=t[/latex], is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "11212615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]15A+12I[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]19A+30I[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]17A+15I[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]17A+21I[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given that [latex]A=\\begin{bmatrix} -5 &-3 \\\\ 2&0 \\end{bmatrix} \\; and \\; I=\\begin{bmatrix} 1 & 0\\\\ 0&1 \\end{bmatrix}[/latex], the value of [latex]A^{3}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "11212715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "21"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "41"
+        },
+        {
+          "id": "D",
+          "text": "46"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The maximum value of [latex]f(x)=x^{3}-9x^{2}+24x+5[/latex] in the interval [1,6] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    },
+    {
+      "branch": "EE",
+      "id": "11213715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1/3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2/3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3/4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A fair coin is tossed till a head appears for the first time. The probability that the\nnumber of required tosses is odd, is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2012
+    }
+  ],
+  "schema_version": 1
+}

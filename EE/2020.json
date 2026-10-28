@@ -1,0 +1,1168 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1520101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "d can be chosen to ensure that x = 0 is a root for any given set a, b, c."
+        },
+        {
+          "id": "B",
+          "text": "No choice of coefficients can make all roots identical."
+        },
+        {
+          "id": "C",
+          "text": "a, b, c, d can be chosen to ensure that all roots are complex."
+        },
+        {
+          "id": "D",
+          "text": "c alone cannot ensure that all roots are real."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]ax^3+bx^2+cx+d[/latex] is a polynomial on real [latex]x[/latex] over real coefficients [latex]a, b, c, d[/latex] wherein\n[latex]a \\neq 0[/latex]. Which of the following statements is true?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{\\pi}\\int_{0}^{\\pi}\\sin m\\theta \\sin n\\theta \\; d\\theta =0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2\\pi}\\int_{-\\pi/2}^{\\pi/2}\\sin p\\theta \\sin q\\theta \\; d\\theta =0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2\\pi}\\int_{-\\pi}^{\\pi}\\sin p\\theta \\cos q\\theta \\; d\\theta =0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\lim_{\\alpha \\to \\infty }\\frac{1}{2\\alpha }\\int_{-\\alpha }^{\\alpha }\\sin p\\theta \\sin q\\theta \\; d\\theta =0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which of the following is true for all possible non-zero choices of integers [latex]m, n; m \\neq n[/latex],\nor all possible non-zero choices of real numbers [latex]p, q ; p\\neq q[/latex], as applicable?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It exists for every signal that may or may not have a Fourier transform."
+        },
+        {
+          "id": "B",
+          "text": "It has no poles for any bounded signal that is non-zero only inside a finite time\ninterval."
+        },
+        {
+          "id": "C",
+          "text": "The number of finite poles and finite zeroes must be equal."
+        },
+        {
+          "id": "D",
+          "text": "If a signal can be expressed as a weighted sum of shifted one sided exponentials,\nthen its Laplace Transform will have no poles."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which of the following statements is true about the two sided Laplace transform?",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]|z| \\lt 2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]|z| \\gt 2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]|z| \\lt 1/2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]|z| \\gt 1/2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a signal  [latex]x[n]=\\left ( \\frac{1}{2} \\right )^n \\; 1[n][/latex], where 1[n]=0 if [latex]n \\lt 0[/latex], and 1[n]=1 if [latex]n \\geq 0.[/latex] The\r\nz-transform of [latex]x[n-k], k \\gt 0[/latex] is [latex]\\frac{z^{-k}}{1-\\frac{1}{2}z^{-1}}[/latex]\r\nwith region of convergence being",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]8 \\pi i[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-8 \\pi i[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]- \\pi i[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] \\pi i[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of the following complex integral, with C representing the unit circle centered\nat origin in the counterclockwise sense, is: [latex]\\int_{c}\\frac{z^2+1}{z^2-2z}dz[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y_A=kx_A;\\; y_R=kx_R[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y_A=kx_A;\\; y_R\\neq kx_R[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y_A \\neq kx_A;\\; y_R= kx_R[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y_A \\neq kx_A;\\; y_R\\neq kx_R[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]x_R\\; and \\; x_A[/latex] are, respectively, the rms and average values of [latex]x(t) = x(t - T)[/latex], and similarly,\n[latex]y_R\\; and \\; y_A[/latex] are, respectively, the rms and average values of [latex]y(t) = kx(t). k, \\;T[/latex] are\nindependent of t. Which of the following is true?",
+      "topic": "Network Theorems",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P is false and Q is true."
+        },
+        {
+          "id": "B",
+          "text": "P is true and Q is false."
+        },
+        {
+          "id": "C",
+          "text": "P is false and Q is false."
+        },
+        {
+          "id": "D",
+          "text": "P is true and Q is true."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase cylindrical rotor synchronous generator has a synchronous reactance [latex]X_s[/latex]\nand a negligible armature resistance. The magnitude of per phase terminal voltage is\n[latex]V_A[/latex] and the magnitude of per phase induced emf is [latex]E_A[/latex]. Considering the following two\nstatements, P and Q. P : For any three-phase balanced leading load connected across the terminals of this\nsynchronous generator, [latex]V_A[/latex] is always more than [latex]E_A[/latex]. Q : For any three-phase balanced lagging load connected across the terminals of this\nsynchronous generator, [latex]V_A[/latex] is always less than [latex]E_A[/latex]. Which of the following options is correct?",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "3.61"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6.25"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A lossless transmission line with 0.2 pu reactance per phase uniformly distributed along\nthe length of the line, connecting a generator bus to a load bus, is protected up to 80%\nof its length by a distance relay placed at the generator bus. The generator terminal\nvoltage is 1 pu. There is no generation at the load bus. The threshold pu current for\noperation of the distance relay for a solid three phase-to-ground fault on the transmission\nline is closest to:",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "solution of economic load dispatch"
+        },
+        {
+          "id": "B",
+          "text": "rated power output of the generator"
+        },
+        {
+          "id": "C",
+          "text": "rated voltage of the generator"
+        },
+        {
+          "id": "D",
+          "text": "base power of the generator"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Out of the following options, the most relevant information needed to specify the real\npower (P) at the PV buses in a load flow analysis is",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "+2j, -2j"
+        },
+        {
+          "id": "B",
+          "text": "+2, -2"
+        },
+        {
+          "id": "C",
+          "text": "+4, -4"
+        },
+        {
+          "id": "D",
+          "text": "+4j, -4j"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a linear time-invariant system whose input r(t) and output y(t) are related by\nthe following differential equation. [latex]\\frac{d^2y(t)}{dt^2}+4y(t)=6r(t)[/latex] The poles of this system are at",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "50 Hz, 0 Hz"
+        },
+        {
+          "id": "B",
+          "text": "50 Hz, 100 Hz"
+        },
+        {
+          "id": "C",
+          "text": "50 Hz, 150 Hz"
+        },
+        {
+          "id": "D",
+          "text": "50 Hz, 250 Hz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase, full-bridge diode rectifier fed from a 230 V, 50 Hz sinusoidal source\nsupplies a series combination of finite resistance. R, and a very large inductance, L,\nThe two most dominant frequency components in the source current are:",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2.44"
+        },
+        {
+          "id": "B",
+          "text": "-1.22"
+        },
+        {
+          "id": "C",
+          "text": "1.22"
+        },
+        {
+          "id": "D",
+          "text": "2.44"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A common-source amplifier with a drain resistance, [latex]R_D = 4.7 k\\Omega[/latex], is powered using a\n10 V power supply. Assuming that the transconductance, [latex]g_m, \\;is\\; 520 \\mu A/V[/latex], the voltage\ngain of the amplifier is closest to:",
+      "topic": "Operational Amplifiers",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1,1,0,0,0,0,1,1,0,1,0,0"
+        },
+        {
+          "id": "B",
+          "text": "0,1,0,0,0,0,0,1,0,1,0,0"
+        },
+        {
+          "id": "C",
+          "text": "0,1,0,0,0,0,0,1,0,1,1,0"
+        },
+        {
+          "id": "D",
+          "text": "0,1,0,0,0,0,0,0,1,0,0,0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A sequence detector is designed to detect precisely 3 digital inputs, with overlapping\r\nsequences detectable. For the sequence (1,0,1) and input data (1,1,0,1,0,0,1,1,0,1,0,1,1,0): what is the output of this detector?",
+      "topic": "Sequential Logic Circuits",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520116",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the initial value problem below. The value of y at [latex]x = ln \\;2[/latex]. (rounded off to 3\ndecimal places) is ________ . [latex]\\frac{dy}{dx}=2x-y,\\; y(0)=1[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase, 4 kVA, 200 V/100 V, 50 Hz transformer with laminated CRGO steel core\nhas rated no-load loss of 450 W. When the high-voltage winding is excited with 160 V,\n40 Hz sinusoidal ac supply, the no-load losses are found to be 320 W. When the highvoltage winding of the same transformer is supplied from a 100 V, 25 Hz sinusoidal ac\nsource, the no-load losses will be _________W (rounded off to 2 decimal places).",
+      "topic": "Transformers",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single 50 Hz synchronous generator on droop control was delivering 100 MW power\nto a system. Due to increase in load, generator power had to be increased by 10 MW.\nas a result of which, system frequency dropped to 49.75 Hz. Further increase in load\nin the system resulted in a frequency of 49.25 Hz. At this condition, the power in MW\nsupplied by the generator is ________ (rounded off to 2 decimal places)",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a negative unity feedback system with forward path transfer function\n[latex]G(s)=\\frac{K}{(s+a)(s-b)(s+c)}[/latex], where K, a, b, c are positive real numbers. For a Nyquist\npath enclosing the entire imaginary axis and right half of the s-plane in the clockwise\ndirection, the Nyquist plot of [latex](1 + G(s))[/latex], encircles the origin of [latex](1 + G(s))[/latex]-plane once\nin the clockwise direction and never passes through this origin for a certain value of\nK. Then, the number of poles of [latex]\\frac{G(s)}{1+G(s)}[/latex] lying in the open right half of the s-plane is\n_________ .",
+      "topic": "Frequency Response Analysis",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "7 and 1/4"
+        },
+        {
+          "id": "B",
+          "text": "7 and 1"
+        },
+        {
+          "id": "C",
+          "text": "-2 and -1/2"
+        },
+        {
+          "id": "D",
+          "text": "1 and 1/4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The real numbers, x and y with [latex]y = 3x^2 + 3x + 1[/latex], the maximum and minimum value\nof y for [latex]x \\in [-2, 0][/latex] are respectively ________",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]k_1=3, k_2=3, k_3=7[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]k_1=3, k_2=8, k_3=5[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]k_1=4, k_2=5, k_3=3[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]k_1=0, k_2=0, k_3=0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The vector function expressed by [latex]F = a_x(5y - k_1z) + a_y(3z + k_2x) + a_z(k_3y - 4x)[/latex] represents\na conservative field, where [latex]a_x, a_y, a_z[/latex] are unit vectors along x, y and z directions,\nrespectively. The values of constants [latex]k_1, k_2, k_3[/latex] are given by:",
+      "topic": "Electromagnetic Theory",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1200"
+        },
+        {
+          "id": "B",
+          "text": "1000"
+        },
+        {
+          "id": "C",
+          "text": "1220"
+        },
+        {
+          "id": "D",
+          "text": "900"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 250 V dc shunt motor has an armature resistance of 0.2[latex]\\Omega[/latex] and a field resistance of\r\n100[latex]\\Omega[/latex]. When the motor is operated on no-load at rated voltage. It draws an armature\r\ncurrent of 5 A and runs at 1200 rpm. When a load is coupled to the motor, it draws\r\ntotal line current of 50 A at rated voltage, with a 5% reduction in the air-gap flux due\r\nto armature reaction. Voltage drop across the brushes can be taken as 1 V per brush\r\nunder all operating conditions. The speed of the motor, in rpm, under this loaded\r\ncondition, is closest to:",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "-0.02"
+        },
+        {
+          "id": "B",
+          "text": "-0.09"
+        },
+        {
+          "id": "C",
+          "text": "-1.5"
+        },
+        {
+          "id": "D",
+          "text": "-4.5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A non-ideal diode is biased with a voltage of -0.03 V, and a diode current of [latex]I_1[/latex] is\nmeasured. The thermal voltage is 26 mV and the ideality factor for the diode is 15/13.\nThe voltage, in V, at which the measured current increases to 1.5[latex]I_1[/latex] is closest to:",
+      "topic": "Power Semiconductor Devices and Commutation Techniques",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Short, [latex]\\infty[/latex] A, 10 V"
+        },
+        {
+          "id": "B",
+          "text": "Open, 4 A, 0 V"
+        },
+        {
+          "id": "C",
+          "text": "2.5 [latex]\\Omega[/latex], 4 A, 10 V"
+        },
+        {
+          "id": "D",
+          "text": "2.5 [latex]\\Omega[/latex], 4 A, 5 V"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A benchtop dc power supply acts as an ideal 4 A current source as long as its terminal\nvoltage is below 10 V. Beyond this point, it begins to behave as an ideal 10 V voltage\nsource for all load currents going down to 0 A. When connected to an ideal rheostat,\nfind the load resistance value at which maximum power is transferred, and the corresponding\nload voltage and current.",
+      "topic": "Network Theorems",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3\\varepsilon _0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4\\varepsilon _0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]5\\varepsilon _0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]9\\varepsilon _0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The static electric field inside a dielectric medium with relative permittivity, [latex]\\varepsilon _r = 2.25[/latex],\nexpressed in cylindrical coordinate system is given by the following expression [latex]E=a_r 2r+a_\\varphi \\left ( \\frac{3}{r} \\right )+a_z6[/latex] where [latex]a_r,a_\\varphi ,a_z[/latex] are unit vectors along [latex]r, \\varphi \\; and \\;z[/latex] directions, respectively. If the above\nexpression represents a valid electrostatic field inside the medium, then the volume\ncharge density associated with this field in terms of free space permittivity, [latex]\\varepsilon _0[/latex], in SI\nunits is given by:",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{10}{0.5s+1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{2}{0.5s+1}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2}{s+0.5}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{10}{s+0.5}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a permanent magnet dc (PMDC) motor which is initially at rest. At t=0, a\ndc voltage of 5 V is applied to the motor. Its speed monotonically increases from 0 rad/s\nto 6.32 rad/s in 0.5 s and finally settles to 10 rad/s. Assuming that the armature\ninductance of the motor is negligible, the transfer function for the motor is",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520136",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a negative unity feedback system with the forward path transfer function [latex]\\frac{s^2+s+1}{s^3+2s^2+2s+K}[/latex], where K is a positive real number. The value of K for which the system\nwill have some of its poles on the imaginary axis is ________ .",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "For all [latex]t \\in (-\\infty ,\\infty ), z(t)\\leq y(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "For some but not all [latex]t \\in (-\\infty ,\\infty ), z(t)\\leq y(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "For all [latex]t \\in (-\\infty ,\\infty ), z(t)\\geq y(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "For some but not all [latex]t \\in (-\\infty ,\\infty ), z(t)\\geq y(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Suppose for input [latex]x(t)[/latex] a linear time-invariant system with impulse response [latex]h(t)[/latex] produces\noutput [latex]y(t)[/latex], so that [latex]x(t)*h(t)=y(t)[/latex]. Further, if [latex]|x(t)|*|h(t)|=z(t)[/latex], which of the following\nstatements is true?",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "stable, real, allpass"
+        },
+        {
+          "id": "B",
+          "text": "unstable, complex, allpass"
+        },
+        {
+          "id": "C",
+          "text": "unstable, real, highpass"
+        },
+        {
+          "id": "D",
+          "text": "stable, complex, lowpass"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The causal realization of a system transfer function H(s) having poles at (2,-1), (-2,1)\nand zeroes at (2,1), (-2,-1) will be",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520139",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "y[n] is unaffected by the values of [latex]x[n - k]; k \\gt 2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "The system is necessarily causal."
+        },
+        {
+          "id": "C",
+          "text": "The system impulse response is non-zero at infinitely many instants."
+        },
+        {
+          "id": "D",
+          "text": "When [latex]x[n] = 0, n \\lt 0[/latex], the function [latex]y[n]; n \\gt 0[/latex] is solely determined by the function x[n]."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which of the following options is true for a linear time-invariant discrete time system that\nobeys the difference equation: [latex]y[n]-ay[n-1]=b_0x[n]-b_1x[n-1][/latex]",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520140",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]108 \\pi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]54 \\pi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]90 \\pi[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]180 \\pi[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]a_r, a_\\phi \\; and \\; a_z[/latex] be unit vectors along [latex]r, \\phi \\; and \\; z[/latex] directions, respectively in the cylindrical\ncoordinate system. For the electric flux density given by [latex]D = (a_r15 + a_\\phi 2r - a_z3rz)[/latex] Coulomb/[latex]m^2[/latex], the total electric flux, in Coulomb, emanating from the volume enclosed\nby a solid cylinder of radius 3 m and height 5 m oriented along the z-axis with its base\nat the origin is:",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520141",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "8.84"
+        },
+        {
+          "id": "B",
+          "text": "11.08"
+        },
+        {
+          "id": "C",
+          "text": "78.13"
+        },
+        {
+          "id": "D",
+          "text": "122.87"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A stable real linear time-invariant system with single pole at p, has a transfer function [latex]H(s)=\\frac{s^2+100}{s-p}[/latex]\nwith a dc gain of 5. The smallest positive frequency, in rad/s at unity\ngain is closed to:",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The number of purely real elements in a lower triangular representation of the given 3x3\nmatrix, obtained through the given decomposition is [latex]\\begin{bmatrix} 2 &3 &3 \\\\ 3& 2 & 1\\\\ 3& 1 & 7 \\end{bmatrix}=[/latex] [latex]\\begin{bmatrix} a_{11} &0 &0 \\\\ a_{12}& a_{22} & 0\\\\ a_{13}& a_{23} & a_{33} \\end{bmatrix}\\begin{bmatrix} a_{11} &0 &0 \\\\ a_{12}& a_{22} & 0\\\\ a_{13}& a_{23} & a_{33} \\end{bmatrix}^T[/latex]",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A resistor and a capacitor are connected in series to a 10 V dc supply through a switch.\nThe switch is closed at [latex]t=0[/latex], and the capacitor voltage is found to cross 0 V at [latex]t=0.4 \\tau[/latex],\nwhere [latex]\\tau[/latex] is the circuit time constant. The absolute value of percentage change required\nin the initial capacitor voltage if the zero crossing has to happen at [latex]t=0.2 \\tau[/latex] is _______\n(rounded off to 2 decimal places).",
+      "topic": "Power Semiconductor Devices and Commutation Techniques",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520146",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A cylindrical rotor synchronous generator with constant real power output and constant\nterminal voltage is supplying 100 A current to a 0.9 lagging power factor load. An ideal\nreactor is now connected in parallel with the load, as a result of which the total lagging\nreactive power requirement of the load is twice the previous value while the real power\nremains unchanged. The armature current is now _______ A (rounded off to 2 decimal\nplaces).",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A cylindrical rotor synchronous generator has steady state synchronous reactance of\n0.7 pu and subtransient reactance of 0.2 pu. It is operating at (1+j0) pu terminal voltage\nwith an internal emf of (1+j0.7) pu. Following a three-phase solid short circuit fault at\nthe terminal of the generator, the magnitude of the subtransient internal emf (rounded\noff to 2 decimal places) is ________ pu.",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase, full-bridge, fully controlled thyristor rectifier feeds a load comprising a\n10[latex]\\Omega[/latex] resistance in series with a very large inductance. The rectifier is fed from an ideal 230 V, 50 Hz sinusoidal source through cables which have negligible internal resistance\nand a total inductance of 2.28 mH. If the thyristors are triggered at an angle [latex]\\alpha = 45^{\\circ}[/latex],\nthe commutation overlap angle in degree (rounded off to 2 decimal places) is_____.",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A non-ideal Si-based pn junction diode is tested by sweeping the bias applied across\r\nits terminals from -5 V to +5 V. The effective thermal voltage, [latex]V_T[/latex], for the diode is\r\nmeasured to be (29[latex]\\pm[/latex]2) mV. The resolution of the voltage source in the measurement\r\nrange is 1 mV. The percentage uncertainty (rounded off to 2 decimal plates) in the\r\nmeasured current at a bias voltage of 0.02 V is _______.",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "1520154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An 8085 microprocessor accesses two memory locations (2001 H) and (2002H), that\ncontain 8-bit numbers 98H and B1H respectively. The following program is executed: LXI H, 2001 H MVIA, 21H INX H ADD M INX H MOV M, A HLT At the end of this program, the memory location 2003H contains the number in decimal\n(base 10) form ________",
+      "topic": "Microprocessors",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "12010115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "d can be chosen to ensure that x = 0 is a root for any given set a, b, c."
+        },
+        {
+          "id": "B",
+          "text": "No choice of coefficients can make all roots identical."
+        },
+        {
+          "id": "C",
+          "text": "a, b, c, d can be chosen to ensure that all roots are complex."
+        },
+        {
+          "id": "D",
+          "text": "c alone cannot ensure that all roots are real."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]ax^3+bx^2+cx+d[/latex] is a polynomial on real [latex]x[/latex] over real coefficients [latex]a, b, c, d[/latex] wherein\n[latex]a \\neq 0[/latex]. Which of the following statements is true?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "12010215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{\\pi}\\int_{0}^{\\pi}\\sin m\\theta \\sin n\\theta \\; d\\theta =0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2\\pi}\\int_{-\\pi/2}^{\\pi/2}\\sin p\\theta \\sin q\\theta \\; d\\theta =0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2\\pi}\\int_{-\\pi}^{\\pi}\\sin p\\theta \\cos q\\theta \\; d\\theta =0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\lim_{\\alpha \\to \\infty }\\frac{1}{2\\alpha }\\int_{-\\alpha }^{\\alpha }\\sin p\\theta \\sin q\\theta \\; d\\theta =0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which of the following is true for all possible non-zero choices of integers [latex]m, n; m \\neq n[/latex],\nor all possible non-zero choices of real numbers [latex]p, q ; p\\neq q[/latex], as applicable?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "12010515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]8 \\pi i[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-8 \\pi i[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]- \\pi i[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] \\pi i[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of the following complex integral, with C representing the unit circle centered\nat origin in the counterclockwise sense, is: [latex]\\int_{c}\\frac{z^2+1}{z^2-2z}dz[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "12011615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.386"
+        },
+        {
+          "id": "B",
+          "text": "0.886"
+        },
+        {
+          "id": "C",
+          "text": "0.452"
+        },
+        {
+          "id": "D",
+          "text": "0.642"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the initial value problem below. The value of y at [latex]x = ln \\;2[/latex]. (rounded off to 3\ndecimal places) is ________ . [latex]\\frac{dy}{dx}=2x-y,\\; y(0)=1[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "12012615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "7 and 1/4"
+        },
+        {
+          "id": "B",
+          "text": "7 and 1"
+        },
+        {
+          "id": "C",
+          "text": "-2 and -1/2"
+        },
+        {
+          "id": "D",
+          "text": "1 and 1/4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The real numbers, x and y with [latex]y = 3x^2 + 3x + 1[/latex], the maximum and minimum value\nof y for [latex]x \\in [-2, 0][/latex] are respectively ________",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "EE",
+      "id": "12014215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The number of purely real elements in a lower triangular representation of the given 3x3\nmatrix, obtained through the given decomposition is [latex]\\begin{bmatrix} 2 &3 &3 \\\\ 3& 2 & 1\\\\ 3& 1 & 7 \\end{bmatrix}=[/latex] [latex]\\begin{bmatrix} a_{11} &0 &0 \\\\ a_{12}& a_{22} & 0\\\\ a_{13}& a_{23} & a_{33} \\end{bmatrix}\\begin{bmatrix} a_{11} &0 &0 \\\\ a_{12}& a_{22} & 0\\\\ a_{13}& a_{23} & a_{33} \\end{bmatrix}^T[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    }
+  ],
+  "schema_version": 1
+}

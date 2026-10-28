@@ -1,0 +1,1162 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1521101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 1"
+        },
+        {
+          "id": "B",
+          "text": "1 and -1"
+        },
+        {
+          "id": "C",
+          "text": "j and -j"
+        },
+        {
+          "id": "D",
+          "text": "pq and -pq"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let p and q be real numbers such that [latex]p^{2}+q^{2}=1[/latex]. The eigenvalues of the matrix [latex]\\begin{bmatrix} p & q\\\\ q& -p \\end{bmatrix}[/latex]\nare",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\text{conjugate}\\:\\left \\{ p\\left ( z \\right ) \\right \\}=p\\left ( \\text{conjugate} \\left \\{ z \\right \\} \\right )[/latex] for all z"
+        },
+        {
+          "id": "B",
+          "text": "The sum of the roots of [latex]p\\left ( z \\right )=0[/latex] is a real number"
+        },
+        {
+          "id": "C",
+          "text": "The complex roots of the equation  [latex]p\\left ( z \\right )=0[/latex]\n come in conjugate pairs"
+        },
+        {
+          "id": "D",
+          "text": "All the roots cannot be real"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]p\\left ( z\\right )=z^{3}+\\left ( 1+j \\right )z^{2}+\\left ( 2+j \\right )z+3[/latex], where z is a complex number. Which one of the following is true?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "no local minimum in (0,1)"
+        },
+        {
+          "id": "B",
+          "text": "one local maximum in (0,1)"
+        },
+        {
+          "id": "C",
+          "text": "exactly one local minimum in (0,1)"
+        },
+        {
+          "id": "D",
+          "text": "two distinct local minima in (0,1)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]f\\left ( x \\right )[/latex]\n be a real-valued function such that [latex]{f}'\\left ( x_{0} \\right )=0[/latex]\n for some [latex]x _{0} \\in\\left ( 0,1 \\right )[/latex], and [latex]{f}''\\left ( x \\right )> 0[/latex]\n for all [latex]x \\in \\left ( 0,1 \\right )[/latex]. Then [latex]f\\left ( x \\right )[/latex]\n has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]10x\\hat{X}+20y\\hat{Y}-30z\\hat{Z}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]10y\\hat{X}+20x\\hat{Y}-10z\\hat{Z}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]10z\\hat{X}+20y\\hat{Y}-30x\\hat{Z}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]10x\\hat{X}-30z\\hat{Y}+20y\\hat{Z}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which one of the following vector functions represents a magnetic field [latex]\\overrightarrow{B}[/latex]? ([latex]\\hat{X}[/latex], [latex]\\hat{Y}[/latex]\n and [latex]\\hat{Z}[/latex]\n are unit vectors along x-axis, y-axis, and z-axis, respectively)",
+      "topic": "Magnetostatic Fields",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "linear and time-variant"
+        },
+        {
+          "id": "B",
+          "text": "linear and time-invariant"
+        },
+        {
+          "id": "C",
+          "text": "non-linear and time-variant"
+        },
+        {
+          "id": "D",
+          "text": "non-linear and time-invariant"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If the input x(t) and output y(t) of a system are related as [latex]y\\left ( t \\right )=\\text{max}\\left ( 0,x\\left ( t \\right ) \\right )[/latex], then the system is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\delta \\left [ n-2\\right ]+\\delta \\left [ n+1 \\right ][/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\delta \\left [ n-1\\right ]\\delta \\left [ n\\right ]+\\delta \\left [ n+1 \\right ]\\delta \\left [ n-1 \\right ][/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\delta \\left [ n-2\\right ]+\\delta \\left [ n-1\\right ]+\\delta \\left [ n\\right ]+\\delta \\left [ n+1 \\right ][/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\delta \\left [ n\\right ]\\delta \\left [ n-1\\right ]+\\delta \\left [ n-2\\right ]\\delta \\left [ n+1 \\right ][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two discrete-time linear time-invariant systems with impulse responses [latex]h_{1}\\left [ n \\right ]=\\delta \\left [ n-1 \\right ]+\\delta \\left [ n+1 \\right ][/latex] and [latex]h_{2}\\left [ n \\right ]=\\delta \\left [ n\\right ]+\\delta \\left [ n-1 \\right ][/latex] are connected in cascade, where [latex]\\delta \\left [ n\\right ][/latex] is the Kronecker delta. The impulse response of the cascaded system is",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P-V-X, Q-U-Z, R-T-Y"
+        },
+        {
+          "id": "B",
+          "text": "P-U-X, Q-S-Y, R-V-Z"
+        },
+        {
+          "id": "C",
+          "text": "P-T-Y, Q-V-Z, R-S-X"
+        },
+        {
+          "id": "D",
+          "text": "P-U-X, Q-V-Y, R-T-Z"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the table given: [latex]\\begin{array}{|c|c|c|} \\hline \\text{Constructional feature} & \\text{Machine type} & \\text{Mitigation} \\\\ \\hline \\text{P. Damper bars} & \\text{S. Induction motor} & \\text{X. Hunting} \\\\ \\hline \\text{Q. Skewed rotor slots} & \\text{T. Transformer} & \\text{Y. Magnetic locking} \\\\ \\hline \\text{R. Compensating winding} & \\text{U. Synchronous machine} & \\text{Z. Armature reaction} \\\\ \\hline \\text{} & \\text{V. DC machine} & \\text{} \\\\ \\hline \\end{array}[/latex] The correct combination that relates the constructional feature, machine type and mitigation is",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]N_{L}\\times \\left ( N-1 \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left ( N-1 \\right )\\times \\left ( N-1-N_{L} \\right )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]N_{L}\\times \\left ( N-1+N_{L} \\right )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left ( N-1 \\right )\\times \\left ( N-1+N_{L} \\right )[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a power system consisting of N number of buses. Buses in this power system are categorized into slack bus, PV buses and PQ buses for load flow study. The number of PQ buses is [latex]N_{L}[/latex]. The balanced Newton-Raphson method is used to carry out load flow study in polar form. [latex]\\text{H, S, M, and R}[/latex] are sub-matrices of the Jacobian matrix J as shown below: [latex]\\begin{bmatrix} \\Delta P\\\\ \\Delta Q \\end{bmatrix}=J\\begin{bmatrix} \\Delta \\delta \\\\ \\Delta V \\end{bmatrix}, \\text{where}\\: J=\\begin{bmatrix} H & S\\\\ M &R \\end{bmatrix}[/latex] The dimension of the sub-matrix M is",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P_{1}=P_{2}=130[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]P_{1}=160, P_{2}=100[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]P_{1}=140, P_{2}=120[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]P_{1}=120, P_{2}=140[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two generators have cost functions [latex]F_{1}[/latex] and [latex]F_{2}[/latex]. Their incremental-cost characteristics are [latex]\\dfrac{dF_{1}}{dP_{1}}=40+0.2P_{1}[/latex] [latex]\\dfrac{dF_{2}}{dP_{2}}=32+0.4P_{2}[/latex] They need to deliver a combined load of [latex]260 \\text{~MW}[/latex]. Ignoring the network losses, for economic operation, the generations [latex]P_{1}[/latex]\n and [latex]P_{2}[/latex] (in [latex]\\text{MW}[/latex]) are",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Schering bridge"
+        },
+        {
+          "id": "B",
+          "text": "Maxwell bridge"
+        },
+        {
+          "id": "C",
+          "text": "Kelvin bridge"
+        },
+        {
+          "id": "D",
+          "text": "Wien bridge"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Inductance is measured by",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521113",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Suppose the circles [latex]x^{2}+y^{2}=1[/latex] and [latex]\\left ( x-1\\right )^{2}+\\left ( y-1 \\right )^{2}=r^{2}[/latex] intersect each other orthogonally at the point [latex]\\left ( u,v \\right )[/latex]. Then  [latex]u+v=[/latex] _______________.",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521115",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two single-core power cables have total conductor resistances of [latex]0.7\\;\\Omega[/latex] and [latex]0.5\\;\\Omega[/latex], respectively, and their insulation resistances (between core and sheath) are [latex]600\\;M\\Omega[/latex] and [latex]900\\;M\\Omega[/latex], respectively. When the two cables are joined in series, the ratio of insulation resistance to conductor resistance is ___________[latex]\\times 10^{6}[/latex].",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521117",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A [latex]1\\;\\mu C[/latex] point charge is held at the origin of a cartesian coordinate system. If a second point charge of [latex]10\\;\\mu C[/latex] is moved from [latex]\\left ( 0,10,0 \\right )[/latex] to [latex]\\left ( 5,5,5\\right )[/latex] and subsequently to [latex]\\left ( 5,0,0\\right )[/latex], then the total work done is ___________[latex]\\text{mJ}[/latex]. (Round off to 2 decimal places). Take [latex]\\dfrac{1}{4\\pi \\varepsilon _{0}}=9\\times 10^{9}[/latex] in SI units. All coordinates are in meters.",
+      "topic": "Electrostatic Fields",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521118",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The power input to a [latex]\\text{500 V, 50 Hz, 6-pole, 3-phase}[/latex]\n induction motor running at [latex]975 \\text{ RPM}[/latex]\n is [latex]40 \\text{ kW}[/latex] . The total stator losses are [latex]1 \\text{ kW}[/latex]. If the total friction and windage losses are [latex]2.025\\text{~ kW}[/latex], then the efficiency is _____________%.",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521119",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An alternator with internal voltage of [latex]1\\angle \\delta _{1}\\text{p.u}[/latex]\n and synchronous reactance of [latex]\\text{0.4 p.u}[/latex] is connected by a transmission line of reactance [latex]\\text{0.1 p.u}[/latex] to a synchronous motor having synchronous reactance [latex]\\text{0.35 p.u}[/latex] and internal voltage of [latex]0.85\\angle \\delta _{2}\\text{p.u}[/latex]. If the real power supplied by the alternator is [latex]\\text{0.866 p.u}[/latex], then [latex]\\left( \\delta _{1} -\\delta _{2}\\right)[/latex] is _________ degrees. (Round off to 2 decimal places.) (Machines are of non-salient type. Neglect resistances.)",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A signal generator having a source resistance of [latex]50\\:\\Omega[/latex] is set to generate a [latex]\\text{1 kHz}[/latex] sinewave. Open circuit terminal voltage is [latex]\\text{10 V}[/latex] peak-to-peak. Connecting a capacitor across the terminals reduces the voltage to [latex]\\text{8 V}[/latex] peak-to-peak. The value of this capacitor is _____________[latex]\\mu F[/latex]. (Round off to 2 decimal places.)",
+      "topic": "Network Theorems",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 16-bit synchronous binary up-counter is clocked with a frequency [latex]f_{\\text{CLK}}[/latex].The two most significant bits are [latex]\\text{OR-ed}[/latex] together to form an output Y. Measurements show that Y is periodic, and the duration for which Y remains high in each period is [latex]\\text{24 ms}[/latex]. The clock frequency [latex]f_{\\text{CLK}}[/latex] is ___________[latex]\\text{MHz}[/latex]. (Round off to 2 decimal places.)",
+      "topic": "Sequential Logic Circuits",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "two real roots"
+        },
+        {
+          "id": "B",
+          "text": "one real root"
+        },
+        {
+          "id": "C",
+          "text": "three real roots"
+        },
+        {
+          "id": "D",
+          "text": "no real roots"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the open interval [latex]\\left ( 0,1 \\right )[/latex], the polynomial [latex]p\\left ( x \\right) =x^{4}-4x^{3}+2[/latex] has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]p/\\left ( 1-p \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left ( 1-p \\right )/p[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/p[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/p^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Suppose the probability that a coin toss shows \"head\" is p, where [latex]0\\lt \r\n p\\lt 1[/latex]. The coin is tossed repeatedly until the first \"head\" appears. The expected number of tosses required is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]j\\pi /2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-j\\pi /8[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]j\\pi /16[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]\\left ( -1 -j \\right ), \\left ( 3 -j \\right ), \\left ( 3 + j \\right )[/latex]\n and [latex]\\left ( -1+ j \\right )[/latex] be the vertices of a rectangle C in the complex plane. Assuming that C is traversed in counter-clockwise direction, the value of the contour integral [latex]\\oint _{C}\\dfrac{dz}{z^{2}\\left ( z-4 \\right )}[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a^{2n}u\\left [ n \\right ][/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left ( n+1 \\right )a^{n}u\\left [ n \\right ][/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]n^{-1}a^{n}u\\left [ n \\right ][/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]n^{2}a^{n}u\\left [ n \\right ][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The casual signal with z-transformer [latex]Z^{2}\\left ( Z-a \\right )^{-2}[/latex] is ([latex]u[n][/latex] is the unit step signal)",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f\\left ( 0 \\right )\\lt  1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f\\left ( 0 \\right ) \\gt  1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f\\left ( 0 \\right )= 1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f\\left ( 0 \\right )= 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]f(t)[/latex] be an even function, i.e. [latex]f(-t)=f(t)[/latex] for all t. Let the Fourier transform of [latex]f(t)[/latex] be defined as [latex]F\\left ( \\omega \\right )=\\int\\limits_{-\\infty }^{\\infty }\\:f\\left ( t \\right )e^{-j\\omega t}dt[/latex]. Suppose [latex]\\dfrac{dF\\left ( \\omega \\right )}{d\\omega }=-\\omega F\\left ( \\omega \\right )[/latex] for all [latex]\\omega[/latex], and [latex]F(0)=1[/latex]. Then",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1600\\:W[/latex] and [latex]900\\:W[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]900\\:W[/latex] and [latex]1600\\:W[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]250\\:W[/latex] and [latex]600\\:W[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]600\\:W[/latex] and [latex]250\\:W[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In a single-phase transformer, the total iron loss is [latex]2500\\:W[/latex]\n at nominal voltage of [latex]440\\:V[/latex] and frequency [latex]50\\:Hz[/latex]. The total iron loss is [latex]850\\:W[/latex] at [latex]220\\:V[/latex] and [latex]25\\:Hz[/latex]. Then, at nominal voltage and frequency, the hysteresis loss and eddy current loss respectively are",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521136",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1\\angle 240^{\\circ}-0.1\\angle 0^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1.1\\angle 240^{\\circ}-0.1\\angle 0^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1.1\\angle -120^{\\circ}+0.1\\angle 0^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1\\angle -120^{\\circ}+0.1\\angle 0^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Suppose [latex]I_{A},\\:I_{B}[/latex] and [latex]I_{C}[/latex] are a set of unbalanced current phasors in a three-phase system. The phase-B zero-sequence current [latex]I_{B0}=0.1\\angle 0^{\\circ}[/latex] p.u. If phase-A current [latex]I_{A}=1.1\\angle 0^{\\circ}[/latex] p.u and phase-C current [latex]I_{C}=\\left ( 1\\angle 120^{\\circ}+0.1 \\right )[/latex] p.u, then [latex]I_{B}[/latex] in p.u is",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Q_{2}Q_{1}Q_{0}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Q_{2}Q_{0}+Q_{1}\\overline{Q_{0}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\overline{Q_{2}}Q_{0}+Q_{1}\\overline{Q_{0}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]Q_{2}Q_{1}+\\overline{Q_{2}}\\:\\overline{Q_{1}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A counter is constructed with three D flip-flops. The input-output pairs are named [latex](D_{0},\\:Q_{0}), (D_{1},\\:Q_{1})[/latex] and [latex](D_{2},\\:Q_{2})[/latex], where the subscript 0 denotes the least significant bit. The output sequence is desired to be the Gray-code sequence [latex]000, \\:001, \\:011,\\: 010, \\:110,\\:111,\\: 101[/latex] and [latex]100[/latex], repeating periodically. Note that the bits are listed in the [latex]Q_{2}\\:Q_{1}\\:Q_{0}[/latex] format. The combinational logic expression for [latex]D_{1}[/latex] is",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521138",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let A be a [latex]10\\times10[/latex] matrix such that [latex]A^{5}[/latex] is a null matrix, and let I be the [latex]10\\times10[/latex] identity matrix. The determinant of [latex]\\text{A+I}[/latex] is ___________________.",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521141",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "One coulomb of point charge moving with a uniform velocity [latex]10\\:\\hat{X} \\text{m/s}[/latex] enters the region [latex]x\\geq 0[/latex] having a magnetic flux density [latex]\\overrightarrow{B}=\\left ( 10y\\:\\hat{X} + 10x\\:\\hat{Y}+10\\:\\hat{Z}\\right )T[/latex]. The magnitude of force on the charge at [latex]x=0^{+}[/latex] is _____________ N. ([latex]\\hat{X}[/latex], [latex]\\hat{Y}[/latex], and [latex]\\hat{Z}[/latex] are unit vectors along x-axis, y-axis and z-axis, respectively.)",
+      "topic": "Magnetostatic Fields",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521142",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a large parallel plate capacitor. The gap 'd' between the two plates is filled entirely with a dielectric slab of relative permittivity 5. The plates are initially charged to a potential difference of V volts and then disconnected from the source. If the dielectric slab is pulled out completely, then the ratio of the new electric field [latex]E_{2}[/latex] in the gap to the original electric field [latex]E_{1}[/latex] is ________.",
+      "topic": "Electrostatic Fields",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521143",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a continuous-time signal [latex]x(t)[/latex] defined by [latex]x(t)=0[/latex] for [latex]\\left | t \\right |> 1[/latex], and [latex]x\\left ( t \\right )=1-\\left | t \\right | for \\left | t \\right |\\leq 1[/latex]. Let the Fourier transform of [latex]x(t)[/latex] be defined as [latex]X\\left ( \\omega \\right )=\\int\\limits_{-\\infty }^{\\infty }\\:x\\left ( t \\right )e^{-j\\omega t}\\:dt[/latex]. The maximum magnitude of [latex]X\\left ( \\omega \\right )[/latex] is ___________.",
+      "topic": "Signals and Systems",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521144",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A belt-driven [latex]\\text{DC}[/latex]\n shunt generator running at [latex]300\\: \\text{RPM}[/latex]\n delivers [latex]100 \\:\\text{kW}[/latex]\n to a [latex]200 \\:V\\: \\text{DC}[/latex]\n grid. It continues to run as a motor when the belt breaks, taking [latex]10 \\:\\text{kW}[/latex]\n from the [latex]\\text{DC}[/latex]\n grid. The armature resistance is [latex]0.025 \\Omega[/latex], field resistance is [latex]50\\:\\Omega[/latex], and brush drop is [latex]2 \\:V[/latex]. Ignoring armature reaction, the speed of the motor is _____  [latex]\\text{RPM}[/latex]. (Round off to 2 decimal places.)",
+      "topic": "Electrical Machines",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An 8-pole, [latex]50 \\:Hz[/latex], three-phase, slip-ring induction motor has an effective rotor resistance of [latex]0.08\\:\\Omega[/latex] per phase. Its speed at maximum torque is [latex]650 \\text{ RPM}[/latex]. The additional resistance per phase that must be inserted in the rotor to achieve maximum torque at start is _____________ [latex]\\Omega[/latex]. (Round off to 2 decimal places.) Neglect magnetizing current and stator leakage impedance. Consider equivalent circuit parameters referred to stator.",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The state space representation of a first-order system is given as [latex]\\overset{\\bullet }{x}=-x+u[/latex] [latex]y=x[/latex] where,x is the state variable, u is the control input and y is the controlled output. Let [latex]u=-Kx[/latex] be the control law, where K is the controller gain. To place a closed-loop pole at -2, the value of K is ___________________.",
+      "topic": "State Variable Analysis",
+      "type": "NAT",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "whose"
+        },
+        {
+          "id": "B",
+          "text": "which"
+        },
+        {
+          "id": "C",
+          "text": "who"
+        },
+        {
+          "id": "D",
+          "text": "whom"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The people  ________  were at the demonstration were from all sections of society.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "396"
+        },
+        {
+          "id": "B",
+          "text": "324"
+        },
+        {
+          "id": "C",
+          "text": "216"
+        },
+        {
+          "id": "D",
+          "text": "144"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For a regular polygon having 10 sides, the interior angle between the sides of the polygon, in degrees, is:",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]11^{26}+1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]11^{33}+1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]11^{39}-1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]11^{52}-1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which one of the following numbers is exactly divisible by [latex]\\left(11^{13}+1\\right)[/latex]?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Stone"
+        },
+        {
+          "id": "B",
+          "text": "Land"
+        },
+        {
+          "id": "C",
+          "text": "Water"
+        },
+        {
+          "id": "D",
+          "text": "Mountain"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Oasis is to sand as island is to _____________ Which one of the following options maintains a similar logical relation in the above sentence?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Sleeping well alone is enough to prepare for an exam. Studying has lesser benefit."
+        },
+        {
+          "id": "B",
+          "text": "Students are efficient and are not wrong in thinking that sleep is a waste of time."
+        },
+        {
+          "id": "C",
+          "text": "If a student is extremely well prepared for an exam, he needs little or no sleep."
+        },
+        {
+          "id": "D",
+          "text": "To do well in an exam, adequate sleep must be part of the preparation."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The importance of sleep is often overlooked by students when they are preparing for exams. Research has consistently shown that sleep deprivation greatly reduces the ability to recall the material learnt. Hence, cutting down on sleep to study longer hours can be counterproductive. Which one of the following statements is the CORRECT inference from the above passage?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "50"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let X be a continuous random variable denoting the temperature measured. The range of temperature is [latex][0,100][/latex] degree Celsius and let the probability density function of X be [latexf(x)=0.01[/latex] for [latex]0 \\leq X \\leq 100[/latex]. The mean of X is __________",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "1521165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "There are two cars parked in between Q and V."
+        },
+        {
+          "id": "B",
+          "text": "Q  and R are not parked together."
+        },
+        {
+          "id": "C",
+          "text": "V  is the only car parked in between S and R."
+        },
+        {
+          "id": "D",
+          "text": "Car?PP?is parked at the extreme end."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Seven cars P, Q. R, S, T, U and V are parked in a row not necessarily in that order. The cars T and U should be parked next to each other. The cars S and V also should be parked next to each other, whereas P and Q cannot be parked next to each other. Q and S must be parked next to each other. R is parked to the immediate right of V. T is parked to the left of U. Based on the above statements, the only INCORRECT option given below is:",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "12110115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1 and 1"
+        },
+        {
+          "id": "B",
+          "text": "1 and -1"
+        },
+        {
+          "id": "C",
+          "text": "j and -j"
+        },
+        {
+          "id": "D",
+          "text": "pq and -pq"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let p and q be real numbers such that [latex]p^{2}+q^{2}=1[/latex]. The eigenvalues of the matrix [latex]\\begin{bmatrix} p & q\\\\ q& -p \\end{bmatrix}[/latex]\nare",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "12110215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\text{conjugate}\\:\\left \\{ p\\left ( z \\right ) \\right \\}=p\\left ( \\text{conjugate} \\left \\{ z \\right \\} \\right )[/latex] for all z"
+        },
+        {
+          "id": "B",
+          "text": "The sum of the roots of [latex]p\\left ( z \\right )=0[/latex] is a real number"
+        },
+        {
+          "id": "C",
+          "text": "The complex roots of the equation  [latex]p\\left ( z \\right )=0[/latex]\n come in conjugate pairs"
+        },
+        {
+          "id": "D",
+          "text": "All the roots cannot be real"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]p\\left ( z\\right )=z^{3}+\\left ( 1+j \\right )z^{2}+\\left ( 2+j \\right )z+3[/latex], where z is a complex number. Which one of the following is true?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "12110315",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "no local minimum in (0,1)"
+        },
+        {
+          "id": "B",
+          "text": "one local maximum in (0,1)"
+        },
+        {
+          "id": "C",
+          "text": "exactly one local minimum in (0,1)"
+        },
+        {
+          "id": "D",
+          "text": "two distinct local minima in (0,1)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]f\\left ( x \\right )[/latex]\n be a real-valued function such that [latex]{f}'\\left ( x_{0} \\right )=0[/latex]\n for some [latex]x _{0} \\in\\left ( 0,1 \\right )[/latex], and [latex]{f}''\\left ( x \\right )> 0[/latex]\n for all [latex]x \\in \\left ( 0,1 \\right )[/latex]. Then [latex]f\\left ( x \\right )[/latex]\n has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "12112615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "two real roots"
+        },
+        {
+          "id": "B",
+          "text": "one real root"
+        },
+        {
+          "id": "C",
+          "text": "three real roots"
+        },
+        {
+          "id": "D",
+          "text": "no real roots"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the open interval [latex]\\left ( 0,1 \\right )[/latex], the polynomial [latex]p\\left ( x \\right) =x^{4}-4x^{3}+2[/latex] has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "12112715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]p/\\left ( 1-p \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left ( 1-p \\right )/p[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1/p[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1/p^{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Suppose the probability that a coin toss shows \"head\" is p, where [latex]0\\lt \r\n p\\lt 1[/latex]. The coin is tossed repeatedly until the first \"head\" appears. The expected number of tosses required is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2021
+    },
+    {
+      "branch": "EE",
+      "id": "12113815",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let A be a [latex]10\\times10[/latex] matrix such that [latex]A^{5}[/latex] is a null matrix, and let I be the [latex]10\\times10[/latex] identity matrix. The determinant of [latex]\\text{A+I}[/latex] is ___________________.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2021
+    }
+  ],
+  "schema_version": 1
+}

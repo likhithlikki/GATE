@@ -1,0 +1,1632 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1515101",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A random variable X has probability density function f(x) as given below: [latex]f(x)=\\left\\{\\begin{matrix} a+bx & for \\; 0 \\lt x \\lt 1\\\\ 0& otherwise \\end{matrix}\\right.[/latex] If the expected value E[X]=2/3, then [latex]Pr[X \\lt 0.5][/latex] is _____________.",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f(a)\\cdot f(b)=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f(a)\\cdot f(b) \\lt 0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f(a)\\cdot f(b) \\gt 0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f(a)/ f(b)\\leq 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If a continuous function f(x) does not have a root in the interval [a,b], then which one of the following statements is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515103",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If the sum of the diagonal elements of a 2x2 matrix is -6, then the maximum possible value of determinant of the matrix is ________.",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "2[latex]\\pi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "4[latex]\\pi[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "R[latex]\\pi[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a function [latex]\\vec{f}=\\frac{1}{r^{2}}\\hat{r}[/latex], where r is the distance from the origin and [latex]\\hat{r}[/latex] is the unit vector in the radial direction. The divergence of this function over a sphere of radius R, which includes the origin, is",
+      "topic": "Electromagnetic Theory",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515106",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A (0-50 A) moving coil ammeter has a voltage drop of 0.1 V across its terminals at full scale deflection. The external shunt resistance (in milliohms) needed to extend its range to (0-500 A) is _______.",
+      "topic": "Galvanometers, Voltmeters and Ammeters",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P, Q and R only"
+        },
+        {
+          "id": "B",
+          "text": "P and R only"
+        },
+        {
+          "id": "C",
+          "text": "P, Q and S only"
+        },
+        {
+          "id": "D",
+          "text": "Q, R and S only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Of the four characteristics given below, which are the major requirements for an instrumentation amplifier? P. High common mode rejection ratio Q. High input impedance R. High linearity S. High output impedance",
+      "topic": "Operational Amplifiers",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515109",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A moving average function is given by [latex]y(t)=\\frac{1}{T}\\int_{t-T}^{t}u(\\tau )d\\tau[/latex]. If the input u is a sinusoidal signal of frequency [latex]\\frac{1}{2\\tau }[/latex] Hz, then in steady state, the output y will lag u (in degree) by ______ .",
+      "topic": "Linear Time Invariant Systems",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P, Q and S only"
+        },
+        {
+          "id": "B",
+          "text": "P, R and S only"
+        },
+        {
+          "id": "C",
+          "text": "P, Q and R only"
+        },
+        {
+          "id": "D",
+          "text": "Q and R only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Base load power plants are P: wind farms. Q: run-of-river plants. R: nuclear power plants. S: diesel power plants.",
+      "topic": "Generating Power Stations",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "62.25"
+        },
+        {
+          "id": "B",
+          "text": "69.3"
+        },
+        {
+          "id": "C",
+          "text": "73.25"
+        },
+        {
+          "id": "D",
+          "text": "77.3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A separately excited DC generator has an armature resistance of 0.1[latex]\\Omega[/latex] and negligible armature inductance. At rated field current and rated rotor speed, its open-circuit voltage is 200 V. When this generator is operated at half the rated speed, with half the rated field current, an un-charged 1000 [latex]\\mu[/latex]F capacitor is suddenly connected across the armature terminals. Assume that the speed remains unchanged during the transient. At what time (in microsecond) after the capacitor is connected will the voltage across it reach 25 V?",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "416"
+        },
+        {
+          "id": "B",
+          "text": "440"
+        },
+        {
+          "id": "C",
+          "text": "200"
+        },
+        {
+          "id": "D",
+          "text": "920"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The self inductance of the primary winding of a single phase, 50 Hz, transformer is 800 mH, and that of the secondary winding is 600 mH. The mutual inductance between these two windings is 480 mH. The secondary winding of this transformer is short circuited and the primary winding is connected to a 50 Hz, single phase, sinusoidal voltage source. The current flowing in both the windings is less than their respective rated currents. The resistance of both windings can be neglected. In this condition, what is the effective inductance (in mH) seen by the source?",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "power transformer."
+        },
+        {
+          "id": "B",
+          "text": "potential transformer."
+        },
+        {
+          "id": "C",
+          "text": "current transformer."
+        },
+        {
+          "id": "D",
+          "text": "distribution transformer."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The primary mmf is least affected by the secondary terminal conditions in a",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2}{3\\sqrt{3}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{3\\sqrt{3}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1+2\\sqrt{3}}{3\\sqrt{3}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1+\\sqrt{3}}{3\\sqrt{3}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The maximum value of \"a\" such that the matrix [latex]\\begin{pmatrix} -3 & 0& -2\\\\ 1 &-1 & 0\\\\ 0& a&-2 \\end{pmatrix}[/latex] has three linearly independent real eigenvectors is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515127",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A solution of the ordinary differential equation [latex]\\frac{d^{2}y}{dt^{2}}+5\\frac{dy}{dt}+6y=0[/latex] is such that y(0)=2 and [latex]y(1)= -\\frac{1-3e}{e^{3}}[/latex]. The value of [latex]\\frac{dy}{dt}(0)[/latex] is _______",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "only sine terms with all harmonics"
+        },
+        {
+          "id": "B",
+          "text": "only cosine terms with all harmonics."
+        },
+        {
+          "id": "C",
+          "text": "only sine terms with even numbered harmonics."
+        },
+        {
+          "id": "D",
+          "text": "only cosine terms with odd numbered harmonics."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The signum function is given by [latex]sgn(x)=\\left\\{\\begin{matrix} \\frac{x}{|x|}; &x\\neq 0 \\\\ 0; & x=0 \\end{matrix}\\right.[/latex] The Fourier series expansion of sgn(cos(t)) has",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]5/11[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]7/13[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]6/11[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two players, A and B, alternately keep rolling a fair dice. The person to get a six first wins the game. Given that player A starts the game, the probability that A wins the game is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515134",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase 50 Hz square wave (6-step) VSI feeds a 3-phase, 4 pole induction motor. The VSI line voltage has a dominant [latex]5^{th}[/latex] harmonic component. If the operating slip of the motor with respect to fundamental component voltage is 0.04, the slip of the motor with respect to [latex]5^{th}[/latex] harmonic component of voltage is _________.",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "the region inside the circle of radius 0.5 and centered at origin"
+        },
+        {
+          "id": "B",
+          "text": "the region outside the circle of radius 0.25 and centered at origin"
+        },
+        {
+          "id": "C",
+          "text": "the annular region between the two circles, both centered at origin and having radii 0.25 and 0.5"
+        },
+        {
+          "id": "D",
+          "text": "the entire Z plane."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a discrete time signal given by [latex]x[n]=(-0.25)^{n}u[n]+(0.5)^{n}u[-n-1][/latex] The region of convergence of its Z-transform would be",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](A+\\bar{C}+D)(\\bar{A}+B+D)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](A\\bar{C}D)+(\\bar{A}BD)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\bar{A}C\\bar{D}+A\\bar{B}C\\bar{D}+A\\bar{B}\\bar{C}\\bar{D}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](B+\\bar{C}+D)(A+\\bar{B}+\\bar{C}+D)(\\bar{A}+B+C+D)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "f(A,B,C,D)=[latex]\\Pi[/latex]M(0,1,3,4,5,7,9,11,12,13,14,15) is a maxterm representation of a Boolean function f(A,B,C,D) where A is the MSB and D is the LSB. The equivalent minimized representation of this function is",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515140",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1010 0000"
+        },
+        {
+          "id": "B",
+          "text": "1000 0000"
+        },
+        {
+          "id": "C",
+          "text": "0000 0001"
+        },
+        {
+          "id": "D",
+          "text": "1000 0000"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An 8-bit, unipolar Successive Approximation Register type ADC is used to convert 3.5 V to digital equivalent output. The reference voltage is +5 V. The output of the ADC, at the end of 3rd clock pulse after the start of conversion, is",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515141",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the economic dispatch problem for a power plant having two generating units. The fuel costs in Rs/MWh along with the generation limits for the two units are given below: [latex]C_{1}(P_{1})=0.01{P_{1}}^2+30P_{1}+10[/latex];   [latex]100MW\\leq P_{1} \\leq 150MW[/latex] [latex]  C_{2}(P_{2})=0.05{P_{2}}^2+10P_{2}+10[/latex];  [latex]100MW\\leq P_{2} \\leq 180MW[/latex] The incremental cost (in Rs/MWh) of the power plant when it supplies 200 MW is ______ .",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both [a] and [r] are true and [r] is the correct reason for [a]."
+        },
+        {
+          "id": "B",
+          "text": "Both [a] and [r] are true but [r] is not the correct reason for [a]."
+        },
+        {
+          "id": "C",
+          "text": "Both [a] and [r] are false."
+        },
+        {
+          "id": "D",
+          "text": "[a] is false and [r] is true."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Determine the correctness or otherwise of the following Assertion [a] and the Reason [r]. Assertion: Fast decoupled load flow method gives approximate load flow solution because it uses several assumptions. Reason: Accuracy depends on the power mismatch vector tolerance.",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515143",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 50 Hz generating unit has H-constant of 2 MJ/MVA. The machine is initially operating in steady state at synchronous speed, and producing 1 pu of real power. The initial value of the rotor angle [latex]\\delta[/latex] is 5[latex]^{\\circ}[/latex], when a bolted three phase to ground short circuit fault occurs at the terminal of the generator. Assuming the input mechanical power to remain at 1 pu, the value of [latex]\\delta[/latex] in degrees, 0.02 second after the fault is _________.",
+      "topic": "Power System Stability",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515146",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In a linear two-port network, when 10 V is applied to Port 1, a current of 4 A flows through Port 2 when it is short-circuited. When 5 V is applied to Port 1, a current of 1.25 A flows through a 1 [latex]\\Omega[/latex] resistance connected across Port 2. When 3 V is applied to Port 1, the current (in Ampere) through a 2 [latex]\\Omega[/latex] resistance connected across Port 2 is _______.",
+      "topic": "Network Theorems",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515148",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A separately excited DC motor runs at 1000 rpm on no load when its armature terminals are connected to a 200V DC source and the rated voltage is applied to the field winding. The armature resistance of this motor is 1[latex]\\Omega[/latex]. The no-load armature current is negligible. With the motor developing its full load torque, the armature voltage is set so that the rotor speed is 500 rpm. When the load torque is reduced to 50% of the full load value under the same armature voltage conditions, the speed rises to 520 rpm. Neglecting the rotational losses, the full load armature current (in Ampere) is _______.",
+      "topic": "Electrical Machines",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A DC motor has the following specifications: 10 hp, 37.5 A, 230 V; flux/pole = 0.01 Wb, number of poles = 4, number of conductors = 666, number of parallel paths = 2. Armature resistance = 0.267 [latex]\\Omega[/latex]. The armature reaction is negligible and rotational losses are 600 W. The motor operates from a 230 V DC supply. If the motor runs at 1000 rpm, the output torque produced (in Nm) is ___-________.",
+      "topic": "Electrical Machines",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 200/400 V, 50 Hz, two-winding transformer is rated at 20 kVA. Its windings are connected as an auto-transformer of rating 200/600 V. A resistive load of 12 [latex]\\Omega[/latex] is connected to the high voltage (600 V) side of the auto-transformer. The value of equivalent load resistance (in Ohm) as seen from low voltage side is _____.",
+      "topic": "Transformers",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two single-phase transformers T1 and T2 each rated at 500 kVA are operated in parallel. Percentage impedances of T1 and T2 are (1 + j6) and (0.8 + j4.8), respectively. To share a load of 1000 kVA at 0.8 lagging power factor, the contribution of T2 (in kVA) is ________.",
+      "topic": "Transformers",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515153",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Poles at (2[latex]\\pm[/latex]j3), no zeroes."
+        },
+        {
+          "id": "B",
+          "text": "Poles at ([latex]\\pm[/latex]2-j3), one zero at origin."
+        },
+        {
+          "id": "C",
+          "text": "Poles at (2-j3),(-2+j3), zeroes at (-2-j3),(2+j3)."
+        },
+        {
+          "id": "D",
+          "text": "Poles at (2[latex]\\pm[/latex]j3), zeroes at (-2[latex]\\pm[/latex]j3)."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The transfer function of a second order real system with a perfectly flat magnitude response of unity has a pole at (2-j3). List all the poles and zeroes.",
+      "topic": "Control Systems",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515155",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "It corresponds to a frequency greater than K"
+        },
+        {
+          "id": "B",
+          "text": "It corresponds to a frequency less than K"
+        },
+        {
+          "id": "C",
+          "text": "It corresponds to a frequency K"
+        },
+        {
+          "id": "D",
+          "text": "Root locus of modified system never transits to unstable region"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The open loop poles of a third order unity feedback system are at 0, -1, -2. Let the frequency corresponding to the point where the root locus of the system transits to unstable region be K. Now suppose we introduce a zero in the open loop transfer function at -3, while keeping all the earlier open loop poles intact. Which one of the following is TRUE about the point where the root locus of the modified system transits to unstable region?",
+      "topic": "Root Locus Techniques",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515201",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "If f(z) is differentiable at [latex]z_0[/latex], then g(z) and g(z) are also differentiable at [latex]z_0[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "If g(z) and h(z) are differentiable at [latex]z_0[/latex], then f(z) is also differentiable at [latex]z_0[/latex]."
+        },
+        {
+          "id": "C",
+          "text": "If f(z) is continuous at [latex]z_0[/latex], then it is differentiable at [latex]z_0[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "If f(z) is differentiable at [latex]z_0[/latex], then so are its real and imaginary parts."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given f(z)=g(z)+h(z), where f, g, h are complex valued functions of a complex variable z. Which one of the following statements is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515202",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P\\equiv Q\\equiv R\\equiv S[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]P\\equiv R\\not\\equiv Q\\equiv S[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]P\\equiv Q\\not\\equiv R\\equiv S[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]P\\not\\equiv Q\\not\\equiv R\\not\\equiv S[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "We have a set of 3 linear equations in 3 unknowns. '[latex]X \\equiv Y[/latex]' means X and Y are equivalent statements and '[latex]X\\not\\equiv Y[/latex]' means X and Y are not equivalent statements. P: There is a unique solution. Q: The equations are linearly independent. R: All eigenvalues of the coefficient matrix are nonzero. S: The determinant of the coefficient matrix is nonzero. Which one of the following is TRUE?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515204",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3s^{-5/2}/2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]s^{-1/2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]s^{1/2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]s^{3/2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Laplace transform of [latex]f(t)=2\\sqrt{t/\\pi } [/latex] is [latex] s^{-3/2}[/latex]. The Laplace transform of [latex]g(t)=\\sqrt{1/\\pi t}[/latex] is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515206",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3.94 kW and 1.06 kW"
+        },
+        {
+          "id": "B",
+          "text": "2.50 kW and 2.50 kW"
+        },
+        {
+          "id": "C",
+          "text": "5.00 kW and 0.00 kW"
+        },
+        {
+          "id": "D",
+          "text": "2.96 kW and 2.04 kW"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase balanced load which has a power factor of 0.707 is connected to a balanced supply. The power consumed by the load is 5 kW. The power is measured by the two-wattmeter method. The readings of the two wattmeters are",
+      "topic": "Measurement of Energy and Power",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515209",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3\\hat{a}_{x} + 1.6\\hat{a}_{y} + 2\\hat{a}_{z}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1.2\\hat{a}_{x} + 4\\hat{a}_{y} + 2\\hat{a}_{z}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1.2 \\hat{a}_{x} + 4\\hat{a}_{y} + 0.8\\hat{a}_{z}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3\\hat{a}_{x} + 10\\hat{a}_{y} + 0.8\\hat{a}_{z}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two semi-infinite dielectric regions are separated by a plane boundary at y = 0. The dielectric constants of region 1 (y[latex]\\lt[/latex]0) and region 2 (y[latex]\\gt[/latex]0) are 2 and 5, respectively. Region 1 has uniform electric field [latex]\\vec{E}=3\\hat{a}_{x}+4\\hat{a}_{y}+2\\hat{a}_{z}[/latex], where [latex]\\hat{a}_{x},\\hat{a}_{y}[/latex] and [latex]\\hat{a}_{z}[/latex] are unit vectors along the x, y and z axes, respectively. The electric field in region 2 is",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]F=(A+\\bar{B}+C)(\\bar{A}+B+C)(\\bar{A}+\\bar{B}+C)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]F=(A+\\bar{B}+\\bar{C})(A+B+C)(\\bar{A}+\\bar{B}+\\bar{C})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]F=(A+\\bar{B}+\\bar{C})(A+\\bar{B}+\\bar{C})(A+B+C)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]F=(A+\\bar{B}+\\bar{C})(A+B+\\bar{C})(A+B+C)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the following Sum of Products expression, F. [latex]F=ABC+\\bar{A}\\bar{B}C+A\\bar{B}C+\\bar{A}BC+\\bar{A}\\bar{B}\\bar{C}[/latex] The equivalent Product of Sums expression is",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The CB junction is forward biased and the BE junction is reverse biased."
+        },
+        {
+          "id": "B",
+          "text": "The CB junction is reverse biased and the BE junction is forward biased."
+        },
+        {
+          "id": "C",
+          "text": "Both the CB and BE junctions are forward biased."
+        },
+        {
+          "id": "D",
+          "text": "Both the CB and BE junctions are reverse biased."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "When a bipolar junction transistor is operating in the saturation mode, which one of the following statements is TRUE about the state of its collector-base (CB) and the base-emitter (BE) junctions?",
+      "topic": "BJT, FET and their Biasing Circuits",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515217",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-j7.0"
+        },
+        {
+          "id": "B",
+          "text": "-j8.5"
+        },
+        {
+          "id": "C",
+          "text": "-j7.5"
+        },
+        {
+          "id": "D",
+          "text": "-j9.0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-bus power system network consists of 3 transmission lines. The bus admittance matrix of the uncompensated system is [latex]\\begin{bmatrix} -j6 & j3&j4 \\\\ j3& -j7 & j5\\\\ j4 & j5 & -j8 \\end{bmatrix}pu.[/latex] If the shunt capacitance of all transmission lines is 50% compensated, the imaginary part of the [latex]3_{rd}[/latex] row [latex]3_{rd}[/latex] column element (in pu) of the bus admittance matrix after compensation is",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515221",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A shunt-connected DC motor operates at its rated terminal voltage. Its no-load speed is 200 radian/second. At its rated torque of 500 Nm, its speed is 180 radian/second. The motor is used to directly drive a load whose load torque [latex]T _{L}[/latex] depends on its rotational speed [latex]\\omega _{r}[/latex] (in radian/second), such that [latex]T _{L}=2.78 \\times \\omega _{r}[/latex]. Neglecting rotational losses, the steady-state speed (in radian/second) of the motor, when it drives this load, is _______.",
+      "topic": "Power Electronics",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515223",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "230 and 5"
+        },
+        {
+          "id": "B",
+          "text": "115 and 5"
+        },
+        {
+          "id": "C",
+          "text": "115 and 2.5"
+        },
+        {
+          "id": "D",
+          "text": "230 and 2.5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 4-pole, separately excited, wave wound DC machine with negligible armature resistance is rated for 230 V and 5 kW at a speed of 1200 rpm. If the same armature coils are reconnected to form a lap winding, what is the rated voltage (in volts) and power (in kW) respectively at 1200 rpm of the reconnected machine if the field circuit is left unchanged ?",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515224",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An open loop control system results in a response of [latex]e^{-2t}(sin 5t+cos 5t)[/latex] for a unit impulse input. The DC gain of the control system is ______.",
+      "topic": "Time Response Analysis",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515226",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The volume enclosed by the surface [latex]f(x,y)=e^{x}[/latex] over the triangle bounded by the lines x=y; x=0; y=1 in the xy plane is ______.",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515227",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "The coin tosses are independent."
+        },
+        {
+          "id": "B",
+          "text": "R is fair, S is not."
+        },
+        {
+          "id": "C",
+          "text": "S is fair, R is not"
+        },
+        {
+          "id": "D",
+          "text": "The coin tosses are dependent"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two coins R and S are tossed. The 4 joint events [latex]H_{R}H_{S},T_{R}T_{S},h_{R}H_{S},T_{R}H_{S}[/latex] have probabilities 0.28, 0.18, 0.30, 0.24, respectively, where H represents head and T represents tail. Which one of the following is TRUE?",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515228",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A differential equation [latex]\\frac{di}{dt}-0.2i=0[/latex] is applicable over [latex]-10\\lt t \\lt 10[/latex]. If i(4)=10, then i(-5) is _____.",
+      "topic": "Numerical Methods",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515229",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2sin(\\omega -10)}{\\omega -10}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2e^{j10}\\frac{sin(\\omega -10)}{\\omega -10}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2sin \\omega }{\\omega -10}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{j10\\omega }\\frac{2sin \\omega }{\\omega}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a signal defined by [latex]x(t)=\\left\\{\\begin{matrix} e^{j10t} & for |t|\\leq 1\\\\ 0 & for |t|\\gt 1 \\end{matrix}\\right.[/latex] Its Fourier Transform is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515234",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "The impulse response will be integrable, but may not be absolutely integrable."
+        },
+        {
+          "id": "B",
+          "text": "The unit impulse response will have finite support."
+        },
+        {
+          "id": "C",
+          "text": "The unit step response will be absolutely integrable"
+        },
+        {
+          "id": "D",
+          "text": "The unit step response will be bounded."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For linear time invariant systems, that are Bounded Input Bounded Output stable, which one of the following statements is TRUE?",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515235",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2z+2-8/z+7/z^{2}-3/z^{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-2z+2-6/z-1/z^{2}-3/z^{3}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-2z+2-8/z-7/z^{2}-3/z^{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]4z-2-8/z+7/z^{2}-3/z^{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The z-Transform of a sequence x[n] is given as [latex]X(z)=2z+4-4/z+3/z^{2}[/latex]. If y[n] is the first difference of x[n], then Y(z) is given by",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515240",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The incremental costs (in Rupees/MWh) of operating two generating units are functions of their\r\nrespective powers [latex]P_1 \\; and \\; P_2[/latex] in MW, and are given by [latex]\\frac{dC_{1}}{dP_{1}}=0.2 P_{1}+50 [/latex] [latex]\\frac{dC_{2}}{dP_{2}}=0.24P_{2}+40 [/latex] where [latex]20MW\\leq P_{1}\\leq 150MW [/latex] [latex]20 MW \\leq P_{2} \\leq 150MW[/latex]. For a certain load demand, [latex]P_1 \\; and \\; P_2[/latex]  have been chosen such that [latex]dC_1/d P_1[/latex]=76Rs/MWh and [latex]dC_2/d P_2[/latex]=68.8 Rs/MWh. If the generations are rescheduled to minimize the total cost, then  [latex]P_2[/latex] is ________.",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515246",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two identical coils each having inductance L are placed together on the same core. If an overall inductance of [latex]\\alpha[/latex]L is obtained by interconnecting these two coils, the minimum value of [latex]\\alpha[/latex] is ____.",
+      "topic": "Magnetically Coupled Circuits, Network Topology and Filters",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515248",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "With an armature voltage of 100 V and rated field winding voltage, the speed of a separately excited DC motor driving a fan is 1000 rpm, and its armature current is 10 A. The armature resistance is 1 [latex]\\Omega[/latex]. The load torque of the fan load is proportional to the square of the rotor speed. Neglecting rotational losses, the value of the armature voltage (in Volt) which will reduce the rotor speed to 500 rpm is ______.",
+      "topic": "Electrical Machines",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515249",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase, 11 kV, 50 Hz, 2 pole, star connected, cylindrical rotor synchronous motor is connected to an 11 kV, 50 Hz source. Its synchronous reactance is 50 [latex]\\Omega[/latex] per phase, and its stator resistance is negligible. The motor has a constant field excitation. At a particular load torque, its stator current is 100 A at unity power factor. If the load torque is increased so that the stator current is 120 A, then the load angle (in degrees) at this load is ________.",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515252",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "The system is not stable for [latex]h\\gt 0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "The system is stable for [latex]h \\gt \\frac{1}{\\pi }[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "The system is stable for [latex]0 \\lt  h \\lt \\frac{1}{2\\pi }[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "The system is stable for [latex]\\frac{1}{2\\pi } \\lt h \\lt \\frac{1}{\\pi }[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The following discrete-time equations result from the numerical integration of the differential equations of an un-damped simple harmonic oscillator with state variables x and y. The integration time step is h. [latex]\\frac{x_{k+1}-x_{k}}{h}=y_{k}[/latex] [latex] \\frac{y_{k+1}-y_{k}}{h}=-x_{k}[/latex] For this discrete-time system, which one of the following statements is TRUE?",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515254",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "-0.42"
+        },
+        {
+          "id": "B",
+          "text": "-1.58"
+        },
+        {
+          "id": "C",
+          "text": "-0.42 and -1.58"
+        },
+        {
+          "id": "D",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An open loop transfer function G(s) of a system is [latex]G(s)=\\frac{K}{s(s+1)(s+2)}[/latex] For a unity feedback system, the breakaway point of the root loci on the real axis occurs at,",
+      "topic": "Root Locus Techniques",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "1515255",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3(s+1)/(s^{2}-2s+2)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]3(2s+1)/(s^{2}-2s+1)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](s+1)/(s^{2}-2s+2)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3(2s+1)/(s^{2}-2s+2)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the system governed by the set of equations: [latex]dx_{1}/dt=2x_{1}+x_{2}+u [/latex] [latex]dx_{2}/dt=-2x_{1}+u [/latex] [latex] y=3x_{1}[/latex] the transfer function Y(s)/U(s) is given by",
+      "topic": "Mathematical Models of Physical Systems",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11510115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.25"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "0.75"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A random variable X has probability density function f(x) as given below: [latex]f(x)=\\left\\{\\begin{matrix} a+bx & for \\; 0 \\lt x \\lt 1\\\\ 0& otherwise \\end{matrix}\\right.[/latex] If the expected value E[X]=2/3, then [latex]Pr[X \\lt 0.5][/latex] is _____________.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11510215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f(a)\\cdot f(b)=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f(a)\\cdot f(b) \\lt 0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]f(a)\\cdot f(b) \\gt 0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f(a)/ f(b)\\leq 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If a continuous function f(x) does not have a root in the interval [a,b], then which one of the following statements is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11510315",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If the sum of the diagonal elements of a 2x2 matrix is -6, then the maximum possible value of determinant of the matrix is ________.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11512615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2}{3\\sqrt{3}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{3\\sqrt{3}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1+2\\sqrt{3}}{3\\sqrt{3}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1+\\sqrt{3}}{3\\sqrt{3}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The maximum value of \"a\" such that the matrix [latex]\\begin{pmatrix} -3 & 0& -2\\\\ 1 &-1 & 0\\\\ 0& a&-2 \\end{pmatrix}[/latex] has three linearly independent real eigenvectors is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11512715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "-8"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "-3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A solution of the ordinary differential equation [latex]\\frac{d^{2}y}{dt^{2}}+5\\frac{dy}{dt}+6y=0[/latex] is such that y(0)=2 and [latex]y(1)= -\\frac{1-3e}{e^{3}}[/latex]. The value of [latex]\\frac{dy}{dt}(0)[/latex] is _______",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11512915",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]5/11[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1/2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]7/13[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]6/11[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two players, A and B, alternately keep rolling a fair dice. The person to get a six first wins the game. Given that player A starts the game, the probability that A wins the game is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11520115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "If f(z) is differentiable at [latex]z_0[/latex], then g(z) and g(z) are also differentiable at [latex]z_0[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "If g(z) and h(z) are differentiable at [latex]z_0[/latex], then f(z) is also differentiable at [latex]z_0[/latex]."
+        },
+        {
+          "id": "C",
+          "text": "If f(z) is continuous at [latex]z_0[/latex], then it is differentiable at [latex]z_0[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "If f(z) is differentiable at [latex]z_0[/latex], then so are its real and imaginary parts."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given f(z)=g(z)+h(z), where f, g, h are complex valued functions of a complex variable z. Which one of the following statements is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11520215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P\\equiv Q\\equiv R\\equiv S[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]P\\equiv R\\not\\equiv Q\\equiv S[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]P\\equiv Q\\not\\equiv R\\equiv S[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]P\\not\\equiv Q\\not\\equiv R\\not\\equiv S[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "We have a set of 3 linear equations in 3 unknowns. '[latex]X \\equiv Y[/latex]' means X and Y are equivalent statements and '[latex]X\\not\\equiv Y[/latex]' means X and Y are not equivalent statements. P: There is a unique solution. Q: The equations are linearly independent. R: All eigenvalues of the coefficient matrix are nonzero. S: The determinant of the coefficient matrix is nonzero. Which one of the following is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11522615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "0.25"
+        },
+        {
+          "id": "C",
+          "text": "0.56"
+        },
+        {
+          "id": "D",
+          "text": "0.71"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The volume enclosed by the surface [latex]f(x,y)=e^{x}[/latex] over the triangle bounded by the lines x=y; x=0; y=1 in the xy plane is ______.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11522715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The coin tosses are independent."
+        },
+        {
+          "id": "B",
+          "text": "R is fair, S is not."
+        },
+        {
+          "id": "C",
+          "text": "S is fair, R is not"
+        },
+        {
+          "id": "D",
+          "text": "The coin tosses are dependent"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two coins R and S are tossed. The 4 joint events [latex]H_{R}H_{S},T_{R}T_{S},h_{R}H_{S},T_{R}H_{S}[/latex] have probabilities 0.28, 0.18, 0.30, 0.24, respectively, where H represents head and T represents tail. Which one of the following is TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    },
+    {
+      "branch": "EE",
+      "id": "11522815",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "1.6"
+        },
+        {
+          "id": "D",
+          "text": "2.4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A differential equation [latex]\\frac{di}{dt}-0.2i=0[/latex] is applicable over [latex]-10\\lt t \\lt 10[/latex]. If i(4)=10, then i(-5) is _____.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2015
+    }
+  ],
+  "schema_version": 1
+}

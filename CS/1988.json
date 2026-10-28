@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1100501",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The code generator."
+        },
+        {
+          "id": "B",
+          "text": "The code optimiser."
+        },
+        {
+          "id": "C",
+          "text": "The lexical analyser."
+        },
+        {
+          "id": "D",
+          "text": "The syntax analyser."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In a compiler the module that checks every character of the source text is called:",
+      "topic": "Lexical Analysis",
+      "type": "MCQ",
+      "year": 1988
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,1010 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1525101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The number of elements in the set S is finite and more than one."
+        },
+        {
+          "id": "B",
+          "text": "The number of elements in the set S is infinite."
+        },
+        {
+          "id": "C",
+          "text": "The set S is empty."
+        },
+        {
+          "id": "D",
+          "text": "The number of elements in the set S is exactly one."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the set [latex]S[/latex] of points [latex](x, y) \\in  \\mathfrak{R}^2[/latex] which minimize the real-valued function [latex]f(x, y) = (x + y - 1)^2 + (x + y)^2[/latex] Which of the following statements is true about the set [latex]S[/latex]?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\mathrm{v}_{1}^{\\mathrm{T}} \\mathrm{v}_{2} \\neq 0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\mathrm{v}_{1}^{\\mathrm{T}} \\mathrm{v}_{2}=0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\mathrm{v}_{1}+\\mathrm{v}_{2}=0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\mathrm{v}_{1}-\\mathrm{v}_{2}=0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]v_{1}[/latex] and [latex]v_{2}[/latex] be the two eigenvectors corresponding to distinct eigenvalues of a [latex]3 \\times 3[/latex] real symmetric matrix. Which one of the following statements is true?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a unique solution."
+        },
+        {
+          "id": "B",
+          "text": "infinitely many solutions."
+        },
+        {
+          "id": "C",
+          "text": "a finite number of solutions."
+        },
+        {
+          "id": "D",
+          "text": "no solution."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]\\mathrm{A}=\\left[\\begin{array}{ccc}1 & 1 & 1 \\\\ -1 & -1 & -1 \\\\ 0 & 1 & -1\\end{array}\\right][/latex], and [latex]\\mathrm{b}=\\left[\\begin{array}{c}1 / 3 \\\\  -1 / 3 \\\\ 0\\end{array}\\right][/latex]. Then, the system of linear equations [latex]\\mathrm{Ax}=\\mathrm{b}[/latex] has",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2 \\mathrm{P}-\\mathrm{I}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] \\mathrm{P}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\mathrm{I}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\mathrm{P}+\\mathrm{I}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]\\mathrm{P}=\\left[\\begin{array}{ccc}2 & 1 & 0\\\\ -1 & 0 & 0 \\\\0 & 0 & 1\\end{array}\\right][/latex] and let  [latex]\\mathrm{I}[/latex]  be the identity matrix. Then [latex]P^2 [/latex] is equal to",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{4}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{8}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider discrete random variables X and Y with probabilities as follows: [latex]\\mathrm{P}(\\mathrm{X}=0[/latex] and [latex]\\mathrm{Y}=0)=\\frac{1}{4}[/latex], [latex]\\mathrm{P}(\\mathrm{X}=1[/latex] and [latex]\\mathrm{Y}=0)=\\frac{1}{8}[/latex] [latex]\\mathrm{P}(\\mathrm{X}=0[/latex] and [latex]\\mathrm{Y}=1)=\\frac{1}{2}[/latex] [latex]\\mathrm{P}(\\mathrm{X}=1[/latex] and [latex]\\mathrm{Y}=1)=\\frac{1}{8}[/latex] Given [latex]\\mathrm{X}=1[/latex], the expected value of [latex]\\mathrm{Y}[/latex] is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Common source and common gate amplifiers are both inverting amplifiers"
+        },
+        {
+          "id": "B",
+          "text": "Common source and common gate amplifiers are both non-inverting amplifiers"
+        },
+        {
+          "id": "C",
+          "text": "Common source amplifier is inverting and common gate amplifier is non-inverting amplifier"
+        },
+        {
+          "id": "D",
+          "text": "Common source amplifier is non-inverting and common gate amplifier is inverting amplifier"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which one of the following statement is true about the small signal voltage gain of a MOSFET based single stage amplifier?",
+      "topic": "Small Signal Analysis",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "resistor of value R"
+        },
+        {
+          "id": "B",
+          "text": "nullator."
+        },
+        {
+          "id": "C",
+          "text": "open circuit."
+        },
+        {
+          "id": "D",
+          "text": "short circuit."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A nullator is defined as a circuit element where the voltage across the device and the current through the device are both zero. A series combination of a nullator and a resistor of value [latex]R[/latex], will behave as a",
+      "topic": "Miscellaneous",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x[n]+x[n-1]+x[n-2][/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]{x}[{n}-1]+{x}[{n}]+{x}[{n}+1][/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x[n]+x[n+1]+x[n+2][/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x[n+1]+x[n+2]+x[n+3][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a discrete-time linear time-invariant (LTI) system S , where [latex]\\mathrm{y}[\\mathrm{n}]={S}\\{{x}[\\mathrm{n}]\\}[/latex] Let [latex]S\\{\\delta[n]\\}= \\begin{cases}1, & \\mathrm{n} \\in\\{0,1,2\\}\\\\  0, & \\text { otherwise }\\end{cases}[/latex] Where [latex]\\delta[\\mathrm{n}][/latex] is the discrete-time unit impulse function. For an input signal [latex]x[n][/latex], the output [latex]y[n][/latex] is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-9"
+        },
+        {
+          "id": "B",
+          "text": "9"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "-3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a continuous-time signal [latex]\\mathrm{x}(\\mathrm{t})=-\\mathrm{t}^{2}\\{\\mathrm{u}(\\mathrm{t}+4)-\\mathrm{u}(\\mathrm{t}-4)\\}[/latex] Where [latex]u(t)[/latex] is the continuous-time unit step function. Let [latex]\\delta(\\mathrm{t})[/latex] be the continuous-time unit impulse function. The value of [latex]\\int_{-\\infty}^{\\infty} \\mathrm{x}(\\mathrm{t}) \\delta(\\mathrm{t}+3) \\mathrm{dt}[/latex] is",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Selected data points of the step response of a stable first-order linear time-invariant (LTI) system are given below. The closest value of the time-constant, in sec, of the system is [latex]\\begin{array}{|l|l|l|l|l|l|}\n\\hline\nTime(sec) & 0.6 & 1.6 & 2.6 & 10 & \\infty \\\\\n\\hline\nOutput & 0.78 & 1.65 & 2.18 & 2.98 & 3 \\\\\n\\hline\n\\end{array}\n[/latex]",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Slack bus"
+        },
+        {
+          "id": "B",
+          "text": "PV bus"
+        },
+        {
+          "id": "C",
+          "text": "PQ bus"
+        },
+        {
+          "id": "D",
+          "text": "PQV bus"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "During a power failure, a domestic household uninterruptible power supply (UPS) supplies AC power to a limited number of lights and fans in various rooms. As per a Newton-Raphson loadflow formulation, the UPS would be represented as a",
+      "topic": "Load Flow Studies\n",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.845"
+        },
+        {
+          "id": "B",
+          "text": "0.867"
+        },
+        {
+          "id": "C",
+          "text": "0.887"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The input voltage [latex]\\mathrm{v}(\\mathrm{t})[/latex] and current [latex]\\mathrm{i}(\\mathrm{t})[/latex] of a converter are given by, [latex]\\mathrm{v}(\\mathrm{t})=300 \\sin (\\omega \\mathrm{t})[/latex] [latex]\\mathrm{i}(\\mathrm{t})=10 \\sin \\left(\\omega \\mathrm{t}-\\frac{\\pi}{6}\\right)+2 \\sin \\left(3 \\omega \\mathrm{t}+\\frac{\\pi}{6}\\right)+\\sin \\left(5 \\omega \\mathrm{t}+\\frac{\\pi}{2}\\right) \\mathrm{A}[/latex] Where, [latex]\\omega=2 \\pi \\times 50 \\mathrm{rad} / \\mathrm{s}[/latex]. The input power factor of the converter is closest to",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Voltmeter"
+        },
+        {
+          "id": "B",
+          "text": "Wattmeter"
+        },
+        {
+          "id": "C",
+          "text": "Synchroscope"
+        },
+        {
+          "id": "D",
+          "text": "Stroboscope"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Instrument(s) required to synchronize an alternator to the grid is/are",
+      "topic": "Synchronous Machines",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A continuous time periodic signal [latex]{x}({t})[/latex] is [latex]x(t)=1+2 \\cos 2 \\pi t+2 \\cos 4 \\pi t+2 \\cos 6 \\pi t[/latex]. If [latex]T[/latex] is the period of [latex]x(t)[/latex], then [latex]\\frac{1}{T} \\int_{0}^{T}| x(t)| ^{2} dt=[/latex] _________  (round off to the nearest integer).",
+      "topic": "Signals and Systems",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The maximum percentage error in the equivalent resistance of two parallel-connected resistors of [latex]100 \\Omega[/latex] and [latex]900 \\Omega[/latex] with each having a maximum [latex]5 \\%[/latex] error is __________  % (round off to nearest integer value).",
+      "topic": "Measurement of Resistance and Potentiometers",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a distribution feeder, with [latex]\\mathrm{R} / \\mathrm{X}[/latex] ratio of 5 . At the receiving end, a 350 kVA load is connected. The maximum voltage drop will occur from the sending end to the receiving end, when the power factor of the load is ___________ (round off to three decimal places).",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The bus impedance matrix of a 3-bus system (in [latex] pu[/latex] ) is [latex]\nZ_{\\text {bus }}=\\left[\\begin{array}{lll}\nj 0.059 & j 0.061 & j 0.038 \\\\\nj 0.061 & j 0.093 & j 0.066 \\\\\nj 0.038 & j 0.066 & j 0.110\n\\end{array}\\right]\n[/latex] A symmetrical fault (through a fault impedance of [latex]j0.007 pu[/latex]) occurs at bus 2. Neglecting pre-fault loading conditions, the voltage at bus 1, during the fault is ___________  [latex] pu[/latex]  (round off to three decimal places).",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The induced emf in a [latex]3.3 \\mathrm{kV}, 4[/latex] pole, 3-phase star connected synchronous motor is considered to be equal and in phase with the terminal voltage under no load condition. On application of a mechanical load, the induced emf phasor is deflected by an angle of [latex]2^{\\circ}[/latex] mechanical with respect to the terminal voltage phasor. If the synchronous reactance is [latex]2 \\Omega[/latex], and stator resistance is negligible, then the motor armature current magnitude, in ampere, during loaded condition is closest to, ___________ (round off to two decimal places).",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P_{Y}(y)=\\begin{cases}\\frac{1}{2 \\sqrt{y}}, & y \\in (0,1] \\\\ 0, & \\text { otherwise }\\end{cases}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]P_{Y}(y)= \\begin{cases}1, & {y} \\in(0,1]  \\\\ 0, & \\text { otherwise }\\end{cases}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]P_{Y}(y)=\\begin{cases}1.5 \\sqrt{y}, & y \\in (0,1] \\\\ 0, & \\text { otherwise }\\end{cases}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]P_{Y}(y)= \\begin{cases}2 y, & y \\in (0,1]  \\\\  0, & \\text { otherwise }\\end{cases}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let  [latex]X [/latex] and  [latex]Y [/latex] be continuous random variables with probability density functions [latex]\\mathrm{P}_{\\mathrm{X}}(x)[/latex] and [latex]\\mathrm{P}_{\\mathrm{Y}}(y)[/latex], respectively. Further, let [latex]\\mathrm{Y}=\\mathrm{X}^{2}[/latex] and [latex]\n\\mathrm{P}_{\\mathrm{X}}(x)= \\begin{cases}1, & x \\in (0,1] \\\\ 0, & \\text { otherwise }\\end{cases}\n[/latex] Which one of the following options is correct?",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.5"
+        },
+        {
+          "id": "B",
+          "text": "2.5"
+        },
+        {
+          "id": "C",
+          "text": "3.5"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let continuous-time signals [latex]{x}_{1}({t})[/latex] and [latex]{x}_{2}({t})[/latex] be [latex]{x}_{1}({t})= \\begin{cases}1, & {t} \\in[0,1] \\\\ 2-{t}, & {t} \\in[1,2] \\text { and } \\\\ 0, & \\text { otherwise }\\end{cases}[/latex] [latex]{x}_{2}({t})= \\begin{cases}{t}, & {t} \\in[0,1] \\\\ 2-{t}, & {t} \\in[1,2] \\\\ 0, & \\text { otherwise }\\end{cases}[/latex] Consider the convolution [latex]{y}({t})={x}_{1}({t}){*} {x}_{2}({t})[/latex]. Then [latex]\\int_{-\\infty}^{\\infty} y(t) d t[/latex] is",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "very bounded input signal applied to [latex]\\mathbf{S}[/latex] results in a bounded output signal."
+        },
+        {
+          "id": "B",
+          "text": "It is possible to find a bounded input signal which when applied to [latex]\\mathbf{S}[/latex] results in an unbounded output signal."
+        },
+        {
+          "id": "C",
+          "text": "On applying any input signal to [latex]\\mathbf{S}[/latex], the output signal is always bounded."
+        },
+        {
+          "id": "D",
+          "text": "On applying any input signal to [latex]\\mathbf{S}[/latex] the output signal is always unbounded."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The continuous-time unit impulse signal is applied as an input to a continuous-time linear timeinvariant system [latex]\\mathbf{S}[/latex]. The output is observed to be the continuous-time unit step signal [latex]u(t)[/latex]. Which one of the following statements is true?",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525134",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "23.28"
+        },
+        {
+          "id": "B",
+          "text": "4.82"
+        },
+        {
+          "id": "C",
+          "text": "46.7"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A DC series motor with negligible series resistance is running at a certain speed driving a load, where the load torque varies as cube of the speed. The motor is fed from a 400 V DC source and draws 40 A armature current. Assume linear magnetic circuit. The external resistance, in [latex]\\Omega[/latex], that must be connected in series with the armature to reduce the speed of the motor by half, is closest to",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "400 V and 50 Hz"
+        },
+        {
+          "id": "B",
+          "text": "200 V and 25 Hz"
+        },
+        {
+          "id": "C",
+          "text": "100 V and 12.5 Hz"
+        },
+        {
+          "id": "D",
+          "text": "300 V and 37.5 Hz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase, [latex]400 \\mathrm{~V}, 4[/latex] pole, 50 Hz star connected induction motor has the following parameters referred to the stator: [latex]\\mathrm{R}_{\\mathrm{r}}^{\\prime}=1 \\Omega, \\mathrm{X}_{\\mathrm{s}}=\\mathrm{X}_{\\mathrm{r}}^{\\prime}=2 \\Omega[/latex] Stator resistance, magnetizing reactance and core loss of the motor are neglected. The motor is run with constant [latex] V/f[/latex] control from a drive. For maximum starting torque, the voltage and frequency output, respectively, from the drive, is closest to,",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525136",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "169.71"
+        },
+        {
+          "id": "B",
+          "text": "300"
+        },
+        {
+          "id": "C",
+          "text": "424.26"
+        },
+        {
+          "id": "D",
+          "text": "212.13"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The 3-phase modulating waveforms [latex]({v}_{{a}}({t}), {v}_{{b}}({t}) [/latex] and [latex]{v}_{{c}}({t}) )[/latex], used in sinusoidal PWM in a Voltage Source Inverter (VSI) are [latex]{v}_{{a}}({t})=0.8 \\sin (\\omega {t}) {V}[/latex] [latex]{v}_{{b}}({t})=0.8 \\sin \\left(\\omega {t}-\\frac{2 \\pi}{3}\\right) {V}[/latex] [latex]{V}_{{c}}({t})=0.8 \\sin \\left(\\omega {t}+\\frac{2 \\pi}{3}\\right) {V}[/latex] Where [latex]\\omega=2 \\pi \\times 40 {rad} / {s}[/latex] is the fundamental frequency. The modulating waveforms are compared with a 10 kHz triangular carrier whose magnitude varies between +1 and -1 . The VSI has a DC link voltage of 600 V and feeds a star connected motor. The per phase fundamental RMS motor voltage, in volts, is closest to",
+      "topic": "Inverters",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525141",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2"
+        },
+        {
+          "id": "B",
+          "text": "-1"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]{a}_{{R}}[/latex] be the unit radial vector in the spherical co-ordinate system. For which of the following value(s) of [latex]n[/latex], the divergence of the radial vector field [latex]f(R)=a_{R} \\frac{1}{R^{n}}[/latex] is independent of [latex]R[/latex] ?",
+      "topic": "Electromagnetic Theory",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-\\frac{\\mathrm{M}}{\\mathrm{L}_{1}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-\\frac{\\mathrm{M}}{\\mathrm{L}_{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-\\frac{\\mathrm{L}_{1}}{\\mathrm{M}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-\\frac{L_{2}}{\\mathrm{M}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider two coupled circuits, having selfinductances [latex]L_{1}[/latex] and [latex]L_{2}[/latex], that carry non-zero currents [latex]\\mathrm{I}_{1}[/latex] and [latex]\\mathrm{I}_{2}[/latex], respectively. The mutual inductance between the circuits is M with unity coupling coefficient. The stored magnetic energy of the coupled circuits is minimum at which of the following value(s) of [latex]\\frac{\\mathrm{I}_{1}}{\\mathrm{I}_{2}}[/latex] ?",
+      "topic": "Electromagnetic Theory",
+      "type": "MSQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525143",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex](\\mathrm{x}, \\mathrm{y}) \\in \\mathfrak{R}^{2}[/latex]. The rate of change of the real valued function, [latex]\\mathrm{V}(\\mathrm{x}, \\mathrm{y})=\\mathrm{x}^{2}+\\mathrm{x}+\\mathrm{y}^{2}+1[/latex] at the origin in the direction of the point [latex](1,2)[/latex] is ___________ (round off to the nearest integer).",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525144",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider ordinary differential equations given by [latex]\\dot{x}_{1}({t})=2 {x}_{2}({t}) [/latex] [latex] \\dot{{x}}_{2}({t})={r}({t})[/latex] with initial conditions [latex]{x}_{1}(0)=1[/latex] and [latex]{x}_{2}(0)=0[/latex]. If [latex]r(t)=\\left\\{\\begin{array}{ll}1, & t \\geq 0 \\\\ 0, & t < 0\\end{array}\\right.[/latex], then at [latex]t=1, x_{1}(t)=[/latex] ___________ (round off to the nearest integer).",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]C[/latex] be a clockwise oriented closed curve in the complex plane defined by [latex]|z|=1[/latex]. Further, let [latex]f(z)=j z[/latex] be a complex function, where [latex]j=\\sqrt{-1}[/latex]. Then, [latex]\\oint_{{C}} {f}({z}) {dz}=[/latex] ___________ (round off to the nearest integer).",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An ideal low pass filter has frequency response given by [latex]\nH(j \\omega)= \\begin{cases}1, & |\\omega| \\leq 200 \\pi \\\\ 0, & \\text { otherwise }\\end{cases}\n[/latex] Let [latex]h(t)[/latex] be its time domain representation. Then \n[latex]h(0)=[/latex] ___________ (round off to the nearest integer).",
+      "topic": "Signals and Systems",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the state-space model [latex]\n\\begin{aligned}\n\\dot{x}({t}) & ={Ax}({t})+{Br}({t}) \\\\\n{y}({t}) & ={Cx}({t})\n\\end{aligned}\n[/latex] Where [latex]{x}({t}), {r}({t}), {y}({t})[/latex] are the state, input and output, respectively. The matrices [latex]{A}, {B}, {C}[/latex] are given below [latex]\nA=\\left[\\begin{array}{cc}\n0 & 1 \\\\\n-2 & -3\n\\end{array}\\right], {B}=\\left[\\begin{array}{l}\n0 \\\\\n1\n\\end{array}\\right], {C}=\\left[\\begin{array}{ll}\n1 & 0\n\\end{array}\\right]\n[/latex] The sum of the magnitudes of the poles is ________ (round off to nearest integer).",
+      "topic": "State Variable Analysis",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Using shunt capacitors, the power factor of a 3-phase, 4 kV induction motor (drawing 390 kVA at 0.77 pf lag ) is to be corrected to 0.85 pf lag. The line current of the capacitor bank, in A, is ___________ (round off to one decimal place).",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two units, rated at 100 MW and 150 MW , are enabled for economic load dispatch. When the overall incremental cost is 10,000 Rs./MWh, the units are dispatched to 50 MW and 80 MW respectively. At an overall incremental cost of [latex]10,600 \\mathrm{Rs} . / \\mathrm{MWh}[/latex], the power output of the units are 80 MW and 92 MW , respectively. The total plant MW-output (without overloading any unit) at an overall incremental cost of 11,800 Rs./MWh is ___________ (round off to the nearest integer).",
+      "topic": "Generating Power Stations",
+      "type": "NAT",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "didn't; isn't"
+        },
+        {
+          "id": "B",
+          "text": "wouldn't; wasn't"
+        },
+        {
+          "id": "C",
+          "text": "wasn't; wasn't"
+        },
+        {
+          "id": "D",
+          "text": "couldn't; wasn't"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Kavya _________ go to work yesterday as she __________ feeling well. Select the most appropriate option to complete the above sentence.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Counterfeit"
+        },
+        {
+          "id": "B",
+          "text": "Contraband"
+        },
+        {
+          "id": "C",
+          "text": "Counterfoil"
+        },
+        {
+          "id": "D",
+          "text": "Counterpart"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Good : Evil :: Genuine : _______ Select the most appropriate option to complete the analogy.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525160",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3^{13}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]3^{96}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]3^{23}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3^{69}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "What is the value of [latex]\\left(\\frac{3^{81}}{27^{4}}\\right)^{\\frac{1}{3}}[/latex] ?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\mathrm{S} \\rightarrow \\mathrm{P} \\rightarrow \\mathrm{R} \\rightarrow \\mathrm{Q}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\mathrm{R} \\rightarrow \\mathrm{P} \\rightarrow \\mathrm{S} \\rightarrow \\mathrm{Q}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\mathrm{Q} \\rightarrow \\mathrm{S} \\rightarrow \\mathrm{R} \\rightarrow \\mathrm{P}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\mathrm{P} \\rightarrow \\mathrm{Q} \\rightarrow \\mathrm{S} \\rightarrow \\mathrm{R}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed: P. It is because deer, like most of the animals that tigers normally prey on, run much faster! It simply means, another day of empty stomach for the big cats. Q. Tigers spend most of their life searching for food. R. If they trace the scent of deer, tigers follow the trail, chase the deer for a mile or two in the dark, and yet may not catch them. S. For several nights, they relentlessly prowl through the forest, hunting for a trail that may lead to their prey.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Average score of P is less than the average score of Q."
+        },
+        {
+          "id": "B",
+          "text": "Median score of P is same as the median score of Q ."
+        },
+        {
+          "id": "C",
+          "text": "Difference between the maximum and minimum scores of P is greater than the difference between the maximum and minimum scores of Q ."
+        },
+        {
+          "id": "D",
+          "text": "Median score and the average score of Q are same."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Scores obtained by two students P and Q in seven courses are given in the table below. Based on the information given in the table, which one of the following statements is INCORRECT? [latex]\n\\begin{array}{|l|l|l|l|l|l|l|l|}\n\\hline\nP & 22 & 89 & 50 & 45 & 78 & 60 & 39\\\\\n\\hline\nQ & 35 & 65 & 60 & 56 & 81 & 45 & 50 \\\\\n\\hline\n\\end{array}\n[/latex]",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    },
+    {
+      "branch": "EE",
+      "id": "1525164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2 \\sqrt{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{\\sqrt{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Spheres of unit diameter are centered at ( [latex]l, {m}, {n}[/latex] ) where [latex]l, {m}[/latex], and [latex]n [/latex] take every possible integer values. The distance between two spheres is computed from the center of one sphere to the center of the other sphere. For a given sphere, [latex]x [/latex] is the distance to its nearest sphere and [latex]y [/latex] is the distance to its next nearest sphere. The value of [latex]\\frac{y}{x}[/latex] is:",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2025
+    }
+  ],
+  "schema_version": 1
+}

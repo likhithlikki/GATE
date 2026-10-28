@@ -1,0 +1,1269 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1522101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "low pass filter."
+        },
+        {
+          "id": "B",
+          "text": "high pass filter"
+        },
+        {
+          "id": "C",
+          "text": "band pass filter."
+        },
+        {
+          "id": "D",
+          "text": "an integrator."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The transfer function of a real system, [latex]H(s)[/latex], is given as: [latex]H(s)=\\frac{As+B}{s^2+Cs+D}[/latex] where A, B, C and D are positive constants. This system cannot operate as",
+      "topic": "Magnetically Coupled Circuits, Network Topology and Filters",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "100"
+        },
+        {
+          "id": "D",
+          "text": "infinite"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For an ideal MOSFET biased in saturation, the magnitude of the small signal\ncurrent gain for a common drain amplifier is",
+      "topic": "Small Signal Analysis",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "offset Mho relay."
+        },
+        {
+          "id": "B",
+          "text": "over current relay."
+        },
+        {
+          "id": "C",
+          "text": "differential relay"
+        },
+        {
+          "id": "D",
+          "text": "Buchholz relay."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The most commonly used relay, for the protection of an alternator against loss of\nexcitation, is",
+      "topic": "Switch Gear and Protection",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.1, 0.15 and 0.08"
+        },
+        {
+          "id": "B",
+          "text": "0.15, 0.15 and 0.35"
+        },
+        {
+          "id": "C",
+          "text": "0.2, 0.2 and 0.2"
+        },
+        {
+          "id": "D",
+          "text": "0.1, 0.3 and 0.1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The valid positive, negative and zero sequence impedances (in p.u.), respectively, for\na 220 kV, fully transposed three-phase transmission line, from the given choices are",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]30\\Omega \\pm 3\\Omega  [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]30\\Omega \\pm 0.9\\Omega  [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]3000\\Omega \\pm 90\\Omega  [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3000\\Omega \\pm 3\\Omega  [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A balanced Wheatstone bridge [latex]ABCD[/latex] has the following arm resistances: [latex]R_{AB}=1k\\Omega \\pm 2.1%; R_{BC}=100\\Omega \\pm 0.5%, R_{CD}[/latex] is an unknown resistance; [latex]R_{DA}=300\\Omega \\pm 0.4%; [/latex]. The value of [latex]R_{CD}[/latex] and its accuracy is",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]k \\gt 3[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]k \\lt 3[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]k \\gt 5[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]k \\lt 5[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The open loop transfer function of a unity gain negative feedback system is given by [latex]G(s)=\\frac{k}{s^2+4s-5}[/latex]. The range of [latex]k[/latex] for which the system is stable, is",
+      "topic": "Root Locus Techniques",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "symmetric."
+        },
+        {
+          "id": "B",
+          "text": "skew-symmetric."
+        },
+        {
+          "id": "C",
+          "text": "unitary"
+        },
+        {
+          "id": "D",
+          "text": "null."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a 3 x 3 matrix A whose (i,j)-th element, [latex]a_{i,j}=(i-j)^3[/latex]. Then the matrix A will be",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "IGBT"
+        },
+        {
+          "id": "B",
+          "text": "Thyristor"
+        },
+        {
+          "id": "C",
+          "text": "MOSFET"
+        },
+        {
+          "id": "D",
+          "text": "BJT"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A charger supplies 100 W at 20 V for charging the battery of a laptop. The power\ndevices, used in the converter inside the charger, operate at a switching frequency of\n200 kHz. Which power device is best suited for this purpose?",
+      "topic": "Power Semiconductor Devices and Commutation Techniques",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{J_a}{4}r^4  [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{J_a}{3}r^3  [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{J_a}{5}r^4  [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]J_a r^3  [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A long conducting cylinder having a radius 'b' is placed along the z axis. The current\ndensity is [latex]J=J_ar^3\\hat{z}[/latex] for the region [latex]r \\lt b[/latex] where [latex]r[/latex] is the distance in the radial direction.\nThe magnetic field intensity ([latex]H[/latex]) for the region inside the conductor (i.e. for [latex]r \\lt b[/latex]) is",
+      "topic": "Magnetostatic Fields",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522116",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A MOD 2 and a MOD 5 up-counter when cascaded together results in a MOD ______\ncounter. (in integer)",
+      "topic": "Sequential Logic Circuits",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522117",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An inductor having a Q-factor of 60 is connected in series with a capacitor having a Q-factor of 240. The overall Q-factor of the circuit is ________. (round off to nearest\ninteger)",
+      "topic": "Steady state AC Analysis",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522118",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The network shown below has a resonant frequency of 150 kHz and a bandwidth of\n600 Hz. The Q-factor of the network is __________. (round off to nearest integer)",
+      "topic": "Steady state AC Analysis",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522119",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The maximum clock frequency in MHz of a 4-stage ripple counter, utilizing flipflops, with each flip-flop having a propagation delay of 20 ns, is ___________.\n(round off to one decimal place)",
+      "topic": "Sequential Logic Circuits",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If only 5% of the supplied power to a cable reaches the output terminal, the power loss\nin the cable, in decibels, is _________. (round off to nearest integer)",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase full-bridge diode rectifier feeds a resistive load of [latex]50 \\Omega [/latex] from a [latex]200 V,\n50 Hz[/latex] single phase AC supply. If the diodes are ideal, then the active power, in watts,\ndrawn by the load is _____________. (round off to nearest integer).",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The voltage at the input of an AC-DC rectifier is given by [latex] v(t)=230\\sqrt{2}\\sin \\omega t[/latex] where [latex]  \\omega = 2 \\pi \\times 50[/latex] rad/s. The input current drawn by the rectifier is given by [latex]i(t)=10\\sin \\left (\\omega t -\\frac{\\pi}{3} \\right )+4\\sin \\left (3\\omega t -\\frac{\\pi}{6} \\right )+3\\sin \\left (5\\omega t -\\frac{\\pi}{3} \\right )[/latex] The input power factor, (rounded off to two decimal places), is, _________ lag.",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The frequencies of the stator and rotor currents flowing in a three-phase 8-pole\ninduction motor are 40 Hz and 1 Hz, respectively. The motor speed, in rpm, is\n_______. (round off to nearest integer)",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement 1 is true and statement 2 is false."
+        },
+        {
+          "id": "B",
+          "text": "Statement 1 is false and statement 2 is true"
+        },
+        {
+          "id": "C",
+          "text": "Both the statements are correct."
+        },
+        {
+          "id": "D",
+          "text": "Both the statements are false."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex] e^A[/latex] denotes the exponential of a square matrix A. Suppose [latex]\\lambda [/latex] is an eigenvalue and [latex]v [/latex] is the corresponding eigen-vector of matrix A. Consider the following two statements: Statement 1: [latex] e^\\lambda [/latex] is an eigenvalue of [latex] e^A[/latex]. Statement 2: [latex]v [/latex]is an eigen-vector of [latex] e^A[/latex]. Which one of the following options is correct?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x \\in (1,2)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x \\in (2,3)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x \\in (0,1)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x \\in (0.5,1)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex] f(x)=\\int_{0}^{x}e^t(t-1)(t-2)dt [/latex]. Then [latex] f(x)[/latex]  decreases in the interval",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "17"
+        },
+        {
+          "id": "C",
+          "text": "-6"
+        },
+        {
+          "id": "D",
+          "text": "11"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a matrix [latex]  A=\\begin{bmatrix}\n1 & 0 & 0\\\\ \n0 & 4 & -2\\\\ \n 0&1  &1 \n\\end{bmatrix}[/latex] The matrix [latex]A[/latex] satisfies the equation [latex] 6A^{-1}=A^2+cA+dI[/latex] where [latex] c[/latex] and [latex] d[/latex] are\nscalars and [latex] I[/latex] is the identity matrix. Then [latex] (c+d)[/latex] is equal to",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "200, 350"
+        },
+        {
+          "id": "B",
+          "text": "250, 300"
+        },
+        {
+          "id": "C",
+          "text": "325, 225"
+        },
+        {
+          "id": "D",
+          "text": "350, 200"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The fuel cost functions in rupees/hour for two 600 MW thermal power plants are\ngiven by [latex] Plant 1: \\; C_1=350+6P_1+0.004P_1^2[/latex] [latex] Plant 2: \\; C_2=450+aP_2+0.003P_2^2[/latex] where [latex] P_1[/latex] and [latex] P_2[/latex] are power generated by plant 1 and plant 2, respectively, in MW\nand [latex]a[/latex] is constant. The incremental cost of power [latex] (\\lambda )[/latex] is 8 rupees per MWh. The two\nthermal power plants together meet a total power demand of 550 MW. The optimal\ngeneration of plant 1 and plant 2 in MW, respectively, are",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "20"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If the magnetic field intensity [latex](H) [/latex] in a conducting region is given by the expression, [latex]H=x^2\\hat{i}+x^2y^2\\hat{j}+x^2y^2z^2\\hat{k}\\;A/m[/latex]. The magnitude of the current density, in [latex]A/m^2[/latex]\n, at [latex]x=1m, y=2m [/latex] and [latex]z=1m [/latex], is",
+      "topic": "Magnetostatic Fields",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522136",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2e^{-\\frac{1}{4}t}u(t) [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2e^{-{4}t}u(t) [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]8e^{-\\frac{1}{4}t}u(t) [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]8e^{-{4}t}u(t) [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let a causal LTI system be governed by the following differential equation [latex]y(t)+\\frac{1}{4}\\frac{dy}{dt}=2x(t) [/latex], where [latex]x(t) [/latex] and [latex]x(t) [/latex] are the input and output respectively.\nIts impulse response is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] 2 \\sin (10 \\pi t)+5\\cos (15 \\pi t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] 7 \\sin (42 \\pi t)+5\\cos (15 \\pi t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] 7 \\sin (42 \\pi t)+4\\cos (45 \\pi t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] 2 \\sin (10 \\pi t)+4\\cos (45 \\pi t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let an input [latex]x(t)=2 \\sin (10 \\pi t)+5 \\cos (15 \\pi t)+7  \\sin (42 \\pi t)+4 \\cos (45 \\pi t) [/latex] is\npassed through an LTI system having an impulse response, [latex] h(t)=2\\left ( \\frac{\\sin (10 \\pi t)}{\\pi t} \\right ) \\cos (40\\pi t)[/latex] The output of the system is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522139",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex] 2+2e^{-\\left ( j\\frac{2\\pi}{6}n \\right )} \\cos \\left ( \\frac{2\\pi}{6}n \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex] 1+2e^{\\left ( j\\frac{2\\pi}{6}n \\right )} \\cos \\left ( \\frac{2\\pi}{6}n \\right )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex] 1+2e^{\\left ( j\\frac{2\\pi}{3}n \\right )} \\cos \\left ( \\frac{2\\pi}{6}n \\right )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex] 2+2e^{\\left ( j\\frac{2\\pi}{6}n \\right )} \\cos \\left ( \\frac{2\\pi}{6}n \\right )[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The discrete time Fourier series representation of a signal [latex]x[n] [/latex] with period [latex]N [/latex] is\nwritten as [latex]x[n]=\\sum_{k=0}^{N-1}a_ke^{j(2kn\\pi/N)} [/latex]. A discrete time periodic signal with period [latex]N=3 [/latex], has the non-zero Fourier series coefficients: [latex]a_{-3}=2 [/latex] and [latex]a_4=1 [/latex]. The\nsignal is",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522140",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]20\\hat{i}+7\\hat{j} [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]20\\hat{i}+7\\hat{j}+12\\hat{k} [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]20\\hat{i}+12\\hat{j} [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]20\\hat{i} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let, [latex] f(x,y,z)=4x^2+7xy+3xz^2[/latex]. The direction in which the function [latex]f(x,y,z)[/latex] increases most rapidly at point [latex] P = (1,0,2)[/latex] is",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex] \\vec{E}(x,y,z)=2x^2\\hat{i}+5y\\hat{j}+3z\\hat{k}[/latex]. The value of [latex] \\int \\int \\int _V(\\vec{\\triangledown }\\cdot \\vec{E})dV[/latex], where [latex] V[/latex] is the\nvolume enclosed by the unit cube defined by [latex] 0\\leq x\\leq 1,0\\leq y\\leq 1 \\text{ and }0\\leq z\\leq 1[/latex], is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522144",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let the probability density function of a random variable [latex]x [/latex] be given as [latex]f(x)=ae^{-2|x|} [/latex] The value of [latex] 'a'[/latex] is _________",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522146",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two generating units rated for 250 MW and 400 MW have governor speed\nregulations of 6% and 6.4%, respectively, from no load to full load. Both the\ngenerating units are operating in parallel to share a load of 500 MW. Assuming free\ngovernor action, the load shared in MW, by the 250 MW generating unit is\n_________. (round off to nearest integer)",
+      "topic": "Power System Stability",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522147",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 20 MVA, 11.2 kV, 4-pole, 50 Hz alternator has an inertia constant of\n15 MJ/MVA. If the input and output powers of the alternator are 15 MW and\n10 MW, respectively, the angular acceleration in mechanical [latex] degree/s^2[/latex] is\n__________. (round off to nearest integer)",
+      "topic": "Power System Stability",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase grid-connected voltage source converter with DC link voltage of 1000 V\nis switched using sinusoidal Pulse Width Modulation (PWM) technique. If the grid\nphase current is 10 A and the 3-phase complex power supplied by the converter is\ngiven by [latex](-4000 - j3000) VA[/latex], then the modulation index used in sinusoidal\nPWM is ___________. (round off to two decimal places)",
+      "topic": "Inverters",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 280 V, separately excited DC motor with armature resistance of [latex]1\\Omega  [/latex] and constant\nfield excitation drives a load. The load torque is proportional to the speed. The\nmotor draws a current of 30 A when running at a speed of 1000 rpm. Neglect\nfrictional losses in the motor. The speed, in rpm, at which the motor will run, if an\nadditional resistance of value [latex]10\\Omega  [/latex] is connected in series with the armature, is\n_______. (round off to nearest integer)",
+      "topic": "Electrical Machines",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A star-connected 3-phase, 400 V, 50 kVA, 50 Hz synchronous motor has a\nsynchronous reactance of 1 ohm per phase with negligible armature resistance. The\nshaft load on the motor is 10 kW while the power factor is 0.8 leading. The loss in\nthe motor is 2 kW. The magnitude of the per phase excitation emf of the motor, in\nvolts, is __________. (round off to nearest integer).",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase, 415 V, 4-pole, 50 Hz induction motor draws 5 times the rated current at\nrated voltage at starting. It is required to bring down the starting current from the\nsupply to 2 times of the rated current using a 3-phase autotransformer. If the\nmagnetizing impedance of the induction motor and no load current of the\nautotransformer is neglected, then the transformation ratio of the autotransformer is\ngiven by _______. (round off to two decimal places).",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "heel / heel"
+        },
+        {
+          "id": "B",
+          "text": "heal / heel"
+        },
+        {
+          "id": "C",
+          "text": "heal / heal"
+        },
+        {
+          "id": "D",
+          "text": "heel / heal"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "As you grow older, an injury to your ________",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "40"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "140"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In a 500 m race, P and Q have speeds in the ratio of 3?4. Q starts the race\nwhen P has already covered 140 m. What is the distance between P and Q (in m) when P wins the race?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5:00 PM"
+        },
+        {
+          "id": "B",
+          "text": "5:30 PM"
+        },
+        {
+          "id": "C",
+          "text": "6:00 PM"
+        },
+        {
+          "id": "D",
+          "text": "6:30 PM"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Three bells P, Q, and R are rung periodically in a school. P is rung every 20 minutes; Q is rung every 30 minutes and R is rung every 50 minutes. If all the three bells are rung at 12:00 PM, when will the three bells ring together again the next time?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion I and conclusion II are correct"
+        },
+        {
+          "id": "B",
+          "text": "Only conclusion II and conclusion III are correct"
+        },
+        {
+          "id": "C",
+          "text": "Only conclusion II and conclusion IV are correct"
+        },
+        {
+          "id": "D",
+          "text": "Only conclusion III and conclusion IV are correct"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given below are two statements and four conclusions drawn based on the\nstatements. Statement 1: Some bottles are cups. Statement 2: All cups are knives. Conclusion I: Some bottles are knives. Conclusion II: Some knives are cups. Conclusion III: All cups are bottles. Conclusion IV: All knives are cups. Which one of the following options can be logically inferred?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Humans engage in altruism due to guilt but not empathy"
+        },
+        {
+          "id": "B",
+          "text": "Humans engage in altruism due to empathy but not guilt"
+        },
+        {
+          "id": "C",
+          "text": "Humans engage in altruism due to group identification but not empathy"
+        },
+        {
+          "id": "D",
+          "text": "Humans engage in altruism due to empathy but not familiarity"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Altruism is the human concern for the wellbeing of others. Altruism has been\nshown to be motivated more by social bonding, familiarity and identification of\nbelongingness to a group. The notion that altruism may be attributed to empathy\nor guilt has now been rejected. Which one of the following is the CORRECT logical inference based on the\ninformation in the above passage?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522162",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "01-Apr"
+        },
+        {
+          "id": "B",
+          "text": "03-Apr"
+        },
+        {
+          "id": "C",
+          "text": "01-Jun"
+        },
+        {
+          "id": "D",
+          "text": "May-36"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "There are two identical dice with a single letter on each of the faces. The\nfollowing six letters: Q, R, S, T, U, and V, one on each of the faces. Any of the\nsix outcomes are equally likely. The two dice are thrown once independently at random. What is the probability that the outcomes on the dice were composed only of\nany combination of the following possible outcomes: Q, U and V?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522163",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "2500"
+        },
+        {
+          "id": "B",
+          "text": "2250"
+        },
+        {
+          "id": "C",
+          "text": "1750"
+        },
+        {
+          "id": "D",
+          "text": "1500"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The price of an item is 10% cheaper in an online store S compared to the price\nat another online store M. Store S charges Rs.150 for delivery. There are no\ndelivery charges for orders from the store M. A person bought the item from the\nstore S and saved Rs. 100.\nWhat is the price of the item at the online store S (in Rs.) if there are no other\ncharges than what is described above?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "1522164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "The line segment joining R and T is parallel to the line segment joining Q and S"
+        },
+        {
+          "id": "B",
+          "text": "The line segment joining T and Q is parallel to the line joining P and U"
+        },
+        {
+          "id": "C",
+          "text": "The line segment joining R and P is perpendicular to the line segment joining U\nand Q"
+        },
+        {
+          "id": "D",
+          "text": "The line segment joining Q and S is perpendicular to the line segment joining R\nand P"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The letters P, Q, R, S, T and U are to be placed one per vertex on a regular convex\nhexagon, but not necessarily in the same order. Consider the following statements: (1) The line segment joining R and S is longer than the line segment joining\nP and Q.\n(2) The line segment joining R and S is perpendicular to the line segment\njoining P and Q.\n(3) The line segment joining R and U is parallel to the line segment joining T\nand Q. Based on the above statements, which one of the following options is\nCORRECT?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "12211015",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "symmetric."
+        },
+        {
+          "id": "B",
+          "text": "skew-symmetric."
+        },
+        {
+          "id": "C",
+          "text": "unitary"
+        },
+        {
+          "id": "D",
+          "text": "null."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a 3 x 3 matrix A whose (i,j)-th element, [latex]a_{i,j}=(i-j)^3[/latex]. Then the matrix A will be",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "12213015",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement 1 is true and statement 2 is false."
+        },
+        {
+          "id": "B",
+          "text": "Statement 1 is false and statement 2 is true"
+        },
+        {
+          "id": "C",
+          "text": "Both the statements are correct."
+        },
+        {
+          "id": "D",
+          "text": "Both the statements are false."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex] e^A[/latex] denotes the exponential of a square matrix A. Suppose [latex]\\lambda [/latex] is an eigenvalue and [latex]v [/latex] is the corresponding eigen-vector of matrix A. Consider the following two statements: Statement 1: [latex] e^\\lambda [/latex] is an eigenvalue of [latex] e^A[/latex]. Statement 2: [latex]v [/latex]is an eigen-vector of [latex] e^A[/latex]. Which one of the following options is correct?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "12213115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x \\in (1,2)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x \\in (2,3)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x \\in (0,1)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x \\in (0.5,1)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex] f(x)=\\int_{0}^{x}e^t(t-1)(t-2)dt [/latex]. Then [latex] f(x)[/latex]  decreases in the interval",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "12213215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "17"
+        },
+        {
+          "id": "C",
+          "text": "-6"
+        },
+        {
+          "id": "D",
+          "text": "11"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a matrix [latex]  A=\\begin{bmatrix}\n1 & 0 & 0\\\\ \n0 & 4 & -2\\\\ \n 0&1  &1 \n\\end{bmatrix}[/latex] The matrix [latex]A[/latex] satisfies the equation [latex] 6A^{-1}=A^2+cA+dI[/latex] where [latex] c[/latex] and [latex] d[/latex] are\nscalars and [latex] I[/latex] is the identity matrix. Then [latex] (c+d)[/latex] is equal to",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "12214015",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]20\\hat{i}+7\\hat{j} [/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]20\\hat{i}+7\\hat{j}+12\\hat{k} [/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]20\\hat{i}+12\\hat{j} [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]20\\hat{i} [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let, [latex] f(x,y,z)=4x^2+7xy+3xz^2[/latex]. The direction in which the function [latex]f(x,y,z)[/latex] increases most rapidly at point [latex] P = (1,0,2)[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "12214215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex] \\vec{E}(x,y,z)=2x^2\\hat{i}+5y\\hat{j}+3z\\hat{k}[/latex]. The value of [latex] \\int \\int \\int _V(\\vec{\\triangledown }\\cdot \\vec{E})dV[/latex], where [latex] V[/latex] is the\nvolume enclosed by the unit cube defined by [latex] 0\\leq x\\leq 1,0\\leq y\\leq 1 \\text{ and }0\\leq z\\leq 1[/latex], is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    },
+    {
+      "branch": "EE",
+      "id": "12214415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "1.5"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let the probability density function of a random variable [latex]x [/latex] be given as [latex]f(x)=ae^{-2|x|} [/latex] The value of [latex] 'a'[/latex] is _________",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2022
+    }
+  ],
+  "schema_version": 1
+}

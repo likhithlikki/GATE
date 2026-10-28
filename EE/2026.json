@@ -1,0 +1,940 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1526101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]|z| > 0.9[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]|z| < 0.9[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0.9 < |z| < \\dfrac{1}{0.9}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\{z \\text{ such that  }|z| < 0.9\\} \\cup \\{z \\text{ such that  } |z| > 1/0.9\\}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the infinite-length, discrete-time sequence [latex]x[n] = 0.9^{|n|}[/latex], where [latex]n[/latex] is an integer. The region of convergence of its Z-transform [latex]X(z)[/latex] is given by: (Note: [latex]z[/latex] is a complex variable)",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x[n][/latex] will always be periodic with period [latex]T/T_s[/latex] for all values of [latex]T/T_s[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x[n][/latex] will always be periodic with period [latex]1[/latex] for all values of [latex]T/T_s[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x[n][/latex] will never be periodic"
+        },
+        {
+          "id": "D",
+          "text": "[latex]x[n][/latex] will be periodic if and only if [latex]T/T_s[/latex] is a rational number"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]x_c(t)[/latex] be any continuous-time periodic signal with period [latex]T[/latex]. It is sampled uniformly with a sampling period [latex]T_s[/latex] where [latex]T_s \\neq T[/latex], resulting in the discrete sequence [latex]x[n] = x_c(nT_s)[/latex], where [latex]n[/latex] is an integer. Which one of the following statements is correct about [latex]x[n][/latex]?",
+      "topic": "Sampling",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]T_r = 0.022,\\ T_s = 0.04,\\ T_c = 0.01[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]T_r = 0.22,\\ T_s = 0.404,\\ T_c = 0.01[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]T_r = 2.2,\\ T_s = 4.04,\\ T_c = 1.01[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]T_r = 22,\\ T_s = 40.4,\\ T_c = 10.1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Laplace transform of the step response of a system is given by [latex]Y(s) = \\dfrac{100}{s(s + 100)}[/latex] The rise time is defined as the time taken for the response to go from 0.1 to 0.9 of its final value. The settling time is defined as the time taken for the response to reach 0.98 of its final value. For this system, the rise time [latex](T_r)[/latex], settling time [latex](T_s)[/latex], and time constant [latex](T_c)[/latex], all expressed in seconds, are",
+      "topic": "Time Response Analysis",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It is a linear differential equation"
+        },
+        {
+          "id": "B",
+          "text": "It is a nonlinear differential equation"
+        },
+        {
+          "id": "C",
+          "text": "It is a time-invariant differential equation"
+        },
+        {
+          "id": "D",
+          "text": "It is a second-order partial differential equation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the following differential equation: [latex]t^{2}\\dfrac{d^{2}y}{dt^{2}} + 7t\\dfrac{dy}{dt} + 8ty = 10\\sin(t)[/latex] Which one of the following options is correct?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\dfrac{Qq}{4\\pi\\epsilon R}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\dfrac{Qq}{4\\pi\\epsilon R^{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\dfrac{q}{4\\pi\\epsilon R} \\times \\dfrac{Q}{2\\pi R}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A uniform ring charge of radius [latex]R[/latex] carries a total charge [latex]Q[/latex]. Which one of the following options correctly quantifies the magnitude of the force on a point charge of strength [latex]q[/latex] kept at the center of the ring? ([latex]\\epsilon[/latex] is the permittivity of the medium)",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The force will be along the magnetic field but perpendicular to the electric field"
+        },
+        {
+          "id": "B",
+          "text": "The force will be along the electric field but perpendicular to the magnetic field"
+        },
+        {
+          "id": "C",
+          "text": "The force will be perpendicular to both electric and magnetic field"
+        },
+        {
+          "id": "D",
+          "text": "The magnetic field does not exert any force on the charge"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A positive point charge with velocity [latex]\\vec{v} = 5\\hat{x}[/latex] enters a region having electric field [latex]\\vec{E} = 4\\hat{y}[/latex] and magnetic field [latex]\\vec{B} = -6\\hat{z}[/latex]. Which one of the following statements is correct for the force on the charge as it enters the region?",
+      "topic": "Time Varying Fields",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "60 kVA"
+        },
+        {
+          "id": "B",
+          "text": "75 kVA"
+        },
+        {
+          "id": "C",
+          "text": "90 kVA"
+        },
+        {
+          "id": "D",
+          "text": "100 kVA"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 15 kVA, 1100 V/220 V, single-phase two-winding transformer is configured as a 1.32 kV/1.1 kV autotransformer. What will be the rating of the autotransformer?",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2N \\times 2N[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](2N - 1 - P) \\times (2N - 1 - P)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](2N - Q) \\times (2N - Q)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](P + Q) \\times (P + Q)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a power system with [latex]N[/latex] buses, of which [latex]P[/latex] are generator buses and the remaining [latex]Q[/latex] are load buses (where there is no generation). Assume that there are no reactive power-limit violations at the generator buses. What is the size of the Jacobian matrix in the Newton-Raphson load flow method?",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 6"
+        },
+        {
+          "id": "B",
+          "text": "6, 2"
+        },
+        {
+          "id": "C",
+          "text": "4, 6"
+        },
+        {
+          "id": "D",
+          "text": "6, 4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A certain application requires power at a frequency of 16.67 Hz, while the available grid frequency is 50 Hz. A 3-phase synchronous motor connected to the 50 Hz, 3-phase grid, driving a synchronous generator, is used for this application. Which one of the following combinations is a suitable choice for the number of poles in the motor and generator, respectively?",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "At starting, a larger portion of the rotor current flows in the outer cage"
+        },
+        {
+          "id": "B",
+          "text": "At starting, a larger portion of the rotor current flows in the inner cage"
+        },
+        {
+          "id": "C",
+          "text": "At rated speed, most of the rotor current flows in the outer cage"
+        },
+        {
+          "id": "D",
+          "text": "The purpose of the double-squirrel-cage structure is to lower the effective rotor resistance at starting"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which one of the following options is correct regarding the typical double-squirrel-cage structure used in induction motors?",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "0.8"
+        },
+        {
+          "id": "C",
+          "text": "0.65"
+        },
+        {
+          "id": "D",
+          "text": "0.57"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase voltage source [latex]v_s = 325\\sin(2\\pi 50t)[/latex] V delivers a current, [latex]i = 12\\sin(2\\pi 50t) + 9\\sin(2\\pi 150t)[/latex] A to a load. The load power factor, correct up to two decimal places, is:",
+      "topic": "Steady state AC Analysis",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Determinant [latex](A - 2I) = 0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "Determinant [latex](B - 2I) = 0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "Determinant [latex](A + B - 2I) = 0[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "Determinant [latex](A + B - 4I) = 0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two [latex]n \\times n[/latex] matrices [latex]A[/latex] and [latex]B[/latex] have a common eigenvalue [latex]2[/latex], and the same corresponding nonzero eigenvector. Which of the following options is/are correct? (Note: [latex]I[/latex] is the [latex]n \\times n[/latex] identity matrix.)",
+      "topic": "Linear Algebra",
+      "type": "MSQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "No-load current drawn would be smaller for operation in the USA compared to that in India"
+        },
+        {
+          "id": "B",
+          "text": "For the same load current, the losses would be higher in the USA compared to that in India"
+        },
+        {
+          "id": "C",
+          "text": "The peak magnetic flux density in the core would be higher while operating in the USA compared to that in India"
+        },
+        {
+          "id": "D",
+          "text": "The eddy current losses in the core would be approximately 44% higher while operating in the USA compared to that in India"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 220V/12V single-phase transformer is designed for use in India and rated 100 VA at 50 Hz. Later, this unit is shipped to the USA where it is used as a 110V/6V transformer at 60 Hz. Which of the following statements is/are correct?",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given that [latex]\\vec{F}(x,y,z) = \\sin(y)\\,\\hat{x} + \\cos(x)\\,\\hat{y} + 5\\,\\hat{z}[/latex], the integral [latex]\\oiint_S \\vec{F}(x,y,z) \\cdot d\\vec{s}[/latex] over the unit sphere [latex]S[/latex] centered at the origin evaluates to ________ (Round off to one decimal place)",
+      "topic": "Electromagnetic Theory",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]A[/latex] is an [latex]m \\times m[/latex] skew-symmetric matrix with real-valued entries, and [latex]x[/latex] is an [latex]m[/latex]-dimensional column vector with real-valued entries such that [latex]x^{T}x = 1[/latex]. The quantity [latex]x^{T}Ax[/latex] evaluates to _________ (Answer in integer)",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\dfrac{1}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\dfrac{1}{3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\dfrac{1}{4}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A time-limited waveform [latex]g(x)[/latex] is specified as follows: [latex]g(x) = \\begin{cases} -k, & -\\pi < x \\leq 0 \\\\ +k, & 0 < x \\leq \\pi \\\\ 0, & \\text{otherwise} \\end{cases}[/latex] A new waveform [latex]f(x)[/latex] is constructed from [latex]g(x)[/latex] as follows: [latex]f(x) = \\displaystyle\\sum_{m=-\\infty}^{\\infty} g(x + 2\\pi m)[/latex], for all [latex]x \\in \\mathbb{R}[/latex] The sum of the coefficients of the third harmonics of the sine and cosine terms in the trigonometric Fourier series expansion of [latex]f(x)[/latex] is [latex]\\dfrac{2}{3\\pi}[/latex]. What is the value of [latex]k[/latex]?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]G^2 + (B + 0.5)^2 \\geq \\dfrac{1}{4}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]B \\geq 1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](G-1)^2 + B^2 \\leq \\dfrac{1}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]G^2 + (B-1)^2 \\geq \\dfrac{1}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The operating characteristic of a reactance relay is given by [latex]X \\leq 1\\ \\Omega[/latex], where [latex]X[/latex] is the reactance calculated by the relay. Its operating characteristic in the admittance plane ([latex]G[/latex]-[latex]B[/latex] plane, where [latex]G[/latex] and [latex]B[/latex] denote conductance and susceptance, respectively, expressed in [latex]\\mho[/latex]) is given by:",
+      "topic": "Switch Gear and Protection",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]V_m I_m \\cos\\theta[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\dfrac{V_m I_m}{2}\\cos\\theta[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\dfrac{V_m I_m}{4}\\cos\\theta[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An electrical component has voltage drop [latex]v = V_m\\sin(\\omega t)[/latex], when the current through it is [latex]i = I_m\\sin(\\omega t - \\theta)[/latex]. What is the average power dissipated over a half cycle corresponding to [latex]\\omega[/latex]?",
+      "topic": "Steady state AC Analysis",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526139",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "If [latex]p > n[/latex], then the column vectors must be linearly dependent"
+        },
+        {
+          "id": "B",
+          "text": "If [latex]p > n[/latex], then the column vectors must be linearly independent"
+        },
+        {
+          "id": "C",
+          "text": "If [latex]p = n[/latex], then the column vectors must be orthogonal"
+        },
+        {
+          "id": "D",
+          "text": "If [latex]p < n[/latex], then the column vectors must be linearly independent"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which one of the following statements is ALWAYS correct about a collection of [latex]p[/latex] column vectors, each having [latex]n[/latex] real-valued entries?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526140",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]y(x) = e^{-x/2}\\!\\left(\\cos\\!\\dfrac{\\sqrt{3}x}{2} + \\sqrt{3}\\sin\\!\\dfrac{\\sqrt{3}x}{2}\\right)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]y(x) = e^{-x/2}\\!\\left(\\cos\\!\\dfrac{\\sqrt{3}x}{2} + \\dfrac{1}{\\sqrt{3}}\\sin\\!\\dfrac{\\sqrt{3}x}{2}\\right)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]y(x) = e^{-x/2}\\!\\left(\\cos\\!\\dfrac{\\sqrt{3}x}{2} - \\dfrac{1}{\\sqrt{3}}\\sin\\!\\dfrac{\\sqrt{3}x}{2}\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]y(x) = e^{-x/2}\\!\\left(\\cos\\!\\dfrac{\\sqrt{3}x}{2} - \\sqrt{3}\\sin\\!\\dfrac{\\sqrt{3}x}{2}\\right)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the second-order differential equation [latex]\\dfrac{d^{2}y}{dx^{2}} + \\dfrac{dy}{dx} + y = 0[/latex] with initial conditions [latex]y(0)=1[/latex], [latex]\\dfrac{dy}{dx}\\Big|_{x=0}=1[/latex] The solution is given by",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526142",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a=4,\\ b=3.25[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]a=-4,\\ b=3.25[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]a=4,\\ b=-3.25[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]a=-4,\\ b=-3.25[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A system is characterized by the following state equation and output equation ([latex]u[/latex]: input, [latex]\\mathbf{x}[/latex]: state vector, [latex]y[/latex]: output): [latex]\\dot{\\mathbf{x}} = \\begin{bmatrix}a & b \\\\ -a & 0\\end{bmatrix}\\mathbf{x} + \\begin{bmatrix}1\\\\0\\end{bmatrix}u[/latex] [latex]y = [1\\ \\ 2]\\,\\mathbf{x}[/latex] What are the values of [latex]a[/latex] and [latex]b[/latex] for which the poles of the transfer function are at [latex]-2+j3[/latex] and [latex]-2-j3[/latex]?",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526143",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\dot{\\mathbf{z}}=\\begin{bmatrix}-1&4\\\\-1&-2\\end{bmatrix}\\mathbf{z}+\\begin{bmatrix}4\\\\-1\\end{bmatrix}u,\\ y=[2\\ \\ 3]\\mathbf{z}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\dot{\\mathbf{z}}=\\begin{bmatrix}2&3\\\\0&3\\end{bmatrix}\\mathbf{z}+\\begin{bmatrix}3\\\\5\\end{bmatrix}u,\\ y=[2\\ \\ 3]\\mathbf{z}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\dot{\\mathbf{z}}=\\begin{bmatrix}4&9\\\\-2&-3\\end{bmatrix}\\mathbf{z}+\\begin{bmatrix}4\\\\-1\\end{bmatrix}u,\\ y=[2\\ \\ 3]\\mathbf{z}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\dot{\\mathbf{z}}=\\begin{bmatrix}2&1\\\\-4&1\\end{bmatrix}\\mathbf{z}+\\begin{bmatrix}4\\\\-1\\end{bmatrix}u,\\ y=[4\\ \\ -1]\\mathbf{z}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A system is represented in state-space form ([latex]u[/latex]: input, [latex]\\mathbf{x}[/latex]: state vector, [latex]y[/latex]: output): [latex]\\dot{\\mathbf{x}} = \\begin{bmatrix}1&2\\\\-3&0\\end{bmatrix}\\mathbf{x} + \\begin{bmatrix}1 \\\\ 2\\end{bmatrix}u[/latex], [latex]\\ y = [1\\ \\ 2]\\,\\mathbf{x}[/latex] Consider the new state vector [latex]\\mathbf{z} = \\begin{bmatrix}2&1\\\\-1&0\\end{bmatrix}\\mathbf{x}[/latex] What is the state-space representation of the system in terms of the new state vector [latex]\\mathbf{z}[/latex]?",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526145",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "The value of the determinant of [latex]A[/latex] is either [latex]+1[/latex] or [latex]-1[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "The eigenvalues of [latex]A[/latex] have modulus 1"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\|A\\mathbf{x}\\| = \\|\\mathbf{x}\\|[/latex] for all [latex]\\mathbf{x}\\in\\mathbb{R}^n[/latex], where [latex]\\|\\mathbf{x}\\|[/latex]  denotes the Euclidean norm of [latex]x[/latex], and [latex](A\\mathbf{x})^T(A\\mathbf{y}) \\neq \\mathbf{x}^T\\mathbf{y}[/latex], for all distinct [latex]\\mathbf{x},\\mathbf{y}\\in\\mathbb{R}^n[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\|A\\mathbf{x}\\| = \\|\\mathbf{x}\\|[/latex] for all [latex]\\mathbf{x}\\in\\mathbb{R}^n[/latex], where [latex]\\|\\mathbf{x}\\|[/latex]  denotes the Euclidean norm of [latex]x[/latex], and [latex](A\\mathbf{x})^T(A\\mathbf{y}) = \\mathbf{x}^T\\mathbf{y}[/latex], for all  [latex]\\mathbf{x},\\mathbf{y}\\in\\mathbb{R}^n[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider an [latex]n \\times n[/latex] orthogonal matrix [latex]A[/latex] with real entries and each column having unit Euclidean norm. Which of the following statements is/are correct?",
+      "topic": "Linear Algebra",
+      "type": "MSQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526146",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]A^{-1}[/latex] exists"
+        },
+        {
+          "id": "B",
+          "text": "The system of equations [latex]A^m\\mathbf{x} = \\mathbf{b}[/latex] also has a unique solution for [latex]m = 1, 2, 3, \\ldots[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\text{rank}(A) = \\text{rank}(A^m)[/latex], for [latex]m = 1, 2, 3, \\ldots[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\text{rank}(A) < \\text{rank}([A \\mid \\mathbf{b}])[/latex], where [latex][A \\mid \\mathbf{b}][/latex] denotes the augmented matrix"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the system of linear equations: [latex]A\\mathbf{x} = \\mathbf{b}[/latex], where [latex]A[/latex] is an [latex]n \\times n[/latex] matrix, and [latex]\\mathbf{x}[/latex] and [latex]\\mathbf{b}[/latex] are [latex]n[/latex]-dimensional column vectors. Suppose this system of equations has a unique solution. Which of the following statements is/are correct?",
+      "topic": "Linear Algebra",
+      "type": "MSQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A balanced three-phase supply is given to a 30 kW, 4-pole, 400 V, 50 Hz, wound rotor induction motor with Y-connected stator and rotor windings. The motor is driving a constant torque load. With shorted sliprings, the machine runs at 1476 rpm. When an external non-inductive resistance of 0.27 [latex]\\Omega[/latex] per phase is connected in series in the rotor circuit, the steady-state speed drops to 1404 rpm. Neglecting rotational losses, the actual per phase rotor winding resistance is ____ [latex]\\Omega[/latex] (Round off to two decimal places)",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The magnitude of the contour integral [latex]\\oint_C \\left(\\dfrac{(z+1)^2}{(z-i)(z-2)}\\right)dz[/latex] over the contour [latex]C: |z - 2 - i| = 3/2[/latex] is ______ (Round off to two decimal places) Note: [latex]z[/latex] is a complex variable and [latex]i = \\sqrt{-1}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A uniform spherical volume charge distribution of radius 2 m, centered at the origin, has a strength of [latex]\\dfrac{3}{\\pi} \\times 10^{-6}[/latex] C/m[latex]^3[/latex]. A point charge of strength [latex]\\pi \\times 8.854 \\times 10^{-12}[/latex] C is moved from [latex](-3, 0, -4)[/latex] to [latex](0, 0, 4)[/latex] in Cartesian coordinate system. The relative permittivity of the medium is 1 and the coordinate values are in meters. The work done during the process is ______ [latex]\\mu[/latex]J (Round off to two decimal places)",
+      "topic": "Electrostatic Fields",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let [latex]X[/latex] and [latex]Y[/latex] be two real-valued random variables with [latex]E(X)=1[/latex], [latex]E(Y)=2[/latex], [latex]E(X^2)=4[/latex], [latex]E(Y^2)=9[/latex], and [latex]E(XY)=0.9[/latex], where [latex]E[/latex] denotes the expectation operator. The value of [latex]\\alpha[/latex] that minimizes [latex]E\\left((X - \\alpha Y)^2\\right)[/latex] is __________ (Round off to one decimal place)",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The integral [latex]\\dfrac{1}{\\pi}\\int_0^{\\infty} \\dfrac{x^{2026}}{(1 + x^{2026})(1 + x^{2})}\\,dx[/latex] evaluates to _________ (Round off to two decimal places)",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "object"
+        },
+        {
+          "id": "B",
+          "text": "subject"
+        },
+        {
+          "id": "C",
+          "text": "predicate"
+        },
+        {
+          "id": "D",
+          "text": "verb"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The shopkeeper sells lemons.' In this sentence, the word 'lemons' is the ________.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "At how many points will the curves [latex]y = x^{2}[/latex] and [latex]y = -x^{2} - 2x - 1[/latex] intersect in the real [latex](x,\\ y)[/latex] plane?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Anish made hundred runs but was denied captaincy."
+        },
+        {
+          "id": "B",
+          "text": "Anish was the captain of his team before the game today."
+        },
+        {
+          "id": "C",
+          "text": "The current captain is older than Anish."
+        },
+        {
+          "id": "D",
+          "text": "Anish is the youngest player in his team."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "'If Anish had scored hundred runs in today's match, he would have been made the captain of his team. He would have then become the youngest captain in his team's history. Unfortunately, he got out without scoring any runs. Hence, there won't be any change in the captaincy for now.' Based on the paragraph above, which one of the following statements is true?",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "(i)-(q); (ii)-(p); (iii)-(s); (iv)-(r)"
+        },
+        {
+          "id": "B",
+          "text": "(i)-(q); (ii)-(s); (iii)-(r); (iv)-(p)"
+        },
+        {
+          "id": "C",
+          "text": "(i)-(s); (ii)-(p); (iii)-(q); (iv)-(r)"
+        },
+        {
+          "id": "D",
+          "text": "(i)-(r); (ii)-(s); (iii)-(p); (iv)-(q)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Match the words in Column I with their synonyms in Column II. [latex]\n\\begin{array}{l l | l l}\n\\textbf{Column I} & & \\textbf{Column II} & \\\\\n\\hline\n(i) & \\text{Lonely} & (p) & \\text{Verbatim} \\\\\n(ii) & \\text{Literal} & (q) & \\text{Solitary} \\\\\n(iii) & \\text{Lousy} & (r) & \\text{Deadly} \\\\\n(iv) & \\text{Lethal} & (s) & \\text{Terrible}\n\\end{array}\n[/latex]",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2026
+    },
+    {
+      "branch": "EE",
+      "id": "1526165",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "13"
+        },
+        {
+          "id": "B",
+          "text": "26"
+        },
+        {
+          "id": "C",
+          "text": "39"
+        },
+        {
+          "id": "D",
+          "text": "42"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]P[/latex] and [latex]Q[/latex] are two positive integers such that [latex]P^{2} = Q^{2} + 13[/latex]. The product of the numbers [latex]P[/latex] and [latex]Q[/latex] is _________",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2026
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,1401 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1120101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "III only"
+        },
+        {
+          "id": "B",
+          "text": "II only"
+        },
+        {
+          "id": "C",
+          "text": "II and III only"
+        },
+        {
+          "id": "D",
+          "text": "I and III only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the functions I. [latex]e^{-x}[/latex] II. [latex]x^2-\\sin x[/latex] III. [latex]\\sqrt{x^3+1}[/latex] Which of the above functions is/are increasing everywhere in  [0,1] ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Theta (\\log _a \\log_b n)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Theta (\\log _{ab} n)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Theta (\\log _b \\log_a n)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Theta (\\log _2 \\log_2 n)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "For parameters a and b, both of which are [latex]\\omega(1) , T(n)=T(n^{1/a})+1[/latex], and [latex]T(b)=1[/latex]. Then [latex]T(n)[/latex] is",
+      "topic": "Recurrence Relation",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I and II only"
+        },
+        {
+          "id": "B",
+          "text": "I and IV only"
+        },
+        {
+          "id": "C",
+          "text": "I and III only"
+        },
+        {
+          "id": "D",
+          "text": "III only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements. I. Daisy chaining is used to assign priorities in attending interrupts. II. When a device raises a vectored interrupt, the CPU does polling to identify the source of interrupt. III. In polling,the CPU periodically checks the status bits to know if any device needs its attention. IV. During DMA, both the CPU and DMA controller can be bus masters at the same time. Which of the above statements is/are TRUE?",
+      "topic": "Interrupt",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10,11,12,15,16,18,19,20"
+        },
+        {
+          "id": "B",
+          "text": "11,12,10,16,19,18,20,15"
+        },
+        {
+          "id": "C",
+          "text": "20,19,18,16,15,12,11,10"
+        },
+        {
+          "id": "D",
+          "text": "19,16,18,20,11,12,10,15"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The preorder traversal of a binary search tree is 15,10,12,11,20,18,16,19. Which one of the following is the postorder traversal of the tree?",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Theta (n^4)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Theta (n^2)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Theta (n^2 \\log n)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Theta (n^3)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What is the worst case time complexity of inserting [latex]n^2[/latex] elements into an AVL-tree with n elements initially?",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]((0+1)^* 1(0+1)^*1)^*10^*[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](0^*10^*10^*)^*0^*1[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]10^*(0^*10^*10^*)^*[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](0^*10^*10^*)^*10^*[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following regular expressions represents the set of all binary strings with an odd number of 1's?",
+      "topic": "Regular Expression",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I only"
+        },
+        {
+          "id": "B",
+          "text": "II only"
+        },
+        {
+          "id": "C",
+          "text": "Both I and II"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements. I.  If [latex]L_1\\cup L_2[/latex] is regular, then both [latex]L_1 \\; and \\; L_2[/latex] must be regular. II. The class of regular languages is closed under infinite union. Which of the above statements is/are TRUE?",
+      "topic": "Regular Language",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I only"
+        },
+        {
+          "id": "B",
+          "text": "I and III only"
+        },
+        {
+          "id": "C",
+          "text": "II only"
+        },
+        {
+          "id": "D",
+          "text": "None of I, II and III"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements. I. Symbol table is accessed only during lexical analysis and syntax analysis. II. Compilers for programming languages that support recursion necessarily need heap storage for memory allocation in the run-time environment. III. Errors violating the condition 'any variable must be declared before its use' are detected during syntax analysis. Which of the above statements is/are TRUE?",
+      "topic": "Lexical Analysis",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I only"
+        },
+        {
+          "id": "B",
+          "text": "II only"
+        },
+        {
+          "id": "C",
+          "text": "I and III only"
+        },
+        {
+          "id": "D",
+          "text": "III only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the language [latex]L=\\{a^n|n\\geq 0\\}\\cup \\{a^nb^n|n\\geq 0\\}[/latex] and the following statements. I. L is deterministic context-free. II. L is context-free but not deterministic context-free. III. L is not LL(k) for any k. Which of the above statements is/are TRUE?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The hole created by first fit is always larger than the hole created by next fit."
+        },
+        {
+          "id": "B",
+          "text": "The hole created by worst fit is always larger than the hole created by first fit."
+        },
+        {
+          "id": "C",
+          "text": "The hole created by best fit is never larger than the hole created by first fit."
+        },
+        {
+          "id": "D",
+          "text": "The hole created by next fit is never larger than the hole created by best fit."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider allocation of memory to a new process. Assume that none of the existing holes in the memory will exactly fit the process's memory requirement. Hence, a new hole of smaller size will be created if allocation is made in any of the existing holes. Which one of the following statement is TRUE?",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I, II and III only"
+        },
+        {
+          "id": "B",
+          "text": "II and III only"
+        },
+        {
+          "id": "C",
+          "text": "I, II and IV only"
+        },
+        {
+          "id": "D",
+          "text": "I, II, III and IV only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements about process state transitions for a system using preemptive scheduling. I. A running process can move to ready state. II. A ready process can move to running state. III. A blocked process can move to running state. IV. A blocked process can move to ready state. Which of the above statements are TRUE?",
+      "topic": "Process",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Diamonds with double/bold border"
+        },
+        {
+          "id": "B",
+          "text": "Rectangles with double/bold border"
+        },
+        {
+          "id": "C",
+          "text": "Ovals with double/bold border"
+        },
+        {
+          "id": "D",
+          "text": "Ovals that contain underlined identifiers"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following is used to represent the supporting many-one relationships of a weak entity set in an entity-relationship diagram?",
+      "topic": "ER Model",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I and II only"
+        },
+        {
+          "id": "B",
+          "text": "I only"
+        },
+        {
+          "id": "C",
+          "text": "II and III only"
+        },
+        {
+          "id": "D",
+          "text": "II only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements about the functionality of an IP based router. I.    A router does not modify the IP packets during forwarding. II.   It is not necessary for a router to implement any routing protocol. III.  A router should reassemble IP fragments if the MTU of the outgoing link is larger than the size of the incoming IP packet. Which of the above statements is/are TRUE?",
+      "topic": "Network Layer Protocol",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Theta (n)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Theta (n \\log n)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Theta (n^2)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Theta (1)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What is the worst case time complexity of inserting n elements into an empty linked list, if the linked list needs to be maintained in sorted order?",
+      "topic": "Link List",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120117",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let [latex]R[/latex] be the set of all binary relations on the set {1,2,3}. Suppose a relation is chosen from [latex]R[/latex] at random. The probability that the chosen relation is reflexive (round off to 3 decimal places) is ______.",
+      "topic": "Relation",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120118",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let G be a group of 35 elements. Then the largest possible size of a subgroup of G other than G itself is _______.",
+      "topic": "Group Theory",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120119",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A multiplexer is placed between a group of 32 registers and an accumulator to regulate data movement such that at any given point in time the content of only one register will move to the accumulator. The number of select lines needed for the multiplexer is ______.",
+      "topic": "Digital Logic",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If there are m input lines and n output lines for a decoder that is used to uniquely address a byte addressable 1 KB RAM, then the minimum value of m+n is ________ .",
+      "topic": "Digital Logic",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A direct mapped cache memory of 1 MB has a block size of 256 bytes. The cache has an access time of 3 ns and a hit rate of 94%. During a cache miss, it takes 20 ns to bring the first word of a block from the main memory, while each subsequent word takes 5 ns. The word size is 64 bits. The average memory access time in ns (round off to 1 decimal place) is______.",
+      "topic": "Computer Organization",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following C program. #include <stdio.h>\n    int main ()  {\n        int  a[4] [5] = {{1, 2, 3, 4, 5},\n                        {6, 7,8, 9, 10},\n                        {11, 12, 13, 14, 15},\n                        {16, 17,18, 19, 20}};\n        printf(\"%d\\n\", *(*(a+**a+2)+3));\n        return(0);\n    } The output of the program is _______.",
+      "topic": "C Programming",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a double hashing scheme in which the primary hash function is [latex]h_1(k)=k\\; mod \\; 23[/latex], and the secondary hash function is [latex]h_2(k)=1+(k\\; mod \\; 19)[/latex]. Assume that the table size is 23. Then the address returned by probe 1 in the probe sequence (assume that the probe sequence begins at probe 0) for key value k=90 is_____________.",
+      "topic": "Hashing",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following  grammar. [latex]S\\rightarrow aSB|d[/latex] [latex]B\\rightarrow b[/latex] The number of reduction steps taken by a bottom-up parser while accepting the string [latex]aaadbbb[/latex] is___________.",
+      "topic": "Parsing",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Assume that you have made a request for a web page through your web browser to a web server. Initially the browser cache is empty. Further, the browser is configured to send HTTP requests in non-persistent mode. The web page contains text and five very small images.The minimum number of TCP connections required to display the web page completely in your browser is__________.",
+      "topic": "Computer Network",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]L_1,L_3 \\; and \\; L_4 \\; only[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]L_1 \\; and \\; L_3 \\; only[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]L_2 \\; and \\; L_3 \\; only[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]L_2,L_3 \\; and \\; L_4 \\; only[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following languages are undecidable? Note that [latex]\\left \\langle M \\right \\rangle[/latex] indicates encoding of the Turing machine [latex]M[/latex]. [latex]L_1=\\{\\left \\langle M \\right \\rangle|L(M)=\\varnothing \\}[/latex] [latex]L_2=[/latex]{[latex]\\left \\langle M,w,q \\right \\rangle|M[/latex] on input w reaches state q in exactly 100 steps} [latex]L_3=\\{\\left \\langle M \\right \\rangle|L(M) \\;is \\; not \\; recursive\\}[/latex] [latex]L_4=\\{\\left \\langle M \\right \\rangle|L(M) \\;contains \\; at \\; least\\; 21 \\; members\\}[/latex]",
+      "topic": "Turing Machine",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "I and II only"
+        },
+        {
+          "id": "B",
+          "text": "I and IV only"
+        },
+        {
+          "id": "C",
+          "text": "II and III only"
+        },
+        {
+          "id": "D",
+          "text": "III and IV only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A and B be two nxn matrices over real numbers. Let rank(M) and det(M) denote the rank and determinant of a matrix M, respectively. Consider the following statements. I.    rank(AB)=rank (A)rank (B) II.  det(AB)=det(A)det(B) III. rank(A+B) [latex]\\leq[/latex] rank (A) + rank (B) IV. det(A+B) [latex]\\leq[/latex] det(A) + det(B) Which of the above statements are TRUE?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120129",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "0x40800000"
+        },
+        {
+          "id": "B",
+          "text": "0xC0800000"
+        },
+        {
+          "id": "C",
+          "text": "0x83400000"
+        },
+        {
+          "id": "D",
+          "text": "0xC8500000"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider three registers R1, R2, and R3 that store numbers in IEEE-754 single precision floating point format. Assume that R1 and R2 contain the values (in hexadecimal notation) 0x42200000 and 0xC1200000, respectively. If [latex]R3=\\frac{R1}{R2}[/latex], what is the value stored in R3?",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "A1 and A4 are mapped to different cache sets."
+        },
+        {
+          "id": "B",
+          "text": "A2 and A3 are mapped to the same cache set."
+        },
+        {
+          "id": "C",
+          "text": "A3 and A4 are mapped to the same cache set."
+        },
+        {
+          "id": "D",
+          "text": "A1 and A3 are mapped to the same cache set."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A computer system with a word length of 32 bits has a 16 MB byte- addressable main memory and a 64 KB, 4-way set associative cache memory with a block size of 256 bytes. Consider the following four physical addresses represented in hexadecimal notation. A1=0x42C8A4, A2=0x546888, A3=0x6A289C, A4=0x5E4880 Which one of the following is TRUE?",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Theta (|E|+|V|)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Theta (|E||V|)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Theta (|E|\\log |V|)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Theta (|V|)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let  [latex]G=(V,E)[/latex] be a weighted undirected graph and let T be a Minimum Spanning Tree (MST) of G maintained using adjacency lists. Suppose a new weighed edge [latex](u,v)\\in V \\times V[/latex] is added to G. The worst case time complexity of determining if T is still an MST of the resultant graph is",
+      "topic": "Minimum Spanning Tree",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]L_1[/latex] is regular and [latex]L_2[/latex] is context- free."
+        },
+        {
+          "id": "B",
+          "text": "[latex]L_1[/latex] context- free but not regular and [latex]L_2[/latex] is context-free."
+        },
+        {
+          "id": "C",
+          "text": "Neither [latex]L_1[/latex] nor [latex]L_2[/latex] is context- free."
+        },
+        {
+          "id": "D",
+          "text": "[latex]L_1[/latex] context- free but  [latex]L_2[/latex] is not context-free."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following languages. [latex]L_1=\\{wxyx|w,x,y \\in (0+1)^+\\}[/latex] [latex]L_2=\\{xy|x,y \\in (a+b)^*,|x|=|y|,x\\neq y\\}[/latex] Which one of the following is TRUE?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120133",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Rule 1 and Rule 2 are L-attributed."
+        },
+        {
+          "id": "B",
+          "text": "Only Rule 1 is L-attributed."
+        },
+        {
+          "id": "C",
+          "text": "Only Rule 2 is L-attributed."
+        },
+        {
+          "id": "D",
+          "text": "Neither Rule 1 nor Rule 2 is L-attributed."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the productions [latex]A\\rightarrow PQ[/latex] and [latex]A\\rightarrow XY[/latex]. Each of the five non-terminals A,P,Q,X, and Y has two attributes: s is a synthesized attribute, and i is an inherited attribute. Consider the following rules. Rule 1: P.i=A.i+2, Q.i=P.i+A.i, and A.s=P.s+Q.s Rule 2: X.i=A.i+Y.s and Y.i=X.s+A.i Which one of the following is TRUE?",
+      "topic": "Intermediate Code Generation",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120135",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "T is serviced before P."
+        },
+        {
+          "id": "B",
+          "text": "Q is serviced after S, but before T."
+        },
+        {
+          "id": "C",
+          "text": "The head reverses its direction of movement between servicing of Q and P."
+        },
+        {
+          "id": "D",
+          "text": "R is serviced before P."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following five disk five disk access requests of the form (request id, cylinder number) that are present in the disk scheduler queue at a given time. (P,155),(Q,85),(R,110),(S,30),(T,115) Assume the head is positioned at cylinder 100. The scheduler follows Shortest Seek Time First scheduling to service the requests. Which one of the following statements is FALSE?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120136",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "R has a nontrivial functional dependency [latex]X\\rightarrow A[/latex], where X is not a superkey and A is a prime attribute."
+        },
+        {
+          "id": "B",
+          "text": "R has a nontrivial functional dependency [latex]X\\rightarrow A[/latex], where X is not a superkey and A is a non-prime attribute and X is not a proper subset of any key."
+        },
+        {
+          "id": "C",
+          "text": "R has a nontrivial functional dependency [latex]X\\rightarrow A[/latex], where X is not a superkey and A is a non-prime attribute and X is a proper subset of some key."
+        },
+        {
+          "id": "D",
+          "text": "A cell in R holds a set instead of an atomic value."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a relational table R that is in 3NF, but not in BCNF. Which one of the following statements is TRUE?",
+      "topic": "Normal Form",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "I and II only"
+        },
+        {
+          "id": "B",
+          "text": "II and III only"
+        },
+        {
+          "id": "C",
+          "text": "III and IV only"
+        },
+        {
+          "id": "D",
+          "text": "I and IV only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "An organization requires a range of IP address to assign one to each of its 1500 computers. The organization has approached an Internet Service Provider (ISP) for this task. The ISP uses CIDR and serves the requests from the available IP address space 202.61.0.0/17. The ISP wants to assign an address space to the organization which will minimize the number of routing entries in the ISP?s router using route aggregation. Which of the following address spaces are potential candidates from which the ISP can allot any one of the organization? I.  202.61.84.0/21 II.  202.61.104.0/21 III. 202.61.64.0/21 IV.  202.61.144.0/21",
+      "topic": "Network Layer Protocol",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120139",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\forall x(p(x)\\vee W)\\equiv \\forall xp(x)\\vee W[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\exists x(p(x)\\wedge W)\\equiv \\exists xp(x)\\wedge W[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\forall x(p(x)\\rightarrow W)\\equiv \\forall xp(x)\\rightarrow W[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\exists x(p(x)\\rightarrow W)\\equiv \\forall xp(x)\\rightarrow W[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which one of the following predicate formulae is NOT logically valid? Note that W is a predicate formula without any free occurrence of x.",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120140",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "for every [latex]f:V\\rightarrow \\mathbb{R}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "if and only if [latex]\\forall u \\in V,f(u)[/latex] is positive"
+        },
+        {
+          "id": "C",
+          "text": "if and only if [latex]\\forall u \\in V,f(u)[/latex] is negative"
+        },
+        {
+          "id": "D",
+          "text": "if and only if f(u) is the distance from s to u in the graph obtained by adding a new vertex s to G and edges of zero weight from s to every verex of G"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let [latex]G=(V,E)[/latex] be a directed, weighed graph with weight function [latex]w:E\\rightarrow \\mathbb{R}[/latex]. For some function [latex]f:V\\rightarrow \\mathbb{R}[/latex], for each edge [latex](u,v) \\in E[/latex], define [latex]w'(u,v)[/latex] as [latex]w(u,v)+f(u)-f(v)[/latex]. Which one of the options completes the following sentence so that it is TRUE? \"The shortest paths in G under [latex]w[/latex] are shortest paths under [latex]w'[/latex] too,_________\".",
+      "topic": "Shortest Path",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120141",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Theta (\\log n )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Theta (\\log n +k)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Theta (k \\log n )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Theta (n \\log k )[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In a balanced binary search tree with n elements, what is the worst case time complexity of reporting all elements in range [a,b]? Assume that the number of reported elements is k.",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120142",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The number of permutations of the characters in LILAC so that no character appears in its original position, if the two L's are indistinguishable, is ______.",
+      "topic": "Discrete Mathematics",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120143",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a non-pipelined processor operating at 2.5 GHz. It takes 5 clock cycles to complete an instruction. You are going to make a 5-stage pipeline out of this processor. Overheads associated with pipelining force you to operate the pipelined processor at 2 GHz. In a given program, assume that 30% are memory instructions, 60% are ALU instructions and the rest are branch instructions. 5% of the memory instructions cause stalls of 50 clock cycles each due to cache misses and 50% of the branch instructions cause stalls of 2 cycles each. Assume that there are no stalls associated with the execution of ALU instructions. For this program, the speedup achieved by the pipelined processor over the non-pipelined processor (round off to 2 decimal places) is________.",
+      "topic": "Pipeline Processor",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120144",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A processor has 64 registers and uses 16-bit instruction format. It has two types of instructions: I-type and R-type. Each I-type instruction contains an opcode, a register name, and a 4-bit immediate value. Each R-type instruction contains an opcode and two register names. If there are 8 distinct I-type opcodes, then the maximum number of distinct R-type opcodes is _______.",
+      "topic": "Machine Instruction",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "For n[latex]\\gt[/latex]2, let [latex]a \\in \\{0,1\\}^n[/latex] be a non-zero vector. Suppose that x is chosen uniformly at random from [latex]\\{0,1\\}^n[/latex]. Then, the probability that [latex]\\sum_{i=1}^{n}a_ix_i[/latex] is an odd number is______",
+      "topic": "Probability Theory",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120147",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the array representation of a binary min-heap containing 1023 elements. The minimum number of comparisons required to find the maximum in the heap is ___________.",
+      "topic": "Heap Tree",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a graph [latex]G=(V,E)[/latex], where [latex]V=\\{v_1,v_2,...,v_{100}\\}[/latex], [latex]E=\\{(v_i,v_j)|1\\leq i \\lt j\\leq 100\\}[/latex], and weight of the edge [latex](v_i,v_j)\\; is \\; |i-j|[/latex]. The weight of minimum spanning tree of G is _________",
+      "topic": "Minimum Spanning Tree",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120151",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following language. L={[latex]x \\in \\{a,b\\}^*|[/latex] number of a's in x divisible by 2 but not divisible by 3} The minimum number of states in DFA that accepts L is _______",
+      "topic": "Theory of Computation",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Graph G is obtained by adding vertex s to [latex]K_{3,4}[/latex] and making s adjacent to every vertex of [latex]K_{3,4}[/latex]. The minimum number of colours required to edge-colour G is _______",
+      "topic": "Graph Theory",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a paging system that uses 1-level page table residing in main memory and a TLB for address translation. Each main memory access takes 100 ns and TLB lookup takes 20 ns. Each page transfer to/from the disk takes 5000 ns. Assume that the TLB hit ratio is 95%, page fault rate is 10%. Assume that for 20% of the total page faults, a dirty page has to be written back to disk before the required page is read from disk. TLB update time is negligible. The average memory access time in ns (round off to 1 decimal places) is ___________",
+      "topic": "Memory Management",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a database implemented using B+ tree for file indexing and installed on a disk drive with block size of 4 KB. The size of search key is 12 bytes and the size of tree/disk pointer is 8 bytes. Assume that the database has one million records. Also assume that no node of the B+ tree and no records are present initially in main memory. Consider that each record fits into one disk block. The minimum number of disk accesses required to retrieve any record in the database is _______",
+      "topic": "File System",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a TCP connection between a client and a server with the following specifications; the round trip time is 6 ms, the size of the receiver advertised window is 50 KB, slow-start threshold at the client is 32 KB, and the maximum segment size is 2 KB. The connection is established at time t=0. Assume that there are no timeouts and errors during transmission. Then the size of the congestion window (in KB) at time t+60 ms after all acknowledgements are processed is _______",
+      "topic": "Transport Layer Protocol",
+      "type": "NAT",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "during, for"
+        },
+        {
+          "id": "B",
+          "text": "for, since"
+        },
+        {
+          "id": "C",
+          "text": "for, in"
+        },
+        {
+          "id": "D",
+          "text": "within, for"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Raman is confident of speaking English _______six months as he has been practising regularly_______the last three weeks.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120157",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "extremely poor"
+        },
+        {
+          "id": "B",
+          "text": "good"
+        },
+        {
+          "id": "C",
+          "text": "desirable"
+        },
+        {
+          "id": "D",
+          "text": "praiseworthy"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "His knowledge of the subject was excellent but his classroom performance was_______.",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120158",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Flyer"
+        },
+        {
+          "id": "B",
+          "text": "Flying"
+        },
+        {
+          "id": "C",
+          "text": "Flew"
+        },
+        {
+          "id": "D",
+          "text": "Flighter"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Select the word that fits the analogy: Cook : Cook :: Fly : _______",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120159",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Nation-states do not have environmental concerns."
+        },
+        {
+          "id": "B",
+          "text": "Nation-states are responsible for providing fresh water to billions of people."
+        },
+        {
+          "id": "C",
+          "text": "Billions of people are responsible foe man-made emissions."
+        },
+        {
+          "id": "D",
+          "text": "Billions of people are affected by melting glaciers."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The dawn of the 21st century witnessed the melting glaciers oscillating between giving too much and too little to billions of people who depend on them for fresh water. The UN climate report estimates that without deep cuts to man-made emissions, at least 30% of the northern hemisphere's surface permafrost could melt by the end of the century. Given this situation of imminent global exodus of billions of people displaced by rising seas, nation-states need to rethink their carbon footprint for political concerns, if not for environmental ones. Which one of the following statements can be inferred from the given passage?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120161",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "GST is imposed on the production of goods and services."
+        },
+        {
+          "id": "B",
+          "text": "GST includes all indirect taxes."
+        },
+        {
+          "id": "C",
+          "text": "GST does not have a component specific to UT."
+        },
+        {
+          "id": "D",
+          "text": "GST is imposed at the point of usage of goods and services."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Goods and Services Tax (GST) is an indirect tax introduced in India in 2017 that is imposed on the supply of goods and services, and it subsumes all indirect taxes except few. It is a destination-based tax imposed on goods and services used, and it is not imposed at the point of origin from where goods come. GST also has a few components specific to state governments, central government  and Union Territories (UTs). Which one of the following statements can be inferred from the given passage?",
+      "topic": "Verbal Ability",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120162",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "40"
+        },
+        {
+          "id": "B",
+          "text": "80"
+        },
+        {
+          "id": "C",
+          "text": "90"
+        },
+        {
+          "id": "D",
+          "text": "110"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If P=3, R=27, T=243, then Q + S = ________",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "1120164",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]60^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]90^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]120^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]180^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Two straight lines are drawn perpendicular to each other in X-Y plane. If [latex]\\alpha[/latex] and [latex]\\beta[/latex] are the acute angles the straight lines make with the X-axis, then [latex]\\alpha +\\beta[/latex] is ________.",
+      "topic": "Numerical Ability",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "12010111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "III only"
+        },
+        {
+          "id": "B",
+          "text": "II only"
+        },
+        {
+          "id": "C",
+          "text": "II and III only"
+        },
+        {
+          "id": "D",
+          "text": "I and III only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the functions I. [latex]e^{-x}[/latex] II. [latex]x^2-\\sin x[/latex] III. [latex]\\sqrt{x^3+1}[/latex] Which of the above functions is/are increasing everywhere in  [0,1] ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    },
+    {
+      "branch": "CS",
+      "id": "12012711",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I and II only"
+        },
+        {
+          "id": "B",
+          "text": "I and IV only"
+        },
+        {
+          "id": "C",
+          "text": "II and III only"
+        },
+        {
+          "id": "D",
+          "text": "III and IV only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A and B be two nxn matrices over real numbers. Let rank(M) and det(M) denote the rank and determinant of a matrix M, respectively. Consider the following statements. I.    rank(AB)=rank (A)rank (B) II.  det(AB)=det(A)det(B) III. rank(A+B) [latex]\\leq[/latex] rank (A) + rank (B) IV. det(A+B) [latex]\\leq[/latex] det(A) + det(B) Which of the above statements are TRUE?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2020
+    }
+  ],
+  "schema_version": 1
+}

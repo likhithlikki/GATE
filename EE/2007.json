@@ -1,0 +1,1710 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1507109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "F is not necessarily a \"Sine\" or \"Cosine\" function but must be periodic\nwith [latex]\\omega _{1} = \\omega _{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "F must be a \"Sine\" or \"Cosine\" function with [latex]a_1=a_2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "F must be a \"Sine\" function with [latex]\\omega _1=\\omega _2[/latex] and [latex]\\phi _{1} = \\phi _{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "F must be a \"Sine\" or \"Cosine\" function with [latex]\\omega _{1} = \\omega _{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let a signal [latex]a_1 \\sin(\\omega _{1}t + \\phi_1)[/latex] be applied to a stable linear time invariant system. Let the corresponding steady state output be represented as [latex]a_2 F(\\omega _{2}t + \\phi _{2})[/latex]. Then\nwhich of the following statement is true?",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2z \\cos z^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sin xy+2z \\cos z^{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]x sinxy - cos z[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Divergence of the vector field [latex]V(x,y,z)=-(x \\cos xy+y)\\hat{i}+(y \\cos xy)\\hat{j}[/latex] [latex]+(\\sin z^{2}+x^{2}+y^{2})\\hat{k}[/latex] is",
+      "topic": "Electromagnetic Theory",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "has rank zero"
+        },
+        {
+          "id": "B",
+          "text": "has rank 1"
+        },
+        {
+          "id": "C",
+          "text": "is orthogonal"
+        },
+        {
+          "id": "D",
+          "text": "has rank n"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]x=[x_{1} x_{2} ... x_{n}]^{T}[/latex] is an n-tuple nonzero vector. The nxn matrix [latex]V=xx^{T}[/latex]",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.78"
+        },
+        {
+          "id": "B",
+          "text": "0.827"
+        },
+        {
+          "id": "C",
+          "text": "0.866"
+        },
+        {
+          "id": "D",
+          "text": "0.9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase fully controlled thyristor bridge ac-dc converter is operating at a\nfiring angle of 25[latex]^{\\circ}[/latex] and an overlap angle of 10[latex]^{\\circ}[/latex] with constant dc output current of\n20 A. The fundamental power factor (displacement factor) at input ac mains is",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "119.05A"
+        },
+        {
+          "id": "B",
+          "text": "79.37A"
+        },
+        {
+          "id": "C",
+          "text": "68.73A"
+        },
+        {
+          "id": "D",
+          "text": "39.68A"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase, fully controlled thyristor bridge converter is used\nas line commutated inverter to feed 50 kW power 420 V dc to a\nthree-phase, 415 V(line), 50 Hz ac mains. Consider dc link current to be constant.\nThe rms current of the thyristor is",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "not possible"
+        },
+        {
+          "id": "B",
+          "text": "possible at unity power factor load"
+        },
+        {
+          "id": "C",
+          "text": "possible at leading power factor load"
+        },
+        {
+          "id": "D",
+          "text": "possible at lagging power factor load"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In a transformer, zero voltage regulation at full load is",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "series"
+        },
+        {
+          "id": "B",
+          "text": "shunt"
+        },
+        {
+          "id": "C",
+          "text": "cumulative compound"
+        },
+        {
+          "id": "D",
+          "text": "differential compound"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The dc motor, which can provide zero speed regulation at full load without any\ncontroller is",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "because the converter inherently does not provide for free-wheeling"
+        },
+        {
+          "id": "B",
+          "text": "because the converter does not provide for free-wheeling for high values of triggering angles"
+        },
+        {
+          "id": "C",
+          "text": "or else the free-wheeling action of the converter will cause shorting of the\nAC supply"
+        },
+        {
+          "id": "D",
+          "text": "or else if a gate pulse to one of the SCRs is missed, it will subsequently\ncause a high load current in the other SCR."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single phase full-wave half-controlled bridge converter feeds an inductive load.\nThe two SCRs in the converter are connected to a common DC bus. The converter\nhas to have a freewheeling diode.",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "True, because being majority carrier devices MOSFETs are voltage driven."
+        },
+        {
+          "id": "B",
+          "text": "True, because MOSFETs hav inherently anti-parallel diodes"
+        },
+        {
+          "id": "C",
+          "text": "False, because it can be operated both as Current Source Inverter (CSI) or\na VSI"
+        },
+        {
+          "id": "D",
+          "text": "False, because MOSFETs can be operated as excellent constant current\nsources in the saturation region."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "\"Six MOSFETs connected in a bridge configuration (having no other power\ndevice) must be operated as a Voltage Source Inverter (VSI)\". This statement is",
+      "topic": "Inverters",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\tau /2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\tau [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2 \\tau [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The differential equation [latex]\\frac{dx}{dt}=\\frac{1-x}{\\tau }[/latex] is discretised using Euler's numerical integration method with a time step [latex]\\Delta T \\gt 0[/latex]. What is the maximum permissible value of [latex]\\Delta[/latex]T to ensure stability of the solution of the corresponding discrete time equation ?",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{4 \\pi \\varepsilon _{0}}\\frac{Qr}{R^{3}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{3}{4 \\pi \\varepsilon _{0}}\\frac{Qr}{R^{3}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{4 \\pi \\varepsilon _{0}}\\frac{Q}{r^{2}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{1}{4 \\pi \\varepsilon _{0}}\\frac{QR}{r^{3}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A solid sphere made of insulating material has a radius R and has a total charge\r\nQ distributed uniformly in its volume. What is the magnitude of the electric field\r\nintensity, E, at a distance [latex]r\\; (0 \\lt r \\lt R)[/latex] inside the sphere ?",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "122km"
+        },
+        {
+          "id": "B",
+          "text": "172km"
+        },
+        {
+          "id": "C",
+          "text": "222km"
+        },
+        {
+          "id": "D",
+          "text": "272km"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The total reactance and total suspectance of a lossless overhead EHV line,\noperating at 50 Hz, are given by 0.045 pu and 1.2 pu respectively. If the velocity\nof wave propagation is  [latex]3 \\times 10^{5}[/latex] km/s, then the approximate length of the line is",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3VI"
+        },
+        {
+          "id": "B",
+          "text": "VI"
+        },
+        {
+          "id": "C",
+          "text": "0.7VI"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three phase balanced star connected voltage source with frequency [latex]\\omega[/latex] rad/s\r\nis connected to a star connected balanced load which is purely inductive. The\r\ninstantaneous line currents and phase to neutral voltages are denoted by ([latex]i_{a},i_{b},i_{c}[/latex]) and ([latex]v_{an},v_{bn},v_{cn}[/latex]) respectively, and their rms values are denoted by V and I. If [latex]R=[v_{an}\\; v_{bn}\\; v_{cn}]\\begin{bmatrix} 0 & \\frac{1}{\\sqrt{3}} &-\\frac{1}{\\sqrt{3}} \\\\ -\\frac{1}{\\sqrt{3}}& 0&\\frac{1}{\\sqrt{3}} \\\\ \\frac{1}{\\sqrt{3}} & -\\frac{1}{\\sqrt{3}} & 0 \\end{bmatrix}[/latex], then the magnitude of R is",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]Z=\\begin{bmatrix} 1 &0.5 & 0.75\\\\ 0.75& 1& 0.5\\\\ 0.5 & 0.75& 1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]Z=\\begin{bmatrix} 1 &0.5 & 0.5\\\\ 0.5& 1& 0.5\\\\ 0.5 & 0.5& 1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]Z=3k^{2}\\begin{bmatrix} 1 &0.75 & 0.5\\\\ 0.5& 1& 0.75\\\\ 0.75 & 0.5& 1 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]Z=\\frac{k^2}{3} \\begin{bmatrix} 1 &-0.5 & -0.5\\\\ -0.5& 1& -0.5\\\\ -0.5 &- 0.5& 1 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Suppose we define a sequence transformation between \"a-b-c\" and \"p-n-o\"\r\nvariables as follows: [latex]\\begin{bmatrix} f_{a}\\\\ f_{b}\\\\ f_{c} \\end{bmatrix}=k\\begin{bmatrix} 1 & 1 & 1\\\\ \\alpha ^{2}&\\alpha & 1\\\\ \\alpha & \\alpha ^{2} & 1 \\end{bmatrix} \\begin{bmatrix} f_{p}\\\\ f_{n}\\\\ f_{o} \\end{bmatrix}[/latex] where [latex]\\alpha =e^{j\\frac{2\\pi }{3}}[/latex] and k and is a constant. Now, if it is given that : [latex]\\begin{bmatrix} V_{p}\\\\ V_{n}\\\\ V_{o} \\end{bmatrix}= \\begin{bmatrix} 0.5 & 0&0 \\\\ 0 & 0.5 & 0\\\\ 0 & 0 & 2.0 \\end{bmatrix}\\begin{bmatrix} i_{p}\\\\ i_{n}\\\\ i_{o} \\end{bmatrix}[/latex] and [latex] \\begin{bmatrix} V_{a}\\\\ V_{b}\\\\ V_{c} \\end{bmatrix}=Z\\begin{bmatrix} i_{a}\\\\ i_{b}\\\\ i_{c} \\end{bmatrix}[/latex] then,",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "253.314"
+        },
+        {
+          "id": "B",
+          "text": "253.632"
+        },
+        {
+          "id": "C",
+          "text": "526.314"
+        },
+        {
+          "id": "D",
+          "text": "526.632"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Octal equivalent of HEX and number AB.CD is",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x=0"
+        },
+        {
+          "id": "B",
+          "text": "x=-3/4"
+        },
+        {
+          "id": "C",
+          "text": "x = y - 1/6"
+        },
+        {
+          "id": "D",
+          "text": "x=y/[latex]\\sqrt{3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]x=Re\\; G(j\\omega )[/latex], and [latex]y=lm \\; G(j\\omega )[/latex] then for [latex]\\omega \\rightarrow 0^+[/latex], the Nyquist plot for\r\n[latex]G(s)=\\frac{1}{s(s+1)(s+2)}[/latex] becomes asymptotic to the line",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a lag compensator that provides an attenuation of 20 dB and a phase lag of 45[latex]^{\\circ}[/latex] at the frequency of 3 [latex]\\sqrt{3}[/latex] rad/s"
+        },
+        {
+          "id": "B",
+          "text": "a lead compensator that provides an amplification of 20 dB and a phase lead of 45[latex]^{\\circ}[/latex] at the frequency of 3 rad/s"
+        },
+        {
+          "id": "C",
+          "text": "a lag-lead compensator that provides an attenuation of 20 dB and phase\r\nlag of 45[latex]^{\\circ}[/latex] at the frequency of [latex]\\sqrt{3}[/latex] rad/s"
+        },
+        {
+          "id": "D",
+          "text": "a lag-lead compensator that provides an attenuation of 20 dB and phase\nlead of 45[latex]^{\\circ}[/latex] at the frequency of 3 rad/s"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The system [latex]\\frac{900}{s(s+1)(s+9)}[/latex] is to be compensated such that its gain-crossover frequency\r\nbecomes same as its uncompensated phase crossover frequency and provides a 45[latex]^{\\circ}[/latex] phase margin. To achieve this, one may use",
+      "topic": "Design of Control Systems",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507137",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{4}{\\pi }cos(\\frac{\\pi t}{T}-\\frac{\\pi }{4})[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{4 }{\\pi}cos(\\frac{\\pi t}{2T}+\\frac{\\pi }{4})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{4}{\\pi }sin(\\frac{\\pi t}{T}-\\frac{\\pi }{4})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{4}{\\pi}sin(\\frac{\\pi t}{2T}+\\frac{\\pi }{4})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A signal [latex]x(t)[/latex] is given by [latex]x(t)=\\left\\{\\begin{matrix} 1, & -T/4 \\lt  t \\leq 3T/4\\\\ -1, & 3T/4 \\lt t\\leq 7T/4\\\\ -x(t-T) &  \\end{matrix}\\right.[/latex] Which among the following gives the fundamental fourier term of x(t)?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The frequency of this oscillation must be[latex]\\frac{4}{\\sqrt{3}}[/latex] rad/s"
+        },
+        {
+          "id": "B",
+          "text": "The frequency of this oscillation must be 4 rad/s"
+        },
+        {
+          "id": "C",
+          "text": "The frequency of this oscillation must be 4 or [latex]\\frac{4}{\\sqrt{3}}[/latex] rad/s"
+        },
+        {
+          "id": "D",
+          "text": "Such a K does not exist"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If the loop gain K of a negative feed back system having a loop transfer function\n[latex]\\frac{K(s+3)}{(s+8)^2}[/latex] is to be adjusted to induce a sustained oscillation then",
+      "topic": "Control Systems",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2 \\pi i[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\pi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]tan^{-1} z[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\pi i tan^{-1}z[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of [latex]\\oint_{c}\\frac{dz}{(1+z^{2})}[/latex] where C is the contour |z-i/2|=1 is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "65.65%"
+        },
+        {
+          "id": "B",
+          "text": "48.42%"
+        },
+        {
+          "id": "C",
+          "text": "31.83%"
+        },
+        {
+          "id": "D",
+          "text": "30.49%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase voltages source inverter is controlled in a single\npulse-width modulated mode with a pulse width of 150[latex]^{\\circ}[/latex] in each half cycle. Total\nharmonic distortion is defined as [latex]THD=\\frac{\\sqrt{V^{2}_{rms}-V_{1}^{2}}}{V_{1}} \\times 100[/latex], where  [latex]V_1[/latex] is the rms value of the fundamental component of the output voltage. The THD of output ac voltage waveform is",
+      "topic": "Inverters",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10 Hz"
+        },
+        {
+          "id": "B",
+          "text": "5 Hz"
+        },
+        {
+          "id": "C",
+          "text": "4 Hz"
+        },
+        {
+          "id": "D",
+          "text": "2 Hz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A voltage source inverter is used to control the speed of three-phase, 50 Hz, squirrel cage induction motor. Its slip for rated torque is 4%. The flux is maintained at rated value. If the stator resistance and rotational losses are neglected, then the frequency of the impressed voltage to obtain twice the rated torque at starting should be",
+      "topic": "Inverters",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.354"
+        },
+        {
+          "id": "B",
+          "text": "0.372"
+        },
+        {
+          "id": "C",
+          "text": "0.9"
+        },
+        {
+          "id": "D",
+          "text": "0.955"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase, 440 V, 50 Hz ac mains fed thyristor bridge is feeding a 440 V dc,\n15 kW, 1500 rpm separately excited dc motor with a ripple free continuos current\nin the dc link under all operating conditions, Neglecting the losses, the power\nfactor of the ac mains at half the rated speed is",
+      "topic": "Power Electronics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.43 A"
+        },
+        {
+          "id": "B",
+          "text": "1.65 A"
+        },
+        {
+          "id": "C",
+          "text": "1.22 A"
+        },
+        {
+          "id": "D",
+          "text": "1.0 A"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase, 230 V, 50 Hz ac mains fed step down transformer (4:1) is supplying\npower to a half-wave uncontrolled ac-dc converter used for charging a battery(12\nV dc) with the series current limiting resistor being 19.04 [latex]\\Omega[/latex]. The charging current\nis",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "unity"
+        },
+        {
+          "id": "B",
+          "text": "leading"
+        },
+        {
+          "id": "C",
+          "text": "lagging"
+        },
+        {
+          "id": "D",
+          "text": "dependent on machine parameters"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase synchronous motor connected to ac mains is running at full load\nand unity power factor. If its shaft load is reduced by half, with field current held\nconstant, its new power factor will be",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.731"
+        },
+        {
+          "id": "B",
+          "text": "1.5"
+        },
+        {
+          "id": "C",
+          "text": "0.666"
+        },
+        {
+          "id": "D",
+          "text": "0.577"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 100 kVA, 415 V(line), star-connected synchronous machine generates rated open circuit voltage of 415 V at a field current of 15 A. The short circuit armature current at a field current of 10 A is equal to the rated armature current. The per unit saturated synchronous reactance is",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "95.57%"
+        },
+        {
+          "id": "B",
+          "text": "97.85%"
+        },
+        {
+          "id": "C",
+          "text": "98.28%"
+        },
+        {
+          "id": "D",
+          "text": "99.24%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase, 50-kVA, 250 V/500 V two winding transformer has an efficiency\nof 95% at full load, unity power factor. If it is re-configured as a 500 V/750 V\nauto-transformer, its efficiency at its new rated load at unity power factor will be",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507149",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "72.95 mH in phase C and 139.02 [latex]\\mu[/latex]F in Phase B"
+        },
+        {
+          "id": "B",
+          "text": "72.95 mH in Phase B and 139.02 [latex]\\mu[/latex]F in Phase C"
+        },
+        {
+          "id": "C",
+          "text": "42.12 mH in Phase C and 240.79 [latex]\\mu[/latex]F in Phase B"
+        },
+        {
+          "id": "D",
+          "text": "42.12 mH in Phase B and 240.79 [latex]\\mu[/latex]F in Phase C"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 230 V (Phase), 50 Hz, three-phase, 4-wire, system has a phase sequence ABC.\nA unity power-factor load of 4 kW is connected between phase A and neutral N.\nIt is desired to achieve zero neutral current through the use of a pure inductor\nand a pure capacitor in the other two phases. The value of inductor and capacitor\nis",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507151",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{2}(t-1)u(t-1)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{2}(t-1)u(t-2)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2}(t-1)^{2} u(t-1)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If u(t), r(t) denote the unit step and unit ramp functions respectively and\nu(t)*r(t) their convolution, then the function u(t+1)*r(t-2) is given by",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507152",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "sin t cos t"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "(1/2)cos t"
+        },
+        {
+          "id": "D",
+          "text": "(1/2) sin t"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The integral [latex]\\frac{1}{2\\pi }\\int_{0}^{2 \\pi} \\sin(t-\\tau ) \\cos \\tau d \\tau[/latex]\r\n equals",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507153",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "has Z-transform [latex]z^{-1}[/latex] X(z)Y(z)"
+        },
+        {
+          "id": "B",
+          "text": "equals [latex]\\delta [n-2]-3\\delta [n-3]+2\\delta [n-4]-6\\delta [n-5][/latex]"
+        },
+        {
+          "id": "C",
+          "text": "has Z-transform [latex]1-3z^{-1}+2z^{-2}-6z^{-3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "does not satisfy any of the above three"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]X(z) = 1 - 3z^{-1}[/latex], [latex]Y(z) = 1 + 2z^{-2}[/latex] are Z transforms of two signals x[n],y[n] respectively. A linear time invariant system has the impulse response h[n] defined by these two signals as h[n] = x[n-1] * y[n] where * denotes discrete time convolution. Then the output of the system for the input [latex]\\delta[/latex][n-1]",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507155",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is zero when x and y are linearly independent"
+        },
+        {
+          "id": "B",
+          "text": "is positive when x and y are linearly independent"
+        },
+        {
+          "id": "C",
+          "text": "is non-zero for all non-zero x and y"
+        },
+        {
+          "id": "D",
+          "text": "is zero only when either x or y is zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let x and y be two vectors in a 3 dimensional space and [latex]\\lt x,y \\gt[/latex] denote their\ndot product. Then the determinant [latex]det\\begin{bmatrix} & \\\\ & \\end{bmatrix}[/latex]",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507156",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0, +1, -1"
+        },
+        {
+          "id": "B",
+          "text": "1, -1, 1"
+        },
+        {
+          "id": "C",
+          "text": "i, -i, 1"
+        },
+        {
+          "id": "D",
+          "text": "i, -i, 0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The linear operation L(x) is defined by the cross product [latex]L(x)=b \\times x[/latex], where [latex]b=[0 1 0]^{T} \\; and \\; x=[x_{1} x_{2} x_{3}]^{T}[/latex] are three dimensional vectors. The 3x3 matrix M of this operations satisfies [latex]L(x)=M\\begin{bmatrix} x_{1}\\\\ x_{2}\\\\ x_{3} \\end{bmatrix}[/latex] Then the eigenvalues of M are",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507164",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.0W"
+        },
+        {
+          "id": "B",
+          "text": "1.5W"
+        },
+        {
+          "id": "C",
+          "text": "2.5W"
+        },
+        {
+          "id": "D",
+          "text": "3.0W"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3 V DC supply with an internal resistance of 2 [latex]\\Omega[/latex] supplies a passive non-linear\r\nresistance characterized by the relation [latex]V_{NL}=I^{2}_{NL}[/latex]. The power dissipated in the non linear resistance is",
+      "topic": "Electric Circuits",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507166",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "13.48%"
+        },
+        {
+          "id": "B",
+          "text": "16.42%"
+        },
+        {
+          "id": "C",
+          "text": "18.92%"
+        },
+        {
+          "id": "D",
+          "text": "26.79%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase squirrel cage induction motor has a starting torque of 150% and a maximum torque of 300% with respect to rated torque at rated voltage and rated\nfrequency. Neglect the stator resistance and rotational losses. The value of slip\nfor maximum torque is",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507167",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The equations [latex]v_{1}-v_{2}+v_{3}=0,v_{3}+v_{4}-v_{5}=0[/latex] are KVL equations for the network for some loops"
+        },
+        {
+          "id": "B",
+          "text": "The equations [latex]v_{1}-v_{3}-v_{6}=0,v_{4}+v_{5}-v_{6}=0[/latex] are KVL equations for the network for some loops"
+        },
+        {
+          "id": "C",
+          "text": "E = AV"
+        },
+        {
+          "id": "D",
+          "text": "AV = 0 are KVI equations for the network"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The matrix A given below in the node incidence matrix of a network. The columns\r\ncorrespond to branches of the network while the rows correspond to nodes. Let\r\n[latex]V=[v_{1} \\; v_{2} ... v_{6}]^{T}[/latex] denote the vector of branch voltages while [latex]I=[i_{1} \\; i_{2} ... i_{6}]^{T}[/latex] that of branch currents. The vector [latex]E=[e_{1} \\; e_{2} \\; e_{3} \\; e_{4}]^{T}[/latex] denotes the vector of node voltages relative to a common ground. [latex]\\begin{bmatrix} 1 & 1&1 & 0&0 & 0\\\\ 0& -1&0 & -1& 1& 0\\\\ -1 &0 & 0 & 0 &-1 & -1\\\\ 0&0 & -1&1 & 0 &1 \\end{bmatrix}[/latex] Which of the following statement is true ?",
+      "topic": "Magnetically Coupled Circuits, Network Topology and Filters",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507168",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "49.417Hz"
+        },
+        {
+          "id": "B",
+          "text": "49.917Hz"
+        },
+        {
+          "id": "C",
+          "text": "50.083Hz"
+        },
+        {
+          "id": "D",
+          "text": "50.583Hz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An isolated 50 Hz synchronous generator is rated at 15 MW which is also the\nmaximum continuous power limit of its prime mover. It is equipped with a speed\ngovernor with 5% droop. Initially, the generator is feeding three loads of 4 MW\neach at 50 Hz. One of these loads is programmed to trip permanently if the\nfrequency falls below 48 Hz .If an additional load of 3.5 MW is connected then\nthe frequency will settle down to",
+      "topic": "Power System Stability",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507169",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The BRQ pin is sampled after every instruction cycle, but the INT is\nsampled after every machine cycle."
+        },
+        {
+          "id": "B",
+          "text": "Both INT and BRQ are samped after every machine cycle."
+        },
+        {
+          "id": "C",
+          "text": "The INT pin is sampled after every instruction cycle, but the BRQ is\nsampled after every machine cycle."
+        },
+        {
+          "id": "D",
+          "text": "Both INT and BRQ are sampled after every instruction cycle."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which one of the following statements regarding the INT (interrupt) and the\nBRQ (but request) pins in a CPU is true?",
+      "topic": "Microprocessors",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507171",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "57.77%"
+        },
+        {
+          "id": "B",
+          "text": "72.56%"
+        },
+        {
+          "id": "C",
+          "text": "78.25%"
+        },
+        {
+          "id": "D",
+          "text": "81.33%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three phase squirrel cage induction motor has a starting current of seven times\nthe full load current and full load slip of 5% If an auto transformer is used for reduced voltage starting to provide 1.5 per unit\nstarting torque, the auto transformer ratio(%) should be",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507172",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.607"
+        },
+        {
+          "id": "B",
+          "text": "0.816"
+        },
+        {
+          "id": "C",
+          "text": "1.225"
+        },
+        {
+          "id": "D",
+          "text": "1.616"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three phase squirrel cage induction motor has a starting current of seven times\nthe full load current and full load slip of 5% If a star-delta starter is used to start this induction motor, the per unit starting\ntorque will be",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507173",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4.65"
+        },
+        {
+          "id": "B",
+          "text": "3.75"
+        },
+        {
+          "id": "C",
+          "text": "3.16"
+        },
+        {
+          "id": "D",
+          "text": "2.13"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three phase squirrel cage induction motor has a starting current of seven times\nthe full load current and full load slip of 5% If a starting torque of 0.5 per unit is required then the per unit starting current\nshould be",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507176",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "18.08A"
+        },
+        {
+          "id": "B",
+          "text": "9.04A"
+        },
+        {
+          "id": "C",
+          "text": "4.56A"
+        },
+        {
+          "id": "D",
+          "text": "2.28A"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An inductor designed with 400 turns coil wound on an iron core of 16 [latex]cm^2[/latex] cross\nsectional area and with a cut of an air gap length of 1 mm. The coil is connected\nto a 230 V, 50 Hz ac supply. Neglect coil resistance, core loss, iron reluctance and\nleakage inductance, [latex]\\mu _0=4 \\pi \\times 10^{-7}[/latex] H/M The current in the inductor is",
+      "topic": "Magnetostatic Fields",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507177",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "832.29N"
+        },
+        {
+          "id": "B",
+          "text": "1666.22N"
+        },
+        {
+          "id": "C",
+          "text": "3332.47N"
+        },
+        {
+          "id": "D",
+          "text": "6664.84N"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An inductor designed with 400 turns coil wound on an iron core of 16 [latex]cm^2[/latex] cross\nsectional area and with a cut of an air gap length of 1 mm. The coil is connected\nto a 230 V, 50 Hz ac supply. Neglect coil resistance, core loss, iron reluctance and\nleakage inductance, [latex]\\mu _0=4 \\pi \\times 10^{-7}[/latex] H/M The average force on the core to reduce the air gap will be",
+      "topic": "Magnetostatic Fields",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507178",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]A+3I+2A^{-1}=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]A^2+2A+2I=0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](A+I)(A+2I)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]exp(A)=0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Cayley-Hamilton Theorem states that a square matrix satisfies its own\r\ncharacteristic equation. Consider a matrix [latex]A=\\begin{bmatrix} -3 & 2\\\\ -2& 0 \\end{bmatrix}[/latex] [latex]A[/latex] satisfies the relation",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507179",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]511A +510 I[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]309A +104 I[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]154A +155 I[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]exp(9A)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Cayley-Hamilton Theorem states that a square matrix satisfies its own\r\ncharacteristic equation. Consider a matrix [latex]A=\\begin{bmatrix} -3 & 2\\\\ -2& 0 \\end{bmatrix}[/latex] [latex]A^9[/latex] equals",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507184",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "provides zero phase shift for all frequency"
+        },
+        {
+          "id": "B",
+          "text": "provides constant phase shift for all frequency"
+        },
+        {
+          "id": "C",
+          "text": "provides linear phase shift that is proportional to frequency"
+        },
+        {
+          "id": "D",
+          "text": "provides a phase shift that is inversely proportional to frequency"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A signal is processed by a causal filter with transfer function G(s). For a distortion free output signal wave form, G(s) must",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "1507185",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\alpha =\\beta[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\alpha =-\\beta[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\alpha =\\beta^{(1/3)}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\alpha =\\beta^{(-1/3)}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A signal is processed by a causal filter with transfer function G(s). [latex]G(z)=\\alpha z^{-1}+\\beta z^{-3}[/latex] is a low pass digital filter with a phase characteristics same as\r\nthat of the above question if",
+      "topic": "Z-Transform",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "10711215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "has rank zero"
+        },
+        {
+          "id": "B",
+          "text": "has rank 1"
+        },
+        {
+          "id": "C",
+          "text": "is orthogonal"
+        },
+        {
+          "id": "D",
+          "text": "has rank n"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]x=[x_{1} x_{2} ... x_{n}]^{T}[/latex] is an n-tuple nonzero vector. The nxn matrix [latex]V=xx^{T}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "10712315",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\tau /2[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\tau [/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2 \\tau [/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The differential equation [latex]\\frac{dx}{dt}=\\frac{1-x}{\\tau }[/latex] is discretised using Euler's numerical integration method with a time step [latex]\\Delta T \\gt 0[/latex]. What is the maximum permissible value of [latex]\\Delta[/latex]T to ensure stability of the solution of the corresponding discrete time equation ?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "10714015",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2 \\pi i[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\pi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]tan^{-1} z[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\pi i tan^{-1}z[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The value of [latex]\\oint_{c}\\frac{dz}{(1+z^{2})}[/latex] where C is the contour |z-i/2|=1 is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "10715215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "sin t cos t"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "(1/2)cos t"
+        },
+        {
+          "id": "D",
+          "text": "(1/2) sin t"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The integral [latex]\\frac{1}{2\\pi }\\int_{0}^{2 \\pi} \\sin(t-\\tau ) \\cos \\tau d \\tau[/latex]\r\n equals",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "10715515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is zero when x and y are linearly independent"
+        },
+        {
+          "id": "B",
+          "text": "is positive when x and y are linearly independent"
+        },
+        {
+          "id": "C",
+          "text": "is non-zero for all non-zero x and y"
+        },
+        {
+          "id": "D",
+          "text": "is zero only when either x or y is zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let x and y be two vectors in a 3 dimensional space and [latex]\\lt x,y \\gt[/latex] denote their\ndot product. Then the determinant [latex]det\\begin{bmatrix} & \\\\ & \\end{bmatrix}[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "10715615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0, +1, -1"
+        },
+        {
+          "id": "B",
+          "text": "1, -1, 1"
+        },
+        {
+          "id": "C",
+          "text": "i, -i, 1"
+        },
+        {
+          "id": "D",
+          "text": "i, -i, 0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The linear operation L(x) is defined by the cross product [latex]L(x)=b \\times x[/latex], where [latex]b=[0 1 0]^{T} \\; and \\; x=[x_{1} x_{2} x_{3}]^{T}[/latex] are three dimensional vectors. The 3x3 matrix M of this operations satisfies [latex]L(x)=M\\begin{bmatrix} x_{1}\\\\ x_{2}\\\\ x_{3} \\end{bmatrix}[/latex] Then the eigenvalues of M are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "10717815",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]A+3I+2A^{-1}=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]A^2+2A+2I=0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](A+I)(A+2I)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]exp(A)=0[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Cayley-Hamilton Theorem states that a square matrix satisfies its own\r\ncharacteristic equation. Consider a matrix [latex]A=\\begin{bmatrix} -3 & 2\\\\ -2& 0 \\end{bmatrix}[/latex] [latex]A[/latex] satisfies the relation",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    },
+    {
+      "branch": "EE",
+      "id": "10717915",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]511A +510 I[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]309A +104 I[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]154A +155 I[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]exp(9A)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Cayley-Hamilton Theorem states that a square matrix satisfies its own\r\ncharacteristic equation. Consider a matrix [latex]A=\\begin{bmatrix} -3 & 2\\\\ -2& 0 \\end{bmatrix}[/latex] [latex]A^9[/latex] equals",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2007
+    }
+  ],
+  "schema_version": 1
+}

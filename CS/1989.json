@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1100601",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Membership problem in context-free languages."
+        },
+        {
+          "id": "B",
+          "text": "Whether a given context-free language is regular."
+        },
+        {
+          "id": "C",
+          "text": "Whether a finite state automation halts on all inputs."
+        },
+        {
+          "id": "D",
+          "text": "Membership problem for type 0 languages."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following problems are un-decidable? [MSQ]",
+      "topic": "Undecidability",
+      "type": "MCQ",
+      "year": 1989
+    },
+    {
+      "branch": "CS",
+      "id": "1100602",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A hash table with ten buckets with one slot per bucket is shown in the following figure. The symbols S1 to S7 initially entered using a hashing function with linear probing. The maximum number of comparisons needed in searching an item that is not present is [latex]\\begin{array}{|l|l|} \\hline 0 & \\text { S7 } \\\\ \\hline 1 & \\text { S1 } \\\\ \\hline 2 & \\\\ \\hline 3 & \\text { S4 } \\\\ \\hline 4 & \\text { S2 } \\\\ \\hline 5 & \\text { } \\\\ \\hline 6 & \\text { S5 } \\\\ \\hline 7 & \\\\ \\hline 8 & \\text { S6 } \\\\ \\hline 9 & \\text { S3 } \\\\ \\hline \\end{array}[/latex]",
+      "topic": "Hashing",
+      "type": "MCQ",
+      "year": 1989
+    },
+    {
+      "branch": "CS",
+      "id": "1100603",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Passing an expression as a parameter"
+        },
+        {
+          "id": "B",
+          "text": "Passing an array as a parameter"
+        },
+        {
+          "id": "C",
+          "text": "Passing a pointer as a parameter"
+        },
+        {
+          "id": "D",
+          "text": "Passing as array element as a parameter"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In which of the following case(s) is it possible to obtain different results for call-by-reference and call-by-name parameter passing?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1989
+    },
+    {
+      "branch": "CS",
+      "id": "1100604",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes it more difficult to verify programs."
+        },
+        {
+          "id": "B",
+          "text": "It makes programs more inefficient."
+        },
+        {
+          "id": "C",
+          "text": "It makes it more difficult to modify existing programs."
+        },
+        {
+          "id": "D",
+          "text": "It results in the compiler generating longer machine code."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "An unrestricted use of the \"go to\" statement is harmful because of which of the following reason (s):",
+      "topic": "Conditional Statement",
+      "type": "MCQ",
+      "year": 1989
+    },
+    {
+      "branch": "CS",
+      "id": "1100605",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Union"
+        },
+        {
+          "id": "B",
+          "text": "Intersection"
+        },
+        {
+          "id": "C",
+          "text": "Concatenation"
+        },
+        {
+          "id": "D",
+          "text": "Complementation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Context-free languages and regular languages are both closed under the operation (s) of :",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1989
+    },
+    {
+      "branch": "CS",
+      "id": "1100606",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Membership problem in context-free languages."
+        },
+        {
+          "id": "B",
+          "text": "Whether a given context-free language is regular."
+        },
+        {
+          "id": "C",
+          "text": "Whether a finite state automation halts on all inputs."
+        },
+        {
+          "id": "D",
+          "text": "Membership problem for type 0 languages."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Answer the following questions: Which of the following problems are undecidable?",
+      "topic": "Undecidability",
+      "type": "MCQ",
+      "year": 1989
+    },
+    {
+      "branch": "CS",
+      "id": "1100607",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]P \\rightarrow Q[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\neg Q \\rightarrow \\neg P[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\neg P \\vee Q[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\neg Q \\rightarrow P[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Answer the following: Which of the following well-formed formulas are equivalent?",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 1989
+    },
+    {
+      "branch": "CS",
+      "id": "1100608",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "For poisson distribution, the mean is twice the variance."
+        },
+        {
+          "id": "B",
+          "text": "In queuing theory, if arrivals occur according to poisson distribution, then the inter-arrival time is exponentially distributed."
+        },
+        {
+          "id": "C",
+          "text": "The distribution of waiting time is independent of the service discipline used in selecting the waiting customers for service."
+        },
+        {
+          "id": "D",
+          "text": "If the time between successive arrivals is exponential, then the time between the occurences of every third arrival is also exponential."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Answer the following: Which of the following statements are FALSE?",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 1989
+    },
+    {
+      "branch": "CS",
+      "id": "1100609",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Overlaying is used to run a program, which is longer than the address space of the computer."
+        },
+        {
+          "id": "B",
+          "text": "Optimal binary search tree construction can be performed efficiently by using dynamic programming."
+        },
+        {
+          "id": "C",
+          "text": "Depth first search cannot be used to find connected components of a graph."
+        },
+        {
+          "id": "D",
+          "text": "Given the prefix and postfix walls over a binary tree, the binary tree can be uniquely constructed."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Answer the following: Which one of the following statements (s) is/are FALSE?",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 1989
+    }
+  ],
+  "schema_version": 1
+}

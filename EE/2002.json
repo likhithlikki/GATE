@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1502101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5t"
+        },
+        {
+          "id": "B",
+          "text": "5u(t) - C"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{5}{C}t[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{5u(t)}{C}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A current impulse [latex]5\\delta \\left ( t \\right )[/latex], is forced through a capacitor C. The voltage [latex]V_{c}\\left ( t \\right )[/latex],\nacross the capacitor is given by",
+      "topic": "Introduction of C.T. and D.T. Signals",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "B - N + 1"
+        },
+        {
+          "id": "B",
+          "text": "B + N"
+        },
+        {
+          "id": "C",
+          "text": "N - B + 1"
+        },
+        {
+          "id": "D",
+          "text": "N - 2B -1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The graph of an electrical network has N nodes and B branches. The number of\nlinks, L, with respect to the choice of a tree, is given by",
+      "topic": "Magnetically Coupled Circuits, Network Topology and Filters",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A circle of unit radius"
+        },
+        {
+          "id": "B",
+          "text": "An ellipse"
+        },
+        {
+          "id": "C",
+          "text": "A parabola"
+        },
+        {
+          "id": "D",
+          "text": "A straight line inclined at [latex]45^{\\circ}[/latex] with respect to the x-axis"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two in-phase, 50 Hz sinusoidal waveform of unit amplitude are fed into channel 1\nand channel 2 respectively of an oscilloscope. Assuming that the voltage scale,\ntime scale and other settings are exactly the same for both the channels, what\nwould be observed if the oscilloscope is operated in X-Y mode?",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\int _S\\vec{F}\\cdot d\\vec{S}=\\int _V\\vec{\\triangledown }\\cdot \\vec{F}dV[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\int _S\\vec{F}\\cdot d\\vec{S}=\\int _V\\vec{\\triangledown }\\times \\vec{F}dV[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\int _S\\vec{F}\\times d\\vec{S}=\\int _V\\vec{\\triangledown }\\cdot \\vec{F}dV[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int _S\\vec{F}\\times d\\vec{S}=\\int _V\\vec{\\triangledown }\\times \\vec{F}dV[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given a vector field [latex]\\vec{F}[/latex], the divergence theorem states that",
+      "topic": "Electromagnetic Theory",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "reduces"
+        },
+        {
+          "id": "B",
+          "text": "increases"
+        },
+        {
+          "id": "C",
+          "text": "remains the same"
+        },
+        {
+          "id": "D",
+          "text": "increase or reduces depending upon the rotor resistance"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If a 400V, 50 Hz, star connected, 3 phase squirrel cage induction motor is\noperated from a 400 V, 75 Hz supply, the torque that the motor can now provide\nwhile drawing rated current from the supply?",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Voltage induced across the low voltage winding"
+        },
+        {
+          "id": "B",
+          "text": "Core flux"
+        },
+        {
+          "id": "C",
+          "text": "Load current"
+        },
+        {
+          "id": "D",
+          "text": "Current drawn from the source"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 1 kVA, 230V/100V, single phase, 50 Hz transformer having negligible winding\nresistance and leakage inductance is operating under saturation, while 250 V, 50\nHz sinusoidal supply is connected to the high voltage winding. A resistive load is\nconnected to the low voltage winding which draws rated current. Which one of\nthe following quantities will not be sinusoidal?",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "doubles"
+        },
+        {
+          "id": "B",
+          "text": "halves"
+        },
+        {
+          "id": "C",
+          "text": "increases but does not double"
+        },
+        {
+          "id": "D",
+          "text": "decreases but does not halve"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a long, two-wire line composed of solid round conductors. The radius of\nboth conductors is 0.25 cm and the distance between their centers is 1m. If this\ndistance is doubled, then the inductance per unit length",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "generation of [latex]G_{2}[/latex] and [latex]G_{3}[/latex] is increased equally while generation of [latex]G_{1}[/latex] is\nunchanged"
+        },
+        {
+          "id": "B",
+          "text": "generation of [latex]G_{1}[/latex] alone is increased while generation of [latex]G_{2}[/latex] and [latex]G_{3}[/latex] is unchanged."
+        },
+        {
+          "id": "C",
+          "text": "generation of [latex]G_{1}[/latex], [latex]G_{2}[/latex] and [latex]G_{3}[/latex] is increased equally."
+        },
+        {
+          "id": "D",
+          "text": "generation of [latex]G_{1}[/latex], [latex]G_{2}[/latex] and [latex]G_{3}[/latex] is increased in the ratio 0.5:0.25:0.25."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a power system with three identical generators. The transmission losses\r\nare negligible. One generator [latex]\\left ( G_{1} \\right )[/latex] has a speed governor which maintains its speed constant at the rated value, while the other generators ([latex]G_{2}[/latex] and [latex]G_{3}[/latex]) have\r\ngovernors with a droop of 5%. If the load of the system is increased, then in\r\nsteady state.",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the upper surface of the conductor"
+        },
+        {
+          "id": "B",
+          "text": "the lower surface of the conductor"
+        },
+        {
+          "id": "C",
+          "text": "the ground surface"
+        },
+        {
+          "id": "D",
+          "text": "midway between the conductor and ground"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A long wire composed of a smooth round conductor runs above and parallel to\nthe ground (assumed to be a large conducting plane). A high voltage exists\nbetween the conductor and the ground. The maximum electric stress occurs at",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\int_{0}^{t}S\\left ( t-\\tau \\right )u\\left ( \\tau \\right )d\\tau[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\mathrm{d} }{\\mathrm{d} t}\\left [ \\int_{0}^{t}S(t-\\tau )u(\\tau )d\\tau \\right ][/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\int_{0}^{t}S(t-\\tau )\\left [ \\int_{0}^{t}u(\\tau _{1})d\\tau _{1} \\right ]d\\tau[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int_{0}^{t}S\\left ( t-\\tau \\right )^{2}u\\left ( \\tau \\right )d\\tau[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let s(t) be the step response of a linear system with zero initial conditions; then\nthe response of this system to an input u(t) is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\lim_{s\\rightarrow 0}Y\\left ( s \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\lim_{s\\rightarrow \\infty }Y\\left ( s \\right )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\lim_{s\\rightarrow 0}sY\\left ( s \\right )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\lim_{x\\rightarrow \\infty }sY\\left ( s \\right )[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Let Y(s) be the Laplace transformation of the function y(t), then the final value of\nthe function is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "200"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "300"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The determinant of the matrix [latex]\\begin{bmatrix} 1 & 0& 0 & 0\\\\ 100& 1 &0 & 0\\\\ 100 &200 & 1 & 0\\\\ 100 & 200 & 300&1 \\end{bmatrix}[/latex] is:",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left ( sI-A \\right )^{-1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{At}X\\left ( 0 \\right )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "Laplace inverse of [latex]\\left [ \\left ( sI-A \\right )^{-1} \\right ][/latex]"
+        },
+        {
+          "id": "D",
+          "text": "Laplace inverse of [latex][ ( sI-A)^{-1} X(0)][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The state transition matrix for the system [latex]\\dot{X}=AX[/latex] with initial state X(0) is",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100Hz"
+        },
+        {
+          "id": "B",
+          "text": "150Hz"
+        },
+        {
+          "id": "C",
+          "text": "250Hz"
+        },
+        {
+          "id": "D",
+          "text": "300Hz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A six pulse thyristor rectifier bridge is connected to a balanced 50 Hz three phase\nac source. Assuming that the dc output current of the rectifier is constant, the\nlowest frequency harmonic component in the ac source line current is",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "D"
+        },
+        {
+          "id": "B",
+          "text": "1-D"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{1-D}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{D}{1-D}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A step down chopper is operated in the continuous conduction mode in steady\r\nstate with a constant duty ratio D. If [latex]V_{o}[/latex] is the magnitude of the dc output voltage\r\nand if [latex]V_{s}[/latex] is the magnitude of the dc input voltage, the ratio [latex]\\frac{V_{o}}{V_{s}}[/latex] is given by",
+      "topic": "Power Electronics",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4.92 kHz"
+        },
+        {
+          "id": "B",
+          "text": "0.49 kHz"
+        },
+        {
+          "id": "C",
+          "text": "2.46 kHz"
+        },
+        {
+          "id": "D",
+          "text": "24.6 kHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A first order, low pass filter is given with R=50 [latex]\\Omega[/latex] and C=[latex]5\\mu F[/latex]. What is the\r\nfrequency at which the gain of the voltage transfer function of the filter is 0.25?",
+      "topic": "Magnetically Coupled Circuits, Network Topology and Filters",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "30.55 kHz"
+        },
+        {
+          "id": "B",
+          "text": "3.055 kHz"
+        },
+        {
+          "id": "C",
+          "text": "51.92 kHz"
+        },
+        {
+          "id": "D",
+          "text": "1.92 kHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A series R-L-C circuit has R=[latex]50\\Omega[/latex], L=[latex]100\\mu [/latex] and C=[latex]1\\mu[/latex]. The lower half power frequency of the circuit is",
+      "topic": "Resonance and Locus Diagrams",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4.30 Nm"
+        },
+        {
+          "id": "B",
+          "text": "4.77 Nm"
+        },
+        {
+          "id": "C",
+          "text": "0.45 Nm"
+        },
+        {
+          "id": "D",
+          "text": "0.50 Nm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 200 V, 2000 rpm, 10A, separately excited dc motor has an armature resistance\nof [latex]2\\Omega[/latex]. Rated dc voltage is applied to both the armature and field winding of the motor. If the armature drawn 5A from the source, the torque developed by the\nmotor is",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1500 rpm"
+        },
+        {
+          "id": "B",
+          "text": "500 rpm"
+        },
+        {
+          "id": "C",
+          "text": "0 rpm"
+        },
+        {
+          "id": "D",
+          "text": "1000 rpm"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The rotor of a three phase, 5 kW, 400V, 50 Hz, slip ring induction motor is wound\nfor 6 poles while its stator is wound for 4 poles. The approximate average no load\nsteady state speed when this motor is connected to 400V, 50 Hz supply is",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "lags the supply voltage"
+        },
+        {
+          "id": "B",
+          "text": "leads the supply voltage"
+        },
+        {
+          "id": "C",
+          "text": "is in phase with the supply voltage"
+        },
+        {
+          "id": "D",
+          "text": "is zero"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The flux per pole in a synchronous motor with the field circuit ON and the stator\ndisconnected from the supply is found to be 25 mWb. When the stator is\nconnected to the rated supply with the field excitation unchanged, the flux per\npole in the machine is found to be 20 mWb while the motor is running on no load.\nAssuming no load losses to be zero, the no load current down by the motor from\nthe supply",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Reactive power absorbed by the rectifier is maximum when [latex]\\alpha =5^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "Reactive power absorbed by the rectifier is maximum when [latex]\\alpha =30^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "Reactive power absorbed by the rectifier is maximum when [latex]\\alpha =15^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "Reactive power absorbed by the rectifier is maximum when [latex]\\alpha =10^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three phase thyristor bridge rectifier is used in a HVDC link. The firing angle a\r\n(as measured from the point of natural commutation) is constrained to lie\r\nbetween 5[latex]^\\circ[/latex] and 30[latex]^\\circ[/latex]. If the dc side current and ac side voltage magnitudes are\r\nconstant, which of the following statements is true (neglect harmonics in the ac\r\nside currents and commutation overlap in your analysis)",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The load-flow will converge only if the slack bus is specified in Area 1"
+        },
+        {
+          "id": "B",
+          "text": "The load-flow will converge only if the slack bus is specified in Area 2"
+        },
+        {
+          "id": "C",
+          "text": "The load-flow will converge if the slack bus is specified in either Area 1 or\nArea 2"
+        },
+        {
+          "id": "D",
+          "text": "The load-flow will not converge if only one slack bus is specified."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A power system consists of 2 areas (Area 1 and Area 2) connected by a single tie\nline. It is required to carry out a load flow study on this system. While\nentering the network data, the tie-line data (connectivity and parameters) is\ninadvertently left out. If the load flow program is run with this incomplete data",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "9.8 pu"
+        },
+        {
+          "id": "B",
+          "text": "4.9 pu"
+        },
+        {
+          "id": "C",
+          "text": "19.6 pu"
+        },
+        {
+          "id": "D",
+          "text": "5 pu"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A transmission line has a total series reactance of 0.2 pu. Reactive power\ncompensation is applied at the midpoint of the line and it is controlled such that\nthe midpoint voltage of the transmission line is always maintained at 0.98 pu. If\nvoltage at both ends of the line are maintained at 1.0 pu, then the steady state\npower transfer limit of the transmission line is",
+      "topic": "Power System Stability",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The system is controllable but unstable"
+        },
+        {
+          "id": "B",
+          "text": "The system is uncontrollable but unstable"
+        },
+        {
+          "id": "C",
+          "text": "The system is controllable but stable"
+        },
+        {
+          "id": "D",
+          "text": "The system is uncontrollable but stable"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the system [latex]\\dot{x}=\\begin{bmatrix} 2 & 3\\\\ 0&5 \\end{bmatrix} X +\\begin{bmatrix} 1\\\\ 0 \\end{bmatrix}u[/latex], which of the following statements is true?",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{\\left ( s+2 \\right )}{\\left ( s^{2}+s \\right )}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{\\left ( s+1 \\right )}{\\left ( s^{2}+s \\right )}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2}{\\left ( s^{2}+s \\right )}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{2s}{\\left ( s^{2}+s \\right )}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The transfer function of the system described by [latex]\\frac{d^{2}y}{dt^{2}}+\\frac{dy}{dt}=\\frac{du}{dt}+2u[/latex] with u as\ninput and y as output is",
+      "topic": "Mathematical Models of Physical Systems",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2[latex]e^{2t}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "4[latex]e^{2t}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "2[latex]e^{4t}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "4[latex]e^{4t}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For the system [latex]\\dot{x}=\\begin{bmatrix} 2 & 0\\\\ 0&4 \\end{bmatrix}+\\begin{bmatrix} 1\\\\ 1 \\end{bmatrix} u; y=\\begin{bmatrix} 4 & 0 \\end{bmatrix}X[/latex], with u as unit impulse and with zero initial state, the output, y, becomes",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "1502146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0, 0, 0, 0"
+        },
+        {
+          "id": "B",
+          "text": "1, 1, 1, 1"
+        },
+        {
+          "id": "C",
+          "text": "0, 0, 0, -1"
+        },
+        {
+          "id": "D",
+          "text": "1, 0, 0, 0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The eigen values of the system represented by [latex]\\dot{X}=\\begin{bmatrix} 0 & 1&0 & 0\\\\ 0& 0& 1 &0 \\\\ 0 & 0 & 0& 1\\\\ 0 &0 & 0&1 \\end{bmatrix}[/latex] X are",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "10212115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "200"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "300"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The determinant of the matrix [latex]\\begin{bmatrix} 1 & 0& 0 & 0\\\\ 100& 1 &0 & 0\\\\ 100 &200 & 1 & 0\\\\ 100 & 200 & 300&1 \\end{bmatrix}[/latex] is:",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2002
+    },
+    {
+      "branch": "EE",
+      "id": "10214615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0, 0, 0, 0"
+        },
+        {
+          "id": "B",
+          "text": "1, 1, 1, 1"
+        },
+        {
+          "id": "C",
+          "text": "0, 0, 0, -1"
+        },
+        {
+          "id": "D",
+          "text": "1, 0, 0, 0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The eigen values of the system represented by [latex]\\dot{X}=\\begin{bmatrix} 0 & 1&0 & 0\\\\ 0& 0& 1 &0 \\\\ 0 & 0 & 0& 1\\\\ 0 &0 & 0&1 \\end{bmatrix}[/latex] X are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2002
+    }
+  ],
+  "schema_version": 1
+}

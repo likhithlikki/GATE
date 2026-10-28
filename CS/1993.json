@@ -1,0 +1,751 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1101201",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](0,0,\\alpha)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](\\alpha,0,0)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "(0,0,1)"
+        },
+        {
+          "id": "D",
+          "text": "[latex](0,\\alpha,0)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "For the below question, one or more OPTIONS are correct The eigen vector(s) of the matrix [latex]\\begin{bmatrix} 0 &0 &\\alpha\\\\ 0 &0 &0\\\\ 0 &0 &0 \\end{bmatrix},\\alpha \\neq 0[/latex] is (are)",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101202",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "linear"
+        },
+        {
+          "id": "B",
+          "text": "non- linear"
+        },
+        {
+          "id": "C",
+          "text": "homogeneous"
+        },
+        {
+          "id": "D",
+          "text": "of degree two"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The differential equation [latex]\\frac{d^2 y}{dx^2}+\\frac{dy}{dx}+\\sin y =0[/latex] is:",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101203",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Simpson's rule for integration gives exact result when f(x) is a polynomial of degree",
+      "topic": "Numerical Method",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101206",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\int ^{1} _{0} \\frac{\\sin x}{1-\\cos x}dx[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\int ^{\\infty} _{0} \\frac{\\cos x}{1+x} dx[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\int ^{\\infty} _{0} \\frac{x}{1+x^2} dx[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\int ^{1} _{0} \\frac{1-\\cos x}{\\frac{x^5}{2}} dx[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following improper integrals is (are) convergent?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101207",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "no local extremum"
+        },
+        {
+          "id": "B",
+          "text": "one local minimum but no local maximum"
+        },
+        {
+          "id": "C",
+          "text": "one local maximum but no local minimum"
+        },
+        {
+          "id": "D",
+          "text": "one local minimum and one local maximum"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The function [latex]f\\left(x,y\\right) = x^2y - 3xy + 2y +x[/latex] has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101208",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "109"
+        },
+        {
+          "id": "B",
+          "text": "216"
+        },
+        {
+          "id": "C",
+          "text": "218"
+        },
+        {
+          "id": "D",
+          "text": "219"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Assume that each character code consists of 8 bits. The number of characters that can be transmitted per second through an asynchronous serial line at 2400 baud rate, and with two stop bits is",
+      "topic": "Physical Layer",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101210",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1, because m is a local variable in P"
+        },
+        {
+          "id": "B",
+          "text": "0, because m is the actual parameter that corresponds to the formal parameter in p"
+        },
+        {
+          "id": "C",
+          "text": "0, because both x and y are just reference to m, and y has the value 0"
+        },
+        {
+          "id": "D",
+          "text": "1, because both x and y are just references to m which gets modified in procedure P"
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Refer to the PASCAL program shown below. Program PARAM (input, output);\nvar m, n : integer;\nprocedure P (var x, y : integer);\nvar m : integer;\nbegin\nm := 1;\nx := y + 1\nend;\nprocedure Q (x:integer; var y : integer);\nbegin\nx:=y+1;\nend;\nbegin\nm:=0; P(m,m); write (m);\nn:=0; Q(n*1,n); write (n)\nend The value of m, output by the program PARAM is:",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101211",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0, because n is the actual parameter corresponding to x in procedure Q."
+        },
+        {
+          "id": "B",
+          "text": "0, because n is the actual parameter to y in procedure Q."
+        },
+        {
+          "id": "C",
+          "text": "1, because n is the actual parameter corresponding to x in procedure Q."
+        },
+        {
+          "id": "D",
+          "text": "1, because n is the actual parameter corresponding to y in procedure Q."
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Refer to the PASCAL program shown below. Program PARAM (input, output);\nvar m, n : integer;\nprocedure P (var x, y : integer);\nvar m : integer;\nbegin\nm := 1;\nx := y + 1\nend;\nprocedure Q (x:integer; var y : integer);\nbegin\nx:=y+1;\nend;\nbegin\nm:=0; P(m,m); write (m);\nn:=0; Q(n*1,n); write (n)\nend The value of n, output by the program PARAM is:",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101212",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "PARAM, P, Q"
+        },
+        {
+          "id": "B",
+          "text": "PARAM, P"
+        },
+        {
+          "id": "C",
+          "text": "PARAM, Q"
+        },
+        {
+          "id": "D",
+          "text": "P, Q (e)"
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Refer to the PASCAL program shown below. Program PARAM (input, output);\nvar m, n : integer;\nprocedure P (var x, y : integer);\nvar m : integer;\nbegin\nm := 1;\nx := y + 1\nend;\nprocedure Q (x:integer; var y : integer);\nbegin\nx:=y+1;\nend;\nbegin\nm:=0; P(m,m); write (m);\nn:=0; Q(n*1,n); write (n)\nend What is the scope of m declared in the main program?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "exchanges a and b"
+        },
+        {
+          "id": "B",
+          "text": "doubles a and stores in b"
+        },
+        {
+          "id": "C",
+          "text": "doubles b and stores in a"
+        },
+        {
+          "id": "D",
+          "text": "leaves a and b unchanged"
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What does the following code do? var a, b: integer;\nbegin\n    a:=a+b;\n    b:=a-b;\n    a:=a-b;\nend;",
+      "topic": "C Programming",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It allocates space for the literals."
+        },
+        {
+          "id": "B",
+          "text": "It computes the total length of the program."
+        },
+        {
+          "id": "C",
+          "text": "It builds the symbol table for the symbols and their values."
+        },
+        {
+          "id": "D",
+          "text": "It generates code for all the load and store register instructions."
+        },
+        {
+          "id": "E",
+          "text": "None of the above."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A simple two-pass assembler does the following in the first pass:",
+      "topic": "Lexical Analysis",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101216",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "text editor"
+        },
+        {
+          "id": "B",
+          "text": "assembler"
+        },
+        {
+          "id": "C",
+          "text": "linker"
+        },
+        {
+          "id": "D",
+          "text": "loader"
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A part of the system software which under all circumstances must reside in the main memory is:",
+      "topic": "Runtime Environment",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101217",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "at a fixed address in main memory"
+        },
+        {
+          "id": "B",
+          "text": "at a fixed location on the disk"
+        },
+        {
+          "id": "C",
+          "text": "anywhere on the disk"
+        },
+        {
+          "id": "D",
+          "text": "at a fixed location on the system disk"
+        },
+        {
+          "id": "E",
+          "text": "anywhere on the system disk"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The root directory of a disk should be placed",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101218",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "9"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "13"
+        },
+        {
+          "id": "E",
+          "text": "15"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a system having m resources of the same type. These resources are shared by 3 processes A,B, and C which have peak demands of 3, 4 and 6 respectively.  For what value of m deadlock will not occur?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101219",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "11"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Assume that  the following jobs are to be executed on a single processor system [latex]\\begin{array}{|c|c|} \\hline \\textbf{Job Id} & \\textbf{CPU Burst Time} \\\\\\hline \\text{p} & 4 \\\\\\hline \\text{q} & 1 \\\\\\hline \\text{r} & 8 \\\\\\hline \\text{s} & 1 \\\\\\hline \\text{t} & 2 \\\\\\hline \\end{array}[/latex] The jobs are assumed to have arrived at time [latex]0^+[/latex] and in the order p,q,r,s,t. Calculate the departure time (completion time) for job p if scheduling is round robin with time slice 1",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101220",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "G has no cycles"
+        },
+        {
+          "id": "B",
+          "text": "The graph obtained by removing any edge from G is not connected"
+        },
+        {
+          "id": "C",
+          "text": "G has at least one cycle"
+        },
+        {
+          "id": "D",
+          "text": "The graph obtained by removing any two edges from G is not connected"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a simple connected graph G with n vertices and n edges (n > 2). Then, which of the following statements are true?",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101221",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a tautology"
+        },
+        {
+          "id": "B",
+          "text": "logically equivalent to [latex]p \\wedge q[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "logically equivalent to [latex]p \\vee q[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "a contradiction"
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The proposition [latex]p \\wedge (\\sim p \\vee q)[/latex] is:",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101222",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "at least one of the set [latex]S_i[/latex] is a finite set"
+        },
+        {
+          "id": "B",
+          "text": "not more than one of the set [latex]S_i[/latex] can be finite"
+        },
+        {
+          "id": "C",
+          "text": "at least one of the sets [latex]S_i[/latex] is an infinite"
+        },
+        {
+          "id": "D",
+          "text": "not more than one of the sets [latex]S_i[/latex] can be infinite"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let S be an infinite set and [latex]S_1 \\dots , S_n[/latex] be sets such that [latex]S_1 \\cup S_2 \\cup \\dots \\cup S_n = S[/latex]. Then",
+      "topic": "Set Theory",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101223",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]2^{2^n}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2^{n^2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](2^n)^2[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](2^2)^n[/latex]"
+        },
+        {
+          "id": "E",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A be a finite set of size n. The number of elements in the power set of [latex]A\\times A[/latex] is:",
+      "topic": "Set Theory",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101224",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a partial ordering since it is asymmetric and reflexive"
+        },
+        {
+          "id": "B",
+          "text": "a partial ordering since it is antisymmetric and reflexive"
+        },
+        {
+          "id": "C",
+          "text": "not a partial ordering because it is not asymmetric and not reflexive"
+        },
+        {
+          "id": "D",
+          "text": "not a partial ordering because it is not antisymmetric and reflexive"
+        },
+        {
+          "id": "E",
+          "text": "none of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The less-than relation, [latex]\\lt[/latex], on reals is",
+      "topic": "Relation",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101225",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]m^n[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]^nP_m[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]^mC_n[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]^nC_m[/latex]"
+        },
+        {
+          "id": "E",
+          "text": "[latex]^mP_n[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let A and B be sets with cardinalities m and n respectively. The number of one-one mappings from A to B, when [latex]m \\lt n[/latex], is",
+      "topic": "Functions",
+      "type": "MCQ",
+      "year": 1993
+    },
+    {
+      "branch": "CS",
+      "id": "1101226",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "O(n)"
+        },
+        {
+          "id": "B",
+          "text": "[latex]O(n^2)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]O(n^3)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]O(3n^2)[/latex]"
+        },
+        {
+          "id": "E",
+          "text": "[latex]O(1.5n^2)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "[latex] \\sum_{1\\leq k\\leq n} O(n)[/latex],  where [latex]O(n)[/latex] stands for order [latex]n[/latex] is:",
+      "topic": "Asymptotic Notation",
+      "type": "MCQ",
+      "year": 1993
+    }
+  ],
+  "schema_version": 1
+}

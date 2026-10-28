@@ -1,0 +1,1183 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1501101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is always zero"
+        },
+        {
+          "id": "B",
+          "text": "can never be greater than the input voltage"
+        },
+        {
+          "id": "C",
+          "text": "can be greater than the input voltage, however, it is [latex]90^{\\circ}[/latex] out of phase with\r\nthe input voltage"
+        },
+        {
+          "id": "D",
+          "text": "can be greater than the input voltage, and is in phase with the input voltage."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In a series RLC circuit at resonance, the magnitude of the voltage developed\nacross the capacitor",
+      "topic": "Resonance and Locus Diagrams",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the bulbs together consume 100 W"
+        },
+        {
+          "id": "B",
+          "text": "the bulbs together consume 50W"
+        },
+        {
+          "id": "C",
+          "text": "the 60 W bulb glows brighter"
+        },
+        {
+          "id": "D",
+          "text": "the 40 W bulb glows brighter"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two incandescent light bulbs of 40 W and 60 W rating are connected in series\nacross the mains. Then",
+      "topic": "Electric Circuits",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It is possible for the current to be oscillatory."
+        },
+        {
+          "id": "B",
+          "text": "The voltage across the resistor at t = [latex]0^{+}[/latex] is zero."
+        },
+        {
+          "id": "C",
+          "text": "The energy stored in the inductor in the steady state is zero."
+        },
+        {
+          "id": "D",
+          "text": "The resistor current eventually falls to zero."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A unit step voltage is applied at t = 0 to a series RL circuit with zero initial\nconditions.",
+      "topic": "Transients and Steady State Response",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]M=\\sqrt{L^{2}_{1}+L^{2}_{2}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]M \\gt  \\frac{\\left ( L_{1}+L_{2} \\right )}{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]M\\gt \\sqrt{L_{1}L_{2}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]M\\leq \\sqrt{L_{1}L_{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given two coupled inductors [latex]L_{1}[/latex] and [latex]L_{2}[/latex], their mutual inductance M satisfies",
+      "topic": "Magnetically Coupled Circuits, Network Topology and Filters",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "higher voltage"
+        },
+        {
+          "id": "B",
+          "text": "lower impedance"
+        },
+        {
+          "id": "C",
+          "text": "greater power"
+        },
+        {
+          "id": "D",
+          "text": "better regulation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A passive 2-port network is in a steady-state. Compared to its input, the steady\nstate output can never offer",
+      "topic": "Two Port Network and Network Functions",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "maximum supply voltage"
+        },
+        {
+          "id": "B",
+          "text": "zero supply voltage"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{\\sqrt{2}}[/latex] maximum supply voltage"
+        },
+        {
+          "id": "D",
+          "text": "1/2 maximum supply voltage"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase transformer is to be switched to the supply to have minimum\ninrush current. The switch should be closed at",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]30^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]36^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]72^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]18^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "It is desirable to eliminate 5th harmonic voltage from the phase voltage of an\nalternator. The coils should be short-pitched by an electrical angle of",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is strictly constant with load changes"
+        },
+        {
+          "id": "B",
+          "text": "increases linearly with load"
+        },
+        {
+          "id": "C",
+          "text": "increases as the square root of the load"
+        },
+        {
+          "id": "D",
+          "text": "decreases with increased load"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The core flux of a practical transformer with a resistive load",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]X_{d} \\gt {X}'_{d}  \\gt {X}\"_{d}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]{X}''_{d} \\gt {X}'_{d} \\gt X_{d}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]{X}'_{d} \\gt {X}''_{d} \\gt X_{d}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]X_{d} \\gt {X}''_{d} \\gt {X}'_{d}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]X_{d}[/latex] , [latex]{X}'_{d}[/latex] and [latex]{X}''_{d}[/latex]\n are steady state d-axis synchronous reactance, transient d-axis\nreactance and sub-transient d-axis reactance of a synchronous machine\nrespectively. Which of the following statements is true?",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a constant with a magnitude of [latex]VIcos \\phi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "a constant with a magnitude of [latex](3/2)VIcos \\phi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "time-varying with an average value of [latex](3/2) VIcos \\phi[/latex] and a frequency of 100 Hz."
+        },
+        {
+          "id": "D",
+          "text": "time-varying with an average value of [latex]VIcos \\phi[/latex] and a frequency of 50 Hz."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 50 Hz balanced three-phase, Y-connected supply is connected to a balanced\r\nthree phase Y-connected load. If the instantaneous phase-a of the supply voltage\r\nis [latex]Vcos(\\omega t)[/latex] and the phase-a of the load current is [latex]Icos(\\omega t-\\phi)[/latex], the instantaneous\r\nthree-phase power is",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "magnetizing inrush current"
+        },
+        {
+          "id": "B",
+          "text": "unbalanced operation"
+        },
+        {
+          "id": "C",
+          "text": "lightning"
+        },
+        {
+          "id": "D",
+          "text": "switching over-voltages"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the protection of transformers, harmonic restraint is used to guard aainst",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "takes negative VAR at sending end and zero VAR at receiving end"
+        },
+        {
+          "id": "B",
+          "text": "takes positive VAR at sending end and zero VAR at receiving end"
+        },
+        {
+          "id": "C",
+          "text": "has flat voltage profile and unity power factor at all points along it"
+        },
+        {
+          "id": "D",
+          "text": "has sending end voltage higher than receiving end voltage and unity power\nfactor at sending end"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A lossless radial transmission line with surge impedance loading",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]X_{ss}=\\begin{bmatrix} 0\\\\ 0 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]X_{ss}=\\begin{bmatrix} -3\\\\ -2 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]X_{ss}=\\begin{bmatrix} -10\\\\ 10 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]X_{ss}=\\begin{bmatrix} \\infty \\\\ \\infty \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given the homogeneous state-space equaion [latex]\\dot{x}=\\begin{bmatrix} -3 &1 \\\\ 0&-2 \\end{bmatrix}x[/latex] the steady state value [latex]x_{ss}=\\lim_{t\\rightarrow \\infty }x(t)[/latex], given the initial state value of [latex]x\\left ( t \\right )=\\left [ 10-10 \\right ]^{T}[/latex], is",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1000"
+        },
+        {
+          "id": "B",
+          "text": "500"
+        },
+        {
+          "id": "C",
+          "text": "1600"
+        },
+        {
+          "id": "D",
+          "text": "800"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If an energy meter disc makes 10 revolutions in 100 seconds when a load of 450\nW is connected to it, the meter constant (in rev/kWh) is",
+      "topic": "Measurement of Energy and Power",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The minimum number of wattmeter (s) required to measure 3-phase, 3-wire\nbalanced or unbalanced power is",
+      "topic": "Measurement of Energy and Power",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "parallel comparator (i.e., flash) type"
+        },
+        {
+          "id": "B",
+          "text": "successive approximation type"
+        },
+        {
+          "id": "C",
+          "text": "integrating type"
+        },
+        {
+          "id": "D",
+          "text": "counting type"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Among the following four, the slowest ADC (analog-to-digital converter) is",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "a NAND or an EX-OR gate"
+        },
+        {
+          "id": "B",
+          "text": "a NOR or an EX-OR gate"
+        },
+        {
+          "id": "C",
+          "text": "an AND or an EX-NOR gate"
+        },
+        {
+          "id": "D",
+          "text": "a NOR or an EX-NOR gate"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The output of a logic gate is \"1\" when all its inputs are at logic \"0\". The gate is\r\neither",
+      "topic": "Logic Gates",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10 Hz"
+        },
+        {
+          "id": "B",
+          "text": "100 Hz"
+        },
+        {
+          "id": "C",
+          "text": "10 kHz"
+        },
+        {
+          "id": "D",
+          "text": "100 kHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An op-amp has an open-loop gain of [latex]10^5[/latex] and an open-loop upper cutoff frequency\r\nof 10 Hz. If this op-amp is connected as an amplifier with a closed-loop gain of\r\n100, then the new upper cutoff frequency is",
+      "topic": "Oscillators and Feedback Amplifiers",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "amplifying the power of the triggering pulse"
+        },
+        {
+          "id": "B",
+          "text": "provide electrical isolation"
+        },
+        {
+          "id": "C",
+          "text": "reduce the turn on time of the thyristor"
+        },
+        {
+          "id": "D",
+          "text": "avoid spurious triggering of the thyristor due to noise"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The main reason for connecting a pulse transformer at the output stage of a\nthyristor triggering circuit is to",
+      "topic": "Power Semiconductor Devices and Commutation Techniques",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\alpha _{1}+\\alpha _{2}=180^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\alpha _{1}+\\alpha _{2}=360^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\alpha _{1}-\\alpha _{2}=180^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\alpha _{1}+\\alpha _{2}=90^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "AC-to-DC circulating current dual converters are operated with the following\r\nrelationship between their triggering angles ([latex]\\alpha _{1}\\; and \\; \\alpha _{2}[/latex]).",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "limits the speed of the motor to a safe value"
+        },
+        {
+          "id": "B",
+          "text": "helps in improving the drive energy efficiency"
+        },
+        {
+          "id": "C",
+          "text": "limits the peak current of the motor to the permissible value"
+        },
+        {
+          "id": "D",
+          "text": "reduces the steady state speed error"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In case of an armature controlled separately excited dc motor drive with closedloop\nspeed control, an inner current loop is useful because it",
+      "topic": "Root Locus Techniques",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{10^{-6}}{20\\sqrt{5}\\pi \\varepsilon _{0}}\\left ( 2i-k \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{10^{-6}}{20\\pi \\varepsilon _{0}}\\left ( 2i-k \\right )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{-10^{-6}}{20\\sqrt{5}\\pi \\varepsilon _{0}}\\left ( 2i-k \\right )[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{-10^{-6}}{20\\pi \\varepsilon _{0}}\\left ( 2i-k \\right )[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The electric field [latex]\\vec{E}[/latex] (in volts/metre) at the point (1,1,0) due to a point charge of [latex]+1\\mu C[/latex] located at (-1,1,1) (coordinates in metres)is",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "must have at least N branches for one or more closed paths to exist"
+        },
+        {
+          "id": "B",
+          "text": "can have an unlimited number of branches"
+        },
+        {
+          "id": "C",
+          "text": "can only have at most N branches"
+        },
+        {
+          "id": "D",
+          "text": "can have a minimum number of branches not decided by N"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A connected network of [latex]N\\gt 2[/latex] nodes has at most one branch directly connecting\r\nany pair of nodes. The graph of the network",
+      "topic": "Magnetically Coupled Circuits, Network Topology and Filters",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]100;\\left ( \\hat{i}+\\hat{j}+\\hat{k} \\right )[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{100}{\\sqrt{3}};\\left ( \\hat{i}-\\hat{j}+\\hat{k} \\right )[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]100\\sqrt{3};\\left [ \\left ( -\\hat{i}-\\hat{j}-\\hat{k} \\right )/\\sqrt{3} \\right ][/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]100\\sqrt{3};\\left [ \\left (\\hat{i}-\\hat{j}-\\hat{k} \\right )/\\sqrt{3} \\right ][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given the potential function in free space to be [latex]V(x) = (50x^{2}+50y^{2}+50z^{2})[/latex] volts, the magnitude (in volts/metre) and the direction of the electric field at a point (1,-1,1), where the dimensions are in metres, are",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "straight line through the origin"
+        },
+        {
+          "id": "B",
+          "text": "straight line parallel to the speed axis"
+        },
+        {
+          "id": "C",
+          "text": "circle about the origin"
+        },
+        {
+          "id": "D",
+          "text": "rectangular hyperbola"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An electric motor with 'constant output power' will have a torque speed\r\ncharacteristic in the form of a",
+      "topic": "Electrical Machines",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "23.5"
+        },
+        {
+          "id": "B",
+          "text": "19.6"
+        },
+        {
+          "id": "C",
+          "text": "18.5"
+        },
+        {
+          "id": "D",
+          "text": "8.7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 3-phase transformer has rating of 20 MVA, 220 kV (star) - 33 kV (delta) with\r\nleakage reactance of 12%. The transformer reactance (in ohms) referred to each\r\nphase of the L.V. delta-connected side is",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.578"
+        },
+        {
+          "id": "B",
+          "text": "0.279"
+        },
+        {
+          "id": "C",
+          "text": "0.412"
+        },
+        {
+          "id": "D",
+          "text": "0.44"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 75 MVA, 10 kV synchronous generator has [latex]X_{d}[/latex] = 0.4 p.u. The [latex]X_{d}[/latex] value (in p.u.)\nis a base of 100 MVA, 11 kV is",
+      "topic": "Per Unit System",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3600 W"
+        },
+        {
+          "id": "B",
+          "text": "2880 W"
+        },
+        {
+          "id": "C",
+          "text": "2400 W"
+        },
+        {
+          "id": "D",
+          "text": "1200 W"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 240 V single-phase ac source is connected to a load with an impedance of\r\n[latex]10\\angle 60^{\\circ}\\Omega[/latex]. A capacitor is connected in parallel with the load. If the capacitor\r\nsupplies 1250 VAR, the real power supplied by the source is",
+      "topic": "Network Theorems",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "7.22"
+        },
+        {
+          "id": "B",
+          "text": "6.4"
+        },
+        {
+          "id": "C",
+          "text": "3.22"
+        },
+        {
+          "id": "D",
+          "text": "2.2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 50 Hz alternator is rated 500 MVA, 20 kV, with [latex]X_{d}[/latex] = 1.0 per unit and [latex]{X_{d}}''[/latex] per unit. It supplies a purely resistive load of 400 MW at 20 kV. The load\nis connected directly across the generator terminals when a symmetrical fault\noccurs at the load terminals. The initial rms current in the generator in per unit is",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501138",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "47.5 Hz"
+        },
+        {
+          "id": "B",
+          "text": "48 Hz"
+        },
+        {
+          "id": "C",
+          "text": "48.5 Hz"
+        },
+        {
+          "id": "D",
+          "text": "49 Hz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A power system has two synchronous generators. The Governor-turbine\r\ncharacteristics corresponding to the generators are [latex]P_1 = 50(50-f)[/latex], [latex]P_2 = 100(51-f)[/latex] Where f denotes the system frequency in Hz, and [latex]P_1[/latex] and [latex]P_2[/latex] are, respectively, the\r\npower outputs (in MW) of turbines 1 and 2. Assuming the generators and\r\ntransmission network to be lossless, the system frequency for a total load of 400 MW is",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "50 mH"
+        },
+        {
+          "id": "B",
+          "text": "45.3 mH"
+        },
+        {
+          "id": "C",
+          "text": "23.8 mH"
+        },
+        {
+          "id": "D",
+          "text": "19.6 mH"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The conductors of a 10 km long, single phase, two wire line are separated by a\ndistance of 1.5m. The diameter of each conductor is 1 cm. If the conductors are\nof copper, the inductance of the circuit is",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{2e^{-2s}}{s+3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{s+2}{\\left ( s+3 \\right )^{2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{2s+5}{s+3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{2s+7}{\\left ( s+3 \\right )^{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given the relationship between the input u(t) and the output y(t) to be [latex]y(t)=\\int_{0}^{t}(2+t-\\tau )e^{-3(t-\\tau )}u(\\tau )d\\tau[/latex], the transfer function Y(s)/U(s) is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "22.22"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "50"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A [latex]100\\mu A[/latex] ammeter has an internal resistance of 100[latex]\\Omega[/latex]. For extending its range to\nmeasure [latex]500\\mu A[/latex], the shunt resistance required is of (in [latex]\\Omega[/latex])",
+      "topic": "Galvanometers, Voltmeters and Ammeters",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3.077 [latex]\\Omega[/latex] to 3.636 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "2.805 [latex]\\Omega[/latex] to 3.371 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "3.237 [latex]\\Omega[/latex] to 3.678 [latex]\\Omega[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "3.192 [latex]\\Omega[/latex] to 3.435 [latex]\\Omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Resistances [latex]R_{1}[/latex] and [latex]R_{2}[/latex] have, respectively, nominal values of 10[latex]\\Omega[/latex] and 5[latex]\\Omega[/latex], and tolerances of [latex]\\pm 5[/latex] % and [latex]\\pm 10[/latex]%. The range of values for the parallel combination of\r\n[latex]R_{1}[/latex] and [latex]R_{2}[/latex] is",
+      "topic": "Electrical and Electronic Measurements",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An Intel 8085 processor is executing the program given below. MVI A, 10H MVI B, 10H BACK: NOP ADD B RLC JNC BACK HLT The number of times that the operation NOP will be executed is equal to",
+      "topic": "Microprocessors",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2.5 mA"
+        },
+        {
+          "id": "B",
+          "text": "0.25 mA"
+        },
+        {
+          "id": "C",
+          "text": "25 mA"
+        },
+        {
+          "id": "D",
+          "text": "2.5 mA"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A sample-and-hold (S/H) circuit, having a holding capacitor of 0.1 nF, is used at\r\nthe input of an ADC (analog-to-digital converter). The conversion time of the ADC\r\nis 1[latex]\\mu[/latex]sec, and during this time, the capacitor should not lose more than 0.5% of\r\nthe charge put across it during the sampling time. The maximum value of the\r\ninput signal to the S/H circuit is 5V. The leakage current of the S/H circuit should\r\nbe less than",
+      "topic": "Digital Electronics",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1 MHz"
+        },
+        {
+          "id": "B",
+          "text": "6.28 MHz"
+        },
+        {
+          "id": "C",
+          "text": "10 MHz"
+        },
+        {
+          "id": "D",
+          "text": "62.8 MHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An op-amp, having a slew rate of 62.8 V/[latex]\\mu sec[/latex], is connected in a voltage follower configuration. If the maximum amplitude of the input sinusoid is 10V, then the minimum frequency at which the slew rate limited distortion would set in at the\noutput is",
+      "topic": "Operational Amplifiers",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "EE",
+      "id": "1501148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.5"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "2.5"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "An n-channel JFET, having a pinch-off voltage ([latex]V_{p}[/latex]) of -5 V, shows a transconductance ([latex]g_{m}[/latex]) of 1 mA/V when the applied gate-to-source voltage ([latex]V_{GS}[/latex]) is -3V. Its maximum transconductance (in mA/V) is",
+      "topic": "BJT, FET and their Biasing Circuits",
+      "type": "MCQ",
+      "year": 2001
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,315 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1100702",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Transitive functional dependencies"
+        },
+        {
+          "id": "B",
+          "text": "Non-trivial functional dependencies involving prime attributes on the right-side."
+        },
+        {
+          "id": "C",
+          "text": "Non-trivial functional dependencies involving prime attributes only on the left-side."
+        },
+        {
+          "id": "D",
+          "text": "Non-trivial functional dependencies involving only prime attributes."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (More than one may be correct). Indicate which of the following statements are true: A relational database which is in 3NF may still have undesirable data redundancy because there may exist:",
+      "topic": "Normal Form",
+      "type": "MCQ",
+      "year": 1990
+    },
+    {
+      "branch": "CS",
+      "id": "1100703",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Equal to the number of ways of multiplying (n+1) matrices."
+        },
+        {
+          "id": "B",
+          "text": "Equal to the number of ways of arranging n out of 2 n distinct elements."
+        },
+        {
+          "id": "C",
+          "text": "Equal to [latex]\\frac{1}{(n+1)}\\binom{2n}{n}[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "Equal to n!."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (More than one may be correct). The number of rooted binary trees with n nodes is,",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 1990
+    },
+    {
+      "branch": "CS",
+      "id": "1100704",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\leq n^{2}[/latex] always."
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\geq n \\log_{2}[/latex] n always."
+        },
+        {
+          "id": "C",
+          "text": "Equal to [latex]n^{2}[/latex] always."
+        },
+        {
+          "id": "D",
+          "text": "O(n) for some special trees."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (More than one may be correct). The total external path length, EPL, of a binary tree with n external nodes is, [latex]\\Sigma _w=Iw[/latex], where [latex]I_{w}[/latex] is the path length of external node w),",
+      "topic": "Data Structure",
+      "type": "MCQ",
+      "year": 1990
+    },
+    {
+      "branch": "CS",
+      "id": "1100705",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\Theta (n \\log n)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\Theta (n)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Theta \\left(n^2\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\Theta (n\\sqrt n)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (More than one may be correct). The complexity of comparision based sorting algorithms is:",
+      "topic": "Sorting",
+      "type": "MCQ",
+      "year": 1990
+    },
+    {
+      "branch": "CS",
+      "id": "1100706",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A proper superset of context free languages."
+        },
+        {
+          "id": "B",
+          "text": "Always recognizable by pushdown automata."
+        },
+        {
+          "id": "C",
+          "text": "Also called type 0 languages."
+        },
+        {
+          "id": "D",
+          "text": "Recognizable by Turing machines."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (More than one may be correct). Recursive languages are:",
+      "topic": "Recursive Language",
+      "type": "MCQ",
+      "year": 1990
+    },
+    {
+      "branch": "CS",
+      "id": "1100707",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "An arbitrary Turing machine halts after 100 steps."
+        },
+        {
+          "id": "B",
+          "text": "A Turing machine prints a specific letter."
+        },
+        {
+          "id": "C",
+          "text": "A Turing machine computes the products of two numbers"
+        },
+        {
+          "id": "D",
+          "text": "None of the above."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (More than one may be correct). It is undecidable whether:",
+      "topic": "Undecidability",
+      "type": "MCQ",
+      "year": 1990
+    },
+    {
+      "branch": "CS",
+      "id": "1100708",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]R_{1} \\cap R_{2}[/latex] is not regular."
+        },
+        {
+          "id": "B",
+          "text": "[latex]R_{1} \\cup R_{2}[/latex] is regular."
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\Sigma^{*}-R_{1}[/latex] is regular."
+        },
+        {
+          "id": "D",
+          "text": "[latex]R_{1}^{*}[/latex] is not regular."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (More than one may be correct). Let [latex]R_{1}[/latex] and [latex]R_{2}[/latex] be regular sets defined over the alphabet [latex]\\Sigma[/latex] Then:",
+      "topic": "Regular Grammar",
+      "type": "MCQ",
+      "year": 1990
+    },
+    {
+      "branch": "CS",
+      "id": "1100709",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]15!/(5!)^{3}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "15!"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left(\\frac{15}{5}\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]15!(5!3!).[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (More than one may be correct). The number of ways in which 5 A's, 5 B's and 5 C's can be arranged in a row is:",
+      "topic": "Discrete Mathematics",
+      "type": "MCQ",
+      "year": 1990
+    },
+    {
+      "branch": "CS",
+      "id": "1100710",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left(P\\Rightarrow Q\\right) {\\wedge} \\left(Q \\Rightarrow R\\right) \\Rightarrow \\left(P \\Rightarrow R\\right)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left(P\\Rightarrow Q\\right) \\Rightarrow \\left( \\neg P \\Rightarrow \\neg Q\\right)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left(P{\\wedge} \\left(\\neg P \\vee \\neg Q\\right)\\right) \\Rightarrow Q[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left(P \\Rightarrow R\\right) \\vee \\left(Q \\Rightarrow R\\right) \\Rightarrow \\left(\\left(P \\vee Q \\right) \\Rightarrow R\\right)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (More than one may be correct). Indicate which of the following well-formed formulae are valid:",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 1990
+    },
+    {
+      "branch": "CS",
+      "id": "1100711",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It does not contain subgraphs homeomorphic to [latex]k_{5}[/latex] and [latex]k_{3, 3}[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "It does not contain subgraphs isomorphic to [latex]k_{5}[/latex] or [latex]k_{3, 3}[/latex]."
+        },
+        {
+          "id": "C",
+          "text": "It does not contain a subgraph isomorphic to [latex]k_{5}[/latex] or [latex]k_{3, 3}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "It does not contain a subgraph homeomorphic to [latex]k_{5}[/latex] or [latex]k_{3, 3}[/latex]."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Choose the correct alternatives (More than one may be correct). A graph is planar if and only if,",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 1990
+    }
+  ],
+  "schema_version": 1
+}

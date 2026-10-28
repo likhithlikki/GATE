@@ -1,0 +1,1152 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1513104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{t^{2}}{2}u(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{t(t-1)}{2}u(t-1)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{(t-1)^{2}}{2}u(t-1)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{t^{2}-1}{2}u(t-1)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The impulse response of a system is h(t)=tu(t). For an input u(t-1), the output is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "All the poles of the system must lie on the left side of the [latex]j \\omega[/latex] axis"
+        },
+        {
+          "id": "B",
+          "text": "Zeros of the system can lie anywhere in the s-plane"
+        },
+        {
+          "id": "C",
+          "text": "All the poles must lie within |s| = 1"
+        },
+        {
+          "id": "D",
+          "text": "All the roots of the characteristic equation must be located on the left side\nof the [latex]j \\omega[/latex] axis."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which one of the following statements is NOT TRUE for a continuous time\ncausal and stable LTI system?",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "product of [latex]h_{1}(t) \\; and \\; h_{2}(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "sum of [latex]h_{1}(t) \\; and \\; h_{2}(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "convolution of [latex]h_{1}(t) \\; and \\; h_{2}(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "subtraction of [latex]h_{1}(t) \\; and \\; h_{2}(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two systems with impulse responses [latex]h_{1}(t) \\; and \\; h_{2}(t)[/latex] are connected in cascade. Then the overall impulse response of the cascaded system is given by",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A source [latex]v_{s}(t)=V \\cos 100\\pi t[/latex] has an internal impedance of [latex](4+j3)\\Omega[/latex]. If a purely resistive load connected to this source has to extract the maximum power out of the source, its value in [latex]\\Omega[/latex] should be",
+      "topic": "Network Theorems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "load absorbs real power and delivers reactive power"
+        },
+        {
+          "id": "B",
+          "text": "load absorbs real power and absorbs reactive power"
+        },
+        {
+          "id": "C",
+          "text": "load delivers real power and delivers reactive power"
+        },
+        {
+          "id": "D",
+          "text": "load delivers real power and absorbs reactive power"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase load is supplied by a single-phase voltage source. If the current\nflowing from the load to the source is [latex]10\\angle -150^{\\circ}[/latex]A and if the voltage at the load terminal is [latex]100\\angle 60^{\\circ}[/latex]V, then the",
+      "topic": "Load Flow Studies",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "50.0% of the rated current"
+        },
+        {
+          "id": "B",
+          "text": "64.0% of the rated current"
+        },
+        {
+          "id": "C",
+          "text": "80.0% of the rated current"
+        },
+        {
+          "id": "D",
+          "text": "88.8% of the rated current"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase transformer has no-load loss of 64W, as obtained from an open\ncircuit test. When a short-circuit test is performed on it with 90% of the rated\ncurrents flowing in its both LV and HV windings, he measured loss is 81 W. The\ntransformer has maximum efficiency when operated at",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2"
+        },
+        {
+          "id": "B",
+          "text": "-0.5"
+        },
+        {
+          "id": "C",
+          "text": "0.5"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The flux density at a point in space is given by [latex]B=4xa_{x}+2kya_{y}+8a_{z} Wb/m^{2}[/latex]. The value of constant k must be equal to",
+      "topic": "Magnetostatic Fields",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.368"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "0.632"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A continuous random variable X has a probability density function [latex]f(x)=e^{-x},\\; 0\\lt x\\lt \\infty[/latex]. Then P{X [latex]\\gt[/latex] 1} is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]4xya_{x}+6yza_{x}+8zxa_{z}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4a_{x}+6a_{x}+8a_{z}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](4xy+4z^{2})a_{x}+(2x^{2}+6yz)a_{x}+(3y^{2}+8zx)a_{z}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The curl of the gradient of the scalar field defined by [latex]V=2x^{2}y+3y^{2}z+4z^{2}x[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "and AND gate"
+        },
+        {
+          "id": "B",
+          "text": "an OR gate"
+        },
+        {
+          "id": "C",
+          "text": "an XOR gate"
+        },
+        {
+          "id": "D",
+          "text": "a NAND gate"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A bulb in a staircase has two switches, one switch being at the ground floor and the other one at the first floor. The bulb can be turned ON and also can be turned OFF by any one of the switches irrespective of the state of the other switch. The logic of switching of the bulb resembles",
+      "topic": "Logic Gates",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "300"
+        },
+        {
+          "id": "C",
+          "text": "500"
+        },
+        {
+          "id": "D",
+          "text": "1500"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For a periodic signal [latex]v(t)=30 sin100t + 10 cos 300t + 6 sin(500t +\\pi/4)[/latex], the\r\nfundamental frequency in rad/s",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5 kHz"
+        },
+        {
+          "id": "B",
+          "text": "12 kHz"
+        },
+        {
+          "id": "C",
+          "text": "15 kHz"
+        },
+        {
+          "id": "D",
+          "text": "20 kHz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A band-limited signal with a maximum frequency of 5 kHz is to be sampled.\r\nAccording to the sampling theorem, the sampling frequency in kHz which is not valid is",
+      "topic": "Sampling",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "angle between stator voltage and current"
+        },
+        {
+          "id": "B",
+          "text": "angular displacement of the rotor with respect to the stator"
+        },
+        {
+          "id": "C",
+          "text": "angular displacement of the stator mmf with respect to a synchronously\nrotating axis"
+        },
+        {
+          "id": "D",
+          "text": "angular displacement of an axis fixed to the rotor with respect to a\nsynchronously rotating axis"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The angle [latex]\\delta[/latex] in the swing equation of a synchronous generator is the",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "flux that leaks through the machine"
+        },
+        {
+          "id": "B",
+          "text": "flux that links both stator and rotor windings"
+        },
+        {
+          "id": "C",
+          "text": "flux that links none of the windings"
+        },
+        {
+          "id": "D",
+          "text": "flux that links the stator winding or the rotor winding but not both"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Leakage flux in an induction motor is",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "i, -i"
+        },
+        {
+          "id": "B",
+          "text": "[latex]cos(-\\frac{\\pi }{4})+isin(-\\frac{\\pi }{4})[/latex], [latex]cos(\\frac{3\\pi }{4})+isin(\\frac{3\\pi }{4})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]cos(\\frac{\\pi }{4})+isin(\\frac{3\\pi }{4})[/latex], [latex]cos(\\frac{3\\pi }{4})+isin(\\frac{\\pi }{4})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]cos(\\frac{3\\pi }{4})+isin(-\\frac{3\\pi }{4})[/latex], [latex]cos(-\\frac{3\\pi }{4})+isin(\\frac{3\\pi }{4})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Square roots of -i , where  [latex]i = \\sqrt{-1}[/latex], are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2.33"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "2.33"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given a vector field [latex]F=y^{2}xa_{x}-yza_{y}-x^{2}a_{z}[/latex], the line integral [latex]\\int F\\cdot dl[/latex] evaluated along a segment on the x-axis from x = 1 to x = 2 is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "no solution"
+        },
+        {
+          "id": "B",
+          "text": "only one solution [latex]\\begin{bmatrix} x_{1}\\\\ x_{2} \\end{bmatrix}=\\begin{bmatrix} 0\\\\ 0 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "non-zero unique solution"
+        },
+        {
+          "id": "D",
+          "text": "multiple solutions"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The equation [latex]\\begin{bmatrix} 2 &-2 \\\\ 1& -1 \\end{bmatrix}\\begin{bmatrix} x_{1}\\\\ x_{2} \\end{bmatrix}=\\begin{bmatrix} 0\\\\ 0 \\end{bmatrix}[/latex] has",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513133",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.325 [latex]\\angle -100^{\\circ}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "0.325 [latex]\\angle 80^{\\circ}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "0.371 [latex]\\angle -100^{\\circ}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "0.433 [latex]\\angle 80^{\\circ}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For a power system network with n nodes, [latex]Z_{33}[/latex] of its bus impedance matrix is\nj0.5 per unit. The voltage at node 3 is 1.3[latex]\\angle -10^{\\circ}[/latex] per unit. If a capacitor having reactance of -j3.5 per unit is now added to the network between node 3 and the\nreference node, the current drawn by the capacitor per unit is",
+      "topic": "Power Systems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513134",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]8.85 \\times 10^{-11}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]8.85 \\times 10^{-5}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "88.5"
+        },
+        {
+          "id": "D",
+          "text": "885"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A dielectric slab with 500 mm x 500 mm cross-section is 0.4 m long. The slab is subjected to a uniform electric field of [latex]E=6a_{x}+8a_{y}[/latex] kV/mm. The relative permittivity of the dielectric material is equal to 2. The value of constant [latex]\\varepsilon _{0} \\; is\\;  8.85\\times 10^{-12}[/latex] F/m. The energy stored in the dielectric in Joules is",
+      "topic": "Electrostatic Fields",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} 1 & 1\\\\ -1& -2 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} 1 & 2\\\\ -2& -4 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} -1 & 0\\\\ 0& -2 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 0 & 1\\\\ -2& -3 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A Matrix has eigenvalues -1 and -2. The corresponding eigenvectors are [latex]\\begin{bmatrix} 1\\\\ -1 \\end{bmatrix} and \\begin{bmatrix} 1\\\\ -2 \\end{bmatrix}[/latex] respectively. The matrix is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513136",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-4\\pi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2+\\pi[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "2+2i"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]\\oint \\frac{z^{2}-4}{z^{2}+4}dz[/latex] evaluated anticlockwise around the circle |z-i|=2, where [latex]i=\\sqrt{-1}[/latex], is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The impulse response of a continuous time system is given by [latex]h(t)=\\delta(t-1) \\delta (t-3)[/latex] . The value of the step response at t=2 is",
+      "topic": "Linear Time Invariant Systems",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]q_{1}R_1+q_{2}R_2[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](q_{1}/R_1)+(q_{2}/R_2)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](q_{1}R_{1}+q_{2}R_{2})/(R_{1}+R_{2})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]q_{1}R_{2}+q_{2}R_{1}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Two magnetically uncoupled inductive coils have Q factors [latex]q_1 \\; and \\; q_2[/latex] at the chosen\noperating frequency. Their respective resistances are [latex]R_1 \\; and \\; R_2[/latex]. When connected\nin series, their effective Q factor at the same operating frequency is",
+      "topic": "Resonance and Locus Diagrams",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "98"
+        },
+        {
+          "id": "C",
+          "text": "52"
+        },
+        {
+          "id": "D",
+          "text": "48"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 4-pole induction motor, supplied by a slightly unbalanced three-phase 50 Hz\nsource, is rotating at 1440 rpm. The electrical frequency in Hz of the induced\nnegative sequence current in the rotor is",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "35"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A function [latex]y=5x^{2}+10x[/latex] is defined over an open interval x = (1,2). Atleast at one\r\npoint in this interval, dy/dx is exactly",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-0.82"
+        },
+        {
+          "id": "B",
+          "text": "0.49"
+        },
+        {
+          "id": "C",
+          "text": "0.705"
+        },
+        {
+          "id": "D",
+          "text": "1.69"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "When the Newton-Raphson method is applied to solve the equation [latex]f(x)=x^{3}+2x-1=0[/latex], the solution at the end of the first iteration with the initial\nvalue as [latex]x_{0}=1.2[/latex] is",
+      "topic": "Numerical Methods",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513150",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "controllable but not observable"
+        },
+        {
+          "id": "B",
+          "text": "not controllable but observable"
+        },
+        {
+          "id": "C",
+          "text": "both controllable and observable"
+        },
+        {
+          "id": "D",
+          "text": "both not controllable and not observable"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The state variable formulation of a system is given as [latex]\\begin{bmatrix} \\dot{x_1}\\\\ \\dot{x_2} \\end{bmatrix}=\\begin{bmatrix} -2 & 0\\\\ 0&-1 \\end{bmatrix}\\begin{bmatrix} x_1\\\\x_2 \\end{bmatrix}+\\begin{bmatrix} 1\\\\1 \\end{bmatrix}u[/latex] [latex]x_1(0)=0,x_2(0)=0\\ and \\; y=\\begin{bmatrix} 1 & 0 \\end{bmatrix}\\begin{bmatrix} x_1\\\\x_2 \\end{bmatrix}[/latex] The system is",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "1513151",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{2}-\\frac{1}{2}e^{-2t}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1-\\frac{1}{2}e^{-2t}-\\frac{1}{2}e^{-2t}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]e^{-2t}-e^{-t}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]1-e^{-t}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The state variable formulation of a system is given as [latex]\\begin{bmatrix} \\dot{x_1}\\\\ \\dot{x_2} \\end{bmatrix}=\\begin{bmatrix} -2 & 0\\\\ 0&-1 \\end{bmatrix}\\begin{bmatrix} x_1\\\\x_2 \\end{bmatrix}+\\begin{bmatrix} 1\\\\1 \\end{bmatrix}u[/latex] [latex]x_1(0)=0,x_2(0)=0\\ and \\; y=\\begin{bmatrix} 1 & 0 \\end{bmatrix}\\begin{bmatrix} x_1\\\\x_2 \\end{bmatrix}[/latex] The response y(t) to the unit step input is",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "11311115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.368"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "0.632"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A continuous random variable X has a probability density function [latex]f(x)=e^{-x},\\; 0\\lt x\\lt \\infty[/latex]. Then P{X [latex]\\gt[/latex] 1} is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "11311215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]4xya_{x}+6yza_{x}+8zxa_{z}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]4a_{x}+6a_{x}+8a_{z}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](4xy+4z^{2})a_{x}+(2x^{2}+6yz)a_{x}+(3y^{2}+8zx)a_{z}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The curl of the gradient of the scalar field defined by [latex]V=2x^{2}y+3y^{2}z+4z^{2}x[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "11312315",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "i, -i"
+        },
+        {
+          "id": "B",
+          "text": "[latex]cos(-\\frac{\\pi }{4})+isin(-\\frac{\\pi }{4})[/latex], [latex]cos(\\frac{3\\pi }{4})+isin(\\frac{3\\pi }{4})[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]cos(\\frac{\\pi }{4})+isin(\\frac{3\\pi }{4})[/latex], [latex]cos(\\frac{3\\pi }{4})+isin(\\frac{\\pi }{4})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]cos(\\frac{3\\pi }{4})+isin(-\\frac{3\\pi }{4})[/latex], [latex]cos(-\\frac{3\\pi }{4})+isin(\\frac{3\\pi }{4})[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Square roots of -i , where  [latex]i = \\sqrt{-1}[/latex], are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "11312415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-2.33"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "2.33"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given a vector field [latex]F=y^{2}xa_{x}-yza_{y}-x^{2}a_{z}[/latex], the line integral [latex]\\int F\\cdot dl[/latex] evaluated along a segment on the x-axis from x = 1 to x = 2 is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "11312515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "no solution"
+        },
+        {
+          "id": "B",
+          "text": "only one solution [latex]\\begin{bmatrix} x_{1}\\\\ x_{2} \\end{bmatrix}=\\begin{bmatrix} 0\\\\ 0 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "non-zero unique solution"
+        },
+        {
+          "id": "D",
+          "text": "multiple solutions"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The equation [latex]\\begin{bmatrix} 2 &-2 \\\\ 1& -1 \\end{bmatrix}\\begin{bmatrix} x_{1}\\\\ x_{2} \\end{bmatrix}=\\begin{bmatrix} 0\\\\ 0 \\end{bmatrix}[/latex] has",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "11313515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} 1 & 1\\\\ -1& -2 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} 1 & 2\\\\ -2& -4 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} -1 & 0\\\\ 0& -2 \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} 0 & 1\\\\ -2& -3 \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A Matrix has eigenvalues -1 and -2. The corresponding eigenvectors are [latex]\\begin{bmatrix} 1\\\\ -1 \\end{bmatrix} and \\begin{bmatrix} 1\\\\ -2 \\end{bmatrix}[/latex] respectively. The matrix is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "11313615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]-4\\pi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2+\\pi[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "2+2i"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "[latex]\\oint \\frac{z^{2}-4}{z^{2}+4}dz[/latex] evaluated anticlockwise around the circle |z-i|=2, where [latex]i=\\sqrt{-1}[/latex], is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "11314615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "35"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A function [latex]y=5x^{2}+10x[/latex] is defined over an open interval x = (1,2). Atleast at one\r\npoint in this interval, dy/dx is exactly",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    },
+    {
+      "branch": "EE",
+      "id": "11314715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "-0.82"
+        },
+        {
+          "id": "B",
+          "text": "0.49"
+        },
+        {
+          "id": "C",
+          "text": "0.705"
+        },
+        {
+          "id": "D",
+          "text": "1.69"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "When the Newton-Raphson method is applied to solve the equation [latex]f(x)=x^{3}+2x-1=0[/latex], the solution at the end of the first iteration with the initial\nvalue as [latex]x_{0}=1.2[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2013
+    }
+  ],
+  "schema_version": 1
+}

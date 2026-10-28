@@ -1,0 +1,1369 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1101101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "S1 and S2 are both true"
+        },
+        {
+          "id": "B",
+          "text": "S1 is true, S2 is false"
+        },
+        {
+          "id": "C",
+          "text": "S1 is false, S2 is true"
+        },
+        {
+          "id": "D",
+          "text": "S1 and S2 are both false"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements: S1: The sum of two singular nxn matrices may be non-singular S2: The sum of two nxn non-singular matrices may be singular. Which of the following statements is correct?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "R1 and R2 are equivalence relations, R3 and R4 are not"
+        },
+        {
+          "id": "B",
+          "text": "R1 and R3 are equivalence relations, R2 and R4 are not"
+        },
+        {
+          "id": "C",
+          "text": "R1 and R4 are equivalence relations, R2 and R3 are not"
+        },
+        {
+          "id": "D",
+          "text": "R1, R2, R3 and R4 are all equivalence relations"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following relations: R1(a,b) iff (a+b) is even over the set of integers\nR2(a,b) iff (a+b) is odd over the set of integers\nR3(a,b) iff a.b > 0 over the set of non-zero rational numbers\nR4(a,b) iff |a - b| <= 2 over the set of natural numbers Which of the following statements is correct?",
+      "topic": "Relation",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "F1 is satisfiable, F2 is valid"
+        },
+        {
+          "id": "B",
+          "text": "F1 unsatisfiable, F2 is satisfiable"
+        },
+        {
+          "id": "C",
+          "text": "F1 is unsatisfiable, F2 is valid"
+        },
+        {
+          "id": "D",
+          "text": "F1 and F2 are both satisfiable"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider two well-formed formulas in prepositional logic. [latex]F1: \\; P\\Rightarrow \\neg P[/latex] [latex]F2: \\;( P\\Rightarrow \\neg P)\\vee ( \\neg P\\Rightarrow P)[/latex] Which of the following statements is correct?",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only S1 is correct"
+        },
+        {
+          "id": "B",
+          "text": "Only S2 is correct"
+        },
+        {
+          "id": "C",
+          "text": "Both S1 and S2 are correct"
+        },
+        {
+          "id": "D",
+          "text": "None of S1 and S2 is correct"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following two statements : S1: {[latex]0^{2n}|n\\geq 1|[/latex]} is a regular language S2 : {[latex]0^{m}1^{n}0^{m+n}|m\\geq 1 and n\\geq 1|[/latex]} is a regular language Which of the following statements is correct?",
+      "topic": "Regular Language",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "If a language is context free it can be always be accepted by a deterministic\npush-down automaton."
+        },
+        {
+          "id": "B",
+          "text": "The union of two context free language is context free."
+        },
+        {
+          "id": "C",
+          "text": "The intersection of two context free language is context free"
+        },
+        {
+          "id": "D",
+          "text": "The complement of a context free language is context free"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements true ?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]N^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2^{N}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "2N"
+        },
+        {
+          "id": "D",
+          "text": "N!"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Given an arbitary non-deterministic finite automaton (NFA) with N states, the\nmaximum number of states in an equivalent minimized DFA is at least.",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Exploit the temporal locality of reference in a program"
+        },
+        {
+          "id": "B",
+          "text": "Exploit the spatial locality of reference in a program"
+        },
+        {
+          "id": "C",
+          "text": "Reduce the miss penalty"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "More than one word are put in one cache block to",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Virtual memory implements the translation of a program's address space\r\ninto physical memory address space."
+        },
+        {
+          "id": "B",
+          "text": "Virtual memory allows each program to exceed the size of the primary memory."
+        },
+        {
+          "id": "C",
+          "text": "Virtual memory increases the degree of multi-programming"
+        },
+        {
+          "id": "D",
+          "text": "Virtual memory reduces the context switching overhead."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements is false ?",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "INTER"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\overline{RESET \\;IN}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "HOLD"
+        },
+        {
+          "id": "D",
+          "text": "READY"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A low memory can be connected to 8085 by using",
+      "topic": "IO Interface",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It cannot have subroutine call instruction"
+        },
+        {
+          "id": "B",
+          "text": "It can have subroutine call instruction, but no nested subroutine calls."
+        },
+        {
+          "id": "C",
+          "text": "Nested subroutine calls are possible, but interrupts are not."
+        },
+        {
+          "id": "D",
+          "text": "All sequences of subroutine calls and also interrupts are possible"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Suppose a processor does not have any stack pointer register. Which of the\nfollowing statements is true ?",
+      "topic": "Machine Instruction",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101112",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Test the interrupt system of the processor."
+        },
+        {
+          "id": "B",
+          "text": "Implement co-routines."
+        },
+        {
+          "id": "C",
+          "text": "Obtain system services which need execution of privileged instructions."
+        },
+        {
+          "id": "D",
+          "text": "Return from subroutine"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A processor needs software interrupt to",
+      "topic": "Interrupt",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A hardware interrupt is needed."
+        },
+        {
+          "id": "B",
+          "text": "A software interrupt is needed."
+        },
+        {
+          "id": "C",
+          "text": "A privileged instruction (which does not generate an interrupt) is needed"
+        },
+        {
+          "id": "D",
+          "text": "a non-privileged instruction (which does not generate an interrupt is needed"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A CPU has two modes-privileged and non-privileged. In order to change the\nmode from privileged to non-privileged",
+      "topic": "Interrupt",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "O(n)"
+        },
+        {
+          "id": "B",
+          "text": "O(nlogn)"
+        },
+        {
+          "id": "C",
+          "text": "O([latex]n^{2}[/latex]\n)"
+        },
+        {
+          "id": "D",
+          "text": "O(n!)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Randomized quicksort is an extension of quicksort where the pivot is chosen\nrandomly. What is the worst case complexity of sorting n numbers using\nrandomized quicksort ?",
+      "topic": "Sorting",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "i-1"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left \\lfloor \\frac{i}{2} \\right \\rfloor[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{i}{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{(i+1)}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider any array representation of an n element binary heap where the elements\nare stored from index 1 to index n of the array. For the element stored at index\ni of the array ([latex]i\\leq n[/latex] ) , the index of the parent is",
+      "topic": "Heap Tree",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "f (n) = O(g(n))and g(n) [latex]\\neq[/latex] O(f (n))"
+        },
+        {
+          "id": "B",
+          "text": "g(n) = O(f (n)) and f (n) [latex]\\neq[/latex] O(g(n))"
+        },
+        {
+          "id": "C",
+          "text": "f (n) [latex]\\neq[/latex] O(g(n)) and g(n) [latex]\\neq[/latex] O(f (n))"
+        },
+        {
+          "id": "D",
+          "text": "f (n) = O(g(n))and g(n) = O(f (n))"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let  [latex]f (n) =n^{2} logn[/latex]  and [latex]g(n) = n(logn)^{10}[/latex] be two positive functions of n. Which of the following statements is correct ?",
+      "topic": "Asymptotic Notation",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Assembly"
+        },
+        {
+          "id": "B",
+          "text": "Parsing"
+        },
+        {
+          "id": "C",
+          "text": "Relocation"
+        },
+        {
+          "id": "D",
+          "text": "Symbol resolution"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The process of assigning load addresses to the various parts of the program and\nadjusting the code and date in the program to reflect the assigned addresses is\ncalled",
+      "topic": "Runtime Environment",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101118",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "An unambiguous grammar has same left most and right most derivation"
+        },
+        {
+          "id": "B",
+          "text": "An LL(1) parser is a top-down parser"
+        },
+        {
+          "id": "C",
+          "text": "LALR is more powerful than SLR"
+        },
+        {
+          "id": "D",
+          "text": "An ambiguous grammar can never be LR(K) for any k"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements is false ?",
+      "topic": "Parsing",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101119",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Round-Robin"
+        },
+        {
+          "id": "B",
+          "text": "Shortest-Job-First"
+        },
+        {
+          "id": "C",
+          "text": "Highest-Response-Ratio-Next"
+        },
+        {
+          "id": "D",
+          "text": "First-come-First-Served"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a set of n tasks with known runtimes [latex]r_{1},r_{2},....r_{n}[/latex] to be run on a uniprocessor machine. Which of the following processor scheduling algorithms will result in the maximum throughput ?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101120",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "RAM"
+        },
+        {
+          "id": "B",
+          "text": "Disk"
+        },
+        {
+          "id": "C",
+          "text": "ROM"
+        },
+        {
+          "id": "D",
+          "text": "On-chip cache"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Where does the swap space reside ?",
+      "topic": "Process",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101121",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Always decrease the number of page faults"
+        },
+        {
+          "id": "B",
+          "text": "Always increase the number of page faults"
+        },
+        {
+          "id": "C",
+          "text": "Sometimes increase the number of page faults"
+        },
+        {
+          "id": "D",
+          "text": "Never affect the number of page faults"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a virtual memory system with FIFO page replacement policy. For an\narbitrary page access pattern, increasing the number of page frames in main\nmemory will.",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101122",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Register"
+        },
+        {
+          "id": "B",
+          "text": "Cache"
+        },
+        {
+          "id": "C",
+          "text": "Main memory"
+        },
+        {
+          "id": "D",
+          "text": "Disk"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following requires a device driver ?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101123",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Dependency preserving and lossless join"
+        },
+        {
+          "id": "B",
+          "text": "Lossless join but not dependency preserving"
+        },
+        {
+          "id": "C",
+          "text": "Dependency preserving but not lossless join"
+        },
+        {
+          "id": "D",
+          "text": "Not dependency preserving and not lossless join"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a schema R(A,B,C,D) and functional dependencies A[latex]\\rightarrow[/latex]B and C[latex]\\rightarrow[/latex]D.\nThen the decomposition of R into R1(AB) and R2(CD) is :",
+      "topic": "Relational Schema",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101124",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "List all vertices adjacent to a given vertex."
+        },
+        {
+          "id": "B",
+          "text": "List all vertices which have self loops"
+        },
+        {
+          "id": "C",
+          "text": "List all vertices which belong to cycles of less than three vertices"
+        },
+        {
+          "id": "D",
+          "text": "List all vertices reachable from a given vertex"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Suppose the adjacency relation of vertices in a graph is represented in a table Adj(X,Y).  Which of the following queries cannot be expressed by a relational algebra\nexpression of constant length ?",
+      "topic": "Relational Algebra",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101125",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sigma _{A=a}(r)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "r"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sigma _{A=a}(r)\\Join s[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let r and s be two relations over the relation schemes R and S respectively, and\nlet A be an attribute in R. Then the relational algebra expression [latex]\\sigma _{A=a}(r\\Join s)[/latex] is always equal to :",
+      "topic": "Relational Algebra",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101126",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2240"
+        },
+        {
+          "id": "B",
+          "text": "2296"
+        },
+        {
+          "id": "C",
+          "text": "2620"
+        },
+        {
+          "id": "D",
+          "text": "4536"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "How many 4-digit even numbers have all 4 digits distinct?",
+      "topic": "Discrete Mathematics",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101127",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only S1 is correct"
+        },
+        {
+          "id": "B",
+          "text": "Only S2 is correct"
+        },
+        {
+          "id": "C",
+          "text": "Both S1 and S2 are correct"
+        },
+        {
+          "id": "D",
+          "text": "None of S1 and S2 is correct"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements: S1: There exists infinite sets A, B, C such that \n    [latex]A\\cap(B\\cup C)[/latex]  is finite. S2: There exists two irrational numbers x and y such\n    that (x+y) is rational. Which of the following is true about S1 and S2?",
+      "topic": "Set Theory",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101128",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only S1 is correct"
+        },
+        {
+          "id": "B",
+          "text": "Only S2 is correct"
+        },
+        {
+          "id": "C",
+          "text": "Both S1 and S2 are correct"
+        },
+        {
+          "id": "D",
+          "text": "None of S1 and S2 is correct"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let [latex]f:A\\rightarrow B[/latex]  be a function, and let E and F be subsets of A. Consider the following statements about images. [latex]S1: f (E \\cup F) = f (E) \\cup f (F)[/latex] [latex]S2: f (E \\cap F) = f (E) \\cap f (F)[/latex] Which of the following is true about S1 and S2?",
+      "topic": "Set Theory",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101129",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{7^{7}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{7^{6}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{2^{7}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{7}{2^{7}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Seven (distinct) car accidents occurred in a week. What is the probability that they all occurred on the same day?",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101130",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "14"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "48"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a DFA over [latex]\\Sigma[/latex]= {a,b} accepting all strings which have number of a's divisible by 6 and number of b's divisible by 8. What is the minimum number of\nstates that the DFA will have ?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101131",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only L1 and L2"
+        },
+        {
+          "id": "B",
+          "text": "Only L2, L3 and L4"
+        },
+        {
+          "id": "C",
+          "text": "Only L3 and L4"
+        },
+        {
+          "id": "D",
+          "text": "Only L3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following languages : L1 = {ww| w[latex]\\in[/latex] {a,b}*} L2 = {w[latex]w^{R}| [/latex] w[latex]\\in[/latex] {a,b} *, [latex]w^{R}[/latex] is the reverse of w} L3 = {[latex]0^{2i}[/latex]|  i is an integer} L4 ={[latex]0^{{i}^{2}}[/latex] | i is an integer} Which of the languages are regular ?",
+      "topic": "Regular Language",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101132",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x is decidable"
+        },
+        {
+          "id": "B",
+          "text": "x is undecidable but partially decidable"
+        },
+        {
+          "id": "C",
+          "text": "x is undecidable and not even partially decidable"
+        },
+        {
+          "id": "D",
+          "text": "x is not a decision problem"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following problem x . Given a Turing machine M over the input alphabet [latex]\\Sigma[/latex], any state q of M.\nAnd a word w [latex]\\in \\Sigma *[/latex]) does the computation of M on w visit the state q ? Which of the following statements about x is correct ?",
+      "topic": "Turing Machine",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101135",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "ABE"
+        },
+        {
+          "id": "B",
+          "text": "DBC"
+        },
+        {
+          "id": "C",
+          "text": "DE5"
+        },
+        {
+          "id": "D",
+          "text": "9E7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The 2's complement representation of [latex](-539)_{10}[/latex] is hexadecimal is",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101139",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "d(r,u) [latex]\\lt[/latex] d(r,v)"
+        },
+        {
+          "id": "B",
+          "text": "d(r,u) [latex]\\leq[/latex] d(r,v)"
+        },
+        {
+          "id": "C",
+          "text": "d(r,u) [latex]\\gt[/latex]d(r,v)"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the undirected unweighted graph G. Let a breadth-first traversal of\nG be done starting from a node r . Let d(r,u) and d(r,v) be the lengths of the\nshortest paths form r to u and v respectively in G. If u is visited before v during\nthe breadth-first traversal, which of the following statements is correct ?",
+      "topic": "Graph Traversal",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101140",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{n(n-1)}{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]2^{n}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "n!"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2^{\\frac{n(n-1)}{2}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "How many undirected graphs (not necessarily connected) can be constructed out\nof a given set V={[latex]V_{1},V_{2},.....,V_{n}[/latex]} of n vertices ?",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101141",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "One"
+        },
+        {
+          "id": "B",
+          "text": "two"
+        },
+        {
+          "id": "C",
+          "text": "three"
+        },
+        {
+          "id": "D",
+          "text": "four"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What is the minimum number of stacks of size n required to implement a queue\nto size n ?",
+      "topic": "Queue",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101142",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10, 3"
+        },
+        {
+          "id": "B",
+          "text": "31, 3"
+        },
+        {
+          "id": "C",
+          "text": "27, 7"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "What is printed by the print statements in the program P1 assuming call by\nreference parameter passing ? Program P1()\n{\n   x = 10;\n   y = 3;\n   func1(y,x,x);\n   print x;\n   print y;\n}\nfunc1(x,y,z)\n{\n   y = y+4;\n   z = x+y+z;\n}",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101143",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only P3"
+        },
+        {
+          "id": "B",
+          "text": "Only P1 and P3"
+        },
+        {
+          "id": "C",
+          "text": "Only P1 and P2"
+        },
+        {
+          "id": "D",
+          "text": "P1, P2 and P3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following three functions : [P1] int * g (void) \n{ \n  int x= 10; \n  return (&x); \n} [P2] int * g (void) \n{ \n  int * px; \n  *px= 10; \n  return px; \n} [P3] int *g (void) \n{ \n  int *px; \n  px = (int *) malloc (sizeof(int)); \n  *px= 10; \n  return px; \n} Which of the above three functions are likely to cause problems with pointers ?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101144",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "11"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following program Program P2 \n    var n: int: \n     procedure W(var x: int) \n     begin \n         x=x+1; \n         print x;   \n     end \n\n     procedure D \n     begin  \n         var n: int; \n         n=3; \n         W(n);  \n     end \nbegin //beginP2 \n  n=10; \n  D; \nend If the language has dynamic scooping and parameters are passed by reference,\nwhat will be printed by the program ?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101145",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A device"
+        },
+        {
+          "id": "B",
+          "text": "Power failure"
+        },
+        {
+          "id": "C",
+          "text": "Timer"
+        },
+        {
+          "id": "D",
+          "text": "Scheduler process"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following does not interrupt a running process ?",
+      "topic": "Process",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101146",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "16MB"
+        },
+        {
+          "id": "B",
+          "text": "8MB"
+        },
+        {
+          "id": "C",
+          "text": "2MB"
+        },
+        {
+          "id": "D",
+          "text": "24MB"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a machine with 64 MB physical memory and a 32-bit virtual address\nspace. If the page size is 4 KB, what is the approximate size of the page table ?",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101147",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "flag [j]= true and turn =i"
+        },
+        {
+          "id": "B",
+          "text": "flag [j]=true and turn =j"
+        },
+        {
+          "id": "C",
+          "text": "flag [i]=true and turn=j"
+        },
+        {
+          "id": "D",
+          "text": "flag [i]=true and turn=i"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider Peterson's algorithm for mutual exclusion between two concurrent\nprocesses i and j . The program executed by process is shown below. repeat   \n      flag [i] = true; \n      turn = j; \n      while ( P ) do no-op; \n      Enter critical section, perform actions, then exit critical \n      section \n      flag [ i ] = false; \n      Perform other non-critical section actions. \n   until false; For the program to guarantee mutual exclusion, the predicate P in the while loop\nshould be",
+      "topic": "Process Synchronization",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101148",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]A\\rightarrow B,B\\rightarrow CD[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]A\\rightarrow B,B\\rightarrow C,C\\rightarrow D[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]AB\\rightarrow C,C\\rightarrow AD[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]A\\rightarrow BCD[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "R,(A,B,C,D) is a relation. Which of the following does not have a lossless join,\ndependency preserving BCNF decomposition ?",
+      "topic": "Normal Form",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "1101150",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A tuple (z,w) with z [latex]\\gt[/latex]\r\n y is deleted"
+        },
+        {
+          "id": "B",
+          "text": "A tuple (z,w) with z [latex]\\gt[/latex]\r\n x is deleted"
+        },
+        {
+          "id": "C",
+          "text": "A tuple (z,w) with w [latex]\\lt[/latex]\r\n x is deleted"
+        },
+        {
+          "id": "D",
+          "text": "The deletion of (x,y) is prohibited"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider a relation geq which represents \"greater than or equal to\", that is,\n(x,y) [latex]\\in[/latex] geq only if y[latex]\\geq[/latex]x: create table geq\n( \n  ib integer not null\n  ub integer not null\n  primary key ib\n  foreign key (ub) references geq on delete cascade \n) Which of the following is possible if a tuple (x,y) is deleted ?",
+      "topic": "SQL",
+      "type": "MCQ",
+      "year": 2001
+    },
+    {
+      "branch": "CS",
+      "id": "10110111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "S1 and S2 are both true"
+        },
+        {
+          "id": "B",
+          "text": "S1 is true, S2 is false"
+        },
+        {
+          "id": "C",
+          "text": "S1 is false, S2 is true"
+        },
+        {
+          "id": "D",
+          "text": "S1 and S2 are both false"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Consider the following statements: S1: The sum of two singular nxn matrices may be non-singular S2: The sum of two nxn non-singular matrices may be singular. Which of the following statements is correct?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2001
+    }
+  ],
+  "schema_version": 1
+}

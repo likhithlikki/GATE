@@ -1,0 +1,579 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1523101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left[\\begin{array}{lll}-2 & -2 & 2\\end{array}\\right]^{T}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left[\\begin{array}{lll}3 & 0 & -1\\end{array}\\right]^{T}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left[\\begin{array}{lll}3 & 2 & 1\\end{array}\\right]^{T}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left[\\begin{array}{llll}1 & 2 & 3\\end{array}\\right]^{T}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For a given vector [latex]w=\\left[\\begin{array}{lll}1 & 2 & 3\\end{array}\\right]^{\\top}[/latex], the vector normal to the plane defined by [latex]\\mathbf{w}^{\\top} x=1[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\infty, \\infty[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]1,0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1,-1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]-1,1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a unity-gain negative feedback system consisting of the plant [latex]G(s)[/latex] (given below) and a proportional-integral controller. Let the proportional gain and integral gain be 3 and 1, respectively. For a unit step reference input, the final values of the controller output and the plant output, respectively, are [latex]\r\nG(s)=\\frac{1}{s-1}\r\n[/latex]",
+      "topic": "Feedback Characteristics of Control Systems",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3 e^{-2 t}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{1}{3} e^{-2 t} u(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2 \\mathrm{e}^{-3 \\mathrm{t}} \\mathrm{u}(\\mathrm{t})[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]2 \\mathrm{e}^{-3 \\mathrm{t}}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A continuous-time system that is initially at rest is described by [latex]\n\\frac{d y(t)}{d t}+3 y(t)=2 x(t)\n[/latex] where [latex]x(t)[/latex] is the input voltage and [latex]y(t)[/latex] is the output voltage. The impulse response of the system is",
+      "topic": "Mathematical Models of Physical Systems",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]x(t)[/latex] tends to be an impulse as [latex]\\mathrm{W}_{0} \\rightarrow \\infty[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]x(0)[/latex] decreases as [latex]W_{0}[/latex] increases"
+        },
+        {
+          "id": "C",
+          "text": "At [latex]\\mathrm{t}=\\frac{\\pi}{2 \\mathrm{~W}_{0}}, \\mathrm{x}(\\mathrm{t})=-\\frac{1}{\\pi}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "At [latex]\\mathrm{t}=\\frac{\\pi}{2 \\mathrm{~W}_{0}}, \\mathrm{x}(\\mathrm{t})=\\frac{1}{\\pi}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The Fourier transform [latex]X(\\omega)[/latex] of the signal [latex]x(t)[/latex] is given by [latex]\n\\begin{aligned}\nX(\\omega) & =1, \\text { for }|\\omega| \\lt W_{0} \\\\\n& =0, \\text { for }|\\omega| \\gt W_{0}\n\\end{aligned}\n[/latex] Which one of the following statements is true?",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]E\\left(\\hat{\\sigma}_{2}^{2}\\right)=\\sigma_{0}^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\mathrm{E}\\left(\\hat{\\sigma}_{2}\\right)=\\sigma_{0}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]E\\left(\\hat{\\sigma}_{1}^{2}\\right)=\\sigma_{0}^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\mathrm{E}\\left(\\hat{\\sigma}_{1}\\right)=\\mathrm{E}\\left(\\hat{\\sigma}_{2}\\right)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "One million random numbers are generated from a statistically stationary process with a Gaussian distribution with mean zero and standard deviation [latex]\\sigma_{0}[/latex]. The [latex]\\sigma_{0}[/latex] is estimated by randomly drawing out 10,000 numbers of samples [latex]\\left(x_{n}\\right)[/latex]. The estimates [latex]\\hat{\\sigma}_{1}, \\hat{\\sigma}_{2}[/latex] are computed in the following two ways. [latex]\\hat{\\sigma}_{1}^{2}=\\frac{1}{10000} \\sum_{n=1}^{10000} x_{n}^{2} \\quad \\hat{\\sigma}_{2}^{2}=\\frac{1}{9999} \\sum_{n=1}^{10000} x_{n}^{2}[/latex] Which of the following statements is true?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523120",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A separately excited DC motor rated [latex]400 \\mathrm{~V}, 15A, 1500 RPM[/latex]  drives a constant torque load at rated speed operating from [latex]400 \\mathrm{~V}[/latex] DC supply drawing rated current. The armature resistance is [latex]1.2 \\Omega[/latex]. If the supply voltage drops by [latex]10 \\%[/latex] with field current unaltered then the resultant speed of the motor in RPM is ___ (Round off to the nearest integer).",
+      "topic": "Electrical Machines",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the following differential equation, the numerically obtained value of [latex]y(t)[/latex], at [latex]t=1[/latex], is ___ (Round off to 2 decimal places). [latex]\r\n\\frac{d y}{d t}=\\frac{e^{-\\alpha t}}{2+\\alpha \\mathrm{t}}, \\alpha=0.01 \\text { and } y(0)=0\r\n[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Three points in the [latex]x-y[/latex] plane are [latex](-1,0.8)[/latex] [latex](0,2.2)[/latex] and [latex](1,2.8)[/latex]. The value of the slope of the best fit straight line in the least square sense is ___  (Round off to 2 decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "1, 16"
+        },
+        {
+          "id": "B",
+          "text": "2, 4"
+        },
+        {
+          "id": "C",
+          "text": "3, 5"
+        },
+        {
+          "id": "D",
+          "text": "2.66, 2.25"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a lead compensator of the form [latex]\nK(s)=\\frac{1+\\frac{s}{a}}{1+\\frac{s}{\\beta a}}, \\quad \\beta \\gt 1, a \\gt 0\n[/latex] The frequency at which this compensator produces maximum phase lead is [latex]4 \\mathrm{rad} / \\mathrm{s}[/latex]. At this frequency, the gain amplification provided by the controller, assuming asymptotic Bodemagnitude plot of [latex]K(\\mathrm{~s})[/latex], is [latex]6 \\mathrm{~dB}[/latex]. The values of [latex]\\alpha, \\beta[/latex], respectively, are",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "When [latex]\\mathrm{p}=2[/latex], the area enclosed by the curve is [latex]\\pi[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "When [latex]p[/latex] tends to [latex]\\infty[/latex], the area enclosed by the curve tends to 4."
+        },
+        {
+          "id": "C",
+          "text": "When [latex]p[/latex] tends to 0 , the area enclosed by the curve is 1."
+        },
+        {
+          "id": "D",
+          "text": "When [latex]p=1[/latex], the area enclosed by the curve is 2."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the following equation in a 2-D realspace. [latex]\\left|x_{1}\\right|^{p}+\\left|x_{2}\\right|^{p}=1[/latex] for [latex]p \\gt 0[/latex] Which of the following statement(s) is/are true.",
+      "topic": "Engineering Mathematics",
+      "type": "MSQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523135",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The expected number of trials for first occurrence of a \"head\" in a biased coin is known to be 4. The probability of first occurrence of a \"head\" in the second trial is  ___ (Round off to 3 decimal places).",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523136",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the state-space description of an LTI system with matrices [latex]A=\\left[\\begin{array}{cc}0 & 1 \\\\ -1 & -2\\end{array}\\right], B=\\left[\\begin{array}{l}0 \\\\ 1\\end{array}\\right], C=[3-2], D=1[/latex] For the input, [latex]\\sin (\\omega t), \\omega \\gt 0[/latex], the value of [latex]\\omega[/latex] for which the steady-state output of the system will be zero, is ___ (Round off to the nearest integer).",
+      "topic": "State Variable Analysis",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523137",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase synchronous motor with synchronous impedance of [latex]0.1+j0.3 [/latex]  per unit per phase has a static stability limit of 2.5 per unit. The corresponding excitation voltage in per unit is ____ (Round off to 2 decimal places).",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523138",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three phase [latex]415 \\mathrm{~V}, 50 \\mathrm{~Hz}, 6-pole, 960 RPM, 4 HP[/latex] squirrel cage induction motor drives a constant torque load at rated speed operating from rated supply and delivering rated output. If the supply voltage and frequency are reduced by [latex]20 \\%[/latex] the resultant speed of the motor in RPM (neglecting the stator leakage impednace and rotational losses) is ____ (Round off to the nearest integer)",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523140",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The discrete-time Fourier transform of a signal [latex]x[n][/latex] is [latex]X(\\Omega)=1(1+\\cos \\Omega) e^{-j \\Omega}[/latex]. Consider that [latex]x_{p}[n][/latex] is a periodic signal of period [latex]N=5[/latex] such that [latex]\n\\begin{aligned}\nx_{p}[n] & =x[n], \\text { for } n=0,1,2 \\\\\n& =0, \\text { for } n=3,4\n\\end{aligned}\n[/latex] Note that [latex]x_{p}[n]=\\sum_{k=0}^{N-1} a_{k} e^{j \\frac{2 \\pi}{N} k m}[/latex]. The magnitude of the Fourier series coefficient [latex]a_{3}[/latex] is ____ (Round off to 3 decimal places).",
+      "topic": "Signals and Systems",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523147",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In a given 8-bit general purpose micro-controller there are following flags. C-Carry, A-Auxiliary Carry, O-Overflow flag, PParity ( 0 for even, 1 for odd) R0 and R 1 are the two general purpose registers of the microcontroller. After execution of the following instructions, the decimal equivalent of the binary sequence of the flag pattern [CAOP] will be MOV R0, +0x60 MOV R1, +0x46 ADD R0, R 1",
+      "topic": "Microprocessors",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "1523155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A quadratic function of two variables is given as [latex]f\\left(x_{1}, x_{2}\\right)=x_{1}^{2}+2 x_{2}^{2}+3 x_{1}+3 x_{2}+x_{1} x_{2}+1[/latex] The magnitude of the maximum rate of change of the function at the point [latex](1,1)[/latex] is ____(Round off to the nearest integer).",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "12310115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left[\\begin{array}{lll}-2 & -2 & 2\\end{array}\\right]^{T}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left[\\begin{array}{lll}3 & 0 & -1\\end{array}\\right]^{T}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left[\\begin{array}{lll}3 & 2 & 1\\end{array}\\right]^{T}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left[\\begin{array}{llll}1 & 2 & 3\\end{array}\\right]^{T}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "For a given vector [latex]w=\\left[\\begin{array}{lll}1 & 2 & 3\\end{array}\\right]^{\\top}[/latex], the vector normal to the plane defined by [latex]\\mathbf{w}^{\\top} x=1[/latex] is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "12311515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]E\\left(\\hat{\\sigma}_{2}^{2}\\right)=\\sigma_{0}^{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\mathrm{E}\\left(\\hat{\\sigma}_{2}\\right)=\\sigma_{0}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]E\\left(\\hat{\\sigma}_{1}^{2}\\right)=\\sigma_{0}^{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\mathrm{E}\\left(\\hat{\\sigma}_{1}\\right)=\\mathrm{E}\\left(\\hat{\\sigma}_{2}\\right)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "One million random numbers are generated from a statistically stationary process with a Gaussian distribution with mean zero and standard deviation [latex]\\sigma_{0}[/latex]. The [latex]\\sigma_{0}[/latex] is estimated by randomly drawing out 10,000 numbers of samples [latex]\\left(x_{n}\\right)[/latex]. The estimates [latex]\\hat{\\sigma}_{1}, \\hat{\\sigma}_{2}[/latex] are computed in the following two ways. [latex]\\hat{\\sigma}_{1}^{2}=\\frac{1}{10000} \\sum_{n=1}^{10000} x_{n}^{2} \\quad \\hat{\\sigma}_{2}^{2}=\\frac{1}{9999} \\sum_{n=1}^{10000} x_{n}^{2}[/latex] Which of the following statements is true?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "12312415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.25"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "0.75"
+        },
+        {
+          "id": "D",
+          "text": "0.85"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In the following differential equation, the numerically obtained value of [latex]y(t)[/latex], at [latex]t=1[/latex], is ___ (Round off to 2 decimal places). [latex]\r\n\\frac{d y}{d t}=\\frac{e^{-\\alpha t}}{2+\\alpha \\mathrm{t}}, \\alpha=0.01 \\text { and } y(0)=0\r\n[/latex]",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "12312515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.25"
+        },
+        {
+          "id": "B",
+          "text": "0.5"
+        },
+        {
+          "id": "C",
+          "text": "0.75"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Three points in the [latex]x-y[/latex] plane are [latex](-1,0.8)[/latex] [latex](0,2.2)[/latex] and [latex](1,2.8)[/latex]. The value of the slope of the best fit straight line in the least square sense is ___  (Round off to 2 decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "12313215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "When [latex]\\mathrm{p}=2[/latex], the area enclosed by the curve is [latex]\\pi[/latex]."
+        },
+        {
+          "id": "B",
+          "text": "When [latex]p[/latex] tends to [latex]\\infty[/latex], the area enclosed by the curve tends to 4."
+        },
+        {
+          "id": "C",
+          "text": "When [latex]p[/latex] tends to 0 , the area enclosed by the curve is 1."
+        },
+        {
+          "id": "D",
+          "text": "When [latex]p=1[/latex], the area enclosed by the curve is 2."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider the following equation in a 2-D realspace. [latex]\\left|x_{1}\\right|^{p}+\\left|x_{2}\\right|^{p}=1[/latex] for [latex]p \\gt 0[/latex] Which of the following statement(s) is/are true.",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "12313515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.125"
+        },
+        {
+          "id": "B",
+          "text": "0.188"
+        },
+        {
+          "id": "C",
+          "text": "0.254"
+        },
+        {
+          "id": "D",
+          "text": "0.564"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The expected number of trials for first occurrence of a \"head\" in a biased coin is known to be 4. The probability of first occurrence of a \"head\" in the second trial is  ___ (Round off to 3 decimal places).",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    },
+    {
+      "branch": "EE",
+      "id": "12315515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "16"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A quadratic function of two variables is given as [latex]f\\left(x_{1}, x_{2}\\right)=x_{1}^{2}+2 x_{2}^{2}+3 x_{1}+3 x_{2}+x_{1} x_{2}+1[/latex] The magnitude of the maximum rate of change of the function at the point [latex](1,1)[/latex] is ____(Round off to the nearest integer).",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2023
+    }
+  ],
+  "schema_version": 1
+}

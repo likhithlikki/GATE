@@ -1,0 +1,1339 @@
+{
+  "questions": [
+    {
+      "branch": "EE",
+      "id": "1519101",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]3te^{-t}+e^{-t}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]3e^{-t}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2te^{-t}+e^{-t}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]4te^{-t}+e^{-t}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The inverse Laplace transform of [latex]H(s)=\\frac{s+3}{s^2+2s+1} \\; for \\; t\\geq 0[/latex] is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519102",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4 and 9"
+        },
+        {
+          "id": "B",
+          "text": "2 and 3"
+        },
+        {
+          "id": "C",
+          "text": "-2 and -3"
+        },
+        {
+          "id": "D",
+          "text": "16 and 81"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "M is a 2x2 matrix with eigenvalues 4 and 9. The eigenvalues of [latex]M^2[/latex] are",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519103",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "heat equation"
+        },
+        {
+          "id": "B",
+          "text": "wave equation"
+        },
+        {
+          "id": "C",
+          "text": "Poisson's equation"
+        },
+        {
+          "id": "D",
+          "text": "Laplace equation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The partial differential equation [latex]\\frac{\\partial^2 u}{\\partial t^2}-c^2\\left ( \\frac{\\partial^2 u}{\\partial x^2}+\\frac{\\partial^2 u}{\\partial y^2} \\right )=0[/latex]; where [latex]c\\neq 0[/latex] is known as",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519104",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{z^2-1}{z}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{z^2-1}{z+2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{z^2-1}{z-0.5}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{z^2-1}{z+j0.5}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which one of the following functions is analytic in the region [latex]|z|\\leq 1[/latex]?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519105",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{kT}{C}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{\\frac{kT}{C}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{C}{kT}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\sqrt{kT}}{C}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The mean-square of a zero-mean random process is [latex]\\frac{kT}{C}[/latex], where k is Boltzmann's constant, T is  the  absolute  temperature,  and C is  a  capacitance.  The  standard  deviation  of  the  random process is",
+      "topic": "Probability and Statistics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519106",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "low pass filter"
+        },
+        {
+          "id": "B",
+          "text": "high pass filter"
+        },
+        {
+          "id": "C",
+          "text": "band pass filter"
+        },
+        {
+          "id": "D",
+          "text": "notch filter"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A system transfer function is [latex]H(s)=\\frac{a_1s^2+b_1s+c_1}{a_2s^2+b_2s+c_2}[/latex]. If [latex]a_1=b_1=0[/latex], and  all other coefficients are positive, the transfer function represents a",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519107",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]e^{+at}u(t)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]e^{-a(t+T)}u(t)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]1+e^{-at}u(t)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]e^{-a(t-T)}u(t)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The symbols, a and T, represent positive quantities, and u(t) is the unit step function. Which one of the following impulse responses is NOT the output of a causal linear time-invariant system?",
+      "topic": "Introduction of C.T. and D.T. signals",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519108",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4.50%"
+        },
+        {
+          "id": "B",
+          "text": "9%"
+        },
+        {
+          "id": "C",
+          "text": "5%"
+        },
+        {
+          "id": "D",
+          "text": "1%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 5 kVA, 50 V/100 V, single-phase transformer has a secondary terminal voltage of 95 V when loaded. The regulation of the transformer is",
+      "topic": "Transformers",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519109",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100Hz"
+        },
+        {
+          "id": "B",
+          "text": "150Hz"
+        },
+        {
+          "id": "C",
+          "text": "250Hz"
+        },
+        {
+          "id": "D",
+          "text": "300Hz"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A  six-pulse  thyristor bridge rectifier  is  connected to a balanced  three-phase, 50Hz AC source.  Assuming that the DC output current of the rectifier is constant, the lowest harmonic component in the AC input current is",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519110",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "rotor resistance"
+        },
+        {
+          "id": "B",
+          "text": "rotor leakage reactance"
+        },
+        {
+          "id": "C",
+          "text": "magnetizing reactance"
+        },
+        {
+          "id": "D",
+          "text": "stator resistance"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The parameter of an equivalent circuit of a three-phase induction motor affected by reducing the rms value of the supply voltage at the rated frequency is",
+      "topic": "Three Phase Induction Machines",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519111",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100 A"
+        },
+        {
+          "id": "B",
+          "text": "200 A"
+        },
+        {
+          "id": "C",
+          "text": "300 A"
+        },
+        {
+          "id": "D",
+          "text": "400 A"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A three-phase synchronous motor draws 200 A from the line at unity power factor at rated load. Considering the same line voltage and load, the line current at a power factor of 0.5 leading is",
+      "topic": "Synchronous Machines",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519113",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{1}{10\\sqrt{2}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]10\\sqrt{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{1}{100\\sqrt{2}}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]100\\sqrt{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The output response of a system is denoted as y(t), and its Laplace transform is given by [latex]Y(s)=\\frac{10}{s(s^2+s+100\\sqrt{2})}[/latex] The steady state value of y(t) is",
+      "topic": "Laplace Transform",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519114",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "(-0.5, j0)"
+        },
+        {
+          "id": "B",
+          "text": "(-0.75, j0)"
+        },
+        {
+          "id": "C",
+          "text": "(-1.25, j0)"
+        },
+        {
+          "id": "D",
+          "text": "(-1.5, j0)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The open loop transfer function of a unity feedback system is given by [latex]G(s)=\\frac{\\pi e^{-0.25s}}{s}[/latex] In G(s) plane, the Nyquist plot of G(s) passes through the negative real axis at the point",
+      "topic": "Frequency Response Analysis",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519115",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]0 \\lt  k \\lt  \\frac{12}{9}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]k \\gt  3[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0 \\lt  k \\lt  \\frac{8}{9}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]k \\gt 6[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The characteristic equation of a linear time-invariant (LTI) system is given by [latex]\\Delta (s)=s^4+3s^3+3s^2+s+k=0[/latex] The system is BIBO stable if",
+      "topic": "Control Systems",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519116",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]V_{gs} \\lt  V_{th};V_{ds}\\geq V_{gs}-V_{th}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]V_{gs} \\gt V_{th};V_{ds}\\geq V_{gs}-V_{th}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]V_{gs} \\gt V_{th};V_{ds}\\leq V_{gs}-V_{th}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]V_{gs} \\lt  V_{th};V_{ds}\\leq V_{gs}-V_{th}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Given, [latex]V_{gs}[/latex] is the gate-source voltage, [latex]V_{ds}[/latex] is the drain source voltage, and [latex]V_{th}[/latex] is the threshold voltage of an enhancement type NMOS transistor, the conditions for transistor to be biased in saturation are",
+      "topic": "BJT, FET and their Biasing Circuits",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519117",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "100[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "100k[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "1000k[latex]\\Omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A current controlled current source (CCCS) has an input impedance of 10 [latex]\\Omega[/latex] and output impedance of 100 k[latex]\\Omega[/latex]. When this CCCS is used in a negative feedback closedloop with a loop gain of 9, the closed loop output impedance is",
+      "topic": "Oscillators and Feedback Amplifiers",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519118",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]f=2x^3+3y^2+4z[/latex], the value of line integral [latex]\\int _c grad \\; f\\cdot dr[/latex] evaluated over  contour C formed by the segments (-3,-3,2) [latex]\\rightarrow[/latex] (2,-3,2) [latex]\\rightarrow[/latex] (2,6,2) [latex]\\rightarrow[/latex] (2,6,-1) is_______",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519121",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The [latex]Y_{bus}[/latex] matrix of a two-bus power system having two identical parallel lines connected between them in pu is given as [latex]Y_{bus}=\\begin{bmatrix} -j8 &j20 \\\\ j20 & -j8 \\end{bmatrix}[/latex] The magnitude of the series reactance of each line in pu (round off up to one decimal place) is ___________",
+      "topic": "Load Flow Studies",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519122",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Five  alternators  each  rated  5  MVA,  13.2  kV  with  25%  of  reactance  on  its  own  base  are connected in parallel to a busbar. The short-circuit level in MVA at the busbar is_________",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519123",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The total impedance of the secondary winding, leads, and burden of a 5 A CT is 0.01 [latex]\\Omega[/latex]. If the fault current is 20 times the rated primary current of the CT, the VA output of the CT is ________",
+      "topic": "Switch Gear and Protection",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519124",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The rank of the matrix, [latex]M=\\begin{bmatrix} 0 &1 &1 \\\\ 1& 0& 1\\\\ 1& 1& 0 \\end{bmatrix}[/latex], is ______",
+      "topic": "Linear Algebra",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519125",
+      "marks": 1,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The  output  voltage  of  a  single-phase  full  bridge  voltage  source  inverter  is  controlled  by unipolar PWM with one pulse per half cycle. For the fundamental rms component of output voltageto be 75% of DC voltage, the required pulse width in degrees (round off up to one decimal place) is _________",
+      "topic": "Inverters",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519126",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement 1 is true and statement 2 is false"
+        },
+        {
+          "id": "B",
+          "text": "Statement 2 is true and statement 1 is false"
+        },
+        {
+          "id": "C",
+          "text": "Both the statements are true"
+        },
+        {
+          "id": "D",
+          "text": "Both the statements are false"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a 2x2 matrix [latex]M=[v_1\\;\\; v_2][/latex], where, [latex]v_1\\;and \\; v_2[/latex] are the column vectors. Suppose [latex]M^{-1}=\\begin{bmatrix} u_1^T\\\\ u_2^T \\end{bmatrix}[/latex], where [latex]u_1^T \\; and \\; u_2^T[/latex] are the row vectors. Consider the following statements: Statement 1: [latex]u_1^T v_1=1\\; and \\; u_2^Tv_2=1[/latex] Statement 2: [latex]u_1^T v_2=0\\; and \\; u_2^Tv_1=0[/latex] Which of thefollowing options is correct?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519127",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]+8j\\pi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-8j\\pi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-4j\\pi[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]+4j\\pi[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The closed loop line integral [latex]\\oint _{|z|=5}\\frac{z^3+z^2+8}{z+2}dz[/latex] evaluated counter-clockwise, is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519128",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]a_1 =\\frac{A}{\\pi} ; \\; b_1=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]a_1 =\\frac{A}{2} ; \\; b_1=0[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]a_1 =0 ; \\; b_1=\\frac{A}{\\pi}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]a_1 =0 ; \\; b_1=\\frac{A}{2}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A periodic function [latex]f(t)[/latex], with a period of [latex]2\\pi[/latex], is represented as its Fourier series, [latex]f(t)=a_0+\\sum_{n=1}^{\\infty }a_n\\cos nt+\\sum_{n=1}^{\\infty }a_n\\sin nt[/latex]. If [latex]f(t)=\\left\\{\\begin{matrix} A \\sin t, & 0\\leq t\\leq \\pi\\\\ 0,& \\pi\\lt t\\lt 2\\pi \\end{matrix}\\right.[/latex] the Fourier series coefficients [latex]a_1 \\; and \\; b_1[/latex] of [latex]f(t)[/latex] are",
+      "topic": "Signals and Systems",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519130",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\sqrt{\\frac{3}{T^2}}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{\\frac{1}{3T^2}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\sqrt{3T}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\sqrt{3T^3}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The transfer function of a phase lead compensator is given by [latex]D(s)=\\frac{3\\left ( s+\\frac{1}{3T} \\right )}{\\left ( s+\\frac{1}{T} \\right )}[/latex] The frequency (in rad/sec), at which [latex]\\angle D(j\\omega )[/latex] is maximum, is",
+      "topic": "Design of Control Systems",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519131",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\xi =\\frac{\\beta }{\\sqrt{\\alpha }}; \\; \\omega _n=\\sqrt{\\alpha }[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\xi =\\sqrt{\\alpha }; \\; \\omega _n=\\frac{\\beta }{\\sqrt{\\alpha }}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\xi =\\frac{\\sqrt{\\alpha }}{\\beta }; \\; \\omega _n=\\sqrt{\\beta }[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\xi =\\sqrt{\\beta }; \\; \\omega _n=\\sqrt{\\alpha }[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a state-variable model of a system [latex]\\begin{bmatrix} \\dot{x_1}\\\\ \\dot{x_2} \\end{bmatrix}=\\begin{bmatrix} 0 &1 \\\\ -\\alpha &-2\\beta \\end{bmatrix}\\begin{bmatrix} x_1\\\\ x_2 \\end{bmatrix}+\\begin{bmatrix} 0\\\\ \\alpha \\end{bmatrix}r[/latex] [latex]y=[1\\;\\;0]\\begin{bmatrix} x_1\\\\ x_2 \\end{bmatrix}[/latex] where y is the output,  and r is  the  input.  The  damping  ratio [latex]\\xi[/latex] and the undamped natural frequency [latex]\\omega _n[/latex] (rad/sec) of the system are given by",
+      "topic": "State Variable Analysis",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519132",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "9[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "99[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "990[latex]\\Omega[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "9990[latex]\\Omega[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A moving coil instrument having a resistance of 10 [latex]\\Omega[/latex], gives a full-scale deflection when the current is 10 mA. What should be the value of the series resistance, so that it can be used as a voltmeter for measuring potential difference up to 100 V?",
+      "topic": "Galvanometers, Voltmeters and Ammeters",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519137",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "6 W"
+        },
+        {
+          "id": "B",
+          "text": "12 W"
+        },
+        {
+          "id": "C",
+          "text": "24 W"
+        },
+        {
+          "id": "D",
+          "text": "48 W"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A DC-DC buck converter operates in continuous conduction mode. It has 48 V input voltage, and it feeds a resistive load of 24 [latex]\\Omega[/latex]. The switching frequency of the converter is 250 Hz. If switch-on duration is 1 ms, the load power is",
+      "topic": "Power Electronics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519138",
+      "marks": 2,
+      "options": [
+        {
+          "id": "A",
+          "text": "12:00 AM"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{100}{\\sqrt{3}}[/latex] A"
+        },
+        {
+          "id": "C",
+          "text": "100 A"
+        },
+        {
+          "id": "D",
+          "text": "300 A"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The line currents of a three-phase four wire system are square waves with amplitude of 100 A. These three currents are phase shifted by 120[latex]^{\\circ}[/latex] with respect to each other. The rms value of neutral current is",
+      "topic": "Magnetically Coupled Circuits, Network Topology and Filters",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519139",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If A=2xi+3yj+4zk and [latex]u=x^2+y^2+z^2[/latex], then div(uA) at (1,1,1) is____",
+      "topic": "Engineering Mathematics",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519140",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The probability of a resistor being defective is 0.02. There are 50 such resistors in a circuit. The probability of two or more defective resistors in the circuit (round off to two decimal places)is ________",
+      "topic": "Probability and Statistics",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519141",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 0.1[latex]\\mu F[/latex] capacitor charged to 100 V is discharged through a 1 [latex]k\\Omega[/latex] resistor. The time in ms (round off to two decimal places) required for the voltage across the capacitor to drop to 1V is ______",
+      "topic": "Steady state AC Analysis",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519143",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The voltage across and the current through a load are expressed as follows [latex]v(t)=-170sin(377t-\\frac{\\pi}{6})V[/latex] [latex]i(t)=8 cos(377t+\\frac{\\pi}{6})A[/latex] The average power in watts (round off to one decimal place) consumed by the load is _______.",
+      "topic": "Measurement of Energy and Power",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519145",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A single-phase transformer of rating 25 kVA, supplies a 12 kW load at power factor of 0.6 lagging. The additional load at unity power factor in kW (round off to two decimal places) that may be added before this transformer exceeds its rated kVA is __________.",
+      "topic": "Transformers",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519146",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 220 V DC shunt motor takes 3 A at no-load. It draws 25 A when running at full-load at 1500 rpm. The armature and shunt resistances are 0.5 [latex]\\Omega[/latex] and 220 [latex]\\Omega[/latex],respectively. The no-load speed in rpm (round off to two decimal places) is ________",
+      "topic": "Electrical Machines",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519147",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A delta-connected, 3.7 kW, 400 V(line), three-phase, 4-pole, 50-Hz squirrel-cage induction motor  has  the  following  equivalent circuit  parameters  per  phase  referred  to  the  stator: [latex]R_1=5.39\\Omega,R_2=5.72\\Omega,X_1=X_2=8.22\\Omega[/latex]. Neglect  shunt  branch  in  the  equivalent circuit.  The  starting  line  current  in  amperes (round  off  to  two  decimal  places) when  it  is connected to a 100 V (line), 10 Hz, three-phase AC source is ______",
+      "topic": "Three Phase Induction Machines",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519148",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 220 V (line), three-phase, Y-connected, synchronous motor has a synchronous impedance of (0.25+j2.5)[latex]\\Omega[/latex]/phase. The motor draws the rated current of 10 A at 0.8 pf leading. The rms  value  of line-to-line internal voltage  in  volts (round  off  to  two  decimal  places) is __________.",
+      "topic": "Synchronous Machines",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519149",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A  three-phase  50  Hz,  400  kV  transmission  line  is  300  km  long.  The  line  inductance  is 1 mH/km per phase, and the capacitance is 0.01 [latex]\\mu F/km[/latex] per phase. The line is under open circuit condition at  the  receiving  end  and  energized  with  400  kV  at  the  sending  end, the receiving end line voltage in kV (round off to two decimal places) will be ___________.",
+      "topic": "Performance of Transmission Lines, Line Parameters and Corona",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519150",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A 30 kV, 50 Hz, 50 MVA generator has the positive, negative, and zero sequence reactancesof 0.25 pu, 0.15 pu, and 0.05 pu, respectively. The neutral of the generator is grounded with a reactance so that the fault current for a bolted LG fault and that of a bolted three-phase fault at the generator terminal are equal. The value of grounding reactance in ohms (round off to one decimal place) is ______",
+      "topic": "Power Systems",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519152",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In  a  132  kV  system,  the series inductance up to the  point  of  circuit  breaker  locationis  50 mH. The shunt capacitanceat the circuit breaker terminal is 0.05 [latex]\\mu F[/latex]. The critical value of resistance in ohms required to be  connected across the circuit breaker contacts which will give no transient oscillation is_____",
+      "topic": "Switch Gear and Protection",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519153",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "In  a  DC-DC  boost  converter, the  duty  ratio  is  controlled  to  regulate  the  output  voltage at 48 V. The input DC voltage is 24 V. The output power is 120 W. The switching frequency is 50 kHz. Assume ideal components and a very large output filter capacitor. The converter operates  at  the  boundary  between  continuous  and  discontinuous  conduction  modes.  The value of the boost inductor (in [latex]\\mu H[/latex]) is _______.",
+      "topic": "Power Electronics",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519154",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A fully-controlled three-phase bridge converter is working from a 415V, 50 Hz AC supply. It is supplying  constant current of 100 A at 400  V to a DC  load.  Assume large inductive smoothing and neglect overlap. The rms value of the AC line currentin amperes (round off to two decimal places) is ________.",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "1519155",
+      "marks": 2,
+      "options": [],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "A  single-phase  fully-controlled  thyristor converter is used to obtain an  average  voltage of 180 V with 10 A constant current to feed a DC load. It is fed from single-phase AC supply of 230 V, 50 Hz. Neglect the source impedance. The power factor (round off to two decimal places) of AC mains is________",
+      "topic": "Phase Controlled Rectifiers",
+      "type": "NAT",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "11910215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4 and 9"
+        },
+        {
+          "id": "B",
+          "text": "2 and 3"
+        },
+        {
+          "id": "C",
+          "text": "-2 and -3"
+        },
+        {
+          "id": "D",
+          "text": "16 and 81"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "M is a 2x2 matrix with eigenvalues 4 and 9. The eigenvalues of [latex]M^2[/latex] are",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "11910315",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "heat equation"
+        },
+        {
+          "id": "B",
+          "text": "wave equation"
+        },
+        {
+          "id": "C",
+          "text": "Poisson's equation"
+        },
+        {
+          "id": "D",
+          "text": "Laplace equation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The partial differential equation [latex]\\frac{\\partial^2 u}{\\partial t^2}-c^2\\left ( \\frac{\\partial^2 u}{\\partial x^2}+\\frac{\\partial^2 u}{\\partial y^2} \\right )=0[/latex]; where [latex]c\\neq 0[/latex] is known as",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "11910415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{z^2-1}{z}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\frac{z^2-1}{z+2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{z^2-1}{z-0.5}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{z^2-1}{z+j0.5}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Which one of the following functions is analytic in the region [latex]|z|\\leq 1[/latex]?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "11910515",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\frac{kT}{C}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\sqrt{\\frac{kT}{C}}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\frac{C}{kT}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\frac{\\sqrt{kT}}{C}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The mean-square of a zero-mean random process is [latex]\\frac{kT}{C}[/latex], where k is Boltzmann's constant, T is  the  absolute  temperature,  and C is  a  capacitance.  The  standard  deviation  of  the  random process is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "11911815",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "112"
+        },
+        {
+          "id": "B",
+          "text": "139"
+        },
+        {
+          "id": "C",
+          "text": "156"
+        },
+        {
+          "id": "D",
+          "text": "186"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If [latex]f=2x^3+3y^2+4z[/latex], the value of line integral [latex]\\int _c grad \\; f\\cdot dr[/latex] evaluated over  contour C formed by the segments (-3,-3,2) [latex]\\rightarrow[/latex] (2,-3,2) [latex]\\rightarrow[/latex] (2,6,2) [latex]\\rightarrow[/latex] (2,6,-1) is_______",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "11912415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The rank of the matrix, [latex]M=\\begin{bmatrix} 0 &1 &1 \\\\ 1& 0& 1\\\\ 1& 1& 0 \\end{bmatrix}[/latex], is ______",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "11912615",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement 1 is true and statement 2 is false"
+        },
+        {
+          "id": "B",
+          "text": "Statement 2 is true and statement 1 is false"
+        },
+        {
+          "id": "C",
+          "text": "Both the statements are true"
+        },
+        {
+          "id": "D",
+          "text": "Both the statements are false"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "Consider a 2x2 matrix [latex]M=[v_1\\;\\; v_2][/latex], where, [latex]v_1\\;and \\; v_2[/latex] are the column vectors. Suppose [latex]M^{-1}=\\begin{bmatrix} u_1^T\\\\ u_2^T \\end{bmatrix}[/latex], where [latex]u_1^T \\; and \\; u_2^T[/latex] are the row vectors. Consider the following statements: Statement 1: [latex]u_1^T v_1=1\\; and \\; u_2^Tv_2=1[/latex] Statement 2: [latex]u_1^T v_2=0\\; and \\; u_2^Tv_1=0[/latex] Which of thefollowing options is correct?",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "11912715",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]+8j\\pi[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]-8j\\pi[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]-4j\\pi[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]+4j\\pi[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The closed loop line integral [latex]\\oint _{|z|=5}\\frac{z^3+z^2+8}{z+2}dz[/latex] evaluated counter-clockwise, is",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "11913915",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "45"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "60"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "If A=2xi+3yj+4zk and [latex]u=x^2+y^2+z^2[/latex], then div(uA) at (1,1,1) is____",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    },
+    {
+      "branch": "EE",
+      "id": "11914015",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1"
+        },
+        {
+          "id": "B",
+          "text": "0.26"
+        },
+        {
+          "id": "C",
+          "text": "0.65"
+        },
+        {
+          "id": "D",
+          "text": "0.85"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Electrical Engineering",
+      "text": "The probability of a resistor being defective is 0.02. There are 50 such resistors in a circuit. The probability of two or more defective resistors in the circuit (round off to two decimal places)is ________",
+      "topic": "Engineering Mathematics",
+      "type": "MCQ",
+      "year": 2019
+    }
+  ],
+  "schema_version": 1
+}

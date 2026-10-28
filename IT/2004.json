@@ -1,0 +1,2609 @@
+{
+  "questions": [
+    {
+      "branch": "IT",
+      "id": "1104201",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left(\\dfrac{3}{23}\\right)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left(\\dfrac{6}{23}\\right)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left(\\dfrac{3}{10}\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left(\\dfrac{3}{5}\\right)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In a population of N families, 50% of the families have three children, 30% of the families have two children and the remaining families have one child. What is the probability that a randomly picked child belongs to a family with two children?",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104202",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "30"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In a class of 200 students, 125 students have taken Programming Language course, 85 students have taken Data Structures course, 65 students have taken Computer Organization course; 50 students have taken both Programming Language and Data Structures, 35 students have taken both Programming Language and Computer Organization; 30 students have taken both Data Structures and Computer Organization, 15 students have taken all the three courses.\n\nHow many students have not taken any of the three courses?",
+      "topic": "Set Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104203",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](\\forall x)(\\exists y)[(a(x, y) \\vee b(x, y)) \\to c(x, y)][/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](\\exists x)(\\forall y)[(a(x, y) \\vee b(x, y)) \\wedge\\neg c(x, y)][/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\neg (\\forall x)(\\exists y)[(a(x, y) \\wedge b(x, y)) \\to c(x, y)][/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\neg (\\forall x)(\\exists y)[(a(x, y) \\vee b(x, y)) \\to c(x, y)][/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let a(x, y), b(x, y,) and c(x, y) be three statements with variables x and y chosen from some universe. Consider the following statement: [latex]\\qquad(\\exists x)(\\forall y)[(a(x, y) \\wedge b(x, y)) \\wedge \\neg c(x, y)][/latex] Which one of the following is its equivalent?",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104204",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]R_{1}R_{2} = {(1, 2), (1, 4), (3, 3), (5, 4), (7, 3)}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]R_{1}R_{2} = {(1, 2), (1, 3), (3, 2), (5, 2), (7, 3)}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]R_{1}R_{2} = {(1, 2), (3, 2), (3, 4), (5, 4), (7, 2)}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]R_{1}R_{2} = {(3, 2), (3, 4), (5, 1), (5, 3), (7, 1)}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let [latex]R_{1}[/latex] be a relation from [latex]A =\\left \\{ 1,3,5,7 \\right \\}[/latex] to [latex]B = \\left \\{ 2,4,6,8 \\right \\}. R_{2}[/latex] be another relation from B to C = {1, 2, 3, 4} as defined below: i. An element x in A is related to an element y in B (under [latex]R_{1}[/latex]) if x + y is divisible by 3. ii. An element x in B is related to an element y in C (under [latex]R_{2}[/latex]) if x + y is even but not divisible by 3. Which is the composite relation [latex]R_{1}R_{2}[/latex] from A to C?",
+      "topic": "Relation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104205",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "n-1"
+        },
+        {
+          "id": "B",
+          "text": "n"
+        },
+        {
+          "id": "C",
+          "text": "n+1"
+        },
+        {
+          "id": "D",
+          "text": "2n-1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "What is the maximum number of edges in an acyclic undirected graph with n vertices?",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104206",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x = 6, y = 3, z = 2"
+        },
+        {
+          "id": "B",
+          "text": "x = 12, y = 3, z = - 4"
+        },
+        {
+          "id": "C",
+          "text": "x = 6, y = 6, z = - 4"
+        },
+        {
+          "id": "D",
+          "text": "x = 12, y = - 3, z = 0"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "What values of x, y and z satisfy the following system of linear equations? [latex]\\begin{bmatrix} 1 &2 &3 \\\\ 1& 3 &4 \\\\ 2& 2 &3 \\end{bmatrix} \\begin{bmatrix} x\\\\y \\\\ z \\end{bmatrix} = \\begin{bmatrix} 6\\\\8 \\\\ 12 \\end{bmatrix}[/latex]",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104207",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](a^* + b^* + c^*)^*[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](a^*b^*c^*)^*[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]((ab)^* + c^*)^*[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](a^*b^* + c^*)^*[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Which one of the following regular expressions is NOT equivalent to the regular expression [latex](a + b + c)^*?[/latex]",
+      "topic": "Regular Expression",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104208",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "What is the minimum number of NAND gates required to implement a 2-input EXCLUSIVE-OR function without using any other logic gate?",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104209",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "There exist context-free languages such that all the context-free grammars generating them are ambiguous"
+        },
+        {
+          "id": "B",
+          "text": "An unambiguous context-free grammar always has a unique parse tree for each string of the language generated by it"
+        },
+        {
+          "id": "C",
+          "text": "Both deterministic and non-deterministic pushdown automata always accept the same set of languages"
+        },
+        {
+          "id": "D",
+          "text": "A finite set of string from some alphabet is always a regular language"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Which one of the following statements is FALSE?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104210",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "32 K [latex]\\times[/latex] 16 bits"
+        },
+        {
+          "id": "B",
+          "text": "64 K [latex]\\times[/latex] 16 bits"
+        },
+        {
+          "id": "C",
+          "text": "16 K [latex]\\times[/latex] 32 bits"
+        },
+        {
+          "id": "D",
+          "text": "64 K [latex]\\times[/latex] 32 bits"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "What is the minimum size of ROM required to store the complete truth table of an 8-bit [latex]\\times[/latex] 8-bit multiplier?",
+      "topic": "Memory Chip Design",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104211",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]8 \\text{Mbps}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]6.4 \\text{Mbps}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]0.8 \\text{Mbps}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0.64 \\text{Mbps}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "What is the bit rate of a video terminal unit with 80 characters/line, 8 bits/character and horizontal sweep time of 100 [latex]\\mu s[/latex] (including 20 [latex]\\mu s[/latex] of retrace time)?",
+      "topic": "IO Interface",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104212",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "13"
+        },
+        {
+          "id": "B",
+          "text": "12.8"
+        },
+        {
+          "id": "C",
+          "text": "12.6"
+        },
+        {
+          "id": "D",
+          "text": "12.4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider a system with 2 level cache. Access times of Level 1 cache, Level 2 cache and main memory are 1 ns, 10 ns, and 500 ns respectively. The hit rates of Level 1 and Level 2 caches are 0.8 and 0.9, respectively. What is the average access time of the system ignoring the search time within the cache?",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104213",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]O(n)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]O(\\log^2 n)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]O(\\log n)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]O(1)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let P be a singly linked list. Let Q be the pointer to an intermediate node x in the list. What is the worst-case time complexity of the best-known algorithm to delete the node x from the list ?",
+      "topic": "Link List",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104214",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Stack"
+        },
+        {
+          "id": "B",
+          "text": "Address Space"
+        },
+        {
+          "id": "C",
+          "text": "File Descriptor Table"
+        },
+        {
+          "id": "D",
+          "text": "Message Queue"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Which one of the following is NOT shared by the threads of the same process ?",
+      "topic": "Thread",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104215",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "x = 1 + x;"
+        },
+        {
+          "id": "B",
+          "text": "x  = 1 - x;"
+        },
+        {
+          "id": "C",
+          "text": "x = x - 1;"
+        },
+        {
+          "id": "D",
+          "text": "x = 1% x;"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let x be an integer which can take a value of 0 or 1. The statement if (x == 0) x = 1; else x = 0; is equivalent to which one of the following ?",
+      "topic": "Conditional Statement",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104216",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "II and III"
+        },
+        {
+          "id": "B",
+          "text": "II and IV"
+        },
+        {
+          "id": "C",
+          "text": "I and III"
+        },
+        {
+          "id": "D",
+          "text": "II only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Which of the following commands or sequences of commands will rename a file x to file y in a Unix system ? I. mv y, x II. mv x, y III. cp y, x (rm x) IV. cp x, y (rm x)",
+      "topic": "System Call",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104217",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "effort and duration based on the size of the software"
+        },
+        {
+          "id": "B",
+          "text": "size and duration based on the effort of the software"
+        },
+        {
+          "id": "C",
+          "text": "effort and cost based on the duration of the software"
+        },
+        {
+          "id": "D",
+          "text": "size, effort and duration based on the cost of the software"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In a software project, COCOMO (Constructive Cost Model) is used to estimat",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104218",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Entity Relationship Diagram"
+        },
+        {
+          "id": "B",
+          "text": "Deployment Diagram"
+        },
+        {
+          "id": "C",
+          "text": "Data Flow Diagram"
+        },
+        {
+          "id": "D",
+          "text": "Use Case Diagram"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "The diagram that helps in understanding and representing user requirements for a software project using UML (Unified Modeling Language) is",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104219",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Defect Detection"
+        },
+        {
+          "id": "B",
+          "text": "Defect Prevention"
+        },
+        {
+          "id": "C",
+          "text": "Defect Isolation"
+        },
+        {
+          "id": "D",
+          "text": "Defect Propagation"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A software organization has been assessed at SEI CMM Level 4. Which of the following does the organization need to practice beside Process Change Management and Technology Change Management in order to achieve Level 5?",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104220",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "keeping track of the schedule based on the milestones reached"
+        },
+        {
+          "id": "B",
+          "text": "maintaining different versions of the configurable items"
+        },
+        {
+          "id": "C",
+          "text": "managing manpower distribution by changing the project structure"
+        },
+        {
+          "id": "D",
+          "text": "all of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A software configuration management tool helps in",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104221",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Page"
+        },
+        {
+          "id": "B",
+          "text": "Table"
+        },
+        {
+          "id": "C",
+          "text": "Row"
+        },
+        {
+          "id": "D",
+          "text": "Page, table and row level locking allow the same degree of concurrency"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Which level of locking provides the highest degree of concurrency in a relational database ?",
+      "topic": "Transaction",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104222",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Packet switching leads to better utilization of bandwidth resources than circuit switching"
+        },
+        {
+          "id": "B",
+          "text": "Packet switching results in less variation in delay than circuit switching"
+        },
+        {
+          "id": "C",
+          "text": "Packet switching requires more per-packet processing than circuit switching"
+        },
+        {
+          "id": "D",
+          "text": "Packet switching can lead to reordering unlike in circuit switching"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Which one of the following statements is FALSE?",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104223",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "TCP guarantees a minimum communication rate"
+        },
+        {
+          "id": "B",
+          "text": "TCP ensures in-order delivery"
+        },
+        {
+          "id": "C",
+          "text": "TCP reacts to congestion by reducing sender window size"
+        },
+        {
+          "id": "D",
+          "text": "TCP employs retransmission to compensate for packet loss"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Which one of the following statements is FALSE?",
+      "topic": "Transport Layer Protocol",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104224",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "HTTP runs over TCP"
+        },
+        {
+          "id": "B",
+          "text": "HTTP describes the structure of web pages"
+        },
+        {
+          "id": "C",
+          "text": "HTTP allows information to be stored in a URL"
+        },
+        {
+          "id": "D",
+          "text": "HTTP can be used to test the validity of a hypertext link"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Which one of the following statements is FALSE?",
+      "topic": "Web Technology",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104225",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Sender encrypts using receiver's public key"
+        },
+        {
+          "id": "B",
+          "text": "Sender encrypts using his own public key"
+        },
+        {
+          "id": "C",
+          "text": "Receiver decrypts using sender's public key"
+        },
+        {
+          "id": "D",
+          "text": "Receiver decrypts using his own public key"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A sender is employing public key cryptography to send a secret message to a receiver. Which one of the following statements is TRUE?",
+      "topic": "Network Security",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104226",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "14"
+        },
+        {
+          "id": "B",
+          "text": "30"
+        },
+        {
+          "id": "C",
+          "text": "62"
+        },
+        {
+          "id": "D",
+          "text": "126"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A subnet has been assigned a subnet mask of 255.255.255.192. What is the maximum number of hosts that can belong to this subnet?",
+      "topic": "Network Layer Protocol",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104227",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "the subnet to which the host belongs"
+        },
+        {
+          "id": "B",
+          "text": "the Department network"
+        },
+        {
+          "id": "C",
+          "text": "the University network"
+        },
+        {
+          "id": "D",
+          "text": "the Internet"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A host is connected to a Department network which is part of a University network. The University network, in turn, is part of the Internet. The largest network in which the Ethernet address of the host is unique is",
+      "topic": "Network Layer Protocol",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104228",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "byte"
+        },
+        {
+          "id": "B",
+          "text": "word"
+        },
+        {
+          "id": "C",
+          "text": "segment"
+        },
+        {
+          "id": "D",
+          "text": "message"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In TCP, a unique sequence number is assigned to each",
+      "topic": "Transport Layer Protocol",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104229",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "session and request only"
+        },
+        {
+          "id": "B",
+          "text": "request and response only"
+        },
+        {
+          "id": "C",
+          "text": "response and session only"
+        },
+        {
+          "id": "D",
+          "text": "session, request and response"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Which of the following objects can be used in expressions and scriplets in JSP (Java Server Pages) without explicitly declaring them?",
+      "topic": "Web Technology",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104230",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I and II only"
+        },
+        {
+          "id": "B",
+          "text": "II and III only"
+        },
+        {
+          "id": "C",
+          "text": "I and III only"
+        },
+        {
+          "id": "D",
+          "text": "I, II and III"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider the following statements: I. telnet, ftp and http are application layer protocols. II. EJB (Enterprise Java Beans) components can be deployed in a J2EE (Java2 Enterprise Edition) application server. III. If two languages conform to the Common Language Specification (CLS) of the Microsoft.NET frame work, then a class defined in any one of them may be inherited in the other. Which statements are true?",
+      "topic": "Computer Network",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104231",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P and Q only"
+        },
+        {
+          "id": "B",
+          "text": "P and R only"
+        },
+        {
+          "id": "C",
+          "text": "P and S only"
+        },
+        {
+          "id": "D",
+          "text": "P,Q,R and S"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let p,q,r and s be four primitive statements. Consider the following arguments: [latex]\\begin{array}{l} P:[(\\neg p \\vee q) \\wedge(r \\rightarrow s) \\wedge(p \\vee r)] \\rightarrow(\\neg s \\rightarrow q) \\\\ Q:[(\\neg p \\wedge q) \\wedge[q \\rightarrow(p \\rightarrow r)]] \\rightarrow \\neg r \\\\ R:[[(q \\wedge r) \\rightarrow p] \\wedge(\\neg q \\vee p)] \\rightarrow r \\\\ S:[p \\wedge(p \\rightarrow r) \\wedge(q \\vee \\neg r)] \\rightarrow q \\end{array}[/latex] Which of the above arguments are valid?",
+      "topic": "Propositional Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104232",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left(\\frac{5+\\sqrt3}{2}\\right)^{n-1} \\left(\\frac{5\\sqrt3 + 7}{2 \\sqrt 3}\\right) +\\left(\\frac{5-\\sqrt3}{2}\\right)^{n-1} \\left(\\frac{5\\sqrt3 - 7}{2 \\sqrt 3}\\right)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\left(\\frac{7+\\sqrt5}{2}\\right)^{n-1} \\left(\\frac{7\\sqrt5 + 3}{2 \\sqrt 5}\\right) +\\left(\\frac{7-\\sqrt5}{2}\\right)^{n-1} \\left(\\frac{7\\sqrt5 - 3}{2 \\sqrt 5}\\right)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left(\\frac{3+\\sqrt7}{2}\\right)^{n-1} \\left(\\frac{3\\sqrt7 + 5}{2 \\sqrt 7}\\right) +\\left(\\frac{3-\\sqrt7}{2}\\right)^{n-1} \\left(\\frac{3\\sqrt7 - 5}{2 \\sqrt 7}\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\left(\\frac{3+\\sqrt5}{2}\\right)^{n-1} \\left(\\frac{3\\sqrt5 + 7}{2 \\sqrt 5}\\right) + \\left(\\frac{3-\\sqrt5}{2}\\right)^{n-1} \\left(\\frac{3\\sqrt5 - 7}{2 \\sqrt 5}\\right)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let A be an [latex]n \\times n[/latex] matrix of the following form. [latex]A = \\begin{bmatrix}3&1&0&0&0&\\ldots&0&0&0\\\\ 1&3&1&0&0&\\ldots&0&0&0\\\\ 0&1&3&1&0&\\ldots&0&0&0\\\\ 0&0&1&3&1&\\ldots&0&0&0\\\\ \\ldots\\\\ \\ldots \\\\ 0&0&0&0&0&\\ldots&1&3&1\\\\ 0&0&0&0&0&\\ldots&0&1&3\\\\ \\end{bmatrix}_{n\\times n}[/latex] What is the value of the determinant of A?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104233",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\left(\\dfrac{1}{\\alpha + \\beta}\\right)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\min (\\alpha, \\beta)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\left(\\dfrac{\\alpha\\beta}{\\alpha + \\beta}\\right)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\alpha + \\beta[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let [latex]X[/latex] and [latex]Y[/latex] be two exponentially distributed and independent random variables with mean [latex]\\alpha \\text{ and }\\beta[/latex], respectively. If [latex]Z=min(X,Y)[/latex], then the mean of [latex]Z[/latex] is given by",
+      "topic": "Probability Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104234",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]nH_{n+1} - (n + 1)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](n + 1)H_n - n[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]nH_n - n[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](n + 1) H_{n+1} - (n + 1)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let [latex]H_1, H_2, H_3, ...[/latex] be harmonic numbers. Then, for [latex]n \\in Z^+, \\sum_{j=1}^{n} H_j[/latex] can be expressed as",
+      "topic": "Recurrence",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104235",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "44"
+        },
+        {
+          "id": "B",
+          "text": "96"
+        },
+        {
+          "id": "C",
+          "text": "120"
+        },
+        {
+          "id": "D",
+          "text": "3125"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In how many ways can we distribute 5 distinct balls, [latex]B_1, B_2, \\ldots, B_5[/latex] in 5 distinct cells, [latex]C_1, C_2, \\ldots, C_5[/latex] such that Ball [latex]B_i[/latex] is not in cell [latex]C_i, \\forall i= 1,2,\\ldots 5[/latex] and each cell contains exactly one ball?",
+      "topic": "Discrete Mathematics",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104236",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\begin{bmatrix} 1-a &-1 \\\\ a^2& a \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\begin{bmatrix} 1-a &-1 \\\\ a^2-a+1& a \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\begin{bmatrix} -a &1 \\\\ -a^2+a-1& 1-a \\end{bmatrix}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\begin{bmatrix} a^2-a+1 &a \\\\ 1& 1-a \\end{bmatrix}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "If matrix [latex]X = \\begin{bmatrix} a & 1 \\\\ -a^2+a-1 & 1-a \\end{bmatrix}[/latex]  and [latex]X^2 - X + I = O[/latex] ([latex]I[/latex] is the identity matrix and [latex]O[/latex] is the zero matrix), then the inverse of [latex]X[/latex] is",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104237",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "11"
+        },
+        {
+          "id": "C",
+          "text": "18"
+        },
+        {
+          "id": "D",
+          "text": "19"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "What is the number of vertices in an undirected connected graph with 27 edges, 6 vertices of degree 2, 3 vertices of degree 4 and remaining of degree 3?",
+      "topic": "Graph Theory",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104238",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "8(1/3)"
+        },
+        {
+          "id": "C",
+          "text": "8(2/3)"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "If f(l) = 2, f(2) = 4 and f(4) = 16, what is the value of f(3) using Lagrange's interpolation formula?",
+      "topic": "Numerical Method",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104240",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "aaa"
+        },
+        {
+          "id": "B",
+          "text": "aabab"
+        },
+        {
+          "id": "C",
+          "text": "baaba"
+        },
+        {
+          "id": "D",
+          "text": "bab"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let [latex]M=(K, \\Sigma, \\Gamma, \\Delta, s, F)[/latex] be a pushdown automaton, where [latex]K=(s, f), F=\\{f\\}, \\Sigma=\\{a, b\\}, \\Gamma=\\{a\\} \\text { and }[/latex] [latex]\\Delta=\\{((s, a, \\epsilon),(s, a)),((s, b, \\epsilon),(s, a)),((s, a, a),(f, \\epsilon)),((f, a, a),(f, \\epsilon)) ((f, b, a),(f, \\epsilon))\\}[/latex] Which one of the following strings is not a member of L(M)?",
+      "topic": "Push-down Automata",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104241",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]\\{A \\rightarrow a B, A \\rightarrow b A, B \\rightarrow b A, B \\rightarrow a A, B \\rightarrow \\epsilon)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\{A \\rightarrow a A, A \\rightarrow b B, B \\rightarrow a B, B \\rightarrow b A, B \\rightarrow \\epsilon)[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\{A \\rightarrow b B, A \\rightarrow a B, B \\rightarrow a A, B \\rightarrow b A, B \\rightarrow \\epsilon)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\{A \\rightarrow a A, A \\rightarrow b A, B \\rightarrow a B, B \\rightarrow b A, A \\rightarrow \\epsilon)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let [latex]M=(K, \\Sigma,\\sigma ,s, F)[/latex] be a finite state automaton, where [latex]K=\\{A, B\\}, \\Sigma=\\{a, b\\}, s=A, F=\\{B\\}[/latex] [latex]\\sigma(A, a)=A, \\sigma(A, b)=B, \\sigma(B, a)=B \\text { and } \\sigma(B, b)=A[/latex] A grammar to generate the language accepted by M can be specified as [latex]G=(V, \\Sigma, R, S), \\text { where } V=K \\cup \\Sigma, \\text { and } S=A[/latex] Which one of the following set of rules will make L(G) = L(M) ?",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104242",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "i only"
+        },
+        {
+          "id": "B",
+          "text": "ii only"
+        },
+        {
+          "id": "C",
+          "text": "iii only"
+        },
+        {
+          "id": "D",
+          "text": "i and iii only"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Using a 4-bit 2's complement arithmetic, which of the following additions will result in an overflow? I.   1100 + 1100 II.  0011 + 0111 III. 1111 + 0111",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104243",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex](A72E)_{16}[/latex] and [latex](22130232)_4[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex](A72E)_{16}[/latex] and [latex](22131122)_4[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex](A73E)_{16}[/latex] and [latex](22130232)_4[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex](A62E)_{16}[/latex] and [latex](22120232)_4[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "The number [latex](123456)_8[/latex] is equivalent to",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104244",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]A \\bar C + AB+ \\bar A C[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]A \\bar B+ A \\bar C+ \\bar A C[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]\\bar A B+ A \\bar C+ A \\bar B[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\bar AB+ AC+ A \\bar B[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "The function [latex]A \\bar B C + \\bar A B C + AB \\bar C+ \\bar A \\bar B C+ A \\bar B \\bar C[/latex] is equivalent to",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104245",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "100 characters/sec, 153 characters/sec"
+        },
+        {
+          "id": "B",
+          "text": "80 characters/sec, 136 characters/sec"
+        },
+        {
+          "id": "C",
+          "text": "100 characters/sec, 136 characters/sec"
+        },
+        {
+          "id": "D",
+          "text": "80 characters/sec, 153 characters/sec"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A serial transmission T1 uses 8 information bits, 2 start bits, 1 stop bit and 1 parity bit for each character. A synchronous transmission T2 uses 3 eight-bit sync characters followed by 30 eight-bit information characters. If the bit rate is 1200 bits/second in both cases, what are the transfer rates of  T1 and T2?",
+      "topic": "Physical Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104246",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "R1 [latex]\\rightarrow[/latex] R3\nR2 [latex]\\rightarrow[/latex] M[100]"
+        },
+        {
+          "id": "B",
+          "text": "M[100] [latex]\\rightarrow[/latex] R2\nR1 [latex]\\rightarrow[/latex] R2\nR1 [latex]\\rightarrow[/latex] R3"
+        },
+        {
+          "id": "C",
+          "text": "R1 [latex]\\rightarrow[/latex] M[100]\nR2 [latex]\\rightarrow[/latex] R3"
+        },
+        {
+          "id": "D",
+          "text": "R1 [latex]\\rightarrow[/latex] R2\r\nR1 [latex]\\rightarrow[/latex] R3\r\nR1 [latex]\\rightarrow[/latex] M[100]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "If we use internal data forwarding to speed up the performance of a CPU (R1, R2 and R3 are registers and M[100] is a memory reference), then the sequence of operations R1 [latex]\\rightarrow[/latex] M[100] M[100] [latex]\\rightarrow[/latex] R2 M[100] [latex]\\rightarrow[/latex] R3 can be replaced by",
+      "topic": "Machine Instruction",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104247",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "11 ns"
+        },
+        {
+          "id": "B",
+          "text": "12 ns"
+        },
+        {
+          "id": "C",
+          "text": "13 ns"
+        },
+        {
+          "id": "D",
+          "text": "28 ns"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider a pipeline processor with 4 stages S1 to S4. We want to execute the following loop: for (i = 1; i < = 1000; i++) \r\n    {I1, I2, I3, I4} where the time taken (in ns) by instructions I1 to I4 for stages S1 to S4 are given below: [latex]\\begin{array}{|c|c|c|c|c|} \\hline & \\textbf {$S _1$} &\\textbf {$S _2$} & \\textbf {$S _3$} & \\textbf{$S _4$ } \\\\\\hline \\textbf{I1}& \\text{$1$} & \\text{$2$} & \\text{$1$} & \\text{$2$} \\\\\\hline \\textbf{I2} & \\text{$2$} & \\text{$1$} & \\text{$2$} & \\text{$1$}\\\\\\hline \\textbf{I3}& \\text{$1$} & \\text{$1$} & \\text{$2$} & \\text{$1$} \\\\\\hline \\textbf{I4} & \\text{$2$} & \\text{$1$} & \\text{$2$} & \\text{$1$} \\\\\\hline \\end{array}[/latex] The output of  I1 for i = 2 will be available after",
+      "topic": "Pipeline Processor",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104248",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider a fully associative cache with 8 cache blocks (numbered 0-7) and the following sequence of memory block requests: 4,3,25,8,19,6,25,8,16,35,45,22,8,3,16,25,7 If LRU replacement policy is used, which cache block will have memory block 7?",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104249",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "T1.I1 + T2.I3 + T4.I3 + T3"
+        },
+        {
+          "id": "B",
+          "text": "(T1 + T2 + T3).I3 + T1.I1"
+        },
+        {
+          "id": "C",
+          "text": "(T1 + T2 ).I1 + (T2 + T4).I3 + T3"
+        },
+        {
+          "id": "D",
+          "text": "(T1 + T2 ).I2 + (T1 + T3).I1 + T3"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A CPU has only three instructions I1, I2 and I3, which use the following signals in time steps T1-T5: I1 : T1 : Ain, Bout, Cin T2 : PCout, Bin T3 : Zout, Ain T4 : Bin, Cout T5 : End I2 : T1 : Cin, Bout, Din T2 : Aout, Bin T3 : Zout, Ain T4 : Bin, Cout T5 : End I3 : T1 : Din, Aout T2 : Ain, Bout T3 : Zout, Ain T4 : Dout, Ain T5 : End Which of the following logic functions will generate the hardwired control for the signal Ain ?",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104250",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1.155"
+        },
+        {
+          "id": "B",
+          "text": "1.185"
+        },
+        {
+          "id": "C",
+          "text": "1.255"
+        },
+        {
+          "id": "D",
+          "text": "1.285"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In an enhancement of a design of a CPU, the speed of a floating point unit has been increased by 20% and the speed of a fixed point unit has been increased by 10%. What is the overall speedup achieved if the ratio of the number of floating point operations to the number of fixed point operations is 2:3 and the floating point operation used to take twice the time taken by the fixed point operation in the original design?",
+      "topic": "Pipeline Processor",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104251",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0.50%"
+        },
+        {
+          "id": "B",
+          "text": "1%"
+        },
+        {
+          "id": "C",
+          "text": "5%"
+        },
+        {
+          "id": "D",
+          "text": "10%"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "The storage area of a disk has the innermost diameter of 10 cm and outermost diameter of 20 cm. The maximum storage density of the disk is 1400 bits/cm. The disk rotates at a speed of 4200 RPM. The main memory of a computer has 64-bit word length and 1[latex]\\mu s[/latex] cycle time. If cycle stealing is used for data transfer from the disk, the percentage of memory cycles stolen for transferring one word is",
+      "topic": "Secondary Storage",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104252",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "abcd"
+        },
+        {
+          "id": "B",
+          "text": "dcba"
+        },
+        {
+          "id": "C",
+          "text": "cbad"
+        },
+        {
+          "id": "D",
+          "text": "cabd"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A program attempts to generate as many permutations as possible of the string, 'abcd' by pushing the characters a,b,c,d in the same order onto a stack, but it may pop off the top character at any time. Which one of the following strings CANNOT be generated using this program?",
+      "topic": "Stack",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104253",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]O(\\log n)[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "O(n)"
+        },
+        {
+          "id": "C",
+          "text": "[latex]O (n \\log \\log n)[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]O(n \\log n)[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "An array of integers of size n can be converted into a heap by adjusting the heaps rooted at each internal node of the complete binary tree starting at the node [latex]\\left \\lfloor (n - 1) /2 \\right \\rfloor[/latex], and doing this adjustment up to the root node (root node is at index 0) in the order [latex]\\left \\lfloor (n - 1) /2 \\right \\rfloor[/latex],[latex]\\left \\lfloor (n - 3) /2 \\right \\rfloor[/latex], ....., 0. The time required to construct a heap in this manner is",
+      "topic": "Heap Tree",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104255",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]f(n) + g(n) = O(h(n) + h(n))[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]f(n) = O(h(n))[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]h(n) \\neq O(f(n))[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]f(n)h(n) \\neq O(g(n)h(n))[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Let f(n), g(n) and h(n) be functions defined for positive integers such that [latex]f(n) = O(g(n)), \\; g(n) \\neq O(f(n)), \\; g(n) = O(h(n)), \\text{ and  } h(n) = O(g(n)).[/latex] Which one of the following statements is FALSE?",
+      "topic": "Asymptotic Notation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104257",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P-II, Q-III, R-IV, S-I"
+        },
+        {
+          "id": "B",
+          "text": "P-IV, Q-III, R-I, S-II"
+        },
+        {
+          "id": "C",
+          "text": "P-III, Q-II, R-IV, S-I"
+        },
+        {
+          "id": "D",
+          "text": "P-IV, Q-II, R-I, S-III"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider a list of recursive algorithms and a list of recurrence relations as shown below. Each recurrence relation corresponds to exactly one algorithm and is used to derive the time complexity of the algorithm. [latex]\\begin{array}{|l|l|l|l|}\\hline \\text{} & \\textbf{Recursive Algorithm } & \\text{} & \\textbf{Recurrence Relation} \\\\\\hline \\text{P} & \\text{Binary search} & \\text{l.} & \\text{$T(n) = T(n-k) +T(k) +cn$} \\\\\\hline \\text{Q.} & \\text{Merge sort} &\\text{ll.} & \\text{$T(n) = 2T(n-1) + 1$ }\\\\\\hline\\text{R.} & \\text{Quick sort}& \\text{lll.} & \\text{$T(n) = 2T(n/2) + cn$}\\\\\\hline \\text{S.} & \\text{Tower of Hanoi} & \\text{lV.} & \\text{$T(n) = T(n/2) + 1$} \\\\\\hline \\end{array}[/latex] Which of the following is the correct match between the algorithms and their recurrence relations?",
+      "topic": "Recurrence Relation",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104258",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "for(j = 0; j < 4; ++j){\r\n     t = M[i][j];\r\n     M[i][j] = M[j][i];\r\n     M[j][i] = t;\r\n}"
+        },
+        {
+          "id": "B",
+          "text": "for(j = 0; j < 4; ++j){\r\n     M[i][j] = t;\r\n     t = M[j][i];\r\n     M[j][i] = M[i][j];\r\n}"
+        },
+        {
+          "id": "C",
+          "text": "for(j = i; j < 4; ++j){\r\n     t = M[i][j];\r\n     M[i][j] = M[j][i];\r\n     M[j][i] = t;\r\n}"
+        },
+        {
+          "id": "D",
+          "text": "for(j = i; j < 4; ++j){\r\n     M[i][j] = t;\r\n     t = M[j][i];\r\n     M[j][i] = M[i][j];\r\n}"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider the following C program which is supposed to compute the transpose of a given [latex]4 \\times 4[/latex] matrix M. Note that, there is an X in the program which indicates some missing statements. Choose the correct option to replace X in the program. #include <stdio.h>\n#define ROW 4\n#define COL 4\nint M[ROW][COL] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16};\nmain()\n{\n    int i, j, t;\n    for (i = 0; i < 4; ++i)\n    {\n        X\n    }\n    for (i = 0; i < 4; ++i)\n        for (j = 0; j < 4; ++j)\n            printf (\"%d\", M[i][j]);\n}",
+      "topic": "C Programming",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104259",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "43 80"
+        },
+        {
+          "id": "B",
+          "text": "42 74"
+        },
+        {
+          "id": "C",
+          "text": "33 37"
+        },
+        {
+          "id": "D",
+          "text": "32 32"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "What is the output of the following program? #include <stdio.h>\nint funcf (int x);\nint funcg (int y);\nmain ()\n{\n    int x = 5, y = 10, count;\n    for (count = 1; count <= 2; ++count) {\n        y += funcf(x) + funcg(x);\n        printf (\"%d\", y);\n    }\n}\nfuncf (int x) {\n    int y;\n    y = funcg(x);\n    return (y);\n}\nfuncg (int x) {\n    static int y = 10;\n    y += 1;\n    return (y + x);\n}",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104260",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "?1 is  getchar()!= '\\n' ?2 is  getchar(c);"
+        },
+        {
+          "id": "B",
+          "text": "?1 is  (c=getchar());!= '\\n' ?2 is  getchar(c);"
+        },
+        {
+          "id": "C",
+          "text": "?1 is  c!= '\\n' ?2 is  putchar(c);"
+        },
+        {
+          "id": "D",
+          "text": "?1 is  (c=getchar())!= '\\n' ?2 is  putchar(c);"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Choose the correct option to fill the ?1 and ?2 so that the program prints an input string in reverse order. Assume that the input string is terminated by a new line character. #include <stdio.h>\nvoid wrt_it (void);\nint main (void)\n{\n    printf(\"Enter Text\"); \n    printf (\"\\n\");\n    wrt_it();\n    printf (\"\\n\");\n    return 0;\n}\nvoid wrt_it (void)\n{\n    int c;\n    if (?1)\n        wrt_it();\n    ?2\n}",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104261",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "A  B U  V V  W V  W"
+        },
+        {
+          "id": "B",
+          "text": "A  B U  V A  B V  W"
+        },
+        {
+          "id": "C",
+          "text": "A  B U  V U  V V  W"
+        },
+        {
+          "id": "D",
+          "text": "A  B U  V V  W U  V"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider the following C program: #include <stdio.h>\ntypedef struct {\n    char *a;\n    char *b;\n    } t;\nvoid f1 (t s);\nvoid f2 (t *p);\nmain()\n{\n    static t s = {\"A\", \"B\"};\n    printf (\"%s %s\\n\", s.a, s.b);\n    f1(s);\n    printf (\"%s %s\\n\", s.a, s.b);\n    f2(&s);\n}\nvoid f1 (t s)\n{\n    s.a = \"U\";\n    s.b = \"V\";\n    printf (\"%s %s\\n\", s.a, s.b);\n    return;\n}\nvoid f2(t *p)\n{\n    p -> a  = \"V\";\n    p -> b = \"W\";\n    printf(\"%s %s\\n\", p -> a, p -> b);\n    return;\n} What is the output generated by the program ?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104262",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2 and 3"
+        },
+        {
+          "id": "B",
+          "text": "3 and 3"
+        },
+        {
+          "id": "C",
+          "text": "3 and 4"
+        },
+        {
+          "id": "D",
+          "text": "4 and 4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A disk has 200 tracks (numbered 0 through 199). At a given time, it was servicing the request of reading data from track 120, and at the previous request, service was for track 90. The pending requests (in order of their arrival) are for track numbers. 30 70 115 130 110 80 20 25. How many times will the head change its direction for the disk scheduling policies SSTF(Shortest Seek Time First) and FCFS (First Come First Serve)?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104263",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The scheme is deadlock-free, but not starvation-free"
+        },
+        {
+          "id": "B",
+          "text": "The scheme is not deadlock-free, but starvation-free"
+        },
+        {
+          "id": "C",
+          "text": "The scheme is neither deadlock-free nor starvation-free"
+        },
+        {
+          "id": "D",
+          "text": "The scheme is both deadlock-free and starvation-free"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In a certain operating system, deadlock prevention is attemped using the following scheme. Each process is assigned a unique timestamp, and is restarted with the same timestamp if killed. Let [latex]P_h[/latex] be the process holding a resource R, [latex]P_r[/latex] be a process requesting for the same resource R, and T([latex]P_h[/latex]) and T([latex]P_r[/latex]) be their timestamps respectively. The decision to wait or preempt one of the processes is based on the following algorithm. if T(Pr) < T(Ph) then \r\n    kill Pr \r\nelse wait Which one of the following is TRUE?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104264",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "n"
+        },
+        {
+          "id": "B",
+          "text": "((n(n + 1))/2)"
+        },
+        {
+          "id": "C",
+          "text": "[latex]2^n - 1[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]3^n - 1[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A process executes the following segment of code : for(i = 1; i <= n; i++)\r\n    fork (); The number of new processes created is",
+      "topic": "System Call",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104265",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "P(full), V(empty), P(full), V(empty)"
+        },
+        {
+          "id": "B",
+          "text": "P(full), V(empty), P(empty), V(full)"
+        },
+        {
+          "id": "C",
+          "text": "P(empty), V(full), P(empty), V(full)"
+        },
+        {
+          "id": "D",
+          "text": "P(empty), V(full), P(full), V(empty)"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "The semaphore variables full, empty and mutex are initialized to 0, n and 1, respectively. Process P1 repeatedly adds one item at a time to a buffer of size n, and process P2 repeatedly removes one item at a time from the same buffer using the programs given below. In the programs, K, L, M and N are unspecified statements. P1 while (1) {\n    K;\n    P(mutex);\n    Add an item to the buffer;\n    V(mutex);\n    L;\n} P2 while (1) {\n    M;\n    P(mutex);\n    Remove an item from the buffer;\n    V(mutex);\n    N;\n} The statements K, L, M and N are respectively",
+      "topic": "Process Synchronization",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104266",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "14"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In a virtual memory system, size of the virtual address is 32-bit, size of the physical address is 30-bit, page size is 4 Kbyte and size of each page table entry is 32-bit. The main memory is byte addressable. Which one of the following is the maximum number of bits that can be used for storing protection and other information in each page table entry?",
+      "topic": "Memory Management",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104267",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "512 MB"
+        },
+        {
+          "id": "B",
+          "text": "2 GB"
+        },
+        {
+          "id": "C",
+          "text": "8 GB"
+        },
+        {
+          "id": "D",
+          "text": "16 GB"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In a particular Unix OS, each data block is of size 1024 bytes, each node has 10 direct data block addresses and three additional addresses: one for single indirect block, one for double indirect block and one for triple indirect block. Also, each block can contain addresses for 128 blocks. Which one of the following is approximately the maximum size of a file in the file system?",
+      "topic": "Operating System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104268",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "18"
+        },
+        {
+          "id": "D",
+          "text": "30"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A software project involves execution of 5 tasks T1, T2, T3, T4 and T5 of duration 10, 15, 18, 30 and 40 days, respectively. T2 and T4 can start only after T1 completes. T3 can start after T2 completes. T5 can start only after both T3 and T4 complete. What is the slack time of the task T3 in days?",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104269",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider the following program module: int module1 (int x, int y) {\r\n    while (x! = y) {\r\n        if (x > y)\r\n             x = x - y,\r\n        else y = y - x;\r\n        }\r\n    return x;\r\n} What is Cyclomatic complexity of the above module?",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104270",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "40"
+        },
+        {
+          "id": "C",
+          "text": "160"
+        },
+        {
+          "id": "D",
+          "text": "320"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Assume that the delivered lines of code [latex]L[/latex] of a software is related to the effort [latex]E[/latex] in person months and duration [latex]t[/latex] in calendar months by the relation [latex]L P* (E/B)^{1/3} * t^{4/3}[/latex], where [latex]P[/latex] and [latex]B[/latex] are two constants for the software process and skills factor. For a software project, the effort was estimated to be 20 person months and the duration was estimated to be 8 months. However, the customer asked the project team to complete the software project in 4 months. What would be the required effort in person months?",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104271",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "50"
+        },
+        {
+          "id": "C",
+          "text": "200"
+        },
+        {
+          "id": "D",
+          "text": "250"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A software was tested using the error seeding strategy in which 20 errors were seeded in the code. When the code was tested using the complete test suite, 16 of the seeded errors were detected. The same test suite also detected 200 non-seeded errors. What is the estimated number of undetected errors in the code after this testing?",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104272",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1%"
+        },
+        {
+          "id": "B",
+          "text": "24%"
+        },
+        {
+          "id": "C",
+          "text": "99%"
+        },
+        {
+          "id": "D",
+          "text": "[latex]99.009\\%[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "What is the availability of a software with the following reliability figures? Mean Time Between Failure (MTBF) = 25 days Mean Time To Repair (MTTR) = 6 hours",
+      "topic": "Software Engg",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104274",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "0 row and 4 columns"
+        },
+        {
+          "id": "B",
+          "text": "3 rows and 4 columns"
+        },
+        {
+          "id": "C",
+          "text": "3 rows and 5 columns"
+        },
+        {
+          "id": "D",
+          "text": "6 rows and 5 columns"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A relational database contains two tables student and department in which student table has columns roll_no, name and dept_id and department table has columns dept_id and dept_name. The following insert statements were executed successfully to populate the empty tables: Insert into department values (1, 'Mathematics')\r\nInsert into department values (2, 'Physics')\r\nInsert into student values (l, 'Navin', 1)\r\nInsert into student values (2, 'Mukesh', 2)\r\nInsert into student values (3, 'Gita', 1) How many rows and columns will be retrieved by the following SQL statement? Select * from student, department",
+      "topic": "SQL",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104275",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1NF only"
+        },
+        {
+          "id": "B",
+          "text": "2NF and hence also in 1NF"
+        },
+        {
+          "id": "C",
+          "text": "3NF and hence also in 2NF and 1NF"
+        },
+        {
+          "id": "D",
+          "text": "BCNF and hence also in 3NF, 2NF and 1NF"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A relation Empdtl is defined with attributes empcode (unique), name, street, city, state and pincode. For any pincode, there is only one city and state. Also, for any given street, city and state, there is just one pincode. In normalization terms, Empdtl is a relation in",
+      "topic": "Normal Form",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104276",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "18.75"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "Null"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A table T1 in a relational database has the following rows and columns: [latex]\\begin{array}{|c|c|c|} \\hline \\text {Roll no. } & \\text {Marks} \\\\\\hline 1& 10 \\\\\\hline 2 & 20 \\\\\\hline3 & 30 \\\\\\hline 4 & \\text{NULL}\\\\\\hline \\end{array}[/latex] The following sequence of SQL statements was successfully executed on table T1. Update T1 set marks = marks + 5\r\nSelect avg(marks) from T1 What is the output of the select statement?",
+      "topic": "SQL",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104277",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "S  is serializable only as T1,T2"
+        },
+        {
+          "id": "B",
+          "text": "S is serializable only as T2,T1"
+        },
+        {
+          "id": "C",
+          "text": "S is serializable both as T1,T2 and T2,T1"
+        },
+        {
+          "id": "D",
+          "text": "S is not serializable either as T1,T2 or as T2,T1"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider the following schedule S of transactions T1 and T2: [latex]{\\begin{array}{l|l} \\textbf{T1}& \\textbf{T2} \\\\\\hline \\text{Read(A)} \\\\ \\text{A = A ? 10}\\\\ & \\text{Read(A) }\\\\ & \\text{Temp = 0.2*A} \\\\ & \\text{Write(A)} \\\\ & \\text{Read(B)} \\\\ \\text{Write(A)}\\\\ \\text{Read(B)}\\\\ \\text{B = B + 10}\\\\ \\text{Write(B)} \\\\ & \\text{B = B + Temp} \\\\ & \\text{Write(B)}\\\\ \\end{array}}[/latex] Which of the following is TRUE about the schedule S ?",
+      "topic": "Transaction",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104278",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both i and ii will fail"
+        },
+        {
+          "id": "B",
+          "text": "i will fail but ii will succeed"
+        },
+        {
+          "id": "C",
+          "text": "i will succeed but ii will fail"
+        },
+        {
+          "id": "D",
+          "text": "Both i and ii will succeed"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider two tables in a relational database with columns and rows as follows: [latex]\\overset{\\text{Table: Student}}{\\begin{array}{|c|c|c|} \\hline \\textbf {Roll\\_no} & \\textbf{Name} & \\textbf{Dept\\_id} \\\\\\hline 1& \\text{ABC} & 1\\\\\\hline 2& \\text{DEF} & 1 \\\\\\hline 3 & \\text{GHI} & 2\\\\\\hline 4 & \\text{JKL} & 3\\\\\\hline \\end{array}} \\qquad \\overset{\\text{Table: Department}}{\\begin{array}{|c|c|c|} \\hline \\textbf {Dept\\_id} & \\textbf{Dept\\_name} \\\\\\hline 1& \\text{A} \\\\\\hline 2& \\text{B} \\\\\\hline 3 & \\text{C} \\\\\\hline \\end{array}}[/latex] Roll_no is the primary key of the Student table, Dept_id is the primary key of the Department table and Student.Dept_id is a foreign key from Department.Dept_id What will happen if we try to execute the following two SQL statements? update Student set Dept_id = Null where Roll_on = 1 update Department set Dept_id = Null where Dept_id = 1",
+      "topic": "SQL",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104279",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "22"
+        },
+        {
+          "id": "C",
+          "text": "23"
+        },
+        {
+          "id": "D",
+          "text": "32"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider a table T in a relational database with a key field K. A B-tree of order p is used as an access structure on K, where p denotes the maximum number of tree pointers in a B-tree index node. Assume that K is 10 bytes long; disk block size is 512 bytes; each data pointer [latex]P_D[/latex] is 8 bytes long and each block pointer [latex]P_B[/latex] is 5 bytes long. In order for each B-tree node to fit in a single disk block, the maximum value of p is",
+      "topic": "File System",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104280",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]01101011[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]011010110[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]011101100[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]0110101100[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In a data link protocol, the frame delimiter flag is given by 0111. Assuming that bit stuffing is employed, the transmitter sends the data sequence 01110110 as",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104281",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "min (M, N)"
+        },
+        {
+          "id": "B",
+          "text": "max (M, N)"
+        },
+        {
+          "id": "C",
+          "text": "M + N"
+        },
+        {
+          "id": "D",
+          "text": "MN"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In a sliding window ARQ scheme, the transmitter's window size is N and the receiver's window size is M. The minimum number of distinct sequence numbers required to ensure correct operation of the ARQ scheme is",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104282",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1 Mbps"
+        },
+        {
+          "id": "B",
+          "text": "2 Mbps"
+        },
+        {
+          "id": "C",
+          "text": "5 Mbps"
+        },
+        {
+          "id": "D",
+          "text": "6 Mbps"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider a 10 Mbps token ring LAN with a ring latency of 400[latex]\\mu s[/latex]. A host that needs to transmit seizes the token. Then it sends a frame of 1000 bytes, removes the frame after it has circulated all around the ring, and finally releases the token. This process is repeated for every frame. Assuming that only a single host wishes to transmit, the effective data rate is",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104283",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5 Kbps"
+        },
+        {
+          "id": "B",
+          "text": "10 Kbps"
+        },
+        {
+          "id": "C",
+          "text": "15 Kbps"
+        },
+        {
+          "id": "D",
+          "text": "20 Kbps"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A 20 Kbps satellite link has a propagation delay of 400 ms. The transmitter employs the \"go back n ARQ\" scheme with n set to 10. Assuming that each frame is 100 byte long, what is the maximum data rate possible?",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104284",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "I and III"
+        },
+        {
+          "id": "B",
+          "text": "I, II and III"
+        },
+        {
+          "id": "C",
+          "text": "II and IV"
+        },
+        {
+          "id": "D",
+          "text": "I, II, III and IV"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider a parity check code with three data bits and four parity check bits. Three of the Code Words are 0101011,1001101 and 1110001. Which of the following are also code words? I.   0010111 II.  0110110 III. 1011010 IV.  0111010",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104285",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Consider a simplified time slotted MAC protocol, where each host always has data to send and transmits with probability p = 0.2 in every slot. There is no backoff and one frame can be transmitted in one slot. If more than one host transmits in the same slot, then the transmissions are unsuccessful due to collision. What is the maximum number of hosts which this protocol can support if each host has to be provided a minimum throughput of 0.16 frames per time slot?",
+      "topic": "Data Link Layer",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104286",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Fragment Offset"
+        },
+        {
+          "id": "B",
+          "text": "Source IP address"
+        },
+        {
+          "id": "C",
+          "text": "Destination IP address"
+        },
+        {
+          "id": "D",
+          "text": "Destination port number"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "In the TCP/IP protocol suite, which one of the following is NOT part of the IP header?",
+      "topic": "Network Layer Protocol",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104287",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "40 bytes"
+        },
+        {
+          "id": "B",
+          "text": "80 bytes"
+        },
+        {
+          "id": "C",
+          "text": "120 bytes"
+        },
+        {
+          "id": "D",
+          "text": "160 bytes"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "A TCP message consisting of 2100  bytes is passed to IP for delivery across two networks. The first network can carry a maximum payload of 1200 bytes per frame and the second network can carry a maximum payload of 400 bytes per frame, excluding network overhead. Assume that IP overhead per packet is 20 bytes. What is the total IP overhead in the second network for this transmission?",
+      "topic": "Transport Layer Protocol",
+      "type": "MCQ",
+      "year": 2004
+    },
+    {
+      "branch": "IT",
+      "id": "1104288",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4000 bytes"
+        },
+        {
+          "id": "B",
+          "text": "8000 bytes"
+        },
+        {
+          "id": "C",
+          "text": "10000 bytes"
+        },
+        {
+          "id": "D",
+          "text": "12000 bytes"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Information Technology (historical source label)",
+      "text": "Suppose that the maximum transmit window size for a TCP connection is 12000 bytes. Each packet consists of 2000 bytes. At some point in time, the connection is in slow-start phase with a current transmit window of 4000 bytes. Subsequently, the transmitter receives two acknowledgments. Assume that no packets are lost and there are no time-outs. What is the maximum possible value of the current transmit window?",
+      "topic": "Transport Layer Protocol",
+      "type": "MCQ",
+      "year": 2004
+    }
+  ],
+  "schema_version": 1
+}

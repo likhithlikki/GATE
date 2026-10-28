@@ -1,0 +1,718 @@
+{
+  "questions": [
+    {
+      "branch": "CS",
+      "id": "1100401",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]AB + \\bar {A}\\bar B[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]\\bar{A}B+A\\bar{B}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "B"
+        },
+        {
+          "id": "D",
+          "text": "[latex]\\bar{A}[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The Boolean expression [latex]A \\oplus B \\oplus A[/latex] is equivalent to",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100405",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "2 microseconds"
+        },
+        {
+          "id": "B",
+          "text": "2 milliseconds."
+        },
+        {
+          "id": "C",
+          "text": "50 milli seconds"
+        },
+        {
+          "id": "D",
+          "text": "500 milliseconds"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The refreshing rate of dynamic RAMs is in the range of",
+      "topic": "Memory Chip Design",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100406",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "5K bits/sec"
+        },
+        {
+          "id": "B",
+          "text": "50K bits/sec"
+        },
+        {
+          "id": "C",
+          "text": "500K bits/sec"
+        },
+        {
+          "id": "D",
+          "text": "5000K bits/sec"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The data transfer rate of a double-density floppy disk system is about:",
+      "topic": "Secondary Storage",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100407",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The code generator."
+        },
+        {
+          "id": "B",
+          "text": "The code optimiser."
+        },
+        {
+          "id": "C",
+          "text": "The lexical analyser."
+        },
+        {
+          "id": "D",
+          "text": "The syntax analyser."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In a compiler the module that checks every character of the source text is called:",
+      "topic": "Lexical Analysis",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100408",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The grammar contains useless non-terminals."
+        },
+        {
+          "id": "B",
+          "text": "It produces more than one parse tree for some sentence."
+        },
+        {
+          "id": "C",
+          "text": "Some production has two non terminals side by side on the right-hand side."
+        },
+        {
+          "id": "D",
+          "text": "None of the above."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A context-free grammar is ambiguous if:",
+      "topic": "Theory of Computation",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100410",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Bottom-up parser."
+        },
+        {
+          "id": "B",
+          "text": "Top-down parser."
+        },
+        {
+          "id": "C",
+          "text": "Back tracking parser."
+        },
+        {
+          "id": "D",
+          "text": "None of the above."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "An operator precedence parser is a",
+      "topic": "Parsing",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100411",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "One pointer."
+        },
+        {
+          "id": "B",
+          "text": "Two pointers."
+        },
+        {
+          "id": "C",
+          "text": "Multiple pointers."
+        },
+        {
+          "id": "D",
+          "text": "No pointer."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "In a circular linked list oraganisation, insertion of a record involves modification of",
+      "topic": "Link List",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100412",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "One which is enclosed by a pair of P and V operations on semaphores."
+        },
+        {
+          "id": "B",
+          "text": "A program segment that has not been proved bug-free."
+        },
+        {
+          "id": "C",
+          "text": "A program segment that often causes unexpected system crashes."
+        },
+        {
+          "id": "D",
+          "text": "A program segment where shared resources are accessed."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A critical region is",
+      "topic": "Process Synchronization",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100413",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]t_{1} = t_{2}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]t_{1} \\gt t_{2}[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]t_{1} \\lt t_{2}[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]t_{1}=t_{2}+5 \\log 5[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Let P be a quicksort program to sort numbers in ascending order. Let [latex]t_{1}[/latex] and [latex]t_{2}[/latex] be the time taken by the program for the inputs [latex]\\left[1 \\ 2 \\ 3 \\ 4\\right][/latex] and [latex]\\left[5 \\ 4 \\ 3 \\ 2 \\ 1\\right][/latex], respectively. Which of the following holds?",
+      "topic": "Sorting",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100414",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 6"
+        },
+        {
+          "id": "B",
+          "text": "6, 7"
+        },
+        {
+          "id": "C",
+          "text": "3, 7"
+        },
+        {
+          "id": "D",
+          "text": "None of the above."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Study the following program written in a block-structured language: Var x, y:integer; \nprocedure P(n:integer);\nbegin\n     x:=(n+2)/(n-3);\nend;\n\nprocedure Q \nVar x, y:integer;\nbegin   \n    x:=3;\n    y:=4; \n    P(y);\n    Write(x)          __(1)\nend;\n \nbegin\n    x:=7;\n    y:=8;\n    Q; \nWrite(x);             __(2) \nend. What will be printed by the write statements marked (1) and (2) in the program if the variables are statically scoped?",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100415",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "3, 6"
+        },
+        {
+          "id": "B",
+          "text": "6, 7"
+        },
+        {
+          "id": "C",
+          "text": "3, 7"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "For the program given below what will be printed by the write statements marked (1) and (2) in the program if the variables are dynamically scoped? Var x, y:integer; \nprocedure P(n:integer);\nbegin\n     x := (n+2)/(n-3);\nend;\n\nprocedure Q \nVar x, y:integer;\nbegin   \n    x:=3;\n    y:=4; \n    P(y);\n    Write(x);           __(1)\nend;\n \nbegin\n    x:=7;\n    y:=8;\n    Q; \n    Write(x);           __(2)\nend.",
+      "topic": "Function",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100416",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "[latex]ax+bcy=0[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "[latex]ax^{2}+cy^{2}=21[/latex]"
+        },
+        {
+          "id": "C",
+          "text": "[latex]abx+a^{2}y \\geq 15[/latex]"
+        },
+        {
+          "id": "D",
+          "text": "[latex]xy+ax \\geq 20[/latex]"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If a, b, and c are constants, which of the following is a linear inequality?",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100417",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "All complex roots"
+        },
+        {
+          "id": "B",
+          "text": "At least one real root"
+        },
+        {
+          "id": "C",
+          "text": "Four pairs of imaginary roots"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The equation [latex]7x^{7}+14x^{6}+12x^{5}+3x^{4}+12x^{3}+10x^{2}+5x+7=0 [/latex] has",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100418",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The rows are linearly independent"
+        },
+        {
+          "id": "B",
+          "text": "The columns are linearly independent"
+        },
+        {
+          "id": "C",
+          "text": "The row are linearly dependent"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A square matrix is singular whenever",
+      "topic": "Linear Algebra",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100419",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It is simple."
+        },
+        {
+          "id": "B",
+          "text": "It is based on the theory of algebraic complexes."
+        },
+        {
+          "id": "C",
+          "text": "The simple pendulum works on this method."
+        },
+        {
+          "id": "D",
+          "text": "No one thought of a better name."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The simplex method is so named because",
+      "topic": "Numerical Method",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100420",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "It converges always under all circumstances."
+        },
+        {
+          "id": "B",
+          "text": "It does not converge to a tool where the second differential coefficient changes sign."
+        },
+        {
+          "id": "C",
+          "text": "It does not converge to a root where the second differential coefficient vanishes."
+        },
+        {
+          "id": "D",
+          "text": "None of the above."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Which of the following statements is true in respect of the convergence of the Newton-Rephson procedure?",
+      "topic": "Numerical Method",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100421",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "There must be a root of f(x) between [latex]x_i[/latex] and [latex]x_{i+1}[/latex]"
+        },
+        {
+          "id": "B",
+          "text": "There need not be a root of f(x) between [latex]x_{i}[/latex] and [latex]x_{i+1}[/latex]."
+        },
+        {
+          "id": "C",
+          "text": "There fourth derivative of f(x) with respect to x vanishes at [latex]x_{i}[/latex]."
+        },
+        {
+          "id": "D",
+          "text": "The fourth derivative of f(x) with respect to x vanishes at [latex]x_{i+1}[/latex]."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "If [latex]f(x_{i}).f(x_{i+1}) \\lt 0[/latex] then",
+      "topic": "Functions",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100422",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "is faster than a hardwired control unit"
+        },
+        {
+          "id": "B",
+          "text": "facilitates easy implementation of new instructions"
+        },
+        {
+          "id": "C",
+          "text": "is useful when very small programs are to be run"
+        },
+        {
+          "id": "D",
+          "text": "usually refers to control unit of a microprocessor"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "Microprogrammed control unit:",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100423",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "17"
+        },
+        {
+          "id": "C",
+          "text": "256"
+        },
+        {
+          "id": "D",
+          "text": "65, 536"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The total number of Boolean functions which can be realised with four variables is:",
+      "topic": "Digital Logic",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100426",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Direct mode"
+        },
+        {
+          "id": "B",
+          "text": "Indirect mode"
+        },
+        {
+          "id": "C",
+          "text": "Relative mode"
+        },
+        {
+          "id": "D",
+          "text": "Indexed mode"
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The most relevant addressing mode to write position-independent codes is:",
+      "topic": "Machine Instruction",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100427",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Is faster than a hard-wired control unit."
+        },
+        {
+          "id": "B",
+          "text": "Facilitates easy implementation of new instruction."
+        },
+        {
+          "id": "C",
+          "text": "Is useful when very small programs are to be run."
+        },
+        {
+          "id": "D",
+          "text": "Usually refers to the control unit of a microprocessor."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "A microprogrammed control unit",
+      "topic": "Computer Organization",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100428",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "The dynamic range is large."
+        },
+        {
+          "id": "B",
+          "text": "The precision is high."
+        },
+        {
+          "id": "C",
+          "text": "The smallest number is represented by all zeros."
+        },
+        {
+          "id": "D",
+          "text": "Overflow is avoided."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "The exponent of a floating-point number is represented in excess-N code so that:",
+      "topic": "Number System",
+      "type": "MCQ",
+      "year": 1987
+    },
+    {
+      "branch": "CS",
+      "id": "1100429",
+      "marks": 1,
+      "options": [
+        {
+          "id": "A",
+          "text": "Halts for a predetermined time."
+        },
+        {
+          "id": "B",
+          "text": "Hands over control of address bus and data bus to the interrupting device."
+        },
+        {
+          "id": "C",
+          "text": "Branches off to the interrupt service routine immediately."
+        },
+        {
+          "id": "D",
+          "text": "Branches off to the interrupt service routine after completion of the current instruction."
+        }
+      ],
+      "source": {
+        "name": "practicepaper.in"
+      },
+      "subject": "Computer Science and Information Technology",
+      "text": "On receiving an interrupt from a I/O device the CPU:",
+      "topic": "Interrupt",
+      "type": "MCQ",
+      "year": 1987
+    }
+  ],
+  "schema_version": 1
+}
